@@ -1,7 +1,8 @@
-layout: post
+---
+layout: page
 title: "读书笔记"
-date: 2026-02-24 20:22:41 -0000
-categories: book_notes
+permalink: /books/
+---
 
 我从2021年开始读书，每读完一本书我都会写上一篇读书笔记，此处是我读书笔记按年汇总处。
 
