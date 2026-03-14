@@ -1,0 +1,4 @@
+scripts/.migrate_done
+__pycache__/
+.pytest_cache/
+*.pyc

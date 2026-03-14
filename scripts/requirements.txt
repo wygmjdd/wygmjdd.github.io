@@ -3,3 +3,4 @@ beautifulsoup4>=4.11.0
 html2text>=2020.1.16
 pypinyin>=0.50.0
 playwright>=1.40.0
+PyYAML>=6.0
