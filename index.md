@@ -51,6 +51,8 @@ layout: default
 
 - [读书笔记]({{ "/books/" | relative_url }}) — 按年汇总的读书笔记
 - [成长之路]({{ "/road/" | relative_url }}) — 写公众号历程与成长记录
+- [按时间归档]({{ "/archive/" | relative_url }}) — 按年、月浏览文章
+- [按类型]({{ "/category/" | relative_url }}) — 按专辑/类型浏览文章
 
 ---
 
