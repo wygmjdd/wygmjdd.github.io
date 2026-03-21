@@ -32,8 +32,8 @@ jobs:
           hugo-version: "0.158.0"
           extended: true
 
-      - name: Download Hugo modules
-        run: hugo mod download
+      - name: Resolve Hugo modules
+        run: hugo mod get
 
       - name: Build
         run: hugo --minify --gc --buildFuture
