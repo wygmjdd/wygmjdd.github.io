@@ -2,7 +2,7 @@
 
 import pytest
 
-from fetch_article import fetch_article
+from fetch_article import _parse_chinese_date, fetch_article
 
 # Minimal WeChat-like HTML: title in og:title, date in meta or script, body in #js_content
 FIXTURE_HTML = """
@@ -65,3 +65,9 @@ def test_fetch_article_extracts_or_defaults_date(monkeypatch):
         assert date_val.year in (2024, 2026)
     else:
         assert isinstance(date_val, str) and len(date_val) >= 8
+
+
+def test_parse_chinese_date():
+    assert _parse_chinese_date("2026年2月27日 09:15") == "2026-02-27"
+    assert _parse_chinese_date("2024年12月1日") == "2024-12-01"
+    assert _parse_chinese_date("no date here") is None

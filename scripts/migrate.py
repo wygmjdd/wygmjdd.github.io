@@ -15,8 +15,9 @@ import yaml
 
 # Run from repo root or scripts/; repo root = parent of scripts/ or cwd
 REPO_ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = REPO_ROOT / "_data"
-POSTS_DIR = REPO_ROOT / "_posts"
+LEGACY_JEKYLL = REPO_ROOT / "_archive" / "legacy-jekyll"
+DATA_DIR = LEGACY_JEKYLL / "_data"
+POSTS_DIR = LEGACY_JEKYLL / "_posts"
 DONE_FILE = REPO_ROOT / "scripts" / ".migrate_done"
 
 

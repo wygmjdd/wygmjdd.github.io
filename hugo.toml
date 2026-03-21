@@ -1,0 +1,23 @@
+baseURL = "https://wygmjdd.github.io/"
+defaultContentLanguage = "zh-cn"
+languageCode = "zh-cn"
+title = "我要改名叫嘟嘟"
+
+disableKinds = ["taxonomy"]
+
+# Jekyll posts use placeholder dates (e.g. 2033); include them until real dates are set.
+buildFuture = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+description = "一个学做菜，用文字分享生活与读书感悟的AI程序员。"
+BookTheme = "auto"
+BookSection = "docs"
+BookSearch = true
+BookToC = true
+
+[module]
+[[module.imports]]
+path = "github.com/alex-shpak/hugo-book"

@@ -4,7 +4,7 @@ If `parse_album` fails for an album (e.g. WeChat page structure changed), you ca
 
 ## Format
 
-Create a YAML file (e.g. `_data/wechat_manual_article_urls.yml` or `scripts/manual_article_urls.yml`) keyed by **album slug** (same slug as in `_data/wechat_albums.yml`). Each value is a list of article URLs.
+Create a YAML file (e.g. `_archive/legacy-jekyll/_data/wechat_manual_article_urls.yml` or `scripts/manual_article_urls.yml`) keyed by **album slug** (same slug as in `_archive/legacy-jekyll/_data/wechat_albums.yml`). Each value is a list of article URLs.
 
 Example:
 

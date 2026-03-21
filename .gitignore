@@ -2,3 +2,8 @@ scripts/.migrate_done
 __pycache__/
 .pytest_cache/
 *.pyc
+/public/
+/resources/_gen/
+.hugo_build.lock
+/_vendor/
+/_archive/

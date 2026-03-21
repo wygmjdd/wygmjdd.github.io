@@ -1,0 +1,23 @@
+- path: /Users/ljj/learn/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-07-01-post-2.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487569&amp;idx=1&amp;sn=9e690fe2267c8eb72c591db095d4e829&amp;chksm=a6c77cbc91b0f5aa8d56e566a000266ac33ef87952217d32d31e44a83671a9444ef6d66e1eb3
+  reason: 'fetch_error: Empty title/body after fetch.'
+- path: /Users/ljj/learn/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-07-01-post-2.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487569&amp;idx=1&amp;sn=9e690fe2267c8eb72c591db095d4e829&amp;chksm=a6c77cbc91b0f5aa8d56e566a000266ac33ef87952217d32d31e44a83671a9444ef6d66e1eb3
+  reason: 'fetch_error: Empty title/body after fetch.'
+- path: /Users/ljj/learn/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-07-01-post-2.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487569&idx=1&sn=9e690fe2267c8eb72c591db095d4e829&chksm=a6c77cbc91b0f5aa8d56e566a000266ac33ef87952217d32d31e44a83671a9444ef6d66e1eb3
+  reason: 'fetch_error: Empty title/body after fetch.'
+- path: _archive/legacy-jekyll/_posts/2033-07-01-post-124.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485918&idx=1&sn=6e7c2dd44d6e8442e1d9dd5850017899&chksm=a6c7653391b0ec253aec45df705ce60192351ab762992009455c8dae12f7d917b31c411f39e1
+  reason: "fetch_error: WeChat page needs JavaScript to render content. Request with\
+    \ browser failed: Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n\
+    \  - waiting for locator(\"#js_content\") to be visible\n    - waiting for\" https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485918&idx=1&sn=6e7c2dd44d6e8442e1d9dd5850017899&chksm=a6c7653391b0ec253aec45df705ce60192351ab762992009455c8dae12f7d917b31c411f39e1&poc_token…\"\
+    \ navigation to finish...\n    - navigated to \"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HB5JuWmjwzFsXGYjjYftZf3tBOrb1esLStiNS3up&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247485918%26i…\"\
+    \n. Install Playwright browsers: pip install playwright && playwright install"
+- path: _archive/legacy-jekyll/_posts/2033-07-01-post-196.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483913&idx=1&sn=545b24948cea931dd779196f36309d00&chksm=a6c76ee491b0e7f2e294554ff6bde5ab61facca67ac1cff4e2cb14327da492b83384a69e5ce9
+  reason: "fetch_error: WeChat page needs JavaScript to render content. Request with\
+    \ browser failed: Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n\
+    \  - waiting for locator(\"#js_content\") to be visible\n    - waiting for\" https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483913&idx=1&sn=545b24948cea931dd779196f36309d00&chksm=a6c76ee491b0e7f2e294554ff6bde5ab61facca67ac1cff4e2cb14327da492b83384a69e5ce9&poc_token…\"\
+    \ navigation to finish...\n    - navigated to \"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGlOuWmjc1oUlIPLn03_a8AIBnyixihcpuUhAq2H&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247483913%26i…\"\
+    \n. Install Playwright browsers: pip install playwright && playwright install"
