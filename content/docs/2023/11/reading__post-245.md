@@ -5,7 +5,6 @@ weight: 281790245
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485792&idx=1&sn=06c5b520ddb1b853848317e40beaf709&chksm=a6c7658d91b0ec9b947d60a40fe096c93066ab0667a05c8aef513dc7d2a79c1f1cf0d11dda21
 ---
-
 最近每天都会阅读至少10分钟的书有《津巴多普通心理学》，这两周正阅读的章节是“记忆”。阅读过程中，总是有冲动将“记忆”相关内容整理成一篇更新，用书中所说的“精细复述”来将“记忆”相关知识变成属于自己的“长期记忆”。
 
 于是周日打完篮球后的夜晚，吃过晚饭洗过澡，躺在床上什么都不想，一口气给自己提7个问题。
@@ -101,7 +100,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485792&idx=
 
 “精细复述”是书中提过多次的概念，本篇更新来源于书中的“精细复述”——将学到的知识用自己的语言描述一遍便可以加深对该知识的记忆。
 
-以上。  
-
-
-↓↓↓欢迎关注
+以上。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485792&amp;idx=1&amp;sn=06c5b520ddb1b853848317e40beaf709&amp;chksm=a6c7658d91b0ec9b947d60a40fe096c93066ab0667a05c8aef513dc7d2a79c1f1cf0d11dda21" rel="noopener noreferrer">原文链接</a>）</small>

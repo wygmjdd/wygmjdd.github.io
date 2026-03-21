@@ -5,7 +5,6 @@ weight: 278280050
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486528&idx=1&sn=9a3acbf0c70aadcf41eea81ed35fe7dc&chksm=a6c760ad91b0e9bb5533b2496c6cfa6b25ee4c2292f025fdff9b0f80bfd2bd5576c2b3a410e0
 ---
-
 阿妮去年，给我买了6双袜子，正版的李宁，大概十几块钱一双。我很喜欢这些袜子，也就很珍惜它们，我只在那些感觉心情特好的天穿它们，比如爬山的周末。这些袜子，比较长也比较紧，它们紧紧贴着小腿的感觉，很舒服。时隔一年，它们已然从白袜子变做灰袜子，但紧度依旧。今天，我穿其中一双，那种紧紧包裹感受，让我感觉到一种自信。（这6双袜子，现在还有一半是全新的，攒在柜子里。）
 
 我脚上穿的鞋子，是一双黑色亚瑟士，大概买于四年前，当我那双红色鞋子即将退役时候。前些天日记中，我说自己很富有，我并不吹牛，我是真很富有的，除袜子之外，我还有一双两双三双四双五双……好多双鞋轮着穿。由此，这穿了四年的鞋，现在还只有右脚小指后方即将出现一个破洞。这双鞋，依然合脚好穿。
@@ -69,6 +68,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486528&idx=
 
 \--
 
-到此处，50分钟2000字。时间已经到晚上的11点24分，还是不逼自己日更啦。
-
-↓↓↓欢迎关注
+到此处，50分钟2000字。时间已经到晚上的11点24分，还是不逼自己日更啦。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486528&amp;idx=1&amp;sn=9a3acbf0c70aadcf41eea81ed35fe7dc&amp;chksm=a6c760ad91b0e9bb5533b2496c6cfa6b25ee4c2292f025fdff9b0f80bfd2bd5576c2b3a410e0" rel="noopener noreferrer">原文链接</a>）</small>

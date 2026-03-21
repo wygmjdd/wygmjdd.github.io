@@ -5,7 +5,6 @@ weight: 290060265
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484213&idx=3&sn=93b4a8655706dcfee501d3737fae6c4c&chksm=a6c76fd891b0e6cefd4def0fe6fd301613f0de1f978b720f39e9b90d86bb2078f52be20e6795
 ---
-
 ## FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE
 
 与人交流的3个基本规则：
@@ -91,17 +90,11 @@ A leader’s job often includes changing your people’s attitudes and behaviour
 
   8. Use encouragement. Make the fault seem easy to correct. （鼓励！让错误看起来很容易纠正）
 
-  9. Make the other person happy about doing the thing you suggest. （让别人开心的完成，你建议的事情）
+  9. Make the other person happy about doing the thing you suggest. （让别人开心的完成，你建议的事情） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484213&amp;idx=3&amp;sn=93b4a8655706dcfee501d3737fae6c4c&amp;chksm=a6c76fd891b0e6cefd4def0fe6fd301613f0de1f978b720f39e9b90d86bb2078f52be20e6795" rel="noopener noreferrer">原文链接</a>）</small>
 
 
 
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓关注我，这里有读书分享↓↓↓

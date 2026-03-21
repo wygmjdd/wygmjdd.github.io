@@ -5,7 +5,6 @@ weight: 287330255
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484731&idx=1&sn=13d2ff7be16625e69b8c03a2eb665c99&chksm=a6c769d691b0e0c044b2e43e80bae339ad2d159258273472043a6b24c6d93cd0cebcaed3309f
 ---
-
 [结婚](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484666&idx=1&sn=dad495797f42447201240ddea7c6ddee&chksm=a6c7681791b0e101bd608f9d00d5dc311a5a08d6ff1c91064a106ae12bcc69b779baeb4cd1fe&scene=21#wechat_redirect)、[在家办公](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484680&idx=1&sn=dd72b4cea7f2672f1950dda46a847808&chksm=a6c769e591b0e0f39ce0d4928d472c3bd766d3fa2e88af42a0971771362f31b83062d75b5ebb&scene=21#wechat_redirect)，前后两三个月的时间，算是一直没有读《沈从文文集》的，打开这套书的次数，并不超过5次。四月回到深圳，上班地铁上，才重新漫行在沈先生笔下的世界。
 
 近来连着看完《记胡也频》与《从文自传》，阅读时刻，心中充满愉悦、感激与充实，总忍不住的想表达一些什么。（我最初的想法是读完整套书之后，再憋出一篇“读《沈从文文集》下”的。）
@@ -34,14 +33,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484731&idx=
 
 与阿妮分享最近看书经历，我说我被沈先生的文字感动。阿妮问感动原因，我愣神半天，似乎并不能给予一个准确答复，只说带给我感动的是“文字下的简单、淳朴生活”。
 
-第二天，在《湘行散记》中再见到沈先生想要磨炼成读书人的“小豹子”。他让我想起，我所感动的，是二爹、幺姨们，为生活，跑遍大江南北。
+第二天，在《湘行散记》中再见到沈先生想要磨炼成读书人的“小豹子”。他让我想起，我所感动的，是二爹、幺姨们，为生活，跑遍大江南北。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484731&amp;idx=1&amp;sn=13d2ff7be16625e69b8c03a2eb665c99&amp;chksm=a6c769d691b0e0c044b2e43e80bae339ad2d159258273472043a6b24c6d93cd0cebcaed3309f" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓ 一个学做菜、用文字分享生活的程序员

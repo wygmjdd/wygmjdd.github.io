@@ -5,7 +5,6 @@ weight: 275290021
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487078&idx=1&sn=64c9984ef52891bf8a0b1564fc7264ba&chksm=a6c7628b91b0eb9ddb226ceb685a1e219b30c46bd11947d48c1ba70d5c76d5d3574c06b4dc91
 ---
-
 由于身体原因，三个帅的[篮球单挑](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486125&idx=1&sn=c9d4f756f09f02419c67620227fd5f74&scene=21#wechat_redirect)，已经歇业4个月，比分定格在“大比分宝帅8龙帅8花生5，小比分花生4龙帅0龙帅球权”。上次三人聚在一起，是4个月之前事情，三个帅之间的联系，只是群里偶尔的聊天。
 
 宝帅约铁山坪吹风打牌，我要加班只能饭点到位，花生有事下午不能成行。
@@ -121,6 +120,4 @@ KTV有三个话筒。
 
 \--
 
-久不晚睡的我依然在7点醒来，试着听书养神但做不到专注，于是将昨天下班后的部分场景，搬运至此。
-
-↓↓↓欢迎关注
+久不晚睡的我依然在7点醒来，试着听书养神但做不到专注，于是将昨天下班后的部分场景，搬运至此。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487078&amp;idx=1&amp;sn=64c9984ef52891bf8a0b1564fc7264ba&amp;chksm=a6c7628b91b0eb9ddb226ceb685a1e219b30c46bd11947d48c1ba70d5c76d5d3574c06b4dc91" rel="noopener noreferrer">原文链接</a>）</small>

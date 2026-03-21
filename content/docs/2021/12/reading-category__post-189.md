@@ -5,7 +5,6 @@ weight: 288730189
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484452&idx=1&sn=50c9b4ea653523fa69c6228d89caec7d&chksm=a6c768c991b0e1df0f9657ede03a3884ff0a526ae9d6974eafeff120083c2c121d147a87ce00
 ---
-
 2021年4月24日，刚刚读完《How to Win Friends and Influence People》，我便迫不及待地拿起了《Why We Sleep》。去年夏天的一段时间，一个选择困扰着我，导致每天晚上闭眼之后都要花好长的时间才能睡着。度过那个阶段之后，我便想着搞清楚为什么我睡不着，想要知道如何才能更快地入睡。我找到了《Why We Sleep》，将它加入阅读计划。
 
 这是我读完的第三本英文书，选择英文版是为了持续推动英文的进步。相较上一本，本书许多的长句结合许多的专业词汇，我看的磕磕绊绊，时不时拿出词典进行翻译。每天阅读至少10分钟，到2021年11月30日，历时8个多月，终于读完。
@@ -87,14 +86,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484452&idx=
 
 这个新疗法被医生们宣传，每次去体检（或者不舒服后去看医生），医生们都会将这个疗法传授给我，它就是——**早点睡，保证睡眠充足** ！现在，我对这新疗法认识的更多，将其进行分享。
 
-愿我们，每天都能睡一个好觉，做一个美梦！
+愿我们，每天都能睡一个好觉，做一个美梦！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484452&amp;idx=1&amp;sn=50c9b4ea653523fa69c6228d89caec7d&amp;chksm=a6c768c991b0e1df0f9657ede03a3884ff0a526ae9d6974eafeff120083c2c121d147a87ce00" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓关注一个持续阅读的程序员↓↓↓

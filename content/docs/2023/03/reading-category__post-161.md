@@ -5,7 +5,6 @@ weight: 284240161
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485376&idx=1&sn=73a55563bfc591b9c5fc819eaa607dd4&chksm=a6c76b2d91b0e23b7a40a1ae43a2a7ccf952dc4b1bb186b6c1ed234ef7dfbad856c317ed979d
 ---
-
 我已经不记得将《天才假象》加入书单的原因是什么，只是就这样读了下来。书并不长，只14.5万字。读本书，我全使用碎片时间，读完耗时6小时多一点。
 
 本书的阐述方式并不复杂：先提出观点，再举例说明，最后做出总结。书中示例，很多都是听说过的名人事迹，所以本书，读来是轻松的。
@@ -38,6 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485376&idx=
 
 “《天才假象》告诉你，只要肯努力，用对训练方法，几乎所有人都能拥有好成绩。
 
-“技能无关天赋。请就热爱的事，用心爱下去。”
-
-↓↓↓欢迎关注
+“技能无关天赋。请就热爱的事，用心爱下去。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485376&amp;idx=1&amp;sn=73a55563bfc591b9c5fc819eaa607dd4&amp;chksm=a6c76b2d91b0e23b7a40a1ae43a2a7ccf952dc4b1bb186b6c1ed234ef7dfbad856c317ed979d" rel="noopener noreferrer">原文链接</a>）</small>

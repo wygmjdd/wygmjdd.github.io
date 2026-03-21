@@ -5,7 +5,6 @@ weight: 277530060
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486701&idx=1&sn=36300d05181018a5037f596b9b99b46f&chksm=a6c7600091b0e916b975a1f63e75bc5f03164b794185f834a8759ee4dd46beca67bb6873cc7c
 ---
-
 我在2024年的读书，被拆分为两个部分：用眼睛看，以及用耳朵听，眼睛看书大概333小时，耳朵听书则有261小时。如果以眼睛看书时长作为评价标准的话，我在2024的阅读相较[2023](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485960&idx=1&sn=35ed68c5cabbc4c08cbaf7933f32e5fe&scene=21#wechat_redirect)甚至[刚刚养成读书习惯的2022](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485256&idx=1&sn=440b39fbb9951581cb741e63a4af2a81&scene=21#wechat_redirect)，都是很有些退步的。
 
 我有试着想一想自己读书时长变短的缘由，我想不出来，脑子里是浆糊一团，我唯一能够确定的只是一点：对于听书，我不再有抵触情绪，我在开车时听书、洗漱时听书、做饭时听书、散步时听书，总之，许多眼睛不空脑子够用的独处时刻，我都给自己一些听书任务。听得多，自然就看得少了。
@@ -100,6 +99,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486701&idx=
 
 现在时间是周日晚间的10点37分，一个新的巧合在此处发生：我还没用一段话“回忆”的读完书籍，剩下13本，刚好是24年读完书籍的一半。我决定在此处，允许自己偷懒。
 
-剩下的内容，下一篇更新见。
-
-↓↓↓欢迎关注
+剩下的内容，下一篇更新见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486701&amp;idx=1&amp;sn=36300d05181018a5037f596b9b99b46f&amp;chksm=a6c7600091b0e916b975a1f63e75bc5f03164b794185f834a8759ee4dd46beca67bb6873cc7c" rel="noopener noreferrer">原文链接</a>）</small>

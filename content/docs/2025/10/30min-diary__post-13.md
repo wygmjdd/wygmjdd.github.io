@@ -5,7 +5,6 @@ weight: 274800013
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487307&idx=1&sn=96b15839199dda0ec31ce7e364a13d82&chksm=a6c763a691b0eab0f3a78a0f0c1e3a02889121f4c4b09cd4553664c01a583434991f080f2a4c
 ---
-
 今天周日，我本来的计划，是完成《瓦尔登湖》的读书笔记或者三季度整理，计划再一次不顺利执行。且当下这一刻（刚刚回到家的晚上8点34分），我新的计划是不执行今天计划，而只作本篇日记。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/aa17lmRY1pUftuMQFhxfR3tOibShwXDuXDBUCdMRhIO18fJhIIhhyanBwibia1POMYYZZAQLBc7gdojdZ2qzI1ScA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)柴
@@ -66,6 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487307&idx=
 
 ![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)好大月亮
 
-今晚的月亮，好亮好圆。
-
-↓↓↓欢迎关注
+今晚的月亮，好亮好圆。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487307&amp;idx=1&amp;sn=96b15839199dda0ec31ce7e364a13d82&amp;chksm=a6c763a691b0eab0f3a78a0f0c1e3a02889121f4c4b09cd4553664c01a583434991f080f2a4c" rel="noopener noreferrer">原文链接</a>）</small>

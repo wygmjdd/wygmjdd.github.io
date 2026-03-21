@@ -5,7 +5,6 @@ weight: 282000133
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485761&idx=1&sn=0419240a74f27ecd336fd98d6300efa7&chksm=a6c765ac91b0ecbab5a966731a44a2c598b8a01472f3f0982b0de0d057b5f3fd30f74e2c9bdf
 ---
-
 看完《[舍不得看完的中国史](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485294&idx=1&sn=2414a1d2526766eb18064119c0ef7cc9&chksm=a6c76b8391b0e295ffbdc3225e6358bf357715d2432736dfa34747c20d5669a50773445294e1&scene=21#wechat_redirect)》，我敬佩作者对历史的了解程度，敬佩作者对很多历史都有自己看法，敬佩作者的写作方式——所有内容看来都是一气呵成的，有想法且有笔力。
 
 为这敬佩，我将作者剩下的书籍都加入书架，我想跟着作者，好好理一遍中国历史。作者目前已经出版的书籍有《舍不得看完的中国史》《楚汉双雄》《两汉风云》以及《三国争霸》。
@@ -42,6 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485761&idx=
 
 《楚汉双雄》是为西汉开头的故事，是项羽刘邦争雄天下的故事，其中有战神项羽百战百胜后的乌江自刎，有兵仙韩信环环相扣的背水一战……
 
-本书的推荐语为：“想要完整了解秦末汉初刘邦项羽的故事又不想翻史书怎么办？看《楚汉双雄》，书中故事精彩绝伦有理有据，读来全不费力。”
-
-↓↓↓欢迎关注
+本书的推荐语为：“想要完整了解秦末汉初刘邦项羽的故事又不想翻史书怎么办？看《楚汉双雄》，书中故事精彩绝伦有理有据，读来全不费力。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485761&amp;idx=1&amp;sn=0419240a74f27ecd336fd98d6300efa7&amp;chksm=a6c765ac91b0ecbab5a966731a44a2c598b8a01472f3f0982b0de0d057b5f3fd30f74e2c9bdf" rel="noopener noreferrer">原文链接</a>）</small>

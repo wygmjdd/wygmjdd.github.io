@@ -5,7 +5,6 @@ weight: 280950120
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485970&idx=1&sn=bc22058d517a775604fbd711c032a146&chksm=a6c766ff91b0efe9839e7ee3c4a478073a2a1a04781612e7b4da3529bebb42f5cffb80f367ac
 ---
-
 22年阅读《[大明王朝1566](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485116&idx=1&sn=a9abe7408e25f601a91753e8542c32ec&chksm=a6c76a5191b0e34712c7a0124f603cb87d6b57b7a94d3ed17f3b29173b833259449b02186c77&scene=21#wechat_redirect)》时，听说作者刘和平还有一本叫做《雍正王朝》的书也很好看，便生出连续阅读心思。当时《雍正王朝》在《微信读书》还未上架，我便先点“订阅”等待更新。
 
 转眼一年半过去。
@@ -40,7 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485970&idx=
 
 看小说的速度很快，阅读本书时的即时感想很少，于是本篇读书笔记只到此处。
 
-读完《雍正王朝》，我的最大收获，大概是终于知道“四阿哥”是谁了。  
-
-
-↓↓↓欢迎关注
+读完《雍正王朝》，我的最大收获，大概是终于知道“四阿哥”是谁了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485970&amp;idx=1&amp;sn=bc22058d517a775604fbd711c032a146&amp;chksm=a6c766ff91b0efe9839e7ee3c4a478073a2a1a04781612e7b4da3529bebb42f5cffb80f367ac" rel="noopener noreferrer">原文链接</a>）</small>

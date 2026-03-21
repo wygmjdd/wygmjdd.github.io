@@ -5,7 +5,6 @@ weight: 275360079
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487071&idx=1&sn=3d0c48bc4da1dff0a391491be629c097&chksm=a6c762b291b0eba4333b1f4a9a35be991dd4d3a19710bcb54a7b43233c590f9d02048840f3a4
 ---
-
 三年前，我就“为什么会讨厌一个人”提问，在阿珍推荐下读完《[被讨厌的勇气](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484942&idx=1&sn=c18bf5e524fa8369d035f66f158c3e50&scene=21#wechat_redirect)》。这是我读完的第一本心理学书籍，我从书中收获且一直记得的认知，是“课题分离”，即我们是不能改变别人的，一切改变，都只能源于我们自己。
 
 （“为什么会讨厌一个人”，我在《津巴多普通心理学》中找到[答案](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486094&idx=1&sn=5b780778a1373a970192fc47d665ccad&scene=21#wechat_redirect)：我们将威胁性记忆隐藏在无意识深处作为一种防御机制，在相似情境下外显。简单些说，某个人X曾经欺负过我，时间过去十年二十年，当我碰到另一个和X身材长相相似的人Y时，会对Y产生讨厌情绪，以避免和Y近距离接触，以逃避危险。）
@@ -61,6 +60,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487071&idx=
 
 “有人问‘人的变化有期限吗’？阿德勒回答说‘的确有期限’。然后他调皮地微笑了一下，又补充道‘直到生命的最后一天’。”
 
-上面一句话，是本书快结束时让我对本书观感产生些改变的一句话：好的，改变永不停止。
-
-↓↓↓欢迎关注
+上面一句话，是本书快结束时让我对本书观感产生些改变的一句话：好的，改变永不停止。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487071&amp;idx=1&amp;sn=3d0c48bc4da1dff0a391491be629c097&amp;chksm=a6c762b291b0eba4333b1f4a9a35be991dd4d3a19710bcb54a7b43233c590f9d02048840f3a4" rel="noopener noreferrer">原文链接</a>）</small>

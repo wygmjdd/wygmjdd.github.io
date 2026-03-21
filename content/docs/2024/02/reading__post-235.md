@@ -5,7 +5,6 @@ weight: 280650235
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486045&idx=1&sn=54322ff4a5351b278c2c4bdbf823510b&chksm=a6c766b091b0efa6095302191ce2f2e4494a6c187e74443dbc1931530c53e5d208940286f1d4
 ---
-
 作为一个程序员，我崇拜着许多前辈，侯捷老师、云风大大是其中的两位。
 
 我能够坚持用文字分享生活三年多，侯捷老师的《[左手程序右手诗](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483680&idx=1&sn=01e6a91f8bbd1c40edebcab75ab012e6&chksm=a6c76dcd91b0e4db3a2d734627ec42f8005f58bc66f66b55b96936438d15e852c29d19ea0df0&scene=21#wechat_redirect)》给予了我很大帮助；我会时不时打开云风的博客看看，看看大大最近写了哪些文章。
@@ -38,9 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486045&idx=
 > 
 > 如果你对C++中的template这个关键字的使用有足够的自信，对泛型编程自我感觉良好，那么可以去读一下《**C++设计新思维——泛型编程与设计模式之应用** 》，我保证这本书会让你叹为观止。一本颇有些难度的书哟，阅读之前请做好心理准备。
 > 
-> 如果只是想更加精通C++的标准库，暂时还没有想过研究boost甚至loki的源代码，那我先推荐《**C++标准程序库** 》，这简直是一本C++程序员案头必备的参考手册，一旦使用C++标准库进行开发，迟早你会买上一本的。除此之外，《**Effective STL中文版** 》会和它的前辈Effective C++、More Effective C++一样，让人产生阅读的快乐。
-
-  
-
-
-↓↓↓欢迎关注
+> 如果只是想更加精通C++的标准库，暂时还没有想过研究boost甚至loki的源代码，那我先推荐《**C++标准程序库** 》，这简直是一本C++程序员案头必备的参考手册，一旦使用C++标准库进行开发，迟早你会买上一本的。除此之外，《**Effective STL中文版** 》会和它的前辈Effective C++、More Effective C++一样，让人产生阅读的快乐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486045&amp;idx=1&amp;sn=54322ff4a5351b278c2c4bdbf823510b&amp;chksm=a6c766b091b0efa6095302191ce2f2e4494a6c187e74443dbc1931530c53e5d208940286f1d4" rel="noopener noreferrer">原文链接</a>）</small>

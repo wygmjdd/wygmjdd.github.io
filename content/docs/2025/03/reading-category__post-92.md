@@ -5,7 +5,6 @@ weight: 276970092
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486826&idx=1&sn=953c7a408f4ed77e8d1703d72e86d288&chksm=a6c7618791b0e891be06c557a343545d5340de871ffb7bbf6109033e662a2a47f872dcbf9d34
 ---
-
 《微信读书》上面有一个“订阅”功能，它在“我的主页”拥有一个醒目按钮，点进去可以看到那些想读但却没有上架《微信读书》的图书。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/aa17lmRY1pU1tibATGW9qXtAOM8ia0viaD5s3JxiaA0WeIECQp4HLuDU4cmiaU6YmoRZNCDvEU7ticvtOhC9IsSBEj5g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)订阅按钮
@@ -63,6 +62,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486826&idx=
 
 对的，如果对秦始皇很着迷，对历史很感兴趣，我是很推荐大家去阅读原书的。李教授的文字，除开让我挪不开眼之外，还给予我一种功力深厚，对史料可信手拈来的博学之感。
 
-历史，在作者的笔下显得更迷人。
-
-↓↓↓欢迎关注
+历史，在作者的笔下显得更迷人。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486826&amp;idx=1&amp;sn=953c7a408f4ed77e8d1703d72e86d288&amp;chksm=a6c7618791b0e891be06c557a343545d5340de871ffb7bbf6109033e662a2a47f872dcbf9d34" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 291040194
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484023&idx=1&sn=0b9c688edb306e6a173ada4a8c310022&chksm=a6c76e9a91b0e78c057a9c0bca917ef631848e3475264171fe6e9bd3483e0ef0edf90c5779c9
 ---
-
 ## 阅读动机
 
 最近做的一个系统，需要频繁地更新数据库，不熟悉许多的数据库指令，总是谷歌或找个示例抄一下。此种方式能够将功能实现，但在代码与数据库之间，似乎总有一层薄纱，挡在我的眼前，我想将这薄纱移掉。
@@ -79,4 +78,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484023&idx=
 
   1. 书籍对应官网，https://forta.com/books/0135182794/
 
-  2. 豆瓣简介，https://book.douban.com/subject/24250054/
+  2. 豆瓣简介，https://book.douban.com/subject/24250054/ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484023&amp;idx=1&amp;sn=0b9c688edb306e6a173ada4a8c310022&amp;chksm=a6c76e9a91b0e78c057a9c0bca917ef631848e3475264171fe6e9bd3483e0ef0edf90c5779c9" rel="noopener noreferrer">原文链接</a>）</small>

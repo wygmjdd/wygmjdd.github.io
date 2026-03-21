@@ -5,7 +5,6 @@ weight: 285440252
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485171&idx=1&sn=836b699e218223c136b94a7a6e1029f1&chksm=a6c76a1e91b0e3080f47f8ac54d83b73257a5cfc46d8a5521cf272f28c083011bb54912ca345
 ---
-
 9年后的我，你好啊。这是2022年的第44周，我正在做一件很有意思的事情——给你写信。想要给你写信的念头，来自于最近正阅读的《自控力》，“遇见未来的自己”那一小节：
 
 > 如果我们真的指望未来的自己能这么崇高，我们确实可以相信，未来的自己能做好所有的事。但更典型的情况是，当我们到了未来，理想中“未来的自己”却不见了，最后作决定的还是毫无改变的曾经的自己。
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485171&idx=
 
 先这样吧，我得去写《一个瑜伽行者的自传》的读书笔记了。是的，今年看书很多，已经连着好几周都需要写读书笔记，我是否应该慢一点呢？
 
-祝生活愉快，就像现在一样。
-
-↓↓↓欢迎关注
+祝生活愉快，就像现在一样。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485171&amp;idx=1&amp;sn=836b699e218223c136b94a7a6e1029f1&amp;chksm=a6c76a1e91b0e3080f47f8ac54d83b73257a5cfc46d8a5521cf272f28c083011bb54912ca345" rel="noopener noreferrer">原文链接</a>）</small>

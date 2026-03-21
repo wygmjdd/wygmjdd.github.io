@@ -5,7 +5,6 @@ weight: 274240006
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487414&idx=1&sn=7a70113ab46202df7ffe4ecb7ddad5b4&chksm=a6c7635b91b0ea4dee021b6e96f3e8f26543873ebabb033a77abaf1f9fca6415d230d9647f26
 ---
-
 现在时间是周六晚上的10点32分，洗漱完毕的我半躺在酒店房间白色床上，来记录此行北京的见闻。我的初衷，是想让这“见闻”以一种并不很口语化形式展现，但这几天，以及今晚前面两小时，我想不出好的开头，于是依然将它归入“30分钟日记”系列。
 
 日记于我，大概是好写许多许多的。
@@ -72,6 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487414&idx=
 
 时间回到上个周四夜晚，确定出差北京之后，我的微信消息当中弹出来的对话是：“带鞋哈。”
 
-今天和阿文逛了奥森、前门、北师大和北邮，晚上回到酒店完成本篇，我想它，是又一篇完整的感恩日记。
-
-↓↓↓欢迎关注
+今天和阿文逛了奥森、前门、北师大和北邮，晚上回到酒店完成本篇，我想它，是又一篇完整的感恩日记。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487414&amp;idx=1&amp;sn=7a70113ab46202df7ffe4ecb7ddad5b4&amp;chksm=a6c7635b91b0ea4dee021b6e96f3e8f26543873ebabb033a77abaf1f9fca6415d230d9647f26" rel="noopener noreferrer">原文链接</a>）</small>

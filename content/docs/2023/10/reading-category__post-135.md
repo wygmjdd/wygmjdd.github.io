@@ -5,7 +5,6 @@ weight: 282150135
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485733&idx=1&sn=89127d12434530a906fe93c1fd75ce05&chksm=a6c765c891b0ecdee2ecbbb59c3ce57562c6f9d3f986eab607bd00a50341c03e1911a0c40324
 ---
-
 有一本书，书名叫“我从未如此眷恋人间”，它出现在我对人间不那么眷恋时。
 
 我为书名吸引，便试看前面几个章节，第一篇是史铁生的很短的《人间》，是很多的小事，是记者朋友不在意不想听的小事。
@@ -32,6 +31,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485733&idx=
 
 我的侄女还没有记日记习惯，但她两年前对我“孔洋芋”的评价，我是一直记得的。小欣转头看我用脆脆的声音叫我：“大舅，真好吃，你再给我舀一碗。”
 
-读完“我从未如此眷恋人间”，我对人间重拾眷念。
-
-↓↓↓欢迎关注
+读完“我从未如此眷恋人间”，我对人间重拾眷念。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485733&amp;idx=1&amp;sn=89127d12434530a906fe93c1fd75ce05&amp;chksm=a6c765c891b0ecdee2ecbbb59c3ce57562c6f9d3f986eab607bd00a50341c03e1911a0c40324" rel="noopener noreferrer">原文链接</a>）</small>

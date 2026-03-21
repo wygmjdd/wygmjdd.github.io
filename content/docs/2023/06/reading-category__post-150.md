@@ -5,7 +5,6 @@ weight: 283330150
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485569&idx=1&sn=3a529c87c8f7aa0d29bee26321418b31&chksm=a6c7646c91b0ed7a8b57f8f888207a17bb7fc6400894a9b1b42e58ff6b19cc97709b8588f727
 ---
-
 《微信读书》有一个“点评”功能，能对一本看完的书做出“推荐”“一般”“不行”三个评价。由大家的评价，《微信读书》会为书籍算出一个“推荐值”，其中超过500人点评且推荐值高于90%的书叫做“神作”，能够上“神作榜”。神作榜上排前面的，是新上榜的书。
 
 前两个月，《微信读书》做了更新，推出“阅读神作”系列勋章。因为这勋章，我去翻了翻神作榜，从其中挑出一本《上帝掷骰子吗？：量子物理史话》。看过前言与目录，我将其加入书架。
@@ -46,6 +45,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485569&idx=
 
 “科学，是一个证伪的过程。
 
-“或许提出下一个关于量子的被大众所接受假设的人，是年轻的你！”
-
-↓↓↓欢迎关注
+“或许提出下一个关于量子的被大众所接受假设的人，是年轻的你！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485569&amp;idx=1&amp;sn=3a529c87c8f7aa0d29bee26321418b31&amp;chksm=a6c7646c91b0ed7a8b57f8f888207a17bb7fc6400894a9b1b42e58ff6b19cc97709b8588f727" rel="noopener noreferrer">原文链接</a>）</small>

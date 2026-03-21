@@ -5,7 +5,6 @@ weight: 276820090
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486851&idx=1&sn=70c46b4fa18b866456587477babcc823&chksm=a6c7616e91b0e8783bd79dbeb1efa4012d264dac7835871ffa262b5b16b1af9e74b4d3ecf19e
 ---
-
 《额尔古纳河右岸》，是一本放在后座好久好久的书，它大概是阿琳两年前放在我这里的：“龙帅，这本书很不错，拿给你读一下。不过书不是送给你哦，你看完要还给我，我自己后头还要看。”
 
 拿到书当时，我的阅读计划是简单的：“每天翻几页，或许一个月不到就能看完还书。”
@@ -60,6 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486851&idx=
 
 > 我讲了一天的故事，累了。我没有告诉你们我的名字，因为我不想留下名字了。我已经嘱咐了安草儿，阿帖走的时候，一定不要埋在土里，要葬在树上，葬在风中。
 
-故事已经结束，“我”将继续留在山里，留在风中；以及，我的记忆里。
-
-↓↓↓欢迎关注
+故事已经结束，“我”将继续留在山里，留在风中；以及，我的记忆里。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486851&amp;idx=1&amp;sn=70c46b4fa18b866456587477babcc823&amp;chksm=a6c7616e91b0e8783bd79dbeb1efa4012d264dac7835871ffa262b5b16b1af9e74b4d3ecf19e" rel="noopener noreferrer">原文链接</a>）</small>

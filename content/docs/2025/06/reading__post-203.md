@@ -5,7 +5,6 @@ weight: 276060203
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486969&idx=1&sn=3d8967187860c987bd6593942caabbbe&chksm=a6c7611491b0e8023ba697f879f05199ce6f384519b30d3547ba8ed755dbe284d96b130ab2ec
 ---
-
 四年前，我[读完Why We Sleep](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484452&idx=1&sn=50c9b4ea653523fa69c6228d89caec7d&scene=21#wechat_redirect)，构建一种关于睡眠的底层认知：我身体上的一切烦恼，绝大部分都能在睡眠的帮助下变少甚至完全消除；我可一定要保有足够的睡眠；准时睡觉，是最有效的帮助自己[提升睡眠质量的秘诀](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484452&idx=3&sn=f1eb74000fb9450e75e15667051765f1&scene=21#wechat_redirect)。
 
 基于这样的认知，再结合[TED Try Something New for 30 Days](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483709&idx=1&sn=a2ff64e31fd89b086e7be640eb94f4d4&scene=21#wechat_redirect)中提到的方法——就一件想做却一直没做的小事，坚持30天，只需要30天就好，我养成一种习惯：[每天都在11点睡觉](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485561&idx=1&sn=a1a8dee4227053f2ae78cc00b1c8b77f&scene=21#wechat_redirect)。
@@ -58,6 +57,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486969&idx=
 
 最后我再指出一点，在做这个练习的时候，你要真诚地想要数到0，这一点很重要。不要把这当成一种入睡方式，而是把它视为一个在身体和心灵准备“关掉”去休息前使你保持忙碌和专注的练习。无论心灵中出现了什么样的想法，无论这些想法是关于入睡的还是别的事情，请任由它们来去。你唯一的目的、你唯一的关注焦点是努力从1000倒数到0。如果你在倒数的中途迷迷糊糊睡着了，那也没关系。
 
-最后，我理解到的作者所分享办法的核心，是任由自己的想法乱蹿，我只做一个旁观者。
-
-↓↓↓欢迎关注
+最后，我理解到的作者所分享办法的核心，是任由自己的想法乱蹿，我只做一个旁观者。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486969&amp;idx=1&amp;sn=3d8967187860c987bd6593942caabbbe&amp;chksm=a6c7611491b0e8023ba697f879f05199ce6f384519b30d3547ba8ed755dbe284d96b130ab2ec" rel="noopener noreferrer">原文链接</a>）</small>

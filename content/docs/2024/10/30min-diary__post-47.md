@@ -5,7 +5,6 @@ weight: 278220047
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486559&idx=1&sn=bd7b95a42293a8cfe7e38bdfda4cdb6c&chksm=a6c760b291b0e9a4541cefbccb2eecc4041a429a60f418416eed330c3f452a061ea4bb402f1c
 ---
-
 我打算给自己新增一个每日计划，但还没想好具体应该怎样实行，这计划想要达到的目标，是能够无障碍的听、说英文，即能够像说普通话一样说英文。
 
 为这计划，我有过简单的两次准备。
@@ -79,6 +78,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486559&idx=
 
 \--
 
-时间已是晚上的11点05分……
-
-↓↓↓欢迎关注
+时间已是晚上的11点05分…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486559&amp;idx=1&amp;sn=bd7b95a42293a8cfe7e38bdfda4cdb6c&amp;chksm=a6c760b291b0e9a4541cefbccb2eecc4041a429a60f418416eed330c3f452a061ea4bb402f1c" rel="noopener noreferrer">原文链接</a>）</small>

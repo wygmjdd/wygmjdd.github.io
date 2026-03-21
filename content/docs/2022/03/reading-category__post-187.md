@@ -5,7 +5,6 @@ weight: 287890187
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484637&idx=2&sn=333113d87ab3080e4e288f04f2d6808f&chksm=a6c7683091b0e12620c06928af55acf748d650fbde6359586c9412c4685579bfbee075da752f
 ---
-
 我不记得是在哪里被推荐的《人生随时可以重来》，我在京东阅读搜它，看见一本叫做《宝藏奶奶治愈系列：人间值得+人生随时可以重来》可以免费读，便读了起来。
 
 这两本书，是近两次坐飞机看的，读完只花了3个多小时。
@@ -26,14 +25,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484637&idx=
 
 阅读过程中，我怀疑过我读的这两本书，只是别人就原作编纂过的产物。
 
-转念一想，有什么关系呢？它们让我知晓了摩西奶奶、恒子老师的故事，让我再次确认，平凡的人生，只需要配上一些坚持，便可以造就属于自己的不平凡。
+转念一想，有什么关系呢？它们让我知晓了摩西奶奶、恒子老师的故事，让我再次确认，平凡的人生，只需要配上一些坚持，便可以造就属于自己的不平凡。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484637&amp;idx=2&amp;sn=333113d87ab3080e4e288f04f2d6808f&amp;chksm=a6c7683091b0e12620c06928af55acf748d650fbde6359586c9412c4685579bfbee075da752f" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓ 一个学做菜、用文字分享生活的程序员

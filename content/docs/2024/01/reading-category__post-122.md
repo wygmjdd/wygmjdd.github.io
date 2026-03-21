@@ -5,7 +5,6 @@ weight: 281090122
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485943&idx=1&sn=3b31051a191424a6b7eb682ed7bfb5ad&chksm=a6c7651a91b0ec0c928fef9d27ec24df35fabb9bce1cbf2df2a037a93e4295238725e2866a53
 ---
-
 上个月花3小时看完一本8万字的科普书，书名叫《一本书读懂智能网联汽车》。顾名思义，这本书讲的内容是智能网联汽车，智能网联汽车，是智能汽车和互联网相结合的产物。
 
 这是一本“简单”的书，简单在于书中内容只是许多问题和相关联答案的组合。问题便是章节名，如果对某个点感兴趣，直接跳转到对应章节便能获得答案。
@@ -86,7 +85,4 @@ SAE（美国汽车工程师学会）对自动驾驶的分级：
   
 
 
-（本篇笔记只是许多名词的摘抄，类似金句摘抄：只发表不通知，不打扰大家啦。）  
-
-
-↓↓↓欢迎关注
+（本篇笔记只是许多名词的摘抄，类似金句摘抄：只发表不通知，不打扰大家啦。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485943&amp;idx=1&amp;sn=3b31051a191424a6b7eb682ed7bfb5ad&amp;chksm=a6c7651a91b0ec0c928fef9d27ec24df35fabb9bce1cbf2df2a037a93e4295238725e2866a53" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 281510125
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485856&idx=1&sn=4e8bf02e2c11951a0c70c6cfd27c3f0c&chksm=a6c7654d91b0ec5bdc2fa0489af76ca7941e55a80fcd0ea010e69d1ecb5e9430aa74ccc962fd
 ---
-
 读书时，如果在书中看到作者引用另外一本书的内容，并且另外的这本书还能够直接被点击被查看，我便会查看一下这本书的简介。如果对新的这本书很感兴趣，我便会先将新书读完再读旧书。
 
 比如读完《[乔布斯传](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485188&idx=1&sn=ebbbd8b5f355ce65a89eaf3903229e04&chksm=a6c76be991b0e2ffa060436a17ed51662cb58032a581c4eb5d0414828bf94645a9fbb122be87&scene=21#wechat_redirect)》之前，我先看完《[一个瑜伽行者的自传](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485177&idx=1&sn=47e4d29e34639dca2aabfca279369026&chksm=a6c76a1491b0e302c5109ddfceb4562ffe49289da7b855849f92ab9915b2361b007024cc928a&scene=21#wechat_redirect)》；读完《[蛤蟆先生去看心理医生](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485719&idx=1&sn=17e994ac68b695f1eb4ee232236e8a23&chksm=a6c765fa91b0ecec34897f301b5e966b58d4f284d5e8172bb54cd70a656f65bec121e1c4ed8b&scene=21#wechat_redirect)》之前，我先看完《[柳林风声](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485390&idx=1&sn=bb8b3e5f66894135cc055a1ddf44ed33&chksm=a6c76b2391b0e23512b4ced649559bbec35c669544a1243ed7795bf3c17dddd16946d26e98cd&scene=21#wechat_redirect)》和《[人间游戏](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485449&idx=1&sn=769cbac1d1ed049cfca6a3eb68681d22&chksm=a6c764e491b0edf240522df96863b8250c118e4559c0cb8e548dda1c7ce04ef2ab05d6cb4134&scene=21#wechat_redirect)》。
@@ -57,6 +56,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485856&idx=
 
 > 我生活中的第一要务是我的身体健康。对我来说，健康的重要性高于幸福，高于家庭，高于工作。我的身体健康是一切的起点，排在第一位，紧随其后的是我的心理健康和精神健康。接着是家人的健康和幸福。在确保了这些之后，我就可以按照自己的意志在这个世界上自由活动了。
 
-愿我们，都更加重视自己的身心健康。
-
-↓↓↓欢迎关注
+愿我们，都更加重视自己的身心健康。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485856&amp;idx=1&amp;sn=4e8bf02e2c11951a0c70c6cfd27c3f0c&amp;chksm=a6c7654d91b0ec5bdc2fa0489af76ca7941e55a80fcd0ea010e69d1ecb5e9430aa74ccc962fd" rel="noopener noreferrer">原文链接</a>）</small>

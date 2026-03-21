@@ -5,7 +5,6 @@ weight: 278300100
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486518&idx=1&sn=1624aee21d1aee93be76604708704357&chksm=a6c760db91b0e9cd411aa2c7b87bf8b1b60fdbeba263df30ffcb4949f6cfb2d60380b009ed3c
 ---
-
 上大学对我，对我们很多同学来说，是从县城走向市区走向省城的一种捷径。我们很多同学，选择在重庆念书的，分布在重庆各个学校，大学时的我们，喜欢你找我我找你串门走“亲戚”，由此，我对重庆的许多大学都比较熟悉。其中最熟悉的，除自己学校之外，是重师；重师的老校区新校区，我都很熟。
 
 十几年前，重庆没有直达巫溪的高速路，我们上重庆坐大巴，一坐一整天，早上出发，晚上到达。那时节，沙坪坝到大学城的公交车，也只有一趟266，末班车只到晚上9点。
@@ -36,6 +35,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486518&idx=
 
 沈先生给三三信中，有这样的一段：“三三，我因为天气太好了一点，故站在船后舱看了许久水，我心中忽然好像彻悟了一些，同时又好像从这条河中得到了许多智慧。三三，的的确确，得到了许多智慧，不是知识。我轻轻的叹息了好些次。山头夕阳极感动我，水底各色圆石也极感动我，我心中似乎毫无什么渣滓，透明烛照，对河水，对夕阳，对拉船人同船，皆那么爱着，十分温暖的爱着！”
 
-沈先生在船舱中看水很久，我曾经坐在地坝[看太阳影子很久](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485988&idx=1&sn=fa6e9a242c523c8b2cd3068dbbd4f02e&chksm=a6c766c991b0efdf3cd6df4e8856b2a4858469613d3f6acf33c7bfd90d157134cb8519b693e5&scene=21#wechat_redirect)，就在大前天（周四）夜晚，我站在阳台看对面高楼看南山很久。每一次安静看山看水，我仿佛能像沈先生一样，领悟到许多智慧。智慧中关于“空灵”的部分，被我记在[周四晚间日记](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486514&idx=1&sn=902c07a9b90ea7e9d257858521f9cf54&chksm=a6c760df91b0e9c94892ad47f58be84488791fedd577c53f795018bf9df2394fa4581f121355&scene=21#wechat_redirect)中。
-
-↓↓↓欢迎关注
+沈先生在船舱中看水很久，我曾经坐在地坝[看太阳影子很久](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485988&idx=1&sn=fa6e9a242c523c8b2cd3068dbbd4f02e&chksm=a6c766c991b0efdf3cd6df4e8856b2a4858469613d3f6acf33c7bfd90d157134cb8519b693e5&scene=21#wechat_redirect)，就在大前天（周四）夜晚，我站在阳台看对面高楼看南山很久。每一次安静看山看水，我仿佛能像沈先生一样，领悟到许多智慧。智慧中关于“空灵”的部分，被我记在[周四晚间日记](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486514&idx=1&sn=902c07a9b90ea7e9d257858521f9cf54&chksm=a6c760df91b0e9c94892ad47f58be84488791fedd577c53f795018bf9df2394fa4581f121355&scene=21#wechat_redirect)中。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486518&amp;idx=1&amp;sn=1624aee21d1aee93be76604708704357&amp;chksm=a6c760db91b0e9cd411aa2c7b87bf8b1b60fdbeba263df30ffcb4949f6cfb2d60380b009ed3c" rel="noopener noreferrer">原文链接</a>）</small>

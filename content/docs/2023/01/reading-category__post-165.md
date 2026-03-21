@@ -5,7 +5,6 @@ weight: 284730165
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485294&idx=1&sn=2414a1d2526766eb18064119c0ef7cc9&chksm=a6c76b8391b0e295ffbdc3225e6358bf357715d2432736dfa34747c20d5669a50773445294e1
 ---
-
 《舍不得读完的中国史》（后文称“本书”）是《微信读书》“为你推荐”所推荐的，在我正读《二十五史简明读本·史记》（后文简称“简史”）的时候。全书17万字，于14天内花7小时读完。
 
 是的，本书极有吸引力。
@@ -104,6 +103,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485294&idx=
 
 本书推荐语，我再借一段作者的话：“读史到最后，是想让我们设身处地地体会到，如果未来你面对这种情况时，你会怎么选，以及选完后能看到结局走向。
 
-“多读些历史，是没错的。”
-
-↓↓↓欢迎关注
+“多读些历史，是没错的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485294&amp;idx=1&amp;sn=2414a1d2526766eb18064119c0ef7cc9&amp;chksm=a6c76b8391b0e295ffbdc3225e6358bf357715d2432736dfa34747c20d5669a50773445294e1" rel="noopener noreferrer">原文链接</a>）</small>

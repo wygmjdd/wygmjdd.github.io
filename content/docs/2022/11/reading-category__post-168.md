@@ -5,7 +5,6 @@ weight: 285220168
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485216&idx=1&sn=1a079e8b8581c29fea0054c975c5247d&chksm=a6c76bcd91b0e2dbaa46a5ccd7e0cc3e934d65d82b0ca6034cefbda7a5ef18f25f190125604c
 ---
-
 国庆前一周，《微信读书》又推荐一本书，书名叫《自控力（经典套装三册）》。顾名思义，这“本”书收录了3本书：《自控力》《自控力：和压力做朋友》《自控力：实操篇》。看过《自控力》导言与目录，我将其加入阅读清单。
 
 我按照作者的推荐读法，于本周完成了《自控力》的阅读。本书不长，全书只15万字，读完花费8小时。
@@ -63,6 +62,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485216&idx=
 
 > 这些实例都证实了，认识自我、关心自我和提醒自己真正重要的事物，这三种方法正是自我控制的基石。
 
-本书，对我来说，只看一遍是不行的。
-
-↓↓↓欢迎关注
+本书，对我来说，只看一遍是不行的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485216&amp;idx=1&amp;sn=1a079e8b8581c29fea0054c975c5247d&amp;chksm=a6c76bcd91b0e2dbaa46a5ccd7e0cc3e934d65d82b0ca6034cefbda7a5ef18f25f190125604c" rel="noopener noreferrer">原文链接</a>）</small>

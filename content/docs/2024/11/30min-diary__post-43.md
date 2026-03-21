@@ -5,7 +5,6 @@ weight: 278150043
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486589&idx=1&sn=0b7041f8c7127b2940edd26f49bf2d6d&chksm=a6c7609091b0e986ff58310c743606ce5bd55e7c7c1be8d5857aff831fef5d0ad488373a6977
 ---
-
 对的，此次离职，跟第一次离职很像，都是周五离职周一开始新工作。只是这一次新工作，和之前的，都有些不一样：它是完全的远程办公。
 
 今天，是很忙碌的一天。早上8点上线，中午12点到1点半吃饭午休，下午到7点半结束，中间有花30分钟吃晚餐，阿妮回家做的晚餐。晚上有再回两条信息。
@@ -47,6 +46,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486589&idx=
 
 \--
 
-明天，我要挤出些时间，多看会儿书，即便只是听书也好的。（对的，今天中午外出吃饭，感觉有些累，是不想听书的。）
-
-↓↓↓欢迎关注
+明天，我要挤出些时间，多看会儿书，即便只是听书也好的。（对的，今天中午外出吃饭，感觉有些累，是不想听书的。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486589&amp;idx=1&amp;sn=0b7041f8c7127b2940edd26f49bf2d6d&amp;chksm=a6c7609091b0e986ff58310c743606ce5bd55e7c7c1be8d5857aff831fef5d0ad488373a6977" rel="noopener noreferrer">原文链接</a>）</small>

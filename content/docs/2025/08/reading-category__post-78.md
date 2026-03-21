@@ -5,7 +5,6 @@ weight: 275220078
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487091&idx=1&sn=ff194b8ee00e41475b09cfe1419dcee4&chksm=a6c7629e91b0eb88da11cca7dd303e0c327fc636998b4639de60d8a495b226ee1520dcfc0eb1
 ---
-
 《幸福的勇气》最末的《作译者介绍》当中有提到作者的另一本书叫“阿德勒心理学入门”，本着对阿德勒的好奇，我将这本《阿德勒心理学入门》加入书架，花两个半小时读完。
 
 这本书在《微信读书》中的书名，还有一个前缀叫做“甘于平凡的勇气”。读完全书，我以为这“甘于平凡的勇气”，只是为提升本书阅读量而附加的一种营销手法，当我读完全书，我以为自己并未获得“甘于平凡的勇气”。
@@ -68,6 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487091&idx=
 
 上面一段“共同体感觉”的整理来自于AI，我现在是不拥有属于自己的理解的。(中午做饭时听《亲密关系》，米勒教授说“归属感”是人际交往中很重要的一环。）
 
-本篇止于此处，我想自己未来的读书态度，可以再随和一点：对于当前读不太懂的书，可以再往后放放，切勿因为它短小，便想着快快看完。
-
-↓↓↓欢迎关注
+本篇止于此处，我想自己未来的读书态度，可以再随和一点：对于当前读不太懂的书，可以再往后放放，切勿因为它短小，便想着快快看完。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487091&amp;idx=1&amp;sn=ff194b8ee00e41475b09cfe1419dcee4&amp;chksm=a6c7629e91b0eb88da11cca7dd303e0c327fc636998b4639de60d8a495b226ee1520dcfc0eb1" rel="noopener noreferrer">原文链接</a>）</small>

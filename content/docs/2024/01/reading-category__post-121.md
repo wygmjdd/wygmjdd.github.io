@@ -5,7 +5,6 @@ weight: 281030121
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485949&idx=1&sn=f8e38aeea1744d2a6a31cdb0397b2c15&chksm=a6c7651091b0ec06ae48f2e889d7d73fe0c1ae7726b33c44624737c8092fb2679d2cc8ac5364
 ---
-
 我在“[第四份工作，刷题](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485111&idx=1&sn=d02616cf04130ddeccced5e7542c7722&chksm=a6c76a5a91b0e34c17da63c14b05fee22bea20cc23418cba32ecdc07b692c66d0262c31532e9&scene=21#wechat_redirect)”中整理过自己的刷题经历：我曾经多次尝试过刷题，每次刷题都因为“题目太难我太懒”停下来。
 
 大概是前年，一面字节成都，算法题目为“二叉树的右视角”，当时表现是窘迫的，我对这题目（二叉树，一直是我技能点的生疏处）毫无思路，结果当然是没结果。
@@ -80,6 +79,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485949&idx=
 
 怎样能够将使用数据结构与算法变得跟骑自行车一样——不用想便能生出自然反应并做出正确选择——呢？
 
-且待我再找几本书来看。只看书？或许并不太够。
-
-↓↓↓欢迎关注
+且待我再找几本书来看。只看书？或许并不太够。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485949&amp;idx=1&amp;sn=f8e38aeea1744d2a6a31cdb0397b2c15&amp;chksm=a6c7651091b0ec06ae48f2e889d7d73fe0c1ae7726b33c44624737c8092fb2679d2cc8ac5364" rel="noopener noreferrer">原文链接</a>）</small>

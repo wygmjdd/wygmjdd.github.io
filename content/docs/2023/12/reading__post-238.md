@@ -5,7 +5,6 @@ weight: 281440238
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485882&idx=1&sn=7a6f5f527c6b7b98d7f8ad6aadc28f8f&chksm=a6c7655791b0ec41ccdeb807242cc7e09bb20ba04fec12ac833ff7f6a1d0b15171ababae5034
 ---
-
 最近刚看完《津巴多普通心理学》中第七章《毕生发展》，读到“父母教养孩子的四种方式”：
 
   * 专制型父母(authoritarian parent)通常都会相信一句谚语“不打不成器”。他们要求儿童守规矩、听话，不接受任何一点点对规则的讨价还价。他们会用惩罚或者威胁要进行惩罚来强迫儿童服从。
@@ -76,6 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485882&idx=
 
 > 简单地说，先天-后天相互作用指我们生下来都具有某种潜能（先天），如果我们出生后处于合适的环境（后天）中，那么我们的潜能就会得到充分发展。例如，如果你擅长数学或音乐，你的这一能力很可能开始于某些基因的潜力，然后又得益于你的教育经历才获得发展。遗传确立了你的潜力，但是经历决定了你的潜力是否能得到发展，以及得到何种程度的发展。
 
-我们生而拥有许多潜力，这些潜力，只待我们去发展。
-
-↓↓↓欢迎关注
+我们生而拥有许多潜力，这些潜力，只待我们去发展。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485882&amp;idx=1&amp;sn=7a6f5f527c6b7b98d7f8ad6aadc28f8f&amp;chksm=a6c7655791b0ec41ccdeb807242cc7e09bb20ba04fec12ac833ff7f6a1d0b15171ababae5034" rel="noopener noreferrer">原文链接</a>）</small>

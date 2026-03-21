@@ -5,7 +5,6 @@ weight: 282640249
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485675&idx=1&sn=b9626b95577f23e697a55f8a0037c7ec&chksm=a6c7640691b0ed10d4cad59a32f89543eb48f7b7547d7f46be7b25447b1632df14bad8cc8eda
 ---
-
 去年5月，我整理了[自己当时的读书偏好](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484791&idx=1&sn=9529da3839616e49a05e3a7dbaa71f5d&chksm=a6c7699a91b0e08c16b6cc7dced6a4fa35410af4535579bbcab57d38b0c81fa3275173015968&scene=21#wechat_redirect)：计算机、文学、个人成长以及小说。那时候，我手机上使用的阅读APP，还是《京东读书》。
 
 自从去年8月将读书APP换成《微信读书》，我花在看书上的时间越来越长。早上醒来的状态不错，先看些技术书；吃过早餐出发上班，地铁上的时间用来看《鲁迅全集》正好；下班地铁上脑子不愿转动，便看历史和人物传记。
@@ -54,6 +53,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485675&idx=
 
 “所以即便看的书多了许多，我是并没有获得‘拿捏’手法的。对不喜欢的人，我依然只愿意敬而远之。”
 
-读书恰似蜘蛛结网，一圈又一圈，由外向内慢慢完善。时间过去三年，我刚搭好几根线。
-
-↓↓↓欢迎关注
+读书恰似蜘蛛结网，一圈又一圈，由外向内慢慢完善。时间过去三年，我刚搭好几根线。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485675&amp;idx=1&amp;sn=b9626b95577f23e697a55f8a0037c7ec&amp;chksm=a6c7640691b0ed10d4cad59a32f89543eb48f7b7547d7f46be7b25447b1632df14bad8cc8eda" rel="noopener noreferrer">原文链接</a>）</small>

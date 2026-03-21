@@ -5,7 +5,6 @@ weight: 278080041
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486614&idx=1&sn=0acf710bc533a817af5ad1e858d91677&chksm=a6c7607b91b0e96d45f19e4bbe7cd75784c6b1ef251402cdfebc4fb07019520b468ee6046a4a
 ---
-
 阿妮早上出门时对我说：“感觉你现在在屋头在家办公，我还有点挂念到你嘞。就是啊，就怕你一天吃饭吃不饱之类的，你懂那种感觉的哈？”
 
 我懂的。
@@ -68,6 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486614&idx=
 
 ![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)可爱的海星
 
-现在时间是晚上的11点15分，且快快睡觉。
-
-↓↓↓欢迎关注
+现在时间是晚上的11点15分，且快快睡觉。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486614&amp;idx=1&amp;sn=0acf710bc533a817af5ad1e858d91677&amp;chksm=a6c7607b91b0e96d45f19e4bbe7cd75784c6b1ef251402cdfebc4fb07019520b468ee6046a4a" rel="noopener noreferrer">原文链接</a>）</small>

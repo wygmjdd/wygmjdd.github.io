@@ -5,7 +5,6 @@ weight: 279490219
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486295&idx=1&sn=8ca27c119528a898db39e5a224698c26&chksm=a6c767ba91b0eeacb13d2b21f51d0dce1ef027a6ced22fb41cb9d22f0116b0031e9e87693858
 ---
-
 （本篇笔记的[第一部分](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486285&idx=1&sn=c5b20aae1c162785944b70693ee859c8&chksm=a6c767a091b0eeb6bfa6f7d25c82153166dae541159b7d98bd6321cedfa6befa085dfd039737&scene=21#wechat_redirect)和[第二部分](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486289&idx=1&sn=b51f6bdf7d97458108b3fcd4a0e073bc&chksm=a6c767bc91b0eeaaa416d1281843772180f068085615838b4fd20c8e5e67d858a084d4f70b4f&scene=21#wechat_redirect)。）
 
 ### 4、谁更容易受到应激的影响？
@@ -38,9 +37,4 @@ A、B型人格的主要差异，是愤怒和敌意。本书总是很严谨，作
 
 这个问题的最末小节，为我们提供了一种控制自己攻击性情绪的方法——写作。当我们很愤怒很痛苦时，不妨与自己聊聊天，将这些情绪写下来。
 
-《真实的幸福》中说，当我们将愤怒控制下来而不是尽情发泄时，我们的血压会降低，会更趋于正常区间。（我已经在之前的更新中摘抄过一次写作的益处，请[点击此处](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486156&idx=1&sn=9c7a1cee51c56ce7142d0f34ac2642f9&chksm=a6c7662191b0ef37e7399e79e5f653a2200cdf870a8a275a43a90c23757422f171896bce6dd6&scene=21#wechat_redirect)查看。）
-
-  
-
-
-↓↓↓欢迎关注
+《真实的幸福》中说，当我们将愤怒控制下来而不是尽情发泄时，我们的血压会降低，会更趋于正常区间。（我已经在之前的更新中摘抄过一次写作的益处，请[点击此处](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486156&idx=1&sn=9c7a1cee51c56ce7142d0f34ac2642f9&chksm=a6c7662191b0ef37e7399e79e5f653a2200cdf870a8a275a43a90c23757422f171896bce6dd6&scene=21#wechat_redirect)查看。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486295&amp;idx=1&amp;sn=8ca27c119528a898db39e5a224698c26&amp;chksm=a6c767ba91b0eeacb13d2b21f51d0dce1ef027a6ced22fb41cb9d22f0116b0031e9e87693858" rel="noopener noreferrer">原文链接</a>）</small>

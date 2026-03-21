@@ -5,7 +5,6 @@ weight: 280190228
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486134&idx=1&sn=a452e751373f92fb4da561617de89a22&chksm=a6c7665b91b0ef4d6ef45a9419e18b90676a8c030412de5aef57d7b8085455ec6f2d4fd4c2a1
 ---
-
 在我过去的认知中，“心理障碍”等同于“抑郁症”：如果某个人有心理障碍则意味着他得了抑郁症，如果某人得了抑郁症则说明他有心理障碍。
 
 这认知是有偏差的，被《津巴多普通心理学》纠正过来：抑郁症只是心理障碍的一种罢了，除了抑郁之外，还有精神分裂症、幻觉、极度情绪紊乱等其它形式的心理障碍。
@@ -116,9 +115,4 @@ DSM-5（The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition
 > 
 > 而且，我们建议，这是一种最好的心理疗法，无须药物！
 
-作者这一段，不止在说心理障碍的治疗，也说平日的学习方式：只读只看，用处是不大的，我们还需要采取行动：“[精细复述](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485792&idx=1&sn=06c5b520ddb1b853848317e40beaf709&chksm=a6c7658d91b0ec9b947d60a40fe096c93066ab0667a05c8aef513dc7d2a79c1f1cf0d11dda21&scene=21#wechat_redirect)”或是自我观察然后改变，都可以的。
-
-  
-
-
-↓↓↓欢迎关注
+作者这一段，不止在说心理障碍的治疗，也说平日的学习方式：只读只看，用处是不大的，我们还需要采取行动：“[精细复述](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485792&idx=1&sn=06c5b520ddb1b853848317e40beaf709&chksm=a6c7658d91b0ec9b947d60a40fe096c93066ab0667a05c8aef513dc7d2a79c1f1cf0d11dda21&scene=21#wechat_redirect)”或是自我观察然后改变，都可以的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486134&amp;idx=1&amp;sn=a452e751373f92fb4da561617de89a22&amp;chksm=a6c7665b91b0ef4d6ef45a9419e18b90676a8c030412de5aef57d7b8085455ec6f2d4fd4c2a1" rel="noopener noreferrer">原文链接</a>）</small>

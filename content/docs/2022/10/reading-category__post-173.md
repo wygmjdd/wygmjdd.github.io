@@ -5,7 +5,6 @@ weight: 285570173
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485156&idx=1&sn=2e2b3dece14242770d32890fefb1e802&chksm=a6c76a0991b0e31f361abeda0782d8fd7818580b616b81f3e4ec6ec38bac087cbab94030dc63
 ---
-
 读《[大明王朝1566](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485116&idx=1&sn=a9abe7408e25f601a91753e8542c32ec&chksm=a6c76a5191b0e34712c7a0124f603cb87d6b57b7a94d3ed17f3b29173b833259449b02186c77&scene=21#wechat_redirect)》，许多内容看不懂，便去看别人对书中内容的解析。某篇解析的开篇语是这样的：
 
 > 推荐吴思的《潜规则》和《血酬》二书，读完了再回来看《大明王朝1566》，会对一些细节有更深的体会。
@@ -66,6 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485156&idx=
 
 理完本篇读书笔记草稿的那个早上，看到鲁迅先生小说《理水》中用另外的文字，描述了血酬定律的具体表现。
 
-我心中，是多了许多愤怒的。
-
-↓↓↓欢迎关注
+我心中，是多了许多愤怒的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485156&amp;idx=1&amp;sn=2e2b3dece14242770d32890fefb1e802&amp;chksm=a6c76a0991b0e31f361abeda0782d8fd7818580b616b81f3e4ec6ec38bac087cbab94030dc63" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 274730199
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487335&idx=1&sn=3c214c16ee8cb69658a59ea2025ebb59&chksm=a6c7638a91b0ea9c3e9a307114a911b60cf7ceff33c1e6a225d3ea03616983585e8d456b6580
 ---
-
 我又找到一本自己很感兴趣的书用作下班路上听，它的名字叫做“《资治通鉴》精读”，来源于姜鹏教授的《百家讲坛·资治通鉴》，目前收听到的进度是西汉篇：文帝、景帝、昌邑王，汉宣帝与霍光。
 
 《资治通鉴白话版》，是我听书计划的一部分，之前听到的进度为西晋，大概八王之乱开始处。白话版《资治通鉴》听来是很有些生涩的，于是好久不听。听《百家讲坛·资治通鉴》相较《资治通鉴白话版》的优势，在于姜鹏教授的讲解能够被更好的听进去，而白话版只是AI跟着书中文字念，这当中少了许多“人味”。
@@ -50,6 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487335&idx=
 
 秦汉的复述还不开始，只是先有此篇。
 
-《国史大纲》是我[23年读书](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485960&idx=1&sn=35ed68c5cabbc4c08cbaf7933f32e5fe&scene=21#wechat_redirect)年度推荐之一，到今天两年过去，我依然推荐。
-
-↓↓↓欢迎关注
+《国史大纲》是我[23年读书](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485960&idx=1&sn=35ed68c5cabbc4c08cbaf7933f32e5fe&scene=21#wechat_redirect)年度推荐之一，到今天两年过去，我依然推荐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487335&amp;idx=1&amp;sn=3c214c16ee8cb69658a59ea2025ebb59&amp;chksm=a6c7638a91b0ea9c3e9a307114a911b60cf7ceff33c1e6a225d3ea03616983585e8d456b6580" rel="noopener noreferrer">原文链接</a>）</small>

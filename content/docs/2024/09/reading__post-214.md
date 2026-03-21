@@ -5,7 +5,6 @@ weight: 278580214
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486468&idx=1&sn=397cd512f146c57c19995db3360b25b3&chksm=a6c760e991b0e9ffcc30464b05cfc74af62871d6865f59ab53cf9cdc49b9931090626eb8dcd3
 ---
-
 今早起床，开始写本周的更新之前，先翻了翻《微信读书》，在《微信读书》上面选择的书籍依然是《我曾走在崩溃的边缘》。（对的，看人物传记和看小说很有些相像：对后面的剧情（故事）发展很好奇，容易停不下来。）
 
 我又看到一篇很想要分享的俞老师的总结，于是将其摘抄到此处，以下是原文：
@@ -30,6 +29,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486468&idx=
 
 就在今年，和阿妮讨论这个问题，阿妮也说：“亲戚之间一起开店，也不好搞。前期大家一条心事业红红火火，后面做起来之后出矛盾就江河日下。”
 
-摘抄只到此处，未来再找一找，成功合伙的示例。
-
-↓↓↓欢迎关注
+摘抄只到此处，未来再找一找，成功合伙的示例。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486468&amp;idx=1&amp;sn=397cd512f146c57c19995db3360b25b3&amp;chksm=a6c760e991b0e9ffcc30464b05cfc74af62871d6865f59ab53cf9cdc49b9931090626eb8dcd3" rel="noopener noreferrer">原文链接</a>）</small>

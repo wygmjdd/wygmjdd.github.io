@@ -5,7 +5,6 @@ weight: 287050259
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484791&idx=1&sn=9529da3839616e49a05e3a7dbaa71f5d&chksm=a6c7699a91b0e08c16b6cc7dced6a4fa35410af4535579bbcab57d38b0c81fa3275173015968
 ---
-
 复习《HTTP: The Definitive Guide》读书笔记的一个中午，忽然有想法写一写最近的读书态度。起这想法有两个原因：一是上个月看《程序员修炼之道：通向务实的最高境界》前言时关于现在读书类别的一段感悟。二是近期已经读完好几本书，而这些书都还没有憋出读书笔记；我想在这之前，先做一做总结，理理自己读书的方向。
 
 刚读完，还没憋出读书笔记的书有《HTTP: The Definitive Guide》、《图解 TCP/IP》、《编码：隐匿在计算机软硬件背后的语言》、《习惯的力量》。（如果没出意外，《习惯的力量》应该能作为本周的附篇出现。）
@@ -49,11 +48,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484791&idx=
 
 做这总结时，心中经常遗憾，如果能够早几年，多看些书，即便只是小说（曾经有一个按作者名字读小说计划，只读完金庸古龙，琼瑶读一小半后搁置），现在是否会不一样？
 
-我向阿妮说这遗憾，她回我“种一棵树，最好的时间是10年前；其次，是现在。”
+我向阿妮说这遗憾，她回我“种一棵树，最好的时间是10年前；其次，是现在。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484791&amp;idx=1&amp;sn=9529da3839616e49a05e3a7dbaa71f5d&amp;chksm=a6c7699a91b0e08c16b6cc7dced6a4fa35410af4535579bbcab57d38b0c81fa3275173015968" rel="noopener noreferrer">原文链接</a>）</small>
 
   
 
-
 * * *
-
-↓↓↓ 一个学做菜、用文字分享生活的程序员

@@ -5,7 +5,6 @@ weight: 274880018
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487176&idx=1&sn=cadf6108725aa1761b00913e4a96716b&chksm=a6c7622591b0eb33867905d4914b2c13cb675a4705d90e38650936394a74c0fd4127a53f2b08
 ---
-
 今天周六，早早醒来，尝试再次睡着，失败。
 
 爬起来窝在沙发看昨天新发现的《沈从文的后半生》20分钟，之后坐在（对的，上完厕所不出厕所）厕所玩《皇室战争》（后文依然简称《皇室战争》为CR）30分钟。
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487176&idx=
 
 `王子`，冲！
 
-每天只冲30分钟，不是沉迷，是放松？
-
-↓↓↓欢迎关注
+每天只冲30分钟，不是沉迷，是放松？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487176&amp;idx=1&amp;sn=cadf6108725aa1761b00913e4a96716b&amp;chksm=a6c7622591b0eb33867905d4914b2c13cb675a4705d90e38650936394a74c0fd4127a53f2b08" rel="noopener noreferrer">原文链接</a>）</small>

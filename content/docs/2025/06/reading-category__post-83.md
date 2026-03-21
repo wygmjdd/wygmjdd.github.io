@@ -5,7 +5,6 @@ weight: 275850083
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487003&idx=1&sn=d0f5fdd5d3d7292d0aaeca0de2e61d10&chksm=a6c762f691b0ebe03a4a77a8f2379a72c7ab6f6ee3a29c8d80cefbd10ea50b7074c4502746b9
 ---
-
 去年，看完《[津巴多普通心理学](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&scene=21#wechat_redirect)》的我为自己新增一个阅读计划：继续阅读另一本心理学专业的教科书《心理学与生活》，只是节奏稍微再放慢些，如果书中有作者推荐的其它书籍，先将推荐书籍读完后再回到《心理学与生活》。
 
 读完《[行为主义](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486833&idx=1&sn=76a087c56b7d1a03724c3deb155bff39&scene=21#wechat_redirect)》，回到《心理学与生活》只一小段，我便从书中关于“成长”的描述联想到自己生活中的一些小小片段。
@@ -98,6 +97,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487003&idx=
 
 好小孩，不等于“乖乖听话”。
 
-未来的他，应该幸福、平衡、独立、得志、富有成效、自足、负责任、积极向上、善良、体贴、充满爱心、求知欲强，且自信。
-
-↓↓↓ 欢迎关注
+未来的他，应该幸福、平衡、独立、得志、富有成效、自足、负责任、积极向上、善良、体贴、充满爱心、求知欲强，且自信。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487003&amp;idx=1&amp;sn=d0f5fdd5d3d7292d0aaeca0de2e61d10&amp;chksm=a6c762f691b0ebe03a4a77a8f2379a72c7ab6f6ee3a29c8d80cefbd10ea50b7074c4502746b9" rel="noopener noreferrer">原文链接</a>）</small>

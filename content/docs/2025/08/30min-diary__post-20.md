@@ -5,7 +5,6 @@ weight: 275220020
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487095&idx=1&sn=9241abb4a76c1494ec055808ee9ec35f&chksm=a6c7629a91b0eb8cbc23842a23b557d1f5222486bc04d7c679bca67581b773230388149e4875
 ---
-
 我的朋友圈最近出现一部电影，名叫《捕风捉影》，是成龙、梁家辉和张子枫主演的。它最近一次出现，是阿航的动态，留言后阿航让我快看，这让我生出看一看念头——大家愿意分享在朋友圈的电影，该是好看的电影。
 
 阿妮回到重庆是周日，《[甘于平凡的勇气](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487091&idx=1&sn=ff194b8ee00e41475b09cfe1419dcee4&scene=21#wechat_redirect)》的读书笔记已经有了草稿，下午四点的午晚餐已经吃过，一切条件似乎都在对我说：“走吧，邀请阿妮看一场大家都推荐的电影。”
@@ -46,6 +45,4 @@ AI可以更厉害一点？路径计算和概率统计，三十年前《赌神》
 
 三胞胎中最厉害的那位，会有怎样的表现呢？
 
-我有一点期待。
-
-↓↓↓欢迎关注
+我有一点期待。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487095&amp;idx=1&amp;sn=9241abb4a76c1494ec055808ee9ec35f&amp;chksm=a6c7629a91b0eb8cbc23842a23b557d1f5222486bc04d7c679bca67581b773230388149e4875" rel="noopener noreferrer">原文链接</a>）</small>

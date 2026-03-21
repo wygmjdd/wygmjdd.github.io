@@ -5,7 +5,6 @@ weight: 277850037
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486663&idx=1&sn=7e9e9b8b2efc5293451bc2c85db72f21&chksm=a6c7602a91b0e93cc2d00f4f46f4c9072d527584294dee2787acebc2beb9adf602f592f0cf70
 ---
-
 打开微信，点进“公众号”，偶尔能看到置顶的“快讯”，我今天看见且点进去看了的快讯标题是：“作家琼瑶轻生，终年86岁，遗书公布”。
 
 看过快讯中琼瑶最后的文字，我内心是平静的，平静中有生出来两个想法：
@@ -100,6 +99,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486663&idx=
 
 \--
 
-我并不认为琼瑶是“轻生”，这是属于她的选择；她活过，还活着。
-
-↓↓↓欢迎关注
+我并不认为琼瑶是“轻生”，这是属于她的选择；她活过，还活着。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486663&amp;idx=1&amp;sn=7e9e9b8b2efc5293451bc2c85db72f21&amp;chksm=a6c7602a91b0e93cc2d00f4f46f4c9072d527584294dee2787acebc2beb9adf602f592f0cf70" rel="noopener noreferrer">原文链接</a>）</small>

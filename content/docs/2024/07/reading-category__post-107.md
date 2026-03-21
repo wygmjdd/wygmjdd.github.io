@@ -5,7 +5,6 @@ weight: 279350107
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486328&idx=1&sn=5fdc463ccc24c93c93b3011a2350c889&chksm=a6c7679591b0ee8362aac4a481b038f7d3e791a88f29ff00ab948a9e7904b8b08608c410f8c2
 ---
-
 叶圣陶先生的书，我只读过《[文心](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485087&idx=1&sn=070df8f6edb97e351d1b208060ffee5c&chksm=a6c76a7291b0e3646a30a9f2aa4b668cf784c13e27b8a09ffc1487b9a11ed2a4fe165e7c50f9&scene=21#wechat_redirect)》，读完当时，我认为《文心》该是所有中学生都阅读的关于写作的书。由此，我知道叶圣陶先生，我的心中，对叶先生生出许多崇敬与佩服。
 
 不记得是哪天，我将叶圣陶先生的《学会读书》加入书架并置顶，随着置顶书籍愈多，《学会读书》便被排到很后面去。又不记得哪天，浑浑噩噩静不下心的我在书架上翻翻点点，读完《学会读书》中收录的为《文章例话》写的序言。由此，我又知道《文章例话》。
@@ -32,6 +31,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486328&idx=
 
 写下当时，我以为这结尾还算不错；待时间过去两小时，我的观点发生改变——我认为“切莫言己老”有些莫名其妙。我暂时没有更好的想法，于是只将自己的想法，记在此处。
 
-还是慢慢积攒素材吧，别急。
-
-↓↓↓欢迎关注
+还是慢慢积攒素材吧，别急。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486328&amp;idx=1&amp;sn=5fdc463ccc24c93c93b3011a2350c889&amp;chksm=a6c7679591b0ee8362aac4a481b038f7d3e791a88f29ff00ab948a9e7904b8b08608c410f8c2" rel="noopener noreferrer">原文链接</a>）</small>

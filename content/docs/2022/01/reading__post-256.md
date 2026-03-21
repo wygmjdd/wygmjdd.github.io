@@ -5,7 +5,6 @@ weight: 288380256
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484519&idx=1&sn=9f24f62eebda73c8d9c5cd481f34252e&chksm=a6c7688a91b0e19c261fddb55933b64f099e69c113147d06cb9970e85806b4340a265615d33d
 ---
-
 看到汪先生在《人间草木》中写沈从文先生，写沈先生教导如何写作。读完《人间草木》，想去沈先生的作品中寻找写作技巧，便找到《沈从文文集》读了起来。《沈从文文集》太长，7个月时间过去，我刚读完一半。
 
 我看的电子书，看书的时间，绝大部分是在上班地铁上。这样看书成了习惯，习惯坚持半年，上班路上的30分钟，成了我很是珍惜、很是期待、很是专注的30分钟。
@@ -30,14 +29,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484519&idx=
 
 《沈从文文集》太长，读完一半，我逼着自己先做这个小小总结。总结对我来说，是难的，到这个周日，距离起总结念头过去一个月。这期间，我已经又读完了一卷。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)《平凡的世界》与拳头
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)《平凡的世界》与拳头 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484519&amp;idx=1&amp;sn=9f24f62eebda73c8d9c5cd481f34252e&amp;chksm=a6c7688a91b0e19c261fddb55933b64f099e69c113147d06cb9970e85806b4340a265615d33d" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓ 一个学做菜、用文字分享生活的程序员

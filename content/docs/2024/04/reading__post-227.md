@@ -5,7 +5,6 @@ weight: 280120227
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486156&idx=1&sn=9c7a1cee51c56ce7142d0f34ac2642f9&chksm=a6c7662191b0ef37e7399e79e5f653a2200cdf870a8a275a43a90c23757422f171896bce6dd6
 ---
-
 今早5点50分醒来，不想起床，也不想立马就继续写《深入理解软件性能》的读书笔记。
 
 我继续躺床上，将那些（公众号、知乎、掘金、小红书、虎扑）每天起床后都会过一遍的应用过完一遍再刷两个视频。
@@ -63,9 +62,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486156&idx=
   
 
 
-最后，附一张昨天打完球后赶回家炒的三个菜，多关注当下，将时间花在自己可控制事物上，是没错的。
-
-  
-
-
-↓↓↓欢迎关注
+最后，附一张昨天打完球后赶回家炒的三个菜，多关注当下，将时间花在自己可控制事物上，是没错的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486156&amp;idx=1&amp;sn=9c7a1cee51c56ce7142d0f34ac2642f9&amp;chksm=a6c7662191b0ef37e7399e79e5f653a2200cdf870a8a275a43a90c23757422f171896bce6dd6" rel="noopener noreferrer">原文链接</a>）</small>

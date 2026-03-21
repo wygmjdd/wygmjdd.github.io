@@ -20,6 +20,15 @@
 }
 
 /*
+ * Root cause: layouts/_default/single.html puts <h1> inside header.markdown-inner
+ * and the article body in the *next* sibling div.markdown-inner. Gap between title
+ * and first paragraph is therefore h1 margin-bottom (not padding-top on header).
+ */
+.book-article > header.markdown-inner h1 {
+  margin-bottom: 1.25rem;
+}
+
+/*
  * Mobile: the header row uses flex + justify-between. Long <h3> titles can
  * overlap the right-hand <label for="toc-control"> because flex items default
  * to min-width: auto, so the title does not shrink and paints over the icon.

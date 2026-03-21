@@ -5,7 +5,6 @@ weight: 278290051
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486523&idx=1&sn=c96c7099beed19fc16ff21a726855443&chksm=a6c760d691b0e9c02c9fb08ccb99235be27f8371ac885d985fa51332245bcc87aae75b7c79ad
 ---
-
 近三年前，在我[作为司机的新手阶段](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484538&idx=1&sn=bf01b36a4aad5e29e0e03bfbec3539a5&chksm=a6c7689791b0e1818d37583b8fdf8ec90e411f0f65bd6186222c5cd078d55745dfaab2494d5a&scene=21#wechat_redirect)，有将车子狠狠刮蹭（这里有两个词：刮蹭和剐蹭，剐蹭更注重物体的钩住、勾到的感觉，而刮蹭更强调表面划痕）一次，右手边两扇门都粘上抹不掉的黑漆。
 
 那时候的我懊恼沮丧不知所措，我咨询已经是老司机的同学与长辈，得到的答复是相似的：如果车辆受损，维修费用一千元以内自己修，否则就报保险。
@@ -78,9 +77,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486523&idx=
 
 
 
-今天日记记的很慢，80分钟2300字。记于10月21日晚临睡前。
-
-  
-
-
-↓↓↓欢迎关注
+今天日记记的很慢，80分钟2300字。记于10月21日晚临睡前。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486523&amp;idx=1&amp;sn=c96c7099beed19fc16ff21a726855443&amp;chksm=a6c760d691b0e9c02c9fb08ccb99235be27f8371ac885d985fa51332245bcc87aae75b7c79ad" rel="noopener noreferrer">原文链接</a>）</small>

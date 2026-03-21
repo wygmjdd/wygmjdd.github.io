@@ -5,7 +5,6 @@ weight: 278240213
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486544&idx=1&sn=d335fc18cd230d1ebe734145d7031856&chksm=a6c760bd91b0e9ab0ddc3cb7a1e0623e4470c9cf329dac651abbe3d41816c8384986bb1cbcce
 ---
-
 整理《和另一个自己谈谈心》的读书笔记时，有看到好多自己划过线（“划线”是《微信读书》的一种功能，如果划线，就会新增一个标记，方便未来定位那些对自己产生触动的句子）的段落。
 
 读书笔记一时整理不出来，先将划线内容再过一遍，这过程中，又生出摘抄分享心思，于是有此篇。
@@ -92,6 +91,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486544&idx=
 
 是的，投身于自己热爱的事，不仅是为了追求所谓的“成就”，更是在修炼自己的生命力。
 
-做自己想做的事，是快乐的。
-
-↓↓↓欢迎关注
+做自己想做的事，是快乐的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486544&amp;idx=1&amp;sn=d335fc18cd230d1ebe734145d7031856&amp;chksm=a6c760bd91b0e9ab0ddc3cb7a1e0623e4470c9cf329dac651abbe3d41816c8384986bb1cbcce" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 283190149
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485587&idx=1&sn=e44da3e0c3418d6f7edeef23cfb5bc3c&chksm=a6c7647e91b0ed685c4de85109c870b295d8134b2d7d63ec7f3ef97306dbc1d246662332a6e9
 ---
-
 上次见到“瞿秋白”这个名字，是在《鲁迅全集》里面。鲁迅先生和秋白先生发生怎样的故事，我已经不记得，只脑子中保留了对这名字的印象。（我在《鲁迅全集》中搜索，搜到的内容有“萧参预支稿费”“两位先生共用笔名‘何家干’”等，并没有找到我印象中的内容。说明脑中目录与书中内容，距离是有些远的。）
 
 前两周，为写《[上帝掷骰子吗](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485569&idx=1&sn=3a529c87c8f7aa0d29bee26321418b31&chksm=a6c7646c91b0ed7a8b57f8f888207a17bb7fc6400894a9b1b42e58ff6b19cc97709b8588f727&scene=21#wechat_redirect)》读书笔记，我再去翻了翻《微信读书》神作榜。当时排名第一的书叫《多余的话》，我被这排名与书名所吸引，便点开简介看了看：
@@ -44,6 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485587&idx=
 
 先生书中第一句话是“知我者，谓我心忧；不知我者，谓我何求。”
 
-我只能对自己说：“我不知我！”
-
-↓↓↓欢迎关注
+我只能对自己说：“我不知我！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485587&amp;idx=1&amp;sn=e44da3e0c3418d6f7edeef23cfb5bc3c&amp;chksm=a6c7647e91b0ed685c4de85109c870b295d8134b2d7d63ec7f3ef97306dbc1d246662332a6e9" rel="noopener noreferrer">原文链接</a>）</small>

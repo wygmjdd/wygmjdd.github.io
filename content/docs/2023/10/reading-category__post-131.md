@@ -5,7 +5,6 @@ weight: 281930131
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485776&idx=1&sn=f0e010c9a629d1420007399c305d29e8&chksm=a6c765bd91b0ecabb1b32398b77111976b2bc190a9dacbe66aee28838ed86fd7eeddf624bed2
 ---
-
 在《微信读书》看书时，如果书中某几个文字被书名号括起来，并且这几个文字是《微信读书》已经收录的书籍名称，《微信读书》会为这些文字添加一个链接，点击之后会弹出相关书籍。
 
 最近正阅读的人物传记是《世界因你不同：李开复自传》，书中有一个引用是“选择的智慧”，我点进去发现是开复老师的演讲稿，被北京大学出版社整理成一本书籍。
@@ -52,6 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485776&idx=
 
 演讲，可以在刷牙、做早餐、吃早餐时听完。
 
-《选择的智慧》，可以是周末早晨的醒脑剂。”
-
-↓↓↓欢迎关注
+《选择的智慧》，可以是周末早晨的醒脑剂。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485776&amp;idx=1&amp;sn=f0e010c9a629d1420007399c305d29e8&amp;chksm=a6c765bd91b0ecabb1b32398b77111976b2bc190a9dacbe66aee28838ed86fd7eeddf624bed2" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 274770010
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487326&idx=1&sn=ed67cf2573181c4db5c6433efcd53550&chksm=a6c763b391b0eaa5de660c2aad506bc4aae5b81367acebf728f4964de497b2d4e8e7f22402c9
 ---
-
 > 我还想再说说的内容，关于标题中的“好不一样”，这好不一样，指的是我心态的好不一样。
 > 
 > 去年当时，我正在努力让自己从一种濒临绝望的情境中往外爬，我天天天天的给自己以鼓励，天天天天的告诉自己去拥抱生活中的变化，去主动做出改变。那是一种基于理智的让自己看起来更好一点，但情绪并不认同。
@@ -64,6 +63,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487326&idx=
 
 现在时间是晚上的10点21分，我已经没了写东西心思，于是本篇只到此处。
 
-明儿上班，且认真工作。
-
-↓↓↓欢迎关注
+明儿上班，且认真工作。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487326&amp;idx=1&amp;sn=ed67cf2573181c4db5c6433efcd53550&amp;chksm=a6c763b391b0eaa5de660c2aad506bc4aae5b81367acebf728f4964de497b2d4e8e7f22402c9" rel="noopener noreferrer">原文链接</a>）</small>

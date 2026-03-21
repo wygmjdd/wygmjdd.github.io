@@ -5,7 +5,6 @@ weight: 276410088
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486916&idx=1&sn=a182c454037a9de9fc5638381f3519b6&chksm=a6c7612991b0e83f94b9888fdbeeabe11308d53b458b5c2de668eb15214fe8d1099caa0aa085
 ---
-
 《国史大纲》，是我[23年很是推荐](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485960&idx=1&sn=35ed68c5cabbc4c08cbaf7933f32e5fe&scene=21#wechat_redirect)的一本书，但当我读到宋朝时却并不继续下去。不继续下去的原因是简单的：钱穆先生书中的许多人名许多事件，我都没有听说过；由此，钱穆先生所说的许多品评性内容，我读来都颇感吃力。
 
 我为这吃力找到一种解决方案：待我将中国历史上下五千年都过上一遍之后再来阅读《国史大纲》。
@@ -68,6 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486916&idx=
 
 《五代十国全史》第八册，麦老师命名为“三贤帝时代”，三贤帝，是郭威、柴荣和赵匡胤。郭威最关心民生，爱惜百姓，自己生活最俭朴；柴荣最有主见、最有进取心、执行能力最强，也最为勤政；赵匡胤做事最稳妥，实际操作能力最强，政治手腕最巧妙，总体成就也最高；是他们顺应时势的发展，开创了一个走出乱世，走向繁荣的新时代。
 
-刚听完《五代十国全史》，刚看完《国史大纲》中关于五代十国的大纲之后的上个周日，我真真感受到自己生逢盛世的幸运，我真真很是感恩，[今日的国泰民安](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486910&idx=1&sn=1a5d7bec3690b67f8a51386775c0eee0&scene=21#wechat_redirect)。
-
-↓↓↓欢迎关注
+刚听完《五代十国全史》，刚看完《国史大纲》中关于五代十国的大纲之后的上个周日，我真真感受到自己生逢盛世的幸运，我真真很是感恩，[今日的国泰民安](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486910&idx=1&sn=1a5d7bec3690b67f8a51386775c0eee0&scene=21#wechat_redirect)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486916&amp;idx=1&amp;sn=a182c454037a9de9fc5638381f3519b6&amp;chksm=a6c7612991b0e83f94b9888fdbeeabe11308d53b458b5c2de668eb15214fe8d1099caa0aa085" rel="noopener noreferrer">原文链接</a>）</small>

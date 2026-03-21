@@ -5,7 +5,6 @@ weight: 277290058
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486736&idx=1&sn=f7c5e92ab60602a0bf7dbc1b89c3b228&chksm=a6c761fd91b0e8eb21284495e7192f51a1c84a53c1739fa41bd902a04998a8a2c4f05c9401e1
 ---
-
 我已经又在电脑前面坐一个半小时，写下的文字一个都没有，看进去的书一句也不到，我并不是静不下心，我只是很想听阿妮和她闺蜜的聊天。我喜欢听她们这样很是放松的聊天，就像小时候，听母亲和邻里阿姨聊天一样。
 
 我知道自己不能再分心下去，于是将对当前心境的记载作为本篇的起点。本篇，我会理一理过去的一年。
@@ -72,6 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486736&idx=
 
 火燃了。
 
-祝您新年快乐，红红火火。
-
-↓↓↓欢迎关注
+祝您新年快乐，红红火火。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486736&amp;idx=1&amp;sn=f7c5e92ab60602a0bf7dbc1b89c3b228&amp;chksm=a6c761fd91b0e8eb21284495e7192f51a1c84a53c1739fa41bd902a04998a8a2c4f05c9401e1" rel="noopener noreferrer">原文链接</a>）</small>

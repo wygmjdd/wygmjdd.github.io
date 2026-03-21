@@ -5,7 +5,6 @@ weight: 287050184
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484791&idx=2&sn=7fa9865c9e3558aa9e9de5e1af87e5ec&chksm=a6c7699a91b0e08c171b50a14ea773ce2555bf4f1d8d579aa6bef36af0e33d68fbbef612e2df
 ---
-
 《习惯的力量》，是《软技能》作者推荐的。我好奇习惯的力量，读完《软技能》，便接着读这本书，读完花费6小时40分钟。
 
 全书分成三个部分：
@@ -51,11 +50,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484791&idx=
 
 书中讲述过一个故事，故事主人公是一位家庭主妇，一次偶然机会让她在闲散时间去赌场赌博，从5块钱赌起，在5块钱额度上，她养成赌博习惯。习惯让额度慢慢变成50、500……直到倾家荡产、众叛亲离。
 
-这故事让我心怀恐惧，它让我回忆起[沉迷于《皇室战争》](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484236&idx=1&sn=e92dd8a9bf02d43e19d8f0d35c8bc936&scene=21#wechat_redirect)的那些夜晚，再玩一把睡觉……就只玩一把了……最后一把……
+这故事让我心怀恐惧，它让我回忆起[沉迷于《皇室战争》](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484236&idx=1&sn=e92dd8a9bf02d43e19d8f0d35c8bc936&scene=21#wechat_redirect)的那些夜晚，再玩一把睡觉……就只玩一把了……最后一把…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484791&amp;idx=2&amp;sn=7fa9865c9e3558aa9e9de5e1af87e5ec&amp;chksm=a6c7699a91b0e08c171b50a14ea773ce2555bf4f1d8d579aa6bef36af0e33d68fbbef612e2df" rel="noopener noreferrer">原文链接</a>）</small>
 
   
 
-
 * * *
-
-↓↓↓ 一个学做菜、用文字分享生活的程序员

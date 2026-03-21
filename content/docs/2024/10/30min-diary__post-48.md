@@ -5,7 +5,6 @@ weight: 278260048
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486539&idx=1&sn=b91fbd4cf65219f7121dcaee7c0b67fa&chksm=a6c760a691b0e9b01ed2fd308ead87c9422a2b28da0835b8f72c9f7c2e772a55b5124119cbdf
 ---
-
 今天的时间，全属于自己，于是一直在看书。看书当时，都是认真的，阅读当时，已然忘记上一本书的内容。我想着，晚上理一理输入让它们变成输出，由这过程，将输入更多的内化到自己的记忆中。
 
 \--
@@ -94,6 +93,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486539&idx=
 
 
 
-现在时间是晚上的10点53分，早点洗漱，果然是提醒自己早睡的神器。
-
-↓↓↓欢迎关注
+现在时间是晚上的10点53分，早点洗漱，果然是提醒自己早睡的神器。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486539&amp;idx=1&amp;sn=b91fbd4cf65219f7121dcaee7c0b67fa&amp;chksm=a6c760a691b0e9b01ed2fd308ead87c9422a2b28da0835b8f72c9f7c2e772a55b5124119cbdf" rel="noopener noreferrer">原文链接</a>）</small>

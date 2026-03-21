@@ -5,7 +5,6 @@ weight: 281240064
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485903&idx=1&sn=72e94989eb3c66c36c1fd3444ccf212d&chksm=a6c7652291b0ec34d33385c8b7688506781f3198ea7493422ffc7dc1165c2087035be5cfbebf
 ---
-
 2023年的读书，相较[2022](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485256&idx=1&sn=440b39fbb9951581cb741e63a4af2a81&chksm=a6c76ba591b0e2b37d4f309fc982ad108977db5a90676cedb33dea540705e27ab2c043f947de&scene=21#wechat_redirect)，又有了些进步。
 
 这进步体现在三个方面。一是阅读习惯的增强，读书对我来说，成了与吃饭睡觉一样，是每天都会做的事情；二是阅读时间的增加，2023年，我的累积阅读时长大约是580个小时，相较去年，多出180小时；三是读完书籍的本数，从23本增加到46本。
@@ -163,6 +162,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485903&idx=
 
 《纳瓦尔宝典》，类似《沉思录》，都是行事准则汇集而成的书。我从书中收获一种迫切：我一定要有自己的产品。
 
-感谢您读到此处，让我们，明年再见。
-
-↓↓↓欢迎关注
+感谢您读到此处，让我们，明年再见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485903&amp;idx=1&amp;sn=72e94989eb3c66c36c1fd3444ccf212d&amp;chksm=a6c7652291b0ec34d33385c8b7688506781f3198ea7493422ffc7dc1165c2087035be5cfbebf" rel="noopener noreferrer">原文链接</a>）</small>

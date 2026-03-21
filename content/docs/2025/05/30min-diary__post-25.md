@@ -5,7 +5,6 @@ weight: 276100025
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486962&idx=1&sn=750902984f044521d96998aae267aaf3&chksm=a6c7611f91b0e80989a0feec6f6d4dfa5b4fdb6fa767c1262a9bb1c7c51f72dac465886de3f4
 ---
-
 《苏东坡新传》，是已经加入书架好几年的书，我看的并不连续，只在想起来时才翻出来读一读。
 
 最近，我又想起来它。
@@ -50,6 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486962&idx=
 
 今早起床后不立即起床，先看一段《苏东坡新传》；起床后不继续看书不立即干活，先记下本篇，是为临时想要分享的读书笔记片段。
 
-对的，李一冰先生的《苏东坡新传》，我很是推荐。
-
-↓↓↓欢迎关注
+对的，李一冰先生的《苏东坡新传》，我很是推荐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486962&amp;idx=1&amp;sn=750902984f044521d96998aae267aaf3&amp;chksm=a6c7611f91b0e80989a0feec6f6d4dfa5b4fdb6fa767c1262a9bb1c7c51f72dac465886de3f4" rel="noopener noreferrer">原文链接</a>）</small>

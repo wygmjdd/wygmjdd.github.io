@@ -5,7 +5,6 @@ weight: 281870130
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485781&idx=1&sn=e9c791cf139ccacfdff2ea568162db85&chksm=a6c765b891b0ecae31073332dfbe4edc482d6517f47d26410b9ca989363122e66c4d735f5cef
 ---
-
 我的书架上有一本书名叫《清华大学荐读书目》，书中推荐许多古今中外的经典书籍。我由书中推荐，将许多书加入书架，最先读完的是《沉思录》。
 
 将《沉思录》加入书架的原因，一是因为本书比较短能很快看完，二是好奇古代皇帝的真实想法。
@@ -52,6 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485781&idx=
 
 “如果是不对的，不要去做；如果是不真实的，不要去说。
 
-“如果《沉思录》能被更多的人看到，这由人组成的社会便会越来越好。”
-
-↓↓↓欢迎关注
+“如果《沉思录》能被更多的人看到，这由人组成的社会便会越来越好。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485781&amp;idx=1&amp;sn=e9c791cf139ccacfdff2ea568162db85&amp;chksm=a6c765b891b0ecae31073332dfbe4edc482d6517f47d26410b9ca989363122e66c4d735f5cef" rel="noopener noreferrer">原文链接</a>）</small>

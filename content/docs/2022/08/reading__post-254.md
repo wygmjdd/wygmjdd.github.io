@@ -5,7 +5,6 @@ weight: 286340254
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485013&idx=1&sn=6d00597498bc6da952e90fbda2b255dc&chksm=a6c76ab891b0e3aec82efa3912dabd3365fa95d78385def60eb1e475b0e25b057ec99c41314a
 ---
-
 将睡觉时间改为强制11点后，每天早上是自然醒的，自然醒之后的时间，被我用来完成一个番茄钟——阅读《数据库系统概念》。
 
 6月中旬，读到第11章“索引与散列”，其中有一节是B+树。阅读之前，对B+树，我是有些恐惧的——我的学习历史告诉我，这东西很难，很难搞懂。
@@ -125,4 +124,4 @@ B+树是多级索引，与顺序索引的多级并不一样。
 ### 引用链接：
 
   1. B+树的介绍：https://zhuanlan.zhihu.com/p/351240279
-  2. B+树的可视化：https://www.cs.usfca.edu/~galles/visualization/BTree.html
+  2. B+树的可视化：https://www.cs.usfca.edu/~galles/visualization/BTree.html <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485013&amp;idx=1&amp;sn=6d00597498bc6da952e90fbda2b255dc&amp;chksm=a6c76ab891b0e3aec82efa3912dabd3365fa95d78385def60eb1e475b0e25b057ec99c41314a" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 281800129
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485786&idx=1&sn=26abb1325cfe853f36dcffd7436f0084&chksm=a6c765b791b0eca17951406779a65a55c744b12adf329d263580909bf3658735d4f359093a48
 ---
-
 知乎推出了“圆环挑战”，每天从四个任务——关注一个用户、写一篇回答、送出一个赞、发布一条想法——中选出三个完成便能获得一次开奖机会，奖品从盐粒（可提现）、创作分、超赞包（用于推广）、“什么都没有”中随机掉落一个。
 
 这个每日打卡活动，我在9月参与最多。关注一个用户最简单，于是整个9月，我关注好多位知乎用户，其中一位是李开复老师。
@@ -80,6 +79,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485786&idx=
 
 “开复老师希望用他的人生经验供当代年轻人参考，《世界因你不同：李开复自传》便是开复老师人生经验的汇集之处。
 
-“阅读本书，会拓宽我们的视野。即便世界很大，我们依然可以通过自己的努力‘让世界因我不同’。”
-
-↓↓↓欢迎关注
+“阅读本书，会拓宽我们的视野。即便世界很大，我们依然可以通过自己的努力‘让世界因我不同’。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485786&amp;idx=1&amp;sn=26abb1325cfe853f36dcffd7436f0084&amp;chksm=a6c765b791b0eca17951406779a65a55c744b12adf329d263580909bf3658735d4f359093a48" rel="noopener noreferrer">原文链接</a>）</small>

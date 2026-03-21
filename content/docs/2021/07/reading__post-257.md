@@ -5,7 +5,6 @@ weight: 290270257
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484178&idx=2&sn=4868587a39badc55f7355d4e45f07224&chksm=a6c76fff91b0e6e9d158f30004a60b0dfd5b6bcde5744aaa0302c8587d3804ebdc1a0244e337
 ---
-
 这一篇汪先生记录的沈先生如何教导写作的文章，我将其摘抄在这里，有空便来读一读。此前每一遍阅读，似乎都有些新的想法出现。
 
 摘抄来源为《京东阅读》上的《人间草木》。
@@ -52,4 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484178&idx=
 > 
 > 沈先生在西南联大是一九三八年到一九四六年。一晃，四十多年了！
 > 
-> 一九八六年一月二日上午载一九八六年第五期《人民文学》
+> 一九八六年一月二日上午载一九八六年第五期《人民文学》 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484178&amp;idx=2&amp;sn=4868587a39badc55f7355d4e45f07224&amp;chksm=a6c76fff91b0e6e9d158f30004a60b0dfd5b6bcde5744aaa0302c8587d3804ebdc1a0244e337" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 281160123
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485923&idx=1&sn=252d3528fc913b8401fde788420e2db9&chksm=a6c7650e91b0ec186ecfa40bec92db6d70daac3eed08d4056de6c0fd63b9263817dbbe401e23
 ---
-
 我在深圳的两年，每天坐地铁上下班，地铁上的时间，大部分用来看书。上班路上精力充沛看需要动脑子的书，它们是《[沈从文文集](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484979&idx=1&sn=42cd3716c384045d497004a57693fdd6&chksm=a6c76ade91b0e3c853217a75e867c15667b122b356e4d69ba4bddbd2d1f9492989560efd627c&scene=21#wechat_redirect)》和《鲁迅全集》，下班路上心思涣散便只看些传记或者历史。
 
 23年[6月回到重庆](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485548&idx=1&sn=8ee975931fa4d9f5326b4c9511a2b648&chksm=a6c7648191b0ed979b8a9f18ac7818cc4ce8efcd1b65add282f6cd9a8da97d4be541c0933dc1&scene=21#wechat_redirect)，通勤方式有了很大变化，坐地铁变成开车。
@@ -50,6 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485923&idx=
 
 我在《[三年的持续阅读，我的改变](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485675&idx=1&sn=b9626b95577f23e697a55f8a0037c7ec&chksm=a6c7640691b0ed10d4cad59a32f89543eb48f7b7547d7f46be7b25447b1632df14bad8cc8eda&scene=21#wechat_redirect)》中说“读书恰似结网”结论便来自于此处：平日里想不起来读过书中的内容，只是没有找到正确的关联方式，它们其实一直存储于我们的[长期记忆](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485792&idx=1&sn=06c5b520ddb1b853848317e40beaf709&chksm=a6c7658d91b0ec9b947d60a40fe096c93066ab0667a05c8aef513dc7d2a79c1f1cf0d11dda21&scene=21#wechat_redirect)中。
 
-待看书更多些，网越来越密，关联处越来越多，引经据典，或许并不是不能追求的一种境界。
-
-↓↓↓欢迎关注
+待看书更多些，网越来越密，关联处越来越多，引经据典，或许并不是不能追求的一种境界。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485923&amp;idx=1&amp;sn=252d3528fc913b8401fde788420e2db9&amp;chksm=a6c7650e91b0ec186ecfa40bec92db6d70daac3eed08d4056de6c0fd63b9263817dbbe401e23" rel="noopener noreferrer">原文链接</a>）</small>

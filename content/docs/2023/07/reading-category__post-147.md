@@ -5,7 +5,6 @@ weight: 283050147
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485620&idx=1&sn=ae8f6ae8fbd1f630244479d055f7bd0c&chksm=a6c7645991b0ed4f5faeff8e3592bb7761e018fee6b9022eb574257e8ed92532072f30adf3d7
 ---
-
 一个半月之前，[感冒之后](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485532&idx=1&sn=9866392877a9ea0960c071ee8b3093be&chksm=a6c764b191b0eda7f2f10f41c88cb0ca5c30887ddb358d4ba8debcf4ac3d9f8c4997cfde4864&scene=21#wechat_redirect)大概有两周的时间，我是毫无食欲的，吃东西只靠理智：“到饭点了，去少吃一点吧。哪怕喝一碗粥也是好的。”
 
 我去社区医院找医生咨询情况，她也没说出我为什么没食欲，只靠自己的经验给我开了些强化胃动力的药。吃药两三天，有些效果，但并不大。
@@ -39,6 +38,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485620&idx=
 
 到快读完本书时，除了规律作息，我似乎理解到更多一些：“规律作息、健康生活的目的并不是让我们活得更久一些，只是为了让我们生活中的烦恼少些。烦恼少些，便是好的。”
 
-愿我们，都能对自己好一点。
-
-↓↓↓欢迎关注
+愿我们，都能对自己好一点。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485620&amp;idx=1&amp;sn=ae8f6ae8fbd1f630244479d055f7bd0c&amp;chksm=a6c7645991b0ed4f5faeff8e3592bb7761e018fee6b9022eb574257e8ed92532072f30adf3d7" rel="noopener noreferrer">原文链接</a>）</small>

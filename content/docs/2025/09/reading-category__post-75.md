@@ -5,7 +5,6 @@ weight: 274940075
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487166&idx=1&sn=45fcc533f4dbe9a1d3799a0d85e43d6c&chksm=a6c7625391b0eb4517b6400a25b9bb7efc725860452edb8aeb127ac3b97bf78d5d20bdcf67fb
 ---
-
 我发现了自己的一点阅读规律，即自己就某类书籍的阅读，是不能做到连续的；然后，久不阅读会想念。这当中，最能作为示例的类型是“人物传记”，每读完一本人物传记，我都会暂停许久，直到想读时找一本传记再阅读。
 
 我交了一位线上朋友欧阳，他也是程序员，他也写公众号，他当前在猪厂而我以前在（此处忽然想要引用今天刚刚听完的《亲密关系》当中的一个研究结论：相似相吸，即我们会被那些和我们很相似的人儿所吸引，我们的朋友和我们的相似度往往很高）。
@@ -104,6 +103,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487166&idx=
 
 “《我曾走在崩溃的边缘》，是我很推荐的一本书，因为俞老师在书中的分享很真诚，许多内容都能给予我启发。
 
-“书中内容不深奥，恰似又一次与长者面对面对话。”
-
-↓↓↓欢迎关注
+“书中内容不深奥，恰似又一次与长者面对面对话。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487166&amp;idx=1&amp;sn=45fcc533f4dbe9a1d3799a0d85e43d6c&amp;chksm=a6c7625391b0eb4517b6400a25b9bb7efc725860452edb8aeb127ac3b97bf78d5d20bdcf67fb" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 276480027
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486910&idx=1&sn=1a5d7bec3690b67f8a51386775c0eee0&chksm=a6c7615391b0e84574f12b51cb9bdd5d11f77e5f7942084f7b0734459d1cd32c1dfb022a92a2
 ---
-
 下午4点去旁边小区篮球场的路上，又生出想要写上一篇“30分钟日记”念头，当时我内心的想法是：“今天我是幸福的，我要将今天用文字记录下来。我认为现在，是我人生很美好的时间，未来不确定可能变得更好也可能变得很差，但今天，就在当下这一刻我所拥有的感受，是真实的。[津巴多教授说](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486156&idx=1&sn=9c7a1cee51c56ce7142d0f34ac2642f9&scene=21#wechat_redirect)，文字不止可以用来舒缓愤怒纾解悲伤，也可以用来记录美好，它们将在未来提醒我曾经明确感受到愉悦，且告知我是如何感受到愉悦的。”
 
 现在时间是晚上的9点，打完球回到家洗漱完再吃过中午的剩饭，给母亲和妹妹打过两个视频电话之后，我来完成自己5小时前的念头了。又坐在阳台上，吹着略带热气的风。
@@ -70,6 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486910&idx=
 
 ![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)竹笋炒瘦肉
 
-或许是最近读《国史大纲》很多的缘故，今天日记的标题和结尾，我脑子中一直往外蹦的句子是：我感恩国泰民安！
-
-↓↓↓欢迎关注
+或许是最近读《国史大纲》很多的缘故，今天日记的标题和结尾，我脑子中一直往外蹦的句子是：我感恩国泰民安！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486910&amp;idx=1&amp;sn=1a5d7bec3690b67f8a51386775c0eee0&amp;chksm=a6c7615391b0e84574f12b51cb9bdd5d11f77e5f7942084f7b0734459d1cd32c1dfb022a92a2" rel="noopener noreferrer">原文链接</a>）</small>

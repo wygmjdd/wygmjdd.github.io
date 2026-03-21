@@ -5,7 +5,6 @@ weight: 277030031
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486814&idx=1&sn=da26c652a62af880181fac3ac6365ba3&chksm=a6c761b391b0e8a5e5de83a916d8bec22d536f5bcbf32ce80af4c33c375f52a06cfb13b7c065
 ---
-
 阿港是我的大学同学，现在自己当老板做考研培训机构，今天从他的朋友圈得知考研成绩出来了。对的，对我来说，是“考研成绩又出来了”。
 
 今年的查成绩很有些方便，直接在微信上于订阅号“学信网”上点两下就好。查询成绩之前，我内心该是毫无情绪波动的，唯有一点好奇：今年的考研，我得了多少分呢？
@@ -41,6 +40,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486814&idx=
 
 在家里待的两周，我一天是只吃两顿饭的，早上9点与下午3点，我认为这作息还算不错。今天午饭，是下午三点送到家的外卖。
 
-现在时间来到晚上的10点51分，今天的30分钟日记只到此处。本篇，就分享我这毫无心理压力的考研成绩就好。
-
-↓↓↓欢迎关注
+现在时间来到晚上的10点51分，今天的30分钟日记只到此处。本篇，就分享我这毫无心理压力的考研成绩就好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486814&amp;idx=1&amp;sn=da26c652a62af880181fac3ac6365ba3&amp;chksm=a6c761b391b0e8a5e5de83a916d8bec22d536f5bcbf32ce80af4c33c375f52a06cfb13b7c065" rel="noopener noreferrer">原文链接</a>）</small>

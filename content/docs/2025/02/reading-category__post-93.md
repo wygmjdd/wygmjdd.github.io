@@ -5,7 +5,6 @@ weight: 277110093
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486775&idx=1&sn=8febe91b349f10f51119777f0e4586ae&chksm=a6c761da91b0e8cc94eae67999aba0c0aa528fb7a83e4b602957e7982948fd2bb5a5cef7b9d7
 ---
-
 “看过《[身后无遗物](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486473&idx=1&sn=24eb5616fecb50f5dbe82b7b55adf884&scene=21#wechat_redirect)》，为对持续生活小事的分享而吸引，我再将伊藤比吕美女士——或许该称作者为阿姨——的《闭经记》加入书架。这依然是生活事汇集而成的书，是作者更早些的文章，书中记录的是‘正在老去的作者与各种人和事之间的关系’”。
 
 写下上面一段话之后，我坐在电脑前苦忍许久，一直理不清下一句应该输出的内容是怎样的；我来回阅读上面一段，发现句中转承并不流畅，我内心会冒出来的想法是快去让AI帮我改一改语病，我不想如此依赖AI；不知如何是好，我便再点开《闭经记》随意选中一章读完，一章读完，有些阴郁有些疲倦的我的内心，竟然又生出喜悦满足情绪。
@@ -48,6 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486775&idx=
 
 想说就说，还能说得通畅，让大家都能很容易理出整篇文字的主题，是一件需要刻意练习的难事，我还需要许多练习。但我从作者文字中，有收获到一种鼓励：真诚地按照内心想法一鼓作气去写吧，那是属于我的记忆，属于我的小事，这些记录小事的文字，可能就在某个时刻，收获到某位读者的共鸣。
 
-真诚，是不骗人的，它自有独特魅力。
-
-↓↓↓欢迎关注
+真诚，是不骗人的，它自有独特魅力。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486775&amp;idx=1&amp;sn=8febe91b349f10f51119777f0e4586ae&amp;chksm=a6c761da91b0e8cc94eae67999aba0c0aa528fb7a83e4b602957e7982948fd2bb5a5cef7b9d7" rel="noopener noreferrer">原文链接</a>）</small>

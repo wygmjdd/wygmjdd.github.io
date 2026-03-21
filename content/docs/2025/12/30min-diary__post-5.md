@@ -5,7 +5,6 @@ weight: 274180005
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487419&idx=1&sn=c1d473b19db53e8a5abb607ca46fda25&chksm=a6c7635691b0ea40c55465aef81998d28ed3a90932552cd3a8181785efd91c7177ca0c2a2740
 ---
-
 我本来的晚间计划，是写《初老的女人》的读书笔记，但晚上8点半，坐在楼下，安静且认真吃四串小小羊肉串的我却改变了想法：我以为今天，是又一个值得作些简单记录的平凡日子。
 
 对我来说，冬天的被窝是一种绝对舒适的场所，特别在周末。今天不用加班，早上自然醒来的时间，是8点29分，上个厕所后不继续睡，但能继续躺在床上清醒着。
@@ -42,6 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487419&idx=
 
 我坐在新疆烧烤店门口吃羊肉串，不听书不看小说也不刷视频，只认真品尝羊肉串的辣与咸。羊肉串好吃的，我下次还来吃。
 
-苕皮？我已然忘记了。
-
-↓↓↓欢迎关注
+苕皮？我已然忘记了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487419&amp;idx=1&amp;sn=c1d473b19db53e8a5abb607ca46fda25&amp;chksm=a6c7635691b0ea40c55465aef81998d28ed3a90932552cd3a8181785efd91c7177ca0c2a2740" rel="noopener noreferrer">原文链接</a>）</small>

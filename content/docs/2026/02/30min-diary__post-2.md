@@ -5,7 +5,6 @@ weight: 273350002
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487569&idx=1&sn=9e690fe2267c8eb72c591db095d4e829&chksm=a6c77cbc91b0f5aa8d56e566a000266ac33ef87952217d32d31e44a83671a9444ef6d66e1eb3
 ---
-
 现在时间是晚上的10点57分，洗漱完毕的我待在床上拿着手机想再玩一玩。
 
 刷视频？
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487569&idx=
 
 （嗨，这高僧的想法我一时不能说得很清楚。他大概来源于很多作者在经历许多之后再生出的对生命对生活的态度。）
 
-时间过去27分钟，写着写着睡意愈浓。
-
-↓↓↓欢迎关注
+时间过去27分钟，写着写着睡意愈浓。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487569&amp;idx=1&amp;sn=9e690fe2267c8eb72c591db095d4e829&amp;chksm=a6c77cbc91b0f5aa8d56e566a000266ac33ef87952217d32d31e44a83671a9444ef6d66e1eb3" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 278370101
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486507&idx=1&sn=cf40d3f17021cfe989759471d6f22114&chksm=a6c760c691b0e9d06077450ca612cd46e2c71411194cadd91746aa618ff5e1ee3dff33893464
 ---
-
 四年前，当我决定找工作后大概又过一年时间，经历好几场面试又经由身边大佬提醒，我终于意识到自己作为技术人员所欠缺的点之一：深度不够。
 
 我提升深度的方法，大致分作两个阶段。
@@ -66,9 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486507&idx=
 
 最后，要再谈一谈我对面试中需要做算法题态度的转变。最开始，我是全不知道面试要现场做题的，也就对面试不做准备，全靠工作中的不多积攒与面试当时的“聪明才智”。待发现面试时要做题，一开始的想法是抵触的：“这些工作中又不常用，真不知道考了做啥。”当自己看了些算法书，又生出许多崇拜：“还能这样做么？数据结构与算法确实该是计算机基础，多看些基础内容，对敲代码，对拓展思维，是真会有些帮助的。”
 
-技术迭代很快，AI已经到来，对于“了解更多底层规则后对新事物的理解速度会变快”，我依然相信着。
-
-  
-
-
-↓↓↓欢迎关注
+技术迭代很快，AI已经到来，对于“了解更多底层规则后对新事物的理解速度会变快”，我依然相信着。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486507&amp;idx=1&amp;sn=cf40d3f17021cfe989759471d6f22114&amp;chksm=a6c760c691b0e9d06077450ca612cd46e2c71411194cadd91746aa618ff5e1ee3dff33893464" rel="noopener noreferrer">原文链接</a>）</small>

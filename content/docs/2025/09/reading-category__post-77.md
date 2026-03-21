@@ -5,7 +5,6 @@ weight: 275080077
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487145&idx=1&sn=c4d692dd14230e08cc81c73ce59238f7&chksm=a6c7624491b0eb524e043fa509ae9da2ef7596deae3e3b9b16f4506673e3c4350b377c3c425f
 ---
-
 最近收到一本新书，它的名字叫做《编码：隐匿在计算机软硬件背后的语言（原书第二版）》。
 
 过去10天，它一直不离开我视线。
@@ -50,6 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487145&idx=
 
 是的，网站上的时钟真的会“动”。
 
-翻完《编码》第二版，我想自己书架，又多出一本很值得收藏的实体纸质书——感兴趣时便再翻一翻。
-
-↓↓↓欢迎关注
+翻完《编码》第二版，我想自己书架，又多出一本很值得收藏的实体纸质书——感兴趣时便再翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487145&amp;idx=1&amp;sn=c4d692dd14230e08cc81c73ce59238f7&amp;chksm=a6c7624491b0eb524e043fa509ae9da2ef7596deae3e3b9b16f4506673e3c4350b377c3c425f" rel="noopener noreferrer">原文链接</a>）</small>

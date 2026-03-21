@@ -5,7 +5,6 @@ weight: 284880065
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485266&idx=1&sn=b46e580bfe6d184c721c3b5126c153c8&chksm=a6c76bbf91b0e2a9531e3bb6f56621fff2e5fa8c8e815be55064ba4e9697fa0d9aecb0c73b66
 ---
-
 我不想再在我的更新中谈论我写不出东西。
 
 我确实写不出来，于是不得不谈。
@@ -64,6 +63,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485266&idx=
 
 本篇草稿成形时，不觉又把《既然青春留不住还是做个大叔好》听完一遍，就到这里吧。
 
-非常感谢您在2022年的陪伴。祝您在2023年身体健康，万事如意，天天开心！
-
-↓↓↓ 欢迎关注
+非常感谢您在2022年的陪伴。祝您在2023年身体健康，万事如意，天天开心！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485266&amp;idx=1&amp;sn=b46e580bfe6d184c721c3b5126c153c8&amp;chksm=a6c76bbf91b0e2a9531e3bb6f56621fff2e5fa8c8e815be55064ba4e9697fa0d9aecb0c73b66" rel="noopener noreferrer">原文链接</a>）</small>

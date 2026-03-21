@@ -5,7 +5,6 @@ weight: 277950209
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486638&idx=1&sn=0e5f87bff9ae90f61cbf347becbc6e4a&chksm=a6c7604391b0e95505a39891270817629fc237cadc8c5edff5e09bd99acb6a86168e5aa32db3
 ---
-
 [上周的公众号更新](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486633&idx=1&sn=cc765527fab08d7f7aa67259ce095ed5&chksm=a6c7604491b0e95236b7fc9acbd97e92108e4ba6e9f84932d68942b6e024731ece6b2275e2dd&scene=21#wechat_redirect)，我在周日深夜的12点才搞定，对最末部分——所推荐的书籍列表——的思考，其实是囫囵的，我并没有将自己想要表达的内容完整表述。于是本周的更新，是上周更新的继续，我继续理一理，那些我现在还记得，曾经为我带来改变的且依然很愿意分享的书。
 
 我读书习惯的养成，得益于汪曾祺先生的《[人间草木](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484178&idx=1&sn=ba7f14f383b03d4fb82de2ca3be8f904&chksm=a6c76fff91b0e6e97c37b20de766a19707606ef2e2875eacf6d8417ab9c7980fc972c5db88c2&scene=21#wechat_redirect)》和[TED Try something new for 30 days](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483709&idx=1&sn=a2ff64e31fd89b086e7be640eb94f4d4&chksm=a6c76dd091b0e4c6f0bae91f48e9f0480e7a70d097c2ca223870f1a5350493399af8c2e7a7d6&scene=21#wechat_redirect)，这并非巧言。但在阅读《人间草木》之前，我首先读完的，是侯捷老师的《[左手程序右手诗](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483680&idx=1&sn=01e6a91f8bbd1c40edebcab75ab012e6&chksm=a6c76dcd91b0e4db3a2d734627ec42f8005f58bc66f66b55b96936438d15e852c29d19ea0df0&scene=21#wechat_redirect)》。
@@ -54,6 +53,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486638&idx=
 
 《[津巴多普通心理学](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&chksm=a6c7678891b0ee9e58af615abd92f3ea2f686a8b612b1ba1254c0677d446997dd8f5e8c1bbe0&scene=21#wechat_redirect)》，是一本心理学的百科全书。
 
-以上，是过去四五年中，给我带来改变的现在的我还记着的书。我并不执着于推荐，我只是将自己看过觉得还不错的书，一一列举。
-
-↓↓↓欢迎关注
+以上，是过去四五年中，给我带来改变的现在的我还记着的书。我并不执着于推荐，我只是将自己看过觉得还不错的书，一一列举。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486638&amp;idx=1&amp;sn=0e5f87bff9ae90f61cbf347becbc6e4a&amp;chksm=a6c7604391b0e95505a39891270817629fc237cadc8c5edff5e09bd99acb6a86168e5aa32db3" rel="noopener noreferrer">原文链接</a>）</small>

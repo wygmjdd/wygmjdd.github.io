@@ -5,7 +5,6 @@ weight: 276570028
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486886&idx=1&sn=e34309cb9e8bc92046f08af04775ad37&chksm=a6c7614b91b0e85d912fbdc34603fdf6e416cf02eac5a3d4a451277d5210c930ea95fd9a8cdc
 ---
-
 今天晚上10点40分左右，准备边洗澡边听书的我打开《资治通鉴》又关掉，关掉的原因来自于我当时内心的焦躁。
 
 对的，今天晚上的八点九点十点，我会感觉内心有些焦躁。
@@ -66,6 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486886&idx=
 
 现在时间已经是晚上的11点25分，我在阳台记下当前的即时感受。记完这一刻，有感觉焦躁少了一些。
 
-果然，风也是散郁良药。
-
-↓↓↓欢迎关注
+果然，风也是散郁良药。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486886&amp;idx=1&amp;sn=e34309cb9e8bc92046f08af04775ad37&amp;chksm=a6c7614b91b0e85d912fbdc34603fdf6e416cf02eac5a3d4a451277d5210c930ea95fd9a8cdc" rel="noopener noreferrer">原文链接</a>）</small>

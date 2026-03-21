@@ -5,7 +5,6 @@ weight: 280050114
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486182&idx=1&sn=e46c9ca86a99e80fedd8da36006c9e27&chksm=a6c7660b91b0ef1d43dd9e0e60b188c203946af889c3603f72795edd4287f6297d2df5fc07ac
 ---
-
 《津巴多普通心理学》的最后一个章节是《从应激到健康和幸福》，其中的一个关键问题是“我们怎样将消极的应激变为积极的生活策略”，对这一问题，有防御和应对、聚焦问题和聚焦情绪、认知重构、积极情绪、发现意义、心理晤谈等多个思考方向。
 
 在作者讲述“发现意义”这一生活策略中，有这样的一段：
@@ -46,6 +45,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486182&idx=
 
 作者说：“人所拥有的任何东西，都可以被剥夺，惟独人性最后的自由——也就是在任何境遇中选择一己态度和生活方式的自由——不能被剥夺”。
 
-阅读过程中那些给予我很多触动的片段，我摘于[此处](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486173&idx=1&sn=4f75fa879b7af45ba91638afe1e8a5df&chksm=a6c7663091b0ef2664f5e799b810dbd5ae3ccfde8b50abe2590654effc9f04945237c18e1f34&scene=21#wechat_redirect)。
-
-↓↓↓欢迎关注
+阅读过程中那些给予我很多触动的片段，我摘于[此处](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486173&idx=1&sn=4f75fa879b7af45ba91638afe1e8a5df&chksm=a6c7663091b0ef2664f5e799b810dbd5ae3ccfde8b50abe2590654effc9f04945237c18e1f34&scene=21#wechat_redirect)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486182&amp;idx=1&amp;sn=e46c9ca86a99e80fedd8da36006c9e27&amp;chksm=a6c7660b91b0ef1d43dd9e0e60b188c203946af889c3603f72795edd4287f6297d2df5fc07ac" rel="noopener noreferrer">原文链接</a>）</small>

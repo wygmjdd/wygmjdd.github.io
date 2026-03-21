@@ -5,7 +5,6 @@ weight: 285920176
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485087&idx=1&sn=070df8f6edb97e351d1b208060ffee5c&chksm=a6c76a7291b0e3646a30a9f2aa4b668cf784c13e27b8a09ffc1487b9a11ed2a4fe165e7c50f9
 ---
-
 曾经有一天，在知乎上看见一篇名为“如果你想提升写作能力，我推荐你6本书”的文章。其中《[写作这件事](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484590&idx=2&sn=d88f469546d036c5c2b1768d3d3407ef&chksm=a6c7684391b0e155c97c622ba0738a3b31bc74d42fd8dbc147f68c14470fc32454714074b01f&scene=21#wechat_redirect)》已经读过，其它几本，看过前言与目录后，统统加入阅读清单。
 
 这读完的第一本，叫做《文心》，是夏丏尊、叶圣陶两位先生创作的。本书页数并不很多，读完耗费7小时。
@@ -48,8 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485087&idx=
 
 ### 引用链接
 
-  1. 那篇推荐书籍的知乎文章：https://zhuanlan.zhihu.com/p/113608554?utm_campaign=shareopn&utm_medium=social&utm_oi=28796237381632&utm_psn=1542909234123333633&utm_source=wechat_session&utm_id=0
-
-
-
-↓↓↓ 欢迎关注
+  1. 那篇推荐书籍的知乎文章：https://zhuanlan.zhihu.com/p/113608554?utm_campaign=shareopn&utm_medium=social&utm_oi=28796237381632&utm_psn=1542909234123333633&utm_source=wechat_session&utm_id=0 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485087&amp;idx=1&amp;sn=070df8f6edb97e351d1b208060ffee5c&amp;chksm=a6c76a7291b0e3646a30a9f2aa4b668cf784c13e27b8a09ffc1487b9a11ed2a4fe165e7c50f9" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 278230212
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486554&idx=1&sn=06d250470ca8e4f93e414c29318d68ce&chksm=a6c760b791b0e9a1f78109eb9c7a7a6bd3d3af16258e085bf6ad95da9f03eefc716ae06ab442
 ---
-
 写完《和另一个自己谈谈心》读书笔记之后，有想着将它搬运到知乎，在知乎没有搜到合适问题，但发现“过去的一年你读过哪些心理学相关的书籍，让你觉得受益匪浅？”
 
 当时的我忽然很有输出欲望，于是将过去四年阅读的心理学书籍对我的影响做了次汇总。我以为这汇总值得分享，于是再有此篇。
@@ -52,6 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486554&idx=
 
 以上。
 
-我认为每一本书，都让我受益匪浅。
-
-↓↓↓欢迎关注
+我认为每一本书，都让我受益匪浅。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486554&amp;idx=1&amp;sn=06d250470ca8e4f93e414c29318d68ce&amp;chksm=a6c760b791b0e9a1f78109eb9c7a7a6bd3d3af16258e085bf6ad95da9f03eefc716ae06ab442" rel="noopener noreferrer">原文链接</a>）</small>

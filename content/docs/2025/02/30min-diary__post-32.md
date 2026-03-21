@@ -5,7 +5,6 @@ weight: 277050032
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486793&idx=1&sn=2ece49b8be9e051e295cdfee95274e08&chksm=a6c761a491b0e8b2107f6da710ac69176d8161452ec1a297ddb8d409252d356748011f8ea769
 ---
-
 对的，今天周六，又六点多就醒来，醒来后不继续睡下，而是去微信问一问回答了两个问题，其中一个关于坚持：如何做到坚持做一件事情？
 
 我顺手去写，发现写了很长，便想要再将它搬运到公众号，于是有此篇。
@@ -46,6 +45,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486793&idx=
 
 对了，我其实还想要新增一项坚持，那就是坚持在微信问一问输出，我想要每天的睡后收入能多一点。且看这一新增坚持能否持续下去，现在已经坚持两天。^.^
 
-对的，在末尾我忽然想到，除“想要”和“入门”之外，坚持的事情，简单能做到，也是重要的。
-
-↓↓↓欢迎关注
+对的，在末尾我忽然想到，除“想要”和“入门”之外，坚持的事情，简单能做到，也是重要的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486793&amp;idx=1&amp;sn=2ece49b8be9e051e295cdfee95274e08&amp;chksm=a6c761a491b0e8b2107f6da710ac69176d8161452ec1a297ddb8d409252d356748011f8ea769" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 277880097
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486648&idx=1&sn=6238949c117142af0fbc9802feaec982&chksm=a6c7605591b0e943c70f29e29da29582e38f8f3fb56184146c6eb7ab2ca6da0fb8b5823481ea
 ---
-
 我不太记得自己是怎么发现《信念：人生每一步都算数》这本书的，总之，就在今年的8月9月，我一天看一点，花6小时看完了这本16万字的小书。
 
 显然，本书的读书笔记，我又拖了两个月才写，内里的原因，依然是读完当时的我并不知道如何完成这篇读书笔记，我感觉自己仿佛从书中收获的并没有很多，我看到的，只是一个别人的故事，即便故事很有特色故事中主人翁很是令人佩服。
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486648&idx=
 
 ![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)作者拍的日照金山，给予我感动与震撼
 
-信念来自于平凡，一步、一步、又一步……
-
-↓↓↓欢迎关注
+信念来自于平凡，一步、一步、又一步…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486648&amp;idx=1&amp;sn=6238949c117142af0fbc9802feaec982&amp;chksm=a6c7605591b0e943c70f29e29da29582e38f8f3fb56184146c6eb7ab2ca6da0fb8b5823481ea" rel="noopener noreferrer">原文链接</a>）</small>

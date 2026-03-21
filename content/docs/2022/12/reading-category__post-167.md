@@ -5,7 +5,6 @@ weight: 285080167
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485233&idx=1&sn=2131400b109af41d0e62c3bb78b27e05&chksm=a6c76bdc91b0e2ca0ac3d10adb77fba2266fa896a92c004e9bd9b001b9a8dd5b139cf91aa9fd
 ---
-
 《为奴十二年》这本书，是看完电影《为奴十二年》后找来读完的。本书不长，只13万字，读完花费4小时。
 
 本书的文字不华丽不夸大，看本书时，就像是坐着听一位长者讲他过去的故事，长者的语气平静安详，他在书中并不评判让他饱受煎熬的奴隶制，只是讲述他自己的真实故事，讲述他自己真切见到真真感受到的苦痛与喜悦。
@@ -38,9 +37,5 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485233&idx=
 
 本书的推荐语既对您说也对我自己说：“如果您喜欢听故事，《为奴十二年》是一本不可多得的故事书。作者在书中讲了他自己的故事，看过他的生活，您会发现自己活得还算不错。
 
-“如果看完依然认为自己的生活差些意思。请不要灰心，一切都会好起来的。真的！”
-
-↓↓↓欢迎关注
-
-  
+“如果看完依然认为自己的生活差些意思。请不要灰心，一切都会好起来的。真的！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485233&amp;idx=1&amp;sn=2131400b109af41d0e62c3bb78b27e05&amp;chksm=a6c76bdc91b0e2ca0ac3d10adb77fba2266fa896a92c004e9bd9b001b9a8dd5b139cf91aa9fd" rel="noopener noreferrer">原文链接</a>）</small>
 ​​​​​​

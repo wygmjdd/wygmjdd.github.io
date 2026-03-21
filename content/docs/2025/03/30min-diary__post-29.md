@@ -5,7 +5,6 @@ weight: 276780029
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486856&idx=1&sn=0add5a37158b588f894ebbafbe9aef3f&chksm=a6c7616591b0e8737aa70434fe1734273fabecd35c29dded886d6b7e99398dc0ff0def07e12e
 ---
-
 现在时间是晚上的10点51分，我已经在阳台，歪坐在我很喜欢的做活动时花五十多块钱购买的户外布椅。
 
 坐两分钟，头顶已经又两架飞机飞过，还有一趟轻轨即将进站。
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486856&idx=
 
 对的，我本来只打算简单分享一下日常，没想到时间过得如此之快，没想到字数填的如此之快。
 
-时间到晚上的11点16分，过去的二十分钟，我竟然忘记听，头顶的飞机飞过。
-
-↓↓↓欢迎关注
+时间到晚上的11点16分，过去的二十分钟，我竟然忘记听，头顶的飞机飞过。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486856&amp;idx=1&amp;sn=0add5a37158b588f894ebbafbe9aef3f&amp;chksm=a6c7616591b0e8737aa70434fe1734273fabecd35c29dded886d6b7e99398dc0ff0def07e12e" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 274590008
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487364&idx=1&sn=770313d2cb0345446080570962e6ad94&chksm=a6c7636991b0ea7f990a37561d7f72fdfb2d9bbf26296675f5b10e7e5f7e9343c8158f2b1a54
 ---
-
 现在时间是周日晚间9点44分，我放下整理还不到一半的《瓦尔登湖》笔记，决定先完成一篇简单的更新——将《瓦尔登湖》中那些我很喜欢的片段作些摘抄，以及整理我不能输出完整笔记的原因。
 
 不能输出完整笔记的原因，大概有三个：一是昨天加班一整天，二是今天不能按照计划行事，三是我在周三有将此前于每天上班地铁上靠着一点点积攒整理完成的《[读<亲密关系>（2）：依恋类型，最好的伴侣是安全型依恋的人](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487359&idx=1&sn=732b69edc5a142ecffef34e1f28152db&scene=21#wechat_redirect)》先发表。
@@ -50,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487364&idx=
 
 > 我揣想，一个人只要心地宁静，即使身在济贫院，也会像在宫殿里一样心满意足，思想愉快。
 
-是的，我心安处，即是属于我的瓦尔登湖。↓↓↓欢迎关注
+是的，我心安处，即是属于我的瓦尔登湖。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487364&amp;idx=1&amp;sn=770313d2cb0345446080570962e6ad94&amp;chksm=a6c7636991b0ea7f990a37561d7f72fdfb2d9bbf26296675f5b10e7e5f7e9343c8158f2b1a54" rel="noopener noreferrer">原文链接</a>）</small>

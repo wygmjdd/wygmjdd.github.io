@@ -5,7 +5,6 @@ weight: 281730128
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485801&idx=1&sn=88d597b5bced0de1a8ee836df6959f25&chksm=a6c7658491b0ec92df94846e74c02b847a32d72f8cc592b366b49a1219bee8004c7fcd7286b0
 ---
-
 去年夏天，我和一位前同事，也是前前同事的阿刚在微信聊天，话题是“换工作”和“内部转岗”，他向我推荐了《程序员面试金典》：“最近看的面试宝典，临时抱佛脚，先将几个常问的记下。”
 
 那之后的两三个月，我将这本已经出到第六版的《程序员面试金典》看完。
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485801&idx=
 
 “本书介绍了关于面试的方方面面，主要分作两个部分：介绍性章节和技术储备。介绍性章节内容不多，如何写简历、如何面试、如何准备，如何谈薪，是可以快速读完且常读常新的。技术储备是一份大纲，数据结构与算法、计算机基础、语言、数据库……它告知我们的发力方向。”
 
-“充分的准备将会使你拥有各种技术技能和沟通技巧。不管最终结果如何，只要拼尽全力，便无怨无悔！”
-
-↓↓↓欢迎关注
+“充分的准备将会使你拥有各种技术技能和沟通技巧。不管最终结果如何，只要拼尽全力，便无怨无悔！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485801&amp;idx=1&amp;sn=88d597b5bced0de1a8ee836df6959f25&amp;chksm=a6c7658491b0ec92df94846e74c02b847a32d72f8cc592b366b49a1219bee8004c7fcd7286b0" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 288450068
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484505&idx=2&sn=eccd0494b5a49d10015621542672e643&chksm=a6c768b491b0e1a24ef65a1cbf2e7f4360c1f3ddfa3aa6b073e087993113449c7d36c2a48714
 ---
-
 2022年第一周的某个早晨，突然有想法将2021年学做的菜、看过的书，进行一次汇总。
 
 于是，我便来汇总了。
@@ -114,14 +113,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484505&idx=
   
 
 
-因为有这一份爱好与坚持，2022，我很期待！
+因为有这一份爱好与坚持，2022，我很期待！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484505&amp;idx=2&amp;sn=eccd0494b5a49d10015621542672e643&amp;chksm=a6c768b491b0e1a24ef65a1cbf2e7f4360c1f3ddfa3aa6b073e087993113449c7d36c2a48714" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓ 一个学做菜、用文字分享生活的程序员

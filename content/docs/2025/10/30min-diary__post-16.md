@@ -5,7 +5,6 @@ weight: 274830016
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487222&idx=1&sn=308129d15c7ad4cb9c875abd32f1faad&chksm=a6c7621b91b0eb0dcca03a43de8bf53cc386937bf01c6b5cd7b1a762833172b02826a2337375
 ---
-
 阿江9月回了一趟家，他给我带一袋苹果上重庆。
 
 苹果，是门口树上结的。
@@ -76,6 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487222&idx=
 
 ![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)很胖很胖的狗子
 
-傍晚和阿妮一起散步，狗子走前面。天空是青紫色，明天大概是晴天。
-
-↓↓↓欢迎关注
+傍晚和阿妮一起散步，狗子走前面。天空是青紫色，明天大概是晴天。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487222&amp;idx=1&amp;sn=308129d15c7ad4cb9c875abd32f1faad&amp;chksm=a6c7621b91b0eb0dcca03a43de8bf53cc386937bf01c6b5cd7b1a762833172b02826a2337375" rel="noopener noreferrer">原文链接</a>）</small>

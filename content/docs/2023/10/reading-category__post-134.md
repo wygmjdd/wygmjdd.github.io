@@ -5,7 +5,6 @@ weight: 282010134
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485756&idx=1&sn=c28ab9ceafd05ac7d5287dc88f783548&chksm=a6c765d191b0ecc726cde7745e1e8e1edc9d2b640e9bd0cba3c0fa9634363f5e466ef6d899c6
 ---
-
 我曾经整理过一个书单，收录好几本在各处看到的想看的关于读书的书，它们是《如何阅读一本书》《清华大学荐读书目》《学会读书》《要把读书当回事》《读书·治学·写作》《阅读是一座随身携带的避难所：毛姆读书随笔》《作家榜名著：毛姆文学课：如何阅读与写作》。
 
 想看的书太多，这个书单中的书被自然挤到后面去，不特意去搜寻记忆，是想不起它们的。
@@ -48,6 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485756&idx=
 
 虚荣心作祟，荣誉感作美。我背单词、看书、写更新是虚荣心作祟么？不是的，是荣誉感作美，是持续的正向激励，是践行“活到老学到老”。
 
-本书的推荐语为：“当心绪有些浮躁时，翻一翻季羡林先生的《要把读书当回事》吧，它能让我们静下心来。静下心来读书，然后光阴变慢。”
-
-↓↓↓欢迎关注
+本书的推荐语为：“当心绪有些浮躁时，翻一翻季羡林先生的《要把读书当回事》吧，它能让我们静下心来。静下心来读书，然后光阴变慢。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485756&amp;idx=1&amp;sn=c28ab9ceafd05ac7d5287dc88f783548&amp;chksm=a6c765d191b0ecc726cde7745e1e8e1edc9d2b640e9bd0cba3c0fa9634363f5e466ef6d899c6" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 285780175
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485116&idx=1&sn=a9abe7408e25f601a91753e8542c32ec&chksm=a6c76a5191b0e34712c7a0124f603cb87d6b57b7a94d3ed17f3b29173b833259449b02186c77
 ---
-
 《微信读书》上能看见微信好友正在阅读、已经读完的书籍。
 
 我常点开好友主页看看好友正在看什么书，发现好几位看过《大明王朝1566》，便起了也看一看的心思。9月第一个周末，试着看两章，感觉写得很好，书中剧情发展恰似以前看过的电视剧《非常24小时》，紧张紧凑，让人欲罢不能。
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485116&idx=
 
 我常看见有人在《纵横小说》发帖说书荒求推荐，如若下次见到，我将在帖子下面回复：“强推《大明王朝1566》，本书已经完结，可一饮而尽。看过萧炎的‘莫欺少年穷’之后，试试看海瑞的‘敢为天下先’？”
 
-历史，是迷人的；由历史衍生出来的故事，也是迷人的。
-
-↓↓↓欢迎关注
+历史，是迷人的；由历史衍生出来的故事，也是迷人的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485116&amp;idx=1&amp;sn=a9abe7408e25f601a91753e8542c32ec&amp;chksm=a6c76a5191b0e34712c7a0124f603cb87d6b57b7a94d3ed17f3b29173b833259449b02186c77" rel="noopener noreferrer">原文链接</a>）</small>

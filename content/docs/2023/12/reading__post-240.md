@@ -5,7 +5,6 @@ weight: 281530240
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485845&idx=1&sn=dd86fe50bb7979139e0514b9001af18d&chksm=a6c7657891b0ec6e7088be66881b7a5e63c9533ac693c2cccd6747b8c0599fc994d9ffae8fec
 ---
-
 《重生手记》是知名记者凌志军分享的五年抗癌经历。
 
 读书过程中，我摘抄好几段作者整理的对他抗癌成功有过帮助的“行事准则”，这些总结不止对癌症患者有帮助，对普通人的生活也是会有帮助的。特汇集到此处：
@@ -90,6 +89,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485845&idx=
 > 
 > 事实上，如果我们把“治疗”的天地敞开，就可以想象，对自己有好处而没坏处的方法实在有很多。“吃喝拉撒睡”是，“晒太阳”是，“散步”也是。
 
-这些总结全放一起篇幅过长，作者分享的关于饮食的建议，我放在另外一篇，可直接由文末“合集”跳转。
-
-↓↓↓欢迎关注
+这些总结全放一起篇幅过长，作者分享的关于饮食的建议，我放在另外一篇，可直接由文末“合集”跳转。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485845&amp;idx=1&amp;sn=dd86fe50bb7979139e0514b9001af18d&amp;chksm=a6c7657891b0ec6e7088be66881b7a5e63c9533ac693c2cccd6747b8c0599fc994d9ffae8fec" rel="noopener noreferrer">原文链接</a>）</small>

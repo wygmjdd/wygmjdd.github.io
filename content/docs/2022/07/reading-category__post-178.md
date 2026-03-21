@@ -5,7 +5,6 @@ weight: 286420178
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484979&idx=1&sn=42cd3716c384045d497004a57693fdd6&chksm=a6c76ade91b0e3c853217a75e867c15667b122b356e4d69ba4bddbd2d1f9492989560efd627c
 ---
-
 跨越14个月，读完《沈从文文集》，阅读过程中，我一直被沈先生影响着。
 
 下半部，沈先生写自己的事情，变得多了起来。《给一个编辑的信》把沈先生当时处境写的很真实，真实到我觉得我在相同条件下可能就放弃了。
@@ -60,12 +59,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484979&idx=
 
 规律只是“每个工作日上班地铁都看书至少20分钟”一句话，怎样才能写到一千字呢？
 
-我写到了一千字，起名叫做“[小步伐](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484955&idx=1&sn=b0a6b0619e2cf11e6da321dc462ce0a1&chksm=a6c76af691b0e3e05853d69a9df49105bc6822f00e4357bf8f87961864bc7dd98579f36ff52c&scene=21#wechat_redirect)”。
+我写到了一千字，起名叫做“[小步伐](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484955&idx=1&sn=b0a6b0619e2cf11e6da321dc462ce0a1&chksm=a6c76af691b0e3e05853d69a9df49105bc6822f00e4357bf8f87961864bc7dd98579f36ff52c&scene=21#wechat_redirect)”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484979&amp;idx=1&amp;sn=42cd3716c384045d497004a57693fdd6&amp;chksm=a6c76ade91b0e3c853217a75e867c15667b122b356e4d69ba4bddbd2d1f9492989560efd627c" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-↓↓↓欢迎关注

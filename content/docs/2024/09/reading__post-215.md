@@ -5,7 +5,6 @@ weight: 278590215
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486463&idx=1&sn=054c34b5c9f3b10c38b7fd4258b15b42&chksm=a6c7671291b0ee044d8f7699e9cba2c677770b6aa8f1b5c881b6c8b5caf6816bbe483a353108
 ---
-
 这周，很巧合的，在我想要找一本人物传记来读时获得一位新认识朋友的推荐，找到《我曾走在崩溃的边缘：俞敏洪亲述新东方创业发展之路》阅读起来。
 
 今早看到俞老师讲他在新东方发展早期实行“包产到户”——即公司内部各人负责一块业务，这业务的绝大部分利润由该负责人进行支配——机制，忽然很有想法整理一下这机制的利弊，于是有了本篇。
@@ -30,9 +29,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486463&idx=
 
 公司首先招聘一位项目负责人，项目负责人负责搭建团队，公司为整个游戏项目组提供基本的后勤补给，办公地点、员工社保、各种福利。项目负责人全情投入游戏开发，待游戏上市，公司收回成本同时，也给项目负责人与项目参与者发放奖金，流水愈多，奖金愈多。
 
-项目做成，奖金多多，[当年作为小小成员](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484472&idx=1&sn=66939230bb9b04f2e9f0f26238f2ddf6&chksm=a6c768d591b0e1c30e1ccf7501f8395512e5ba7eb8b789b150e8d8d0b022e7141842d58c8e9f&scene=21#wechat_redirect)的我，干劲也是十足的。
-
-  
-
-
-↓↓↓欢迎关注
+项目做成，奖金多多，[当年作为小小成员](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484472&idx=1&sn=66939230bb9b04f2e9f0f26238f2ddf6&chksm=a6c768d591b0e1c30e1ccf7501f8395512e5ba7eb8b789b150e8d8d0b022e7141842d58c8e9f&scene=21#wechat_redirect)的我，干劲也是十足的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486463&amp;idx=1&amp;sn=054c34b5c9f3b10c38b7fd4258b15b42&amp;chksm=a6c7671291b0ee044d8f7699e9cba2c677770b6aa8f1b5c881b6c8b5caf6816bbe483a353108" rel="noopener noreferrer">原文链接</a>）</small>

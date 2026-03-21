@@ -5,7 +5,6 @@ weight: 279420108
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&chksm=a6c7678891b0ee9e58af615abd92f3ea2f686a8b612b1ba1254c0677d446997dd8f5e8c1bbe0
 ---
-
 去年4月的一天，窗外阳光明媚，不远处的海天相接，给予我旷达感受。
 
 夹克衫过来找我聊天，我们的话题是最近的读书：“龙哥，我给你推荐一本书。我之前买了一本还没看，豆瓣评分很高，书名叫《津巴多普通心理学》。”
@@ -71,6 +70,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=
 
 感谢夹克衫。
 
-朋友，请继续荐书。^.^
-
-↓↓↓欢迎关注
+朋友，请继续荐书。^.^ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486309&amp;idx=1&amp;sn=33ddac022bfd1fc6c51a3c4f9715011e&amp;chksm=a6c7678891b0ee9e58af615abd92f3ea2f686a8b612b1ba1254c0677d446997dd8f5e8c1bbe0" rel="noopener noreferrer">原文链接</a>）</small>

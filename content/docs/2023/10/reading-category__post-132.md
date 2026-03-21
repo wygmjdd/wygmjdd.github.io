@@ -5,7 +5,6 @@ weight: 281940132
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485766&idx=1&sn=e3217aa25e45ee999f37c9780a9d576a&chksm=a6c765ab91b0ecbd35cefd813a55e15a7656beccb3282f61d599a47a2f884702a5ac54126c5b
 ---
-
 刚从深圳回到重庆工作的头几天，我对新的环境很不适应，感觉自己正走下坡路进入了人生低谷。我想去书中找寻应对此种心态的方法，便搜索“人在低谷时应该阅读哪些书籍”。
 
 我找到的书籍有《人生的智慧》《岛上书店》《高兴死了》《我们仨》《病隙碎笔》《老人与海》《夏洛的网》《当我谈跑步时，我谈些什么》《名人传》。
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485766&idx=
 
 人生路并不平坦，有峰峦起伏是正常的。
 
-本书的推荐语，我不知道怎样写，于是本篇笔记只到此处。
-
-↓↓↓欢迎关注
+本书的推荐语，我不知道怎样写，于是本篇笔记只到此处。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485766&amp;idx=1&amp;sn=e3217aa25e45ee999f37c9780a9d576a&amp;chksm=a6c765ab91b0ecbd35cefd813a55e15a7656beccb3282f61d599a47a2f884702a5ac54126c5b" rel="noopener noreferrer">原文链接</a>）</small>

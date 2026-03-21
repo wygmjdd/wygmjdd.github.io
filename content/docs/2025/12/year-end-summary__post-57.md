@@ -5,7 +5,6 @@ weight: 273960057
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487441&idx=1&sn=cfac4b7991446891ceb2d82db3a48c48&chksm=a6c7633c91b0ea2a3326fb2c8c4577ef04cc722c516f9e55e8718f3639facae946999c7ef4f5
 ---
-
 我[从那国企离开](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486584&idx=1&sn=87d378fb312f724d3cb1889063dd4687&scene=21#wechat_redirect)还14个月不到，但仿佛已经过去好久好久。
 
 过去14个月，我的日均工作时长比之前长了许多，我做着阿妮以为很累但自己觉得很有意思的工作，于是过去的14个月于我，是极其充实的。
@@ -62,6 +61,4 @@ Google ADK，是一个多Agent框架，它——以及其它的许多多Agent框
 
 关于自己的未来，我依然保有一种大概来自于读书许多的心态：借助工具做好自己的工作，同时尽量去尝试搞清楚工具如何用好，以及工具为什么好用；且不考虑太远，只给予当前工作以热爱。
 
-热爱带回来的，是久违快三年的对工作对生存的信心。
-
-↓↓↓欢迎关注
+热爱带回来的，是久违快三年的对工作对生存的信心。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487441&amp;idx=1&amp;sn=cfac4b7991446891ceb2d82db3a48c48&amp;chksm=a6c7633c91b0ea2a3326fb2c8c4577ef04cc722c516f9e55e8718f3639facae946999c7ef4f5" rel="noopener noreferrer">原文链接</a>）</small>

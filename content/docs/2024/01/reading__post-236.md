@@ -5,7 +5,6 @@ weight: 281100236
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485938&idx=1&sn=e094ada06e25705b8f834fb5c6803e76&chksm=a6c7651f91b0ec09c847c16212460fd311fad646789696c748dd25e3e08ae54e195bcd9ef547
 ---
-
 本周刚看完《津巴多普通心理学》中《动机和情绪》章节，我对其中的“情绪”部分很感兴趣，于是本篇更新，理一理自己对本章节的理解，以期在“精细复述”中让自己对“情绪”的理解更多些。
 
 本篇笔记，依然像[记忆章节的整理](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485792&idx=1&sn=06c5b520ddb1b853848317e40beaf709&chksm=a6c7658d91b0ec9b947d60a40fe096c93066ab0667a05c8aef513dc7d2a79c1f1cf0d11dda21&scene=21#wechat_redirect)一样，使用问答形式。
@@ -138,9 +137,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485938&idx=
 
 最末附上书中的一个测验表格，大家可以测测看自己是否喜欢寻求刺激。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)刺激寻求表格
-
-  
-
-
-↓↓↓欢迎关注
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)刺激寻求表格 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485938&amp;idx=1&amp;sn=e094ada06e25705b8f834fb5c6803e76&amp;chksm=a6c7651f91b0ec09c847c16212460fd311fad646789696c748dd25e3e08ae54e195bcd9ef547" rel="noopener noreferrer">原文链接</a>）</small>

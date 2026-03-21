@@ -5,7 +5,6 @@ weight: 281660244
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485814&idx=1&sn=9145070cb2223ebec400e7751ea6bc92&chksm=a6c7659b91b0ec8daf9104d5fab276eeb77217720586c4fffe4eeecc645d33c3af52c4d2e131
 ---
-
 最近两三天，不知是怎样的缘由，我整理摘抄的来自[《蛤蟆先生去看心理医生》中的金句](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485723&idx=1&sn=948de0b9811660a82272e57c1218834d&chksm=a6c765f691b0ece0ac326f0cc2003758f2b6afb5cbea91978a15e3b37081fd82909717903736&scene=21#wechat_redirect)莫名火了起来，眼见即将突破万次阅读（这是我目前阅读量最高的一篇）。
 
 由这激励，我决定再将此前看过书籍中想分享的句子汇总分享出来。汇总整理这些句子是很简单的，因为读书过程中，那些极想要分享的句子，我都独自摘抄过，此处只需汇总便好。
@@ -52,6 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485814&idx=
 > 
 > 明白易懂，用不着解释。这首诗的关键有二：一是要学习，二是要惜寸阴。朱子心目中的“学”，同我们的当然不会完全一样。这个道理也用不着多加解释，只要心里明白就行。至于爱惜光阴，更是易懂。然而真正能实行者，却不多见。
 > 
-> 这就是一个耄耋老人对你们的肺腑之谈。
-
-↓↓↓欢迎关注
+> 这就是一个耄耋老人对你们的肺腑之谈。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485814&amp;idx=1&amp;sn=9145070cb2223ebec400e7751ea6bc92&amp;chksm=a6c7659b91b0ec8daf9104d5fab276eeb77217720586c4fffe4eeecc645d33c3af52c4d2e131" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 284170160
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485390&idx=1&sn=bb8b3e5f66894135cc055a1ddf44ed33&chksm=a6c76b2391b0e23512b4ced649559bbec35c669544a1243ed7795bf3c17dddd16946d26e98cd
 ---
-
 《蛤蟆先生去看心理医生》是一本很火的书，我在好多地方——公司内部读书活动、知乎、豆瓣——看到它被推荐。当《微信读书》第五或是第六次将它推荐给我时，我将其加入书架读了起来。
 
 书中苍鹭与蛤蟆先生聊天常提到蛤蟆先生过去的故事：“是的，和别人一样，我也从《柳林风声》里读到了你的故事。恐怕你的那段经历会永远成为众所周知的轶事了。”
@@ -38,6 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485390&idx=
 
 > 至于你，小兄弟，你也会来的。因为即便光阴不复返，日子一天天过去，南方依旧在等着你。在无法挽回的时光逝去之前，听从召唤，冒一次险吧！只需‘砰’的一声关上门，高高兴兴地向前迈出一步，你就告别旧生活，跨入新生活了！然后，在某一天，很久很久以后的某一天，杯中的酒干了，好戏演完了，如果愿意，你再慢悠悠地回到家里，坐在这条安静的河边，用一大堆精彩的回忆款待朋友们。
 
-能带着故事款待朋友，是我对未来的追求。
-
-↓↓↓欢迎关注
+能带着故事款待朋友，是我对未来的追求。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485390&amp;idx=1&amp;sn=bb8b3e5f66894135cc055a1ddf44ed33&amp;chksm=a6c76b2391b0e23512b4ced649559bbec35c669544a1243ed7795bf3c17dddd16946d26e98cd" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 274840017
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487189&idx=1&sn=81aade6d9cf18aab8a01fef78e2f9f4f&chksm=a6c7623891b0eb2efaf0c3dfd9ba422092361552117d5c246c2b0dda29d626353a4e1aa96ca1
 ---
-
 现在时间是晚上的7点59分，坐我左手边的母亲正淘她今天刚捡回家又煮过的野山菌，港儿坐母亲旁边，嘴里话不停：“今年子坡里长得包谷菌都没得呢，找不到。”
 
 港儿说话并非无着落，母亲也会附和：“包谷菌就好吃啦，如果捡的到，要卖20块钱一斤！”
@@ -70,6 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487189&idx=
 
 这路上每一处，都是亲切可爱的。
 
-6点半回到家，吃过晚饭坐着的我眼睛不能睁开。秋天的山上穿着外套正凉快，我坐地坝两小时，港儿讲话不停，我心越来越静。
-
-↓↓↓欢迎关注
+6点半回到家，吃过晚饭坐着的我眼睛不能睁开。秋天的山上穿着外套正凉快，我坐地坝两小时，港儿讲话不停，我心越来越静。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487189&amp;idx=1&amp;sn=81aade6d9cf18aab8a01fef78e2f9f4f&amp;chksm=a6c7623891b0eb2efaf0c3dfd9ba422092361552117d5c246c2b0dda29d626353a4e1aa96ca1" rel="noopener noreferrer">原文链接</a>）</small>

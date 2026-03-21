@@ -5,7 +5,6 @@ weight: 282360248
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485709&idx=1&sn=632f42502f5489c28e0bbaf566a30a8c&chksm=a6c765e091b0ecf6ca4de352c3e6f3cf26ac6cfe7205c8ff975f1c30a3dc831d8cc4afd2bad1
 ---
-
 周六早上醒来不用上班，起床第一件事是带着轻松闲散心情看会儿书。
 
 最近书架置顶的书，对我来说有些难，读起来会很耗费脑力，比如《国史大纲》，通篇文言文，一天只愿读个十几二分钟，再比如《津巴多普通心理学》，科学的研究方式与研究结论，看一会也就累了……周六早晨，我只想轻松一下。
@@ -60,6 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485709&idx=
 
 \--
 
-祝所有老师们，教师节快乐~
-
-↓↓↓欢迎关注
+祝所有老师们，教师节快乐~ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485709&amp;idx=1&amp;sn=632f42502f5489c28e0bbaf566a30a8c&amp;chksm=a6c765e091b0ecf6ca4de352c3e6f3cf26ac6cfe7205c8ff975f1c30a3dc831d8cc4afd2bad1" rel="noopener noreferrer">原文链接</a>）</small>

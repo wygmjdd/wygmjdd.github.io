@@ -5,7 +5,6 @@ weight: 286480179
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484974&idx=1&sn=dcb509ed67d23eb6873a3a29539fe384&chksm=a6c76ac391b0e3d566684b6caf57e9b6ae95bdde2bcbbe0c584997ddc82b9b26bec422cbf0ad
 ---
-
 很多招聘JD（Job Description，工作描述）中，都会有一条“熟悉TCP/IP等网络协议”要求。我换工作到深圳前的某些面试中，也有被问到“对TCP是否了解”，我的回答是模棱的：“我听过它，但没看过实现的源码。”
 
 对TCP是否有了解呢？不了解的。我对它的了解，全都来自于网络博客，遇见一篇，便读一篇。当时能背出些概念，过一会儿便会忘掉。（其中最经典的概念算是“三次握手、四次挥手”，只要被问到TCP，便必然有这概念出现。）
@@ -70,12 +69,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484974&idx=
 
 学以致用的感觉，真好。
 
-《图解 TCP/IP》不错，感谢阿博的推荐。我读完一遍，特将这推荐延续。
+《图解 TCP/IP》不错，感谢阿博的推荐。我读完一遍，特将这推荐延续。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484974&amp;idx=1&amp;sn=dcb509ed67d23eb6873a3a29539fe384&amp;chksm=a6c76ac391b0e3d566684b6caf57e9b6ae95bdde2bcbbe0c584997ddc82b9b26bec422cbf0ad" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-↓↓↓欢迎关注

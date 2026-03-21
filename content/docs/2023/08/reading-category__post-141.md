@@ -5,7 +5,6 @@ weight: 282560141
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485685&idx=1&sn=1a8d59c9d14bc95ad6fdb1915ffab143&chksm=a6c7641891b0ed0e62b7aff00491ae9f58b3831cf43a694656d431955b030d8a11de4c640101
 ---
-
 7月的某一天，我在一种很是闲散心态下点击《微信读书》“为你推荐”中的“换一批”——我并不追求找到一本新的想看的书，只是随意点着。某个瞬间，就很忽然的，我想点开某一本书看看，但手速太快，它已快速闪过。
 
 勾起我兴趣的，是这本书的封面，封面上是一位成功、时尚且自信的银发老太太。成功、时尚与自信，是作者给予我的第一印象。
@@ -68,6 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485685&idx=
 > 
 > 所以，如果你喜欢怨天尤人，那么你现在就可以开始尝试改变，否则当你变老的时候，你也只能继续在怨怼中度过余生。
 
-改变，从现在开始，别等变老时依然怨天尤人。
-
-↓↓↓欢迎关注
+改变，从现在开始，别等变老时依然怨天尤人。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485685&amp;idx=1&amp;sn=1a8d59c9d14bc95ad6fdb1915ffab143&amp;chksm=a6c7641891b0ed0e62b7aff00491ae9f58b3831cf43a694656d431955b030d8a11de4c640101" rel="noopener noreferrer">原文链接</a>）</small>

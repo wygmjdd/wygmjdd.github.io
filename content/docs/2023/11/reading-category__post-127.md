@@ -5,7 +5,6 @@ weight: 281660127
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485809&idx=1&sn=4a644b2c3c41e40a7c91160207c3a4c3&chksm=a6c7659c91b0ec8a17df07cea4bd646bbe5bfc35213ef6a7d2d524a6f13d02da5937bced781d
 ---
-
 我加入一位出版社编辑创建的微信群，编辑不时在群中发布一些小任务：为视频号点赞（累积3次可以免费领取一本纸质书），或是免费看纸质书并为之写简评。对于写简评任务，当碰到很是感兴趣书籍，我会快快（有人数限制）接龙快快拿书。
 
 这两周的任务书籍是《Linux常用命令自学手册》。
@@ -43,6 +42,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485809&idx=
 
 未来要看完的书，又多两本。
 
-本书的推荐语为：“《Linux常用命令自学手册》，收录200条指令，其中许多指令在工作中的使用频次会很高。对中国程序员（包括我自己）来说，如果英文版的`man`用起来不够方便，不妨将《Linux常用命令自学手册》置于办公桌上，随用随查。”
-
-↓↓↓欢迎关注
+本书的推荐语为：“《Linux常用命令自学手册》，收录200条指令，其中许多指令在工作中的使用频次会很高。对中国程序员（包括我自己）来说，如果英文版的`man`用起来不够方便，不妨将《Linux常用命令自学手册》置于办公桌上，随用随查。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485809&amp;idx=1&amp;sn=4a644b2c3c41e40a7c91160207c3a4c3&amp;chksm=a6c7659c91b0ec8a17df07cea4bd646bbe5bfc35213ef6a7d2d524a6f13d02da5937bced781d" rel="noopener noreferrer">原文链接</a>）</small>

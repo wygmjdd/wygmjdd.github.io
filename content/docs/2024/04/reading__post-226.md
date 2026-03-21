@@ -5,7 +5,6 @@ weight: 280060226
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486173&idx=1&sn=4f75fa879b7af45ba91638afe1e8a5df&chksm=a6c7663091b0ef2664f5e799b810dbd5ae3ccfde8b50abe2590654effc9f04945237c18e1f34
 ---
-
 《活出生命的意义》的作者是心理学家维克多·弗兰克尔，阅读本书的每一刻我都很投入，阅读当时那些有触动的点，都被我摘抄下来，特汇集于此。
 
 > 在亚瑟·米勒的剧本——《维希事件》(Incidentat Vichy)中有一幕，讲的是某位中产阶级上层的绅士向占领他所在城市的纳粹军官出示自己的各种荣誉证书，包括大学毕业证、杰出市民推荐信等等。纳粹军官问道：“这就是你所有的东西吗？”绅士点点头。纳粹军官立即将这些东西揉成一团，扔进了废纸篓，告诉他，“很好，现在你什么都没了”。于是，绅士彻底崩溃了，因为于他而言，做人的尊严依存于别人对自己的尊重，没有尊严，精神也随之崩溃。对此，弗兰克尔会争辩说：“只要我们拥有自主选择如何应对处境的自由，我们就不会一无所有。”
@@ -42,6 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486173&idx=
 
 > 滋养内心的自由，拥抱自然、艺术、诗歌和文学之美，感受对家庭和朋友的爱，是十分重要的。但是其他个人选择、行动、关系、爱好甚至简单的快乐也能赋予生命以意义。
 
-这篇摘抄很长，但原书很短。
-
-↓↓↓欢迎关注
+这篇摘抄很长，但原书很短。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486173&amp;idx=1&amp;sn=4f75fa879b7af45ba91638afe1e8a5df&amp;chksm=a6c7663091b0ef2664f5e799b810dbd5ae3ccfde8b50abe2590654effc9f04945237c18e1f34" rel="noopener noreferrer">原文链接</a>）</small>

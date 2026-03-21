@@ -5,7 +5,6 @@ weight: 282210136
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485728&idx=1&sn=99b1255abe1ea5033864b1a5e4d32fc0&chksm=a6c765cd91b0ecdb6b8a2fb9f55a8caa3a3a30052cb47f50dbe73c4d707b5118287b5721469f
 ---
-
 在《[汪曾祺的写作课](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485166&idx=1&sn=7faab6f6607df9de615134bf46680866&chksm=a6c76a0391b0e31517c953557a703e5cc2d1d197d4782df5e84b82a4fae43a17c73dcb47770a&scene=21#wechat_redirect)》中，汪曾祺先生说：
 
 > 江南失陷，我不能到南菁中学读书，避居乡下，住在我的小说《受戒》所写的一个庵里。随身所带的书，除了数理化教科书外，只有一本屠格涅夫的《猎人笔记》，一本上海的“野鸡书店”盗印的《沈从文选集》。我于是反反复复地看这两本书。可以说，这两本书引导我走上了文学道路，并且一直对我的作品从内到外产生极为深远的影响。
@@ -34,6 +33,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485728&idx=
 
 或许像汪曾祺先生一样反反复复读过多遍之后，我的感触能更多些。
 
-本书的推荐语为：“如果想要知道如何描写风景、如何塑造人物个性、如何描写人物对话，读《猎人笔记》吧，书中全是示例。”
-
-↓↓↓欢迎关注
+本书的推荐语为：“如果想要知道如何描写风景、如何塑造人物个性、如何描写人物对话，读《猎人笔记》吧，书中全是示例。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485728&amp;idx=1&amp;sn=99b1255abe1ea5033864b1a5e4d32fc0&amp;chksm=a6c765cd91b0ecdb6b8a2fb9f55a8caa3a3a30052cb47f50dbe73c4d707b5118287b5721469f" rel="noopener noreferrer">原文链接</a>）</small>

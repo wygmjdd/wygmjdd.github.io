@@ -5,7 +5,6 @@ weight: 274690009
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487342&idx=1&sn=10ecabe088486ee7e75665ad94f0f8d0&chksm=a6c7638391b0ea953d3f5fe71ac24120177dc94e1f35b962fb05be6b30e9e641c025ebff5ecf
 ---
-
 岳父今天到重庆，我的驾照今天到期，两件事合在一起，于是下午请假，在12点便下了班。下午闲散时间——20分钟小憩结束，出发驾照换新路上——很有些表达欲，我想记录一下挺长的今天。
 
 想记，便记吧。
@@ -60,6 +59,4 @@ Emmm，我当然没说，我只觉得岳父也很可爱。
 
 时间来到晚上的10点52分，阿妮走到我旁边，面带笑容：“新水壶已经打满了水。”她再来回走两步，“想把这个dia到学校去上课，好洋气哦。”
 
-水壶，是公司中秋节刚发的。
-
-↓↓↓欢迎关注
+水壶，是公司中秋节刚发的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487342&amp;idx=1&amp;sn=10ecabe088486ee7e75665ad94f0f8d0&amp;chksm=a6c7638391b0ea953d3f5fe71ac24120177dc94e1f35b962fb05be6b30e9e641c025ebff5ecf" rel="noopener noreferrer">原文链接</a>）</small>

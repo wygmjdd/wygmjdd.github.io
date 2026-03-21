@@ -5,7 +5,6 @@ weight: 280470231
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486094&idx=1&sn=5b780778a1373a970192fc47d665ccad&chksm=a6c7666391b0ef7566c7ddbb154ed780f7639dadb15a5c45ea3f64e05aee22f89605332cb940
 ---
-
 我曾观察到在我身上发生过一种不好现象。
 
 上大学时，我会很不喜欢一位很优秀同学阿冲，每次见他都想躲他远远的，我不想和他有过多交流，好像不得不处于同一空间时我还会带些酸酸语气释放些许敌意。阿冲，和我交集很少，从未做过任何不利于我的事情，我的敌意是从哪里来的呢？
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486094&idx=
 
 于是接下来，我将只做些摘抄，摘抄内容放在[此链接](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486088&idx=1&sn=99e98ce0f06b1fcbb0ba9c44864c295b&chksm=a6c7666591b0ef73150c224efd5590ad565f3fe2728a59de49b87037998d3ae41b91007e6de1&scene=21#wechat_redirect)。
 
-感谢您阅读到此处，如果您想对人格理解更多些，推荐您阅读《津巴多普通心理学》。
-
-↓↓↓欢迎关注
+感谢您阅读到此处，如果您想对人格理解更多些，推荐您阅读《津巴多普通心理学》。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486094&amp;idx=1&amp;sn=5b780778a1373a970192fc47d665ccad&amp;chksm=a6c7666391b0ef7566c7ddbb154ed780f7639dadb15a5c45ea3f64e05aee22f89605332cb940" rel="noopener noreferrer">原文链接</a>）</small>

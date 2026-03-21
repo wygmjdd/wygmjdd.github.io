@@ -5,7 +5,6 @@ weight: 283120148
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485610&idx=1&sn=383cb94f5956357be9b53dad685ef308&chksm=a6c7644791b0ed512b9313e3f06566bbdfd7e395e7f710d8faa197f2ef3a4adf73b6de8ad433
 ---
-
 推荐一本小书，小书的名字叫《星期六晚我们去散步吧》。
 
 这本小书适合慢慢地看。
@@ -82,9 +81,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485610&idx=
 > 
 > 椅子是你的
 > 
-> 阳光也是你的
-
-  
-
-
-↓↓↓欢迎关注
+> 阳光也是你的 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485610&amp;idx=1&amp;sn=383cb94f5956357be9b53dad685ef308&amp;chksm=a6c7644791b0ed512b9313e3f06566bbdfd7e395e7f710d8faa197f2ef3a4adf73b6de8ad433" rel="noopener noreferrer">原文链接</a>）</small>

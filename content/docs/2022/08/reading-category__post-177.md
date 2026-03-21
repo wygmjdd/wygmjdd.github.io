@@ -5,7 +5,6 @@ weight: 286270177
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485023&idx=1&sn=6c755166648d4b0ce98ace6f5f9f07ba&chksm=a6c76ab291b0e3a431cacd168eca2f68d30ae647c408e67302f6aa6901ef21123ed9e2f1a57c
 ---
-
 去年刚转行到互联网时，所做事情是在旧有系统中做些迭代，依样画葫芦。对Web开发的整体框架，是不了解的，彼时甚至觉得“前端”、“后端”两个词，怪怪的（游戏开发中的说法是“客户端”、“服务端”）。
 
 为了能够对自己改的代码有更多的认识，我搜寻关于Web开发的建议，其中有一条是“熟悉HTTP（Hypertext Transfer Protocol）”。其时我已经有了“学东西要从书中系统学习”的认知，并养成[小步伐](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484955&idx=1&sn=b0a6b0619e2cf11e6da321dc462ce0a1&chksm=a6c76af691b0e3e05853d69a9df49105bc6822f00e4357bf8f87961864bc7dd98579f36ff52c&scene=21#wechat_redirect)习惯，于是找到《HTTP: The Definitive Guide》。
@@ -56,12 +55,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485023&idx=
 
 都似曾相识。
 
-为此，我在咸鱼上花29元买了本书的实体中文版置于办公桌上，打算碰到依稀概念时，翻一翻。
+为此，我在咸鱼上花29元买了本书的实体中文版置于办公桌上，打算碰到依稀概念时，翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485023&amp;idx=1&amp;sn=6c755166648d4b0ce98ace6f5f9f07ba&amp;chksm=a6c76ab291b0e3a431cacd168eca2f68d30ae647c408e67302f6aa6901ef21123ed9e2f1a57c" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-↓↓↓欢迎关注

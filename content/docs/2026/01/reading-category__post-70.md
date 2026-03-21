@@ -5,7 +5,6 @@ weight: 273680070
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487470&idx=1&sn=5580560ad5286d2463ab9841e0afa68f&chksm=a6c7630391b0ea15acce3544deff538ce5e9503648efbf730179fce1f4c61aac884f60216728
 ---
-
 大约半年前，夏暑稍稍消散些，我在重庆中午30多度的室外，吃过午饭午休前，将公司周围几百米内的路都走了一遍。
 
 一个由三栋楼写成的凹字中间，长着一棵大树，它叶子向外延伸，我看它，仿佛一个无边草原上的的独行者，自然、俊朗且安静。道路两旁的树，修剪得齐齐整整，树冠都是半球；那长得更高些的树被放过，搭建出荫凉无限。又一个三角路口，10块钱的炒饭，15块的自助，还有三轮车上的爆米花，以及好些往回走的人。
@@ -114,6 +113,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487470&idx=
 
 安娜正想着“地铁卧轨自杀的那个女人好像和自己有些关系”，在那一刻，我感受到一种恐惧，我说不清恐惧的来源，那大概是对作者刻意营造的此种宿命感的恐惧：
 
-安娜和伏伦斯基初遇，便已经预示了结局。
-
-↓↓↓ 欢迎关注
+安娜和伏伦斯基初遇，便已经预示了结局。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487470&amp;idx=1&amp;sn=5580560ad5286d2463ab9841e0afa68f&amp;chksm=a6c7630391b0ea15acce3544deff538ce5e9503648efbf730179fce1f4c61aac884f60216728" rel="noopener noreferrer">原文链接</a>）</small>

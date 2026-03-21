@@ -5,7 +5,6 @@ weight: 284180250
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485381&idx=1&sn=41282d728ca35dcd2aa17f56f52afc9c&chksm=a6c76b2891b0e23e57669c0f8b3da0e506d035eb1bc14c442bbfa29e2727b27024bf979aa4c3
 ---
-
 大概是20年，我开始相信书本的力量。读书，能让我知其然且知其所以然；通过读书获取到的知识，是完整成体系的；对社会对生活对人生对自己的所有感悟与疑惑，都能在书中找到共鸣和答案。
 
 由此，我养成一种阅读习惯——将很多的碎片时间用来看书。这习惯在半年前——[改用《微信读书》之后](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485076&idx=1&sn=31b202a2f7135b6f0397b5aa8408b0d4&chksm=a6c76a7991b0e36f76376f77299f90be9c64f7d93dc52c16180b58181d58badedc141f2c54e0&scene=21#wechat_redirect)——得到了加强：每周的阅读时长从5小时到7小时到10小时再到2月的日均2小时。
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485381&idx=
 
 > 总之，我的意思是很简单的：我们自动的读书，即嗜好的读书，请教别人是大抵无用，只好先行泛览，然后决择而入于自己所爱的较专的一门或几门；但专读书也有弊病，所以必须和实社会接触，使所读的书活起来。
 
-我想我的困境，应该源于“实社会接触”的减少，于是特此整理，向自己说明：**多读书是没错的，但读书同时，请一定别忘了勇敢真诚地去生活** 。
-
-↓↓↓欢迎关注
+我想我的困境，应该源于“实社会接触”的减少，于是特此整理，向自己说明：**多读书是没错的，但读书同时，请一定别忘了勇敢真诚地去生活** 。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485381&amp;idx=1&amp;sn=41282d728ca35dcd2aa17f56f52afc9c&amp;chksm=a6c76b2891b0e23e57669c0f8b3da0e506d035eb1bc14c442bbfa29e2727b27024bf979aa4c3" rel="noopener noreferrer">原文链接</a>）</small>

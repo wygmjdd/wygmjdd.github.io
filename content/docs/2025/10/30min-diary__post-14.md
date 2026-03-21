@@ -5,7 +5,6 @@ weight: 274810014
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487267&idx=1&sn=59eca0aff4fbbcade3d38f7517c33fa5&chksm=a6c763ce91b0ead81c4106eaf5a8f196e9efee252a2a473d4f1eb6ce1d3684dbab02c0957ae6
 ---
-
 小米苏7刚出来时，我总和阿妮说：“如果我们没有买车就好啦，这样的话我可一定要盲订一台苏7。”我有车，还很新，于是念想只是念想，只路上碰见苏7，给予它多一些注视。
 
 阿妮最小姑姑提了一辆苏7，我在今天，终于试驾一次。
@@ -52,6 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487267&idx=
 
 ![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)我家在云雾更上面
 
-今天回家开车走二十年前让我浑身冒冷汗的夜路，我一点不害怕：需要错车的瞬间，就在错车坝旁边；需要多一点亮光，我便看见了月亮。
-
-↓↓↓欢迎关注
+今天回家开车走二十年前让我浑身冒冷汗的夜路，我一点不害怕：需要错车的瞬间，就在错车坝旁边；需要多一点亮光，我便看见了月亮。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487267&amp;idx=1&amp;sn=59eca0aff4fbbcade3d38f7517c33fa5&amp;chksm=a6c763ce91b0ead81c4106eaf5a8f196e9efee252a2a473d4f1eb6ce1d3684dbab02c0957ae6" rel="noopener noreferrer">原文链接</a>）</small>

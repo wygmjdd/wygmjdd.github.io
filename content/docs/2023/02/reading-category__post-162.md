@@ -5,7 +5,6 @@ weight: 284380162
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485360&idx=1&sn=c4d358bf1278e37843e9de580d70e936&chksm=a6c76b5d91b0e24b14ff369b0b667cd2a3379cadd6680bd084d5296f77e9f2fbe609c773684c
 ---
-
 之前《[听故事](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485070&idx=1&sn=2f9f9e2faf34a4223fe83e68cfad18d1&chksm=a6c76a6391b0e375f711e8c0cb3cbc9b5215b74895d7b57ffb60b2d5441a23611130d5257ea1&scene=21#wechat_redirect)》中说，我听相声极多，听郭德纲于谦，听岳云鹏孙越。于是当《微信读书》向我推荐《过得刚好》（我是看书籍封面才知道书名“过得刚好”是与“郭德纲”三个字有关联的）时，我便将其加入了书架，我想知道郭德纲的人生经历是怎样的。
 
 本书一共11万字，不长，读完花6小时30分钟。这本书并不是系统写成的人生自传，仅仅是将作者40岁之前写过的文章整理出版，这些文章记录了作者的经历和心路历程。这些文章中，有相声，有日记，有过去发的微博，有于谦，有岳云鹏，有德云后台，有骂人集锦……许多内容，我都在相声中听过。
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485360&idx=
 
 “想了解一个人，看他写的文字就好。
 
-“一切成功，都是通过一点点努力，慢慢攒出来的。”
-
-↓↓↓欢迎关注
+“一切成功，都是通过一点点努力，慢慢攒出来的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485360&amp;idx=1&amp;sn=c4d358bf1278e37843e9de580d70e936&amp;chksm=a6c76b5d91b0e24b14ff369b0b667cd2a3379cadd6680bd084d5296f77e9f2fbe609c773684c" rel="noopener noreferrer">原文链接</a>）</small>

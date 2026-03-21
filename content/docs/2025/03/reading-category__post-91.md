@@ -5,7 +5,6 @@ weight: 276900091
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486833&idx=1&sn=76a087c56b7d1a03724c3deb155bff39&chksm=a6c7619c91b0e88a6d7701fb0428ced1aa2c59978cdedeb6a5746800e859520b42519e85fe36
 ---
-
 阅读《[津巴多普通心理学](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&scene=21#wechat_redirect)》的时候，我有按照津巴多教授的精细复述指导，为我喜欢且想要分享的章节写下章节笔记。到阅读《心理学与生活》——与《津巴多普通心理学》一样的大头书——时，这种为每一章节都写下章节笔记的愿望，变得不那么强烈。
 
 我想写，但很懒。
@@ -60,6 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486833&idx=
 
 另外一种意义，来源于本文开头所说，看书、写笔记这行为本身，就是一种意义，它依然属于能让我产生满足感的养成游戏。
 
-书，就这样慢慢看吧。
-
-↓↓↓欢迎关注
+书，就这样慢慢看吧。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486833&amp;idx=1&amp;sn=76a087c56b7d1a03724c3deb155bff39&amp;chksm=a6c7619c91b0e88a6d7701fb0428ced1aa2c59978cdedeb6a5746800e859520b42519e85fe36" rel="noopener noreferrer">原文链接</a>）</small>

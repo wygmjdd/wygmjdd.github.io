@@ -5,7 +5,6 @@ weight: 290270192
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484178&idx=1&sn=ba7f14f383b03d4fb82de2ca3be8f904&chksm=a6c76fff91b0e6e97c37b20de766a19707606ef2e2875eacf6d8417ab9c7980fc972c5db88c2
 ---
-
 我有很多的碎片时间，很多连不成串，不能沉下心来学习、记录的碎片时间。比如等电梯、坐地铁、临睡前……
 
 这些时间，旁边没有熟人陪伴，我总是要把手机拿出来玩一玩的。微博点开，看看热搜；知乎点开，看看热搜；微信点开，看看朋友圈；虎扑点开，刷刷最新的新闻；订阅号助手点开，每一个页签点一下，看看阅读量、关注量。
@@ -53,14 +52,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484178&idx=
 
 阅读《人间草木》之前，一篇发表的公众号文章，每次修改，我可能都会删掉一个“的”。比如上面摘抄句子中“对比借鉴，是会有长进的”，我会让它变成“对比借鉴，会有长进”。不会损失文章的意义，但确实是有所影响的，没有“的”的句子，读起来会生硬，与整篇文章风格不符；有了“的”，就更有一种娓娓道来的闲适、舒缓。
 
-阅读《人间草木》之后，许多句子中的“的”，我将它留了下来。
+阅读《人间草木》之后，许多句子中的“的”，我将它留了下来。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484178&amp;idx=1&amp;sn=ba7f14f383b03d4fb82de2ca3be8f904&amp;chksm=a6c76fff91b0e6e97c37b20de766a19707606ef2e2875eacf6d8417ab9c7980fc972c5db88c2" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓关注我，这里有平凡人的多彩人生↓↓↓

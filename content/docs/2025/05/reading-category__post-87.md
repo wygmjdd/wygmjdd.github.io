@@ -5,7 +5,6 @@ weight: 276200087
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486946&idx=1&sn=ec5abb657f9070a26059a051008ae16a&chksm=a6c7610f91b0e819ff3c430f6b52956773bc8cb1661804a47e005bbff2b639f683882cd3188c
 ---
-
 前天中午，在服务区，在我的即时笔记当中，有这样的一段：
 
 > 我现在正在回家的路上，我是回家参加同学婚礼的，在路上有些饿就在服务区买一碗15块钱的炒粉吃，我边吃炒粉边掏出手机看书。
@@ -78,6 +77,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486946&idx=
 
 《活着》算是一出悲剧么？
 
-看完全书的我在现在这一刻的感受是：我不知道。我知道的是，我自己正活着。
-
-↓↓↓欢迎关注
+看完全书的我在现在这一刻的感受是：我不知道。我知道的是，我自己正活着。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486946&amp;idx=1&amp;sn=ec5abb657f9070a26059a051008ae16a&amp;chksm=a6c7610f91b0e819ff3c430f6b52956773bc8cb1661804a47e005bbff2b639f683882cd3188c" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 276760089
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486863&idx=1&sn=5de859212a7ade9ee3dbc2c747c70a93&chksm=a6c7616291b0e87430cb81bc377c5c0ed0da6edc80e4e96179bdd198b2f328a7d18964b43561
 ---
-
 大概是上周，在微信问一问回答过一个问题：“你看过至少三遍的电影是什么？”
 
 我当时想到的答案是《教父》。
@@ -92,6 +91,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486863&idx=
 
 我想这祈祷是有用的，老教父死去当时的遗言是：“生活如此美丽。”
 
-现在我，很想接着看《教父二》与《教父三》，也很想再看电影《教父》一遍。
-
-↓↓↓欢迎关注
+现在我，很想接着看《教父二》与《教父三》，也很想再看电影《教父》一遍。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486863&amp;idx=1&amp;sn=5de859212a7ade9ee3dbc2c747c70a93&amp;chksm=a6c7616291b0e87430cb81bc377c5c0ed0da6edc80e4e96179bdd198b2f328a7d18964b43561" rel="noopener noreferrer">原文链接</a>）</small>

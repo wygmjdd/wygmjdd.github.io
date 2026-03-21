@@ -5,7 +5,6 @@ weight: 281180237
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485917&idx=1&sn=13ac02e0cfc2692e4243c774bbfaf648&chksm=a6c7653091b0ec26f3981db12ef19db57b298fa8309e458ab9a8ab59dd90a29684d0e140a9a4
 ---
-
 《纳瓦尔宝典》是很多金句的合集，此处摘抄些阅读过程中让我产生很多触动的句子。
 
 我希望这些句子，不止现在影响我，也在未来影响我。（当然，我也希望这些句子能够影响到屏幕前的你。）
@@ -40,9 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485917&idx=
 
 > 社会认可是在群体内部进行的。如果想得到社会认可，就需要去阅读整个社会群体都在阅读的东西。而要想在群体中脱颖而出，就需要有一定的逆向思维和反叛精神，能够说出：“不，我就是要做自己选择的事情。不管社会结果如何，我就是要学自己觉得有意思的东西。”
 
-> 若要找到一位优秀的伴侣，你先要成为一位优秀的伴侣。
-
-  
-
-
-↓↓↓ 欢迎关注
+> 若要找到一位优秀的伴侣，你先要成为一位优秀的伴侣。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485917&amp;idx=1&amp;sn=13ac02e0cfc2692e4243c774bbfaf648&amp;chksm=a6c7653091b0ec26f3981db12ef19db57b298fa8309e458ab9a8ab59dd90a29684d0e140a9a4" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 285430171
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485177&idx=1&sn=47e4d29e34639dca2aabfca279369026&chksm=a6c76a1491b0e302c5109ddfceb4562ffe49289da7b855849f92ab9915b2361b007024cc928a
 ---
-
 最近正阅读的人物传记是《乔布斯传》。
 
 看到倒数第三章时，《一个瑜伽行者的自传》再次出现。作者说，乔布斯每年都会将这本书读上一遍。
@@ -50,6 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485177&idx=
 
 > 愿平静征服纷乱，慷慨终结贪婪，诚实代替欺骗，尊敬替代藐视。如此我们的心灵将充满喜悦，我们的灵魂将向上提升，让我们的身体同样被荣耀着。
 
-本书的推荐语为：“《一个瑜伽行者的自传》，是一本宗教读物，书中讲的故事，是神奇的。神奇的很真实。”
-
-↓↓↓欢迎关注
+本书的推荐语为：“《一个瑜伽行者的自传》，是一本宗教读物，书中讲的故事，是神奇的。神奇的很真实。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485177&amp;idx=1&amp;sn=47e4d29e34639dca2aabfca279369026&amp;chksm=a6c76a1491b0e302c5109ddfceb4562ffe49289da7b855849f92ab9915b2361b007024cc928a" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 282290138
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485714&idx=1&sn=f70ff6e505a2eeb74af71b277e0637b3&chksm=a6c765ff91b0ece95db62c364ff290c8d519b22bbc359be98208da42301e4f970da9d51623a8
 ---
-
 曾经很长的一段时间，为了防止自己沉迷于短视频，我的手机是不安装抖音的。后来心中多了些对写作的追求，发现控制自己不连续刷抖音并非是一件难事，便又将抖音重新安装回来。
 
 抖音的推荐算法，是看什么便推什么。我常看电影“解说”——x分钟带你看完一部电影，于是便常被推荐电影解说。
@@ -49,6 +48,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485714&idx=
 
 这次对话，是全书中少有的溥仪说自己很是高兴的片段，是少有的我读来感到轻松的片段，这似乎在提醒我人生的最好状态是“吃得下饭，睡得着觉，以及身体没有大毛病。”
 
-珍惜这人生最好状态，是我读完本书后的最大收获。
-
-↓↓↓欢迎关注
+珍惜这人生最好状态，是我读完本书后的最大收获。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485714&amp;idx=1&amp;sn=f70ff6e505a2eeb74af71b277e0637b3&amp;chksm=a6c765ff91b0ece95db62c364ff290c8d519b22bbc359be98208da42301e4f970da9d51623a8" rel="noopener noreferrer">原文链接</a>）</small>

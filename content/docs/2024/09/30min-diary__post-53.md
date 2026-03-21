@@ -5,7 +5,6 @@ weight: 278510053
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486486&idx=1&sn=b61cec8f737f106e5f5a8d118a1e5761&chksm=a6c760fb91b0e9ed4e9f64051611f549bf6a7d23e5a7d89f5a9aae1dbd1eee872273d2184fbe
 ---
-
 现在时间是晚上的10点49分，我刚刚洗漱完毕，在床上带着许多兴奋情绪，打着饱嗝写日记。今天的日记，我准备简单些写，只记录我今天最印象深刻的事情——晚上在陈叔叔家吃饭。
 
 陈叔叔并不在重庆工作，但他每次上重庆，都会叫我和阿妮去吃饭，吃陈叔叔亲自做的饭。
@@ -53,9 +52,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486486&idx=
 
 今天，我过得很快乐。
 
-正如《坛经》中所说，今天的我确确实实是“吃饭时，只吃饭”。
-
-  
-
-
-↓↓↓欢迎关注
+正如《坛经》中所说，今天的我确确实实是“吃饭时，只吃饭”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486486&amp;idx=1&amp;sn=b61cec8f737f106e5f5a8d118a1e5761&amp;chksm=a6c760fb91b0e9ed4e9f64051611f549bf6a7d23e5a7d89f5a9aae1dbd1eee872273d2184fbe" rel="noopener noreferrer">原文链接</a>）</small>

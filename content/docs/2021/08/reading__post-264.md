@@ -5,7 +5,6 @@ weight: 290060264
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484213&idx=2&sn=a6caebfb28aa4d6f6991293223fa6944&chksm=a6c76fd891b0e6ceb38228d765c9b58afe7c76a629d07177c926f159ef1ee6f2cc87034b862d
 ---
-
 ### 一个微笑带来的持久快乐
 
 过年在巫溪，我要买一件王老吉。
@@ -52,14 +51,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484213&idx=
 
 不过再想一想，如果回到当时，或者再出现相同事情，我会不生气么？并不一定的。
 
-所以，我给予了善意，却得不到正向反馈，应该如何是好呢？（现在我所采取的措施是，敬而远之）
+所以，我给予了善意，却得不到正向反馈，应该如何是好呢？（现在我所采取的措施是，敬而远之） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484213&amp;idx=2&amp;sn=a6caebfb28aa4d6f6991293223fa6944&amp;chksm=a6c76fd891b0e6ceb38228d765c9b58afe7c76a629d07177c926f159ef1ee6f2cc87034b862d" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓关注我，这里有90后的成长↓↓↓

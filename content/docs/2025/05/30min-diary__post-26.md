@@ -5,7 +5,6 @@ weight: 276280026
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486931&idx=1&sn=b4d8c86f0981927085e4e2f9bfac4cf4&chksm=a6c7613e91b0e828bc2b12a563beeed501c111e0417b232ad87a77d36ccb8405e89e26e97e0f
 ---
-
 半个月前和母亲通话，有提到我家的狗子。
 
 “妈，狗子呢？还好有它在屋头给你打伴儿哦。”
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486931&idx=
 
 ![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)狗子正吃的，是我给它剥的鸡蛋
 
-狗子已经不在，我终于将半个月前想作的记录记到此处。
-
-↓↓↓欢迎关注
+狗子已经不在，我终于将半个月前想作的记录记到此处。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486931&amp;idx=1&amp;sn=b4d8c86f0981927085e4e2f9bfac4cf4&amp;chksm=a6c7613e91b0e828bc2b12a563beeed501c111e0417b232ad87a77d36ccb8405e89e26e97e0f" rel="noopener noreferrer">原文链接</a>）</small>

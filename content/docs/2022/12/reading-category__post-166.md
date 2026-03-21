@@ -5,7 +5,6 @@ weight: 285010166
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485244&idx=1&sn=e7112cedf5f62ece1b277cc076ce5fe2&chksm=a6c76bd191b0e2c73d0de3e2aeb4fec6db69c2556a23ea71689e16b8ddd034c54229f45efeb9
 ---
-
 读《潜规则》的原因，在看完《[血酬](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485156&idx=1&sn=2e2b3dece14242770d32890fefb1e802&chksm=a6c76a0991b0e31f361abeda0782d8fd7818580b616b81f3e4ec6ec38bac087cbab94030dc63&scene=21#wechat_redirect)》后憋出的读书笔记中已经讲过，是读完《[大明王朝1566](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485116&idx=1&sn=a9abe7408e25f601a91753e8542c32ec&chksm=a6c76a5191b0e34712c7a0124f603cb87d6b57b7a94d3ed17f3b29173b833259449b02186c77&scene=21#wechat_redirect)》后去网上找相关分析时加入阅读清单的。《潜规则》近14万字，读完花费6小时，从开始看到读完，跨越3个月的时间。
 
 读完本书，我才知道家喻户晓的“潜规则”这个词，是作者吴思于1998年在文学杂志《上海文学》中的一篇文章中首先提出来的。他在书中第17章汇总了潜规则的定义：
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485244&idx=
 
 是的，我猜看书就是这样：一本书讲一个点，一个点关联另外一个点，于是会找到另一本书；一本一本看，自己对这个点的认知就会慢慢饱满起来。
 
-本书的推荐语是：“想知道过去的官场规则么？想了解过去官吏与百姓的关系么？想知道‘迷信’的作用么？试试看《潜规则》这本书吧，历史是会重复的。”
-
-↓↓↓ 欢迎关注
+本书的推荐语是：“想知道过去的官场规则么？想了解过去官吏与百姓的关系么？想知道‘迷信’的作用么？试试看《潜规则》这本书吧，历史是会重复的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485244&amp;idx=1&amp;sn=e7112cedf5f62ece1b277cc076ce5fe2&amp;chksm=a6c76bd191b0e2c73d0de3e2aeb4fec6db69c2556a23ea71689e16b8ddd034c54229f45efeb9" rel="noopener noreferrer">原文链接</a>）</small>

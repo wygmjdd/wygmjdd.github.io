@@ -5,7 +5,6 @@ weight: 275430080
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487057&idx=1&sn=c18d4c7dd1846a64696d701dc8bfcd72&chksm=a6c762bc91b0ebaa7a8758d4c9465859c34990c788ade10d4785dbebc158f66c65357f626c6f
 ---
-
 6月[在北京出差](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487007&idx=1&sn=6f254dfb23eef93f93b1f264b79d1c43&scene=21#wechat_redirect)，我住的酒店到公司的距离大概是2.4公里，这段上班通勤路，不管走路（30分钟）还是骑车（15分钟），我都戴上耳机听书，这给予我一种鲜明记忆：路很宽，阳光从右边来，树很高，沿途常有树荫。
 
 回到重庆，上班需要坐地铁，家到地铁站的距离是20分钟，这段路，我也用来听书。重庆夏天的天气一直很好，上班路上很多车，人行道不规则，阳光从后面来，路上也有树荫。
@@ -128,6 +127,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487057&idx=
 
 
 
-综上，书中倡导的健康生活方式可概括为：饮食均衡、少吃加工食品和有害脂肪，坚持规律运动，保持健康体重，保证充足睡眠，远离烟草与过量酒精，以及在日常细节中培养长期可持续的健康习惯。
-
-↓↓↓欢迎关注
+综上，书中倡导的健康生活方式可概括为：饮食均衡、少吃加工食品和有害脂肪，坚持规律运动，保持健康体重，保证充足睡眠，远离烟草与过量酒精，以及在日常细节中培养长期可持续的健康习惯。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487057&amp;idx=1&amp;sn=c18d4c7dd1846a64696d701dc8bfcd72&amp;chksm=a6c762bc91b0ebaa7a8758d4c9465859c34990c788ade10d4785dbebc158f66c65357f626c6f" rel="noopener noreferrer">原文链接</a>）</small>

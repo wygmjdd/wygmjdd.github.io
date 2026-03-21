@@ -5,7 +5,6 @@ weight: 276000024
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486981&idx=1&sn=49dba8968734ea45899f1c0e2ec9df3f&chksm=a6c762e891b0ebfefe7cb3cca25b5523341658306dd6e975ecf7418f8f29b04127be30ae72b8
 ---
-
 今天又在问一问发现一个很想要说些什么的问题：“又是一年高考季，如果你能穿越回去，你想对高考中的自己说些什么？”
 
 本篇更新，基于自己当时的回答作些整理。
@@ -56,6 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486981&idx=
 
 我认为18岁的自己，已经拥有属于自己的判断力，青春活力和同学友谊，是他正拥有的最宝贵财富，他都有好好珍惜。让他对未来的自己产生一种依赖，是不必要的。
 
-如果穿越回到高考那天，我只会拍拍自己肩膀再轻轻说一句：“去吧，你可以的。”
-
-↓↓↓ 欢迎关注
+如果穿越回到高考那天，我只会拍拍自己肩膀再轻轻说一句：“去吧，你可以的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486981&amp;idx=1&amp;sn=49dba8968734ea45899f1c0e2ec9df3f&amp;chksm=a6c762e891b0ebfefe7cb3cca25b5523341658306dd6e975ecf7418f8f29b04127be30ae72b8" rel="noopener noreferrer">原文链接</a>）</small>

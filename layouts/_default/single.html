@@ -2,9 +2,6 @@
   <article class="markdown book-article">
     <header class="markdown-inner">
       <h1>{{ partial "docs/title" . }}</h1>
-      {{ with .Params.source_url }}
-        <p><a href="{{ . }}" rel="noopener noreferrer">原文链接</a></p>
-      {{ end }}
     </header>
     <div class="markdown-inner">
       {{ with .Params.list_category }}

@@ -5,7 +5,6 @@ weight: 273200198
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487601&idx=1&sn=1008d031efa651df215f5454eb6c05e4&chksm=a6c77c9c91b0f58ac620320feb0422ba085fb4316f75a02f6a14c975e59c1a33bb04c8e48583
 ---
-
 周六加班，外出吃饭走到楼下。楼下正下雨，天微凉，我回到工位点外卖。
 
 我在知乎的打卡好像已经完成16周，于是它也成了我每天会做——带点强迫带点执念——的事情，不走路吃饭便将时间换成知乎打卡。
@@ -50,6 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487601&idx=
 
 \--
 
-以上回答写完，外卖还不送到，我再将它搬运到此处。
-
-↓↓↓欢迎关注
+以上回答写完，外卖还不送到，我再将它搬运到此处。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487601&amp;idx=1&amp;sn=1008d031efa651df215f5454eb6c05e4&amp;chksm=a6c77c9c91b0f58ac620320feb0422ba085fb4316f75a02f6a14c975e59c1a33bb04c8e48583" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 293180197
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483680&idx=1&sn=01e6a91f8bbd1c40edebcab75ab012e6&chksm=a6c76dcd91b0e4db3a2d734627ec42f8005f58bc66f66b55b96936438d15e852c29d19ea0df0
 ---
-
 19年7月，在公司KM一篇博客中，看到侯捷老师的《左手程序右手诗》被推荐。便将书本的PDF下载下来，放在桌面上，想起来的时候往后翻一翻。经过一年多断断续续的阅读，于20年8月看完。全书（个人感觉更像是杂志，许多篇文章的合集）拆分为上和下，一共分为5个部分。上部包含观点、交流与讲座，下部则为随笔与游记。
 
 读完本书后，将最是深刻的一些记忆，整理在这里。
@@ -105,4 +104,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483680&idx=
 
 > 30岁正是英年，体力和智力和成熟度都正达到巅峰，怎麽会做不动程序？想往管理阶层走当然很好，那就努力充实自己，并且扪心自问，你做管理快乐吗？要知道，人事绝对比机器让你更焦头烂额。如果你决定争取一个粥少僧多的职位，就不要再问「怎麽办」。还能怎麽办呢？就努力以赴呀！比赛还没开始就问「输了怎麽办」，这不像话，你注定要输。
 
-振聋发聩！30岁正是英年，努力以赴呀！
+振聋发聩！30岁正是英年，努力以赴呀！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483680&amp;idx=1&amp;sn=01e6a91f8bbd1c40edebcab75ab012e6&amp;chksm=a6c76dcd91b0e4db3a2d734627ec42f8005f58bc66f66b55b96936438d15e852c29d19ea0df0" rel="noopener noreferrer">原文链接</a>）</small>

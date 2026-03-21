@@ -5,7 +5,6 @@ weight: 282980146
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485630&idx=1&sn=328e3c2d29ed93badf59c52c71c1e645&chksm=a6c7645391b0ed45921b1f3165fe2776f22b9202df0b2330fee7013f0a4f6812b268de8a5a72
 ---
-
 鲁迅先生在《南腔北调集》的《偶成》（鲁迅先生题目为“偶成”的文章，有很多篇）中谈论“酷刑”，其中有一段是这样的：
 
 > “酷刑”的记载，在各地方的报纸上是时时可以看到的，但我们只在看见时觉得“酷”，不久就忘记了，而实在也真是记不胜记。然而酷刑的方法，却决不是突然就会发明，一定都有它的师承或祖传，例如这石塘小弟所采用的，便是一个古法，见于士大夫未必肯看，而下等人却大抵知道的《说岳全传》一名《精忠传》上，是秦桧要岳飞自认“汉奸”，逼供之际所用的方法，但使用的材料，却是麻条和鱼鳔。我以为生漆之说，是未必的确的，因为这东西很不容易干燥。
@@ -60,6 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485630&idx=
 
 我为岳飞不平，更为岳飞担心岳云张宪造反而让岳云张宪一起入狱而不平。
 
-我是大抵知道岳爷的故事了：岳飞，精忠报国，真圣人也！
-
-↓↓↓欢迎关注
+我是大抵知道岳爷的故事了：岳飞，精忠报国，真圣人也！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485630&amp;idx=1&amp;sn=328e3c2d29ed93badf59c52c71c1e645&amp;chksm=a6c7645391b0ed45921b1f3165fe2776f22b9202df0b2330fee7013f0a4f6812b268de8a5a72" rel="noopener noreferrer">原文链接</a>）</small>

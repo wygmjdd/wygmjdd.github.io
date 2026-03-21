@@ -5,7 +5,6 @@ weight: 282840144
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485645&idx=1&sn=91b78f05fe8a5b744a46ff54e33c4a9d&chksm=a6c7642091b0ed3647b3bc3265c2d2b2339ef7a02c2fe61d329c2387ea7acca721dfb37e1c8a
 ---
-
 回重庆后，三个帅的三个家庭经常一起爬山，爬山歇息时，谈论的话题是篮球、晚饭、沿途风景以及生活中的各种见闻。
 
 一个月前，阿琳向大家推荐了一本书，书名叫《太白金星有点烦》：“我给你们说嘛，这本书真的好看，它就写的是工作上的那些事。我觉得描写的太像了，不，简直是一模一样，你们一定要看一哈。等我看完了，再给你们看。”
@@ -52,6 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485645&idx=
 
 我只感觉作者超级厉害，文笔清晰、思路新颖。
 
-未来，我想将作者的作品，看个遍。
-
-↓↓↓欢迎关注
+未来，我想将作者的作品，看个遍。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485645&amp;idx=1&amp;sn=91b78f05fe8a5b744a46ff54e33c4a9d&amp;chksm=a6c7642091b0ed3647b3bc3265c2d2b2339ef7a02c2fe61d329c2387ea7acca721dfb37e1c8a" rel="noopener noreferrer">原文链接</a>）</small>

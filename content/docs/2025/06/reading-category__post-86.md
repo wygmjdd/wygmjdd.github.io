@@ -5,7 +5,6 @@ weight: 275990086
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486986&idx=1&sn=16b589de93837640f234e24d8ed9ac78&chksm=a6c762e791b0ebf1078c1b3f750c8254a43c8bf2d773c84f384e746e3784722a90bbea0181e4
 ---
-
 《[人类简史](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486458&idx=1&sn=5f6d0b5fbe7407980ab4eeda84d2511b&scene=21#wechat_redirect)》，是《清华大学荐读书目》中推荐的一本世界文化名著，经由《人类简史》，我收获的一种认知是“我们所有的欲望，除开基本的吃饭穿衣之外，剩下的一切，都基于我们的价值观，而我们的价值观，来自于我们所听到的故事”。我以为这种认知，有帮助自己变得豁达一些，从此，我也就将《人类简史》加入那些我很是推荐书目列表当中。
 
 之前在张公子、侯捷老师的文章当中都有看到过这样的观点：如果喜欢一个作者，可以试着将这个作者的所有作品都看上一遍。这观点我是认可的，基于此，我读完《[沈从文文集](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484979&idx=1&sn=42cd3716c384045d497004a57693fdd6&scene=21#wechat_redirect)》，将[侯捷老师的教学视频都看一遍](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483770&idx=1&sn=be79b80471d804421ae8f7fe709f5e25&scene=21#wechat_redirect)，看过比吕美的《[身后无遗物](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486473&idx=1&sn=24eb5616fecb50f5dbe82b7b55adf884&scene=21#wechat_redirect)》和《[闭经记](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486775&idx=1&sn=8febe91b349f10f51119777f0e4586ae&scene=21#wechat_redirect)》。
@@ -62,6 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486986&idx=
 
 以上，是我听完《未来简史》后收获的信息，它并不像《人类简史》那样，给予我一种很是底层——我的除开吃饱穿暖睡好之外的一切渴望都来源于某种故事——的认知改变。
 
-它给予我的，是另一种自己已经感受到的体验：“历史唯一不变的事实，就是一切都会改变。”
-
-↓↓↓ 欢迎关注
+它给予我的，是另一种自己已经感受到的体验：“历史唯一不变的事实，就是一切都会改变。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486986&amp;idx=1&amp;sn=16b589de93837640f234e24d8ed9ac78&amp;chksm=a6c762e791b0ebf1078c1b3f750c8254a43c8bf2d773c84f384e746e3784722a90bbea0181e4" rel="noopener noreferrer">原文链接</a>）</small>

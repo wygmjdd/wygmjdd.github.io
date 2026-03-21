@@ -5,7 +5,6 @@ weight: 282700142
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485670&idx=1&sn=975d13e2219f33f4427e2e5460e3dceb&chksm=a6c7640b91b0ed1d58cf6e55771418d05d83a03314a95abbba6864e1e02947bed0688375614c
 ---
-
 刚从深圳回到重庆的前两个月，我是感觉到许多不习惯的。
 
 不习惯，于是心生郁郁。
@@ -71,6 +70,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485670&idx=
 
 本书的推荐语为：“想了解别人获取幸福的方式？《高敏感人士的幸福清单》中可能会有答案。
 
-“请多多按照直觉行事啦~”
-
-↓↓↓欢迎关注
+“请多多按照直觉行事啦~” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485670&amp;idx=1&amp;sn=975d13e2219f33f4427e2e5460e3dceb&amp;chksm=a6c7640b91b0ed1d58cf6e55771418d05d83a03314a95abbba6864e1e02947bed0688375614c" rel="noopener noreferrer">原文链接</a>）</small>

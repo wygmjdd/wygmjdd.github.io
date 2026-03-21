@@ -5,7 +5,6 @@ weight: 287960188
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484590&idx=2&sn=d88f469546d036c5c2b1768d3d3407ef&chksm=a6c7684391b0e155c97c622ba0738a3b31bc74d42fd8dbc147f68c14470fc32454714074b01f
 ---
-
 最近看书的方式，又起了变化。
 
 最最开始，我看书是不记笔记的，一往无前地读。过几年，读完的这些书，只记得读过，不记得书中内容。(那些书，基本上全是小说，金庸、古龙、梁羽生、网络连载；只有一两本提升自我认知的书，一两本专业书。)
@@ -30,14 +29,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484590&idx=
 
 > 写作不是为了赚钱、出名、找人约会、做爱或交朋友。写作最终是为了让读你书的人生活更丰富，也让你自己的生活更丰富。是为了站起来，好起来，走出来。快乐起来，好吗？快乐起来。这本书中有些内容——或许太多了——关于我是如何学习写作的。还有许多内容是关于如何写得更好。其余的部分——可能是最好的部分——是一张特许证：你可以写，你该去写，而且你如果足够勇敢，已经开始写了，就要坚持写下去。写作，跟其他艺术创作一样，是神奇的生命之水。这水免费，所以畅饮吧。
 > 
-> 干杯，再满上。
+> 干杯，再满上。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484590&amp;idx=2&amp;sn=d88f469546d036c5c2b1768d3d3407ef&amp;chksm=a6c7684391b0e155c97c622ba0738a3b31bc74d42fd8dbc147f68c14470fc32454714074b01f" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓ 一个学做菜、用文字分享生活的程序员

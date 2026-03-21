@@ -5,7 +5,6 @@ weight: 274100072
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487424&idx=1&sn=3133242fda8f1a1d1661734fb68f7bbc&chksm=a6c7632d91b0ea3baea1f4ac0b6b4d43af8bc455a53ca99947397858e89a7bb74971f06462cc
 ---
-
 重玩《[皇室战争](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487161&idx=1&sn=97d19115b91dc5cb47e57f621e5cb537&scene=21#wechat_redirect)》之前一两个月的每个中午午睡前，我都会躺在椅子上，眯眼看书十分钟，那段时间，我会很有些期待这十分钟的到来。（再次强调CR是因为玩CR之后这相应的中午时间都变成了游戏时间。）
 
 我看的书，是《初老的女人》，它是我看的伊藤比吕美女士继《闭经记》《身后无遗物》之后的又一本书，这新书，内容不同，但风格依旧，依然是一篇篇真实生活——作者于60岁之后——的合集：夫（比吕美的丈夫，《身后无遗物》的主角）死后，作者回到日本工作与生活，一个人，带着狗。
@@ -48,6 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487424&idx=
 
 最后，我发现读书选择类别这件事于我，大概也算是某种持续阅读的动力，不同书籍带给我的，是不一样的新奇体验。看完《初老的女人》，我再将比吕美女士的《生而为女，不必抱歉》加入书架，但一直不看。我想要的，先看些其它类别图书之后再回来。
 
-比吕美女士，且过段时间再见。
-
-↓↓↓欢迎关注
+比吕美女士，且过段时间再见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487424&amp;idx=1&amp;sn=3133242fda8f1a1d1661734fb68f7bbc&amp;chksm=a6c7632d91b0ea3baea1f4ac0b6b4d43af8bc455a53ca99947397858e89a7bb74971f06462cc" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 279280106
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486339&idx=1&sn=e611fc1fcb23d709025459e3cfc68b2b&chksm=a6c7676e91b0ee788ef87c6a238d655e99dd8fb9a2f021ad9d031f2634f7f69946505d8267c0
 ---
-
 今年的3月，我一鼓作气读完了《我在北京送快递》，后面好多个周末的更新，我都想添上一篇本书的读书笔记。迟迟不写的原因，我自己也说不清，或许是周末有更想完成的内容，或许是周末花在玩耍的时间太多，总之，就这样一周周耽搁下来。
 
 我最近两三周的状态，大概类似作者在书中所分享的：“当我去打工的时候，我就无法写作，光是工作本身就极大地占用了我的时间，同时它还透支我的情绪，令我在下班后也只想放松和减压，而无力思考其他。”
@@ -68,9 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486339&idx=
 
 我的想法如是：我对过去的打工经历，只有感激与怀念；怀着怨恨的人生是不值得过的。
 
-《[真实的幸福](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486275&idx=1&sn=b9f3fc63413a4ffffb467f60c82ed769&chksm=a6c767ae91b0eeb8791d74d4f12b2d6ce911b7616570ff04fd0e0ff92d8fce25dcf37ad8b994&scene=21#wechat_redirect)》的作者在书中提到过的一种提升幸福感的方法是写出自己的感恩，周日的早上八点到下午四点，坐在电脑前面回忆过去的我，内心充满着欢快和力量：**感谢过去工作中，遇见的每一个你** 。
-
-  
-
-
-↓↓↓欢迎关注
+《[真实的幸福](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486275&idx=1&sn=b9f3fc63413a4ffffb467f60c82ed769&chksm=a6c767ae91b0eeb8791d74d4f12b2d6ce911b7616570ff04fd0e0ff92d8fce25dcf37ad8b994&scene=21#wechat_redirect)》的作者在书中提到过的一种提升幸福感的方法是写出自己的感恩，周日的早上八点到下午四点，坐在电脑前面回忆过去的我，内心充满着欢快和力量：**感谢过去工作中，遇见的每一个你** 。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486339&amp;idx=1&amp;sn=e611fc1fcb23d709025459e3cfc68b2b&amp;chksm=a6c7676e91b0ee788ef87c6a238d655e99dd8fb9a2f021ad9d031f2634f7f69946505d8267c0" rel="noopener noreferrer">原文链接</a>）</small>

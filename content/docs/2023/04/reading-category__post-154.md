@@ -5,7 +5,6 @@ weight: 283820154
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485500&idx=1&sn=97f1a0ca4989e61b9f6307d05e4cdd03&chksm=a6c764d191b0edc716faa4023f57b590b94d05a98d9165f251cf7e94208db9ee90daa7230486
 ---
-
 《如何写出一篇好文章》是日本作者山口拓朗的一本畅销书，由《微信读书》推荐。这是一本关于写作训练的书，它的副标题是：**不动笔就能学会写文章的训练法** 。
 
 本书9万字，读完花4小时20分钟。全书分为6个章节，分别为：
@@ -72,6 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485500&idx=
 
 “书很短。但书中提到的关于写作的训练方法，朴实易懂，可操作性极强。
 
-“强烈推荐。”
-
-↓↓↓欢迎关注
+“强烈推荐。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485500&amp;idx=1&amp;sn=97f1a0ca4989e61b9f6307d05e4cdd03&amp;chksm=a6c764d191b0edc716faa4023f57b590b94d05a98d9165f251cf7e94208db9ee90daa7230486" rel="noopener noreferrer">原文链接</a>）</small>

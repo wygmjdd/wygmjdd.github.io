@@ -5,7 +5,6 @@ weight: 286620181
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484927&idx=1&sn=ce02a58b0deb671607175c7e339b1bb9&chksm=a6c7691291b0e00469fb728f870522c758baab6d8754acdc8a4a59e1429e3939c109d5221742
 ---
-
 《代码整洁之道》，最近一次被推荐，是去年的朋友圈，一位只见过一次的程序员老乡发的，他当时推荐两本书，一本《重构》，一本《代码整洁之道》。《重构》已经在萌哥要求下看过，所以当时，只将《代码整洁之道》加入书架，去年12月开始断断续续于手机上阅读，到上个月读完，累计花费7个半小时。
 
 作者在前言中将本书结构、内容做了很好的概括，我摘抄于此：
@@ -42,9 +41,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484927&idx=
 
 > 自子程序发明以来，软件开发领域的所有创新都是在不断尝试从源代码中消灭重复。
 
-**Don't repeat yourself！**
+**Don't repeat yourself！** <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484927&amp;idx=1&amp;sn=ce02a58b0deb671607175c7e339b1bb9&amp;chksm=a6c7691291b0e00469fb728f870522c758baab6d8754acdc8a4a59e1429e3939c109d5221742" rel="noopener noreferrer">原文链接</a>）</small>
 
 * * *
-
-  
-↓↓↓欢迎关注

@@ -5,7 +5,6 @@ weight: 280600234
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486071&idx=1&sn=4aacbe10662555f68f3fedc27f0a11b8&chksm=a6c7669a91b0ef8cfd64aeebd023166f91441c3dac704e8fe0c180ee22bf44e30218201ceec0
 ---
-
 我关注好几位读书博主，他们会不停地推荐书，他们荐书的方式之一，是使用能勾起人好奇心的标题。这些标题，总让我忍不住点进去看看。
 
 前两天看见的一个标题是：“这是一本越早读越好的书！答应我一定要在今年读完！”
@@ -62,9 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486071&idx=
 
 > 不管你多大，现在，就是你的黄金岁月。美好的事情会带来金色的回忆，糟糕的事情会带来宝贵的教训。
 
-> **人生中只有很少的遗憾，是遗憾自己做了什么。几乎所有的遗憾都是遗憾自己没有做什么。**
-
-  
-
-
-↓↓↓欢迎关注
+> **人生中只有很少的遗憾，是遗憾自己做了什么。几乎所有的遗憾都是遗憾自己没有做什么。** <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486071&amp;idx=1&amp;sn=4aacbe10662555f68f3fedc27f0a11b8&amp;chksm=a6c7669a91b0ef8cfd64aeebd023166f91441c3dac704e8fe0c180ee22bf44e30218201ceec0" rel="noopener noreferrer">原文链接</a>）</small>

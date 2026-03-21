@@ -5,7 +5,6 @@ weight: 279980113
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486208&idx=1&sn=a8e595449367c715e77177d0790d5e6e&chksm=a6c767ed91b0eefbfa69e6a1ca5676cf5a94fbfdc8ef5e726f205d62acbb9b19cfcdf31cc3ed
 ---
-
 《[纳瓦尔宝典](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485918&idx=1&sn=6e7c2dd44d6e8442e1d9dd5850017899&chksm=a6c7653391b0ec253aec45df705ce60192351ab762992009455c8dae12f7d917b31c411f39e1&scene=21#wechat_redirect)》的《推荐序一》是樊登博士写的，在这篇推荐序中，樊登说他《低风险创业》中全部的核心建议都在《纳瓦尔宝典》有提到。出于对“创业”及书名“低风险创业”的好奇，我在23年12月到24年1月的一个半月内，每天看十几二十分钟，累计花5小时将《低风险创业》读完。
 
 我新发现自己的一个较主观规律是，如若某本书我没有很喜欢，那读完这本书后的读书笔记，往往要拖很久才会输出。由此，本篇读书笔记，我是逼迫自己完成的，在读完《低风险创业》4个月后。
@@ -48,6 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486208&idx=
 
 查看当时笔记，憋出本篇整理之后，我脑中多出两条从本书收获的未来大概率能记住的有用认知：创业创意的来源，可以是大家都抱怨的点，改进的方向就是创业；二是自己的产品，得自己满意后才有获得大家满意的可能。
 
-樊登博士创业成功，《樊登读书》能赚很多钱，我想我，还不拥有创业思维。
-
-↓↓↓欢迎关注
+樊登博士创业成功，《樊登读书》能赚很多钱，我想我，还不拥有创业思维。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486208&amp;idx=1&amp;sn=a8e595449367c715e77177d0790d5e6e&amp;chksm=a6c767ed91b0eefbfa69e6a1ca5676cf5a94fbfdc8ef5e726f205d62acbb9b19cfcdf31cc3ed" rel="noopener noreferrer">原文链接</a>）</small>

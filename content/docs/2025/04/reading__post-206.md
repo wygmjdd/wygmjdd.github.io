@@ -5,7 +5,6 @@ weight: 276640206
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486876&idx=1&sn=960a211dddbc07038358e5328e15ebce&chksm=a6c7617191b0e867ccc5d243e92df0378a3d31aa7a999e434f3e20fe0e902f8fd7b03e5cd427
 ---
-
 上个周末，我的公众号更新只是一个[简单的摘抄](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486871&idx=1&sn=82df88c983860f7d43f9d80a02311eac&scene=21#wechat_redirect)，这让我念念不忘。
 
 今天周五，是清明假期第一天，现在时间是早上的8点19分，本打算先加班两小时的我实在忍不住想自己没更新这件事，于是想着先将昨天已经花20分钟整理的内容再做整理与完善搬运到公众号。
@@ -84,6 +83,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486876&idx=
 > 
 > 事实上，大多数成功只是坚持。
 
-且坚持在场。
-
-↓↓↓欢迎关注
+且坚持在场。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486876&amp;idx=1&amp;sn=960a211dddbc07038358e5328e15ebce&amp;chksm=a6c7617191b0e867ccc5d243e92df0378a3d31aa7a999e434f3e20fe0e902f8fd7b03e5cd427" rel="noopener noreferrer">原文链接</a>）</small>

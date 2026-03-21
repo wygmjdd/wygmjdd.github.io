@@ -5,7 +5,6 @@ weight: 283540152
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485537&idx=1&sn=73d5c93786125a63d91ab3aadcc01b4e&chksm=a6c7648c91b0ed9a90d2070d2cab850956e5d122450ac236c54ed6a3bd4ba7bc7a9ffee0de94
 ---
-
 《架构整洁之道》这本书，是读完《[代码整洁之道](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484927&idx=1&sn=ce02a58b0deb671607175c7e339b1bb9&chksm=a6c7691291b0e00469fb728f870522c758baab6d8754acdc8a4a59e1429e3939c109d5221742&scene=21#wechat_redirect)》后添加进书架的。加入书架看六七章停下来，一放半年，终于在上个月将其完整过一遍；全书18万字，过完耗时8小时40分钟。
 
 这本书，对我来说是比较难的，放着半年便是例证——看不太懂或是不太想看的书我都先放一边。
@@ -103,9 +102,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485537&idx=
 
 本书的推荐语为：“作为程序员，在我们的编程生涯中，总是会需要修改自己或是他人代码的。如何能够让这些修改能够更容易更自然，可以从两方面着手，一是写出更易懂的代码；二是在写代码之前，想想看系统应该如何拆分。
 
-“系统如何拆分？试试看《架构整洁之道》，书里面是有思路的。”
-
-  
-
-
-↓↓↓欢迎关注
+“系统如何拆分？试试看《架构整洁之道》，书里面是有思路的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485537&amp;idx=1&amp;sn=73d5c93786125a63d91ab3aadcc01b4e&amp;chksm=a6c7648c91b0ed9a90d2070d2cab850956e5d122450ac236c54ed6a3bd4ba7bc7a9ffee0de94" rel="noopener noreferrer">原文链接</a>）</small>

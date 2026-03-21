@@ -5,7 +5,6 @@ weight: 275500081
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487051&idx=1&sn=338d1d2c99fbfa7377c402322b98534d&chksm=a6c762a691b0ebb02d8801a315d22c3d1f714cc332c44516e520b46b235a3d82301a583c3cdd
 ---
-
 我已经不记得自己知道“冥想”这个词是几岁，但对“冥想”开始有所关注，大概来自于《[自控力](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485216&idx=1&sn=1a079e8b8581c29fea0054c975c5247d&scene=21#wechat_redirect)》或是《[津巴多普通心理学](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&scene=21#wechat_redirect)》。
 
 三四年前的那些工作日上午，我到达公司的第一件事，是坐在窗边对着深圳大学的足球场，闭上眼睛深呼吸，让自己的注意力集中在自己的呼吸。
@@ -72,6 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487051&idx=
 
 > 坐禅的方法，是先使心灵集中于所观想的对象，使头脑冷静，心灵休息，排除任何现实世界中情感的混杂，以精神上的直觉主宰意志和情意，使于静定澄澈中，获得心灵的平衡，获得较高层次的意志，获得佛家所言“戒、定、慧”三学中的“定”和“慧”。
 
-保持专注，是大师们都认可且愿意持续追求的。
-
-↓↓↓欢迎关注
+保持专注，是大师们都认可且愿意持续追求的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487051&amp;idx=1&amp;sn=338d1d2c99fbfa7377c402322b98534d&amp;chksm=a6c762a691b0ebb02d8801a315d22c3d1f714cc332c44516e520b46b235a3d82301a583c3cdd" rel="noopener noreferrer">原文链接</a>）</small>

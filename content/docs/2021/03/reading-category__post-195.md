@@ -5,7 +5,6 @@ weight: 291390195
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483955&idx=1&sn=5038f33bcf63897a2d110db0f2496ae3&chksm=a6c76ede91b0e7c8a57ee6e9846979f716c9685c3e3ec638ce76b6729be194a986b84201c15a
 ---
-
 去年年底，有一个多月的时间，经常周日去试驾。刚开始去的时候，对车一窍不通，销售问我想买什么样的车，买车的哪个型号，我支支吾吾答不上来。
 
 于是想系统的了解一下汽车到底是什么。找到《汽车是怎样跑起来的》，这是一本介绍汽车行驶原理的书籍。作者是御堀直嗣先生，译者为卢扬先生。
@@ -104,4 +103,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483955&idx=
 
 > 写这本《汽车是怎样跑起来的》的时候，我尽量选择了大家都了解的、简单易懂的语句来讲解。即便如此，你可能也并没有充分理解汽车的结构吧？
 
-感谢作者的分享，虽然没有充分理解，但却对汽车行驶原理有了大体认知。这认知，是我知识的累积。
+感谢作者的分享，虽然没有充分理解，但却对汽车行驶原理有了大体认知。这认知，是我知识的累积。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483955&amp;idx=1&amp;sn=5038f33bcf63897a2d110db0f2496ae3&amp;chksm=a6c76ede91b0e7c8a57ee6e9846979f716c9685c3e3ec638ce76b6729be194a986b84201c15a" rel="noopener noreferrer">原文链接</a>）</small>

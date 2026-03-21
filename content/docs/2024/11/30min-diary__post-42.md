@@ -5,7 +5,6 @@ weight: 278130042
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486598&idx=1&sn=93ca3cc789050e074a593113b89c7be0&chksm=a6c7606b91b0e97daf626a239ce498a4afab85d7c15c288d2888b17f44848fc85407153e1955
 ---
-
 现在时间是晚上的9点50分，我已经感觉到疲倦，其实疲倦，在7点左右已经出现。疲倦，来自于不停用脑，对的，在家办公虽然没了通勤时间，但我一天的时间更紧凑，不像[两年前那样](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484680&idx=1&sn=dd72b4cea7f2672f1950dda46a847808&chksm=a6c769e591b0e0f39ce0d4928d472c3bd766d3fa2e88af42a0971771362f31b83062d75b5ebb&scene=21#wechat_redirect)，和待在办公室的同事们同频就好。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/aa17lmRY1pXQoOIr3WfS66DgHfggDicPQoibOn3KChwFvN9icpjoftHoDOwtn24x4V36e5snHkGjf2eD5AXR5JOcQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)一日三餐
@@ -67,6 +66,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486598&idx=
 
 今天睡觉，应该可以在11点左右。只需要右一点。
 
-我没想到今天的日记需要花50分钟。50分钟后的现在，我感觉疲倦好像远离了我。对的，写日记也是一件能带来些“心流”体验的事情。
-
-↓↓↓欢迎关注
+我没想到今天的日记需要花50分钟。50分钟后的现在，我感觉疲倦好像远离了我。对的，写日记也是一件能带来些“心流”体验的事情。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486598&amp;idx=1&amp;sn=93ca3cc789050e074a593113b89c7be0&amp;chksm=a6c7606b91b0e97daf626a239ce498a4afab85d7c15c288d2888b17f44848fc85407153e1955" rel="noopener noreferrer">原文链接</a>）</small>

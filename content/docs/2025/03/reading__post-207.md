@@ -5,7 +5,6 @@ weight: 276830207
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486846&idx=1&sn=fd7364aa7f0b09f3ab355ee68c9c7fc1&chksm=a6c7619391b0e885ced9d38b197e042882a78c8754cbf5c377fb3545a887dc885da7c1af09a0
 ---
-
 写《额尔古纳河右岸》读书笔记过程中，我想要AI帮我理一理书中的人物关系，我问过Gemini、ChatGPT、Grok和DeepSeek。
 
 Gemini列出的内容特别简单，ChatGPT中许多人名错误，而Grok纯纯乱说，DeepSeek输出的答案最接近，但也存在错误。
@@ -122,6 +121,4 @@ Gemini列出的内容特别简单，ChatGPT中许多人名错误，而Grok纯纯
 
 \--
 
-AI好用，但答案还需鉴别。
-
-↓↓↓欢迎关注
+AI好用，但答案还需鉴别。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486846&amp;idx=1&amp;sn=fd7364aa7f0b09f3ab355ee68c9c7fc1&amp;chksm=a6c7619391b0e885ced9d38b197e042882a78c8754cbf5c377fb3545a887dc885da7c1af09a0" rel="noopener noreferrer">原文链接</a>）</small>

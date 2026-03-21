@@ -5,7 +5,6 @@ weight: 277870038
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486656&idx=1&sn=e45822381f2fc0d55fbff565d81c733f&chksm=a6c7602d91b0e93b43d2f7e38048858b5f9c6e10f6857ab8f56f7bd1dd0df07a1dff0747dd91
 ---
-
 我已经有18天没有写“30分钟日记”，并非不想写，只是单纯感觉没有时间。每天晚上10点半，我都感觉睁不开眼，又恰逢自己对睡眠作息有了新的“[旧想法”——继续在每天晚上的11点睡觉](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485561&idx=1&sn=a1a8dee4227053f2ae78cc00b1c8b77f&scene=21#wechat_redirect)，于是过去半个多月，在那些能量还剩余的天，我有记录许多半成品；那些感觉全无能量剩余的天，我都只花几分钟列举下当天发生的事情就好。
 
 今天，写这30分钟日记的念头一直往外冒，晚上10点，我已经洗漱完毕写完日报。我要用30分钟时间，记录我当下的感受，这算是全职远程办公一个月时，我的即时状态。
@@ -84,6 +83,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486656&idx=
 
 今晚的睡觉时间超过11点十分钟。
 
-没关系的。
-
-↓↓↓欢迎关注
+没关系的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486656&amp;idx=1&amp;sn=e45822381f2fc0d55fbff565d81c733f&amp;chksm=a6c7602d91b0e93b43d2f7e38048858b5f9c6e10f6857ab8f56f7bd1dd0df07a1dff0747dd91" rel="noopener noreferrer">原文链接</a>）</small>

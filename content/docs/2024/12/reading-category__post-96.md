@@ -5,7 +5,6 @@ weight: 277810096
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486668&idx=1&sn=ebec3fd8549ed5556c7eed2eb62e53b0&chksm=a6c7602191b0e937345621c674956af9f62d641f76da58d686c203ed9dd0ad22367af388c775
 ---
-
 《我曾走在崩溃的边缘：俞敏洪亲述新东方创业发展之路》中有这样的几段话：
 
 > 只要卢跃刚在场，开会时自己一定要理性，因为自己的任何爆发或者不讲道理，到最后一定会被卢跃刚写到书里去。这样一来，也缓解了我们硬碰硬地对着干的情况。
@@ -48,6 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486668&idx=
 
 我有看过另一个与“勒布朗法则”相关的故事，大意是这样的。一位画家学画画，他总不舍得扔掉草稿纸，常常在草稿纸上练习，某一天，一位好友问他为什么这样做，得到答案后好友对他说：“你如果想要画技得到提升，我会建议你每次练习时都拿出一张全新白纸，由此，你会更加认真对待此次练习。”后来，画家按照好友的建议行事，画技突飞猛进。
 
-我想对自己说的是，我该在当下，像画家一样，认真对待我想要完成的每一件事，而不是常常想“以后”。
-
-↓↓↓欢迎关注
+我想对自己说的是，我该在当下，像画家一样，认真对待我想要完成的每一件事，而不是常常想“以后”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486668&amp;idx=1&amp;sn=ebec3fd8549ed5556c7eed2eb62e53b0&amp;chksm=a6c7602191b0e937345621c674956af9f62d641f76da58d686c203ed9dd0ad22367af388c775" rel="noopener noreferrer">原文链接</a>）</small>

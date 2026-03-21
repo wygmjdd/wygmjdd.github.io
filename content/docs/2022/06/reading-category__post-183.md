@@ -5,7 +5,6 @@ weight: 286900183
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484824&idx=1&sn=248e953335962f291844655ce0afdc2f&chksm=a6c7697591b0e0636abbb484daa60fc15d446a3abe4ddbbf6bb70ed3304e39290710cfa685ba
 ---
-
 《学习之道》，来自于知乎推荐，读完花费6个半小时。作者Joshua Waitzkin，是一位世界象棋冠军，也是一位太极拳世界冠军。本书，我感觉算是作者的一本自传，讲述作者获得两种冠军的经历。通过这经历，作者讲述了他的学习方式。书中的许多见解，对我来说，均极有深度，时不时使我停下来思考。
 
 作者的有些观点，我感觉似曾相识，以“软区域”举例，我在打篮球或者打台球时，偶尔会进入那种状态：“我知道我这个球一定会进，球必然进了。”我从没有深思过这种状态，也没想过如何高频进入这种状态，于是很是佩服作者的深入思考、强化重现与总结表达。
@@ -28,15 +27,9 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484824&idx=
 
 > 一直以来我都坚信如果一个受过‍训练的学生可以避免再次犯同样的错误——不管是技术上还是心理上——他就可以成为某个领域的佼佼者。第十章：寻找更强大的对手
 
-找到错误，通过训练，避免错误，于是便能进步。我想我的“台球”，会越打越好的。  
+找到错误，通过训练，避免错误，于是便能进步。我想我的“台球”，会越打越好的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484824&amp;idx=1&amp;sn=248e953335962f291844655ce0afdc2f&amp;chksm=a6c7697591b0e0636abbb484daa60fc15d446a3abe4ddbbf6bb70ed3304e39290710cfa685ba" rel="noopener noreferrer">原文链接</a>）</small>
 
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓ 欢迎关注

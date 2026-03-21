@@ -5,7 +5,6 @@ weight: 273400003
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487564&idx=1&sn=184345cb81c753fe3a818cb56657f091&chksm=a6c77ca191b0f5b77cf9d7c49e01fe50a2356f9edb9b4b943832e2aa289caa9959b526ab3eff
 ---
-
 又一个忙碌春节最末——明天大概都在路上于是不能算作“最末”——下午，我再感受到久违的安静。
 
 很是练腿的背柴最后一趟，我用刀剃两根长竹做拐杖。一刀刀砍去枝丫，再一刀去了竹头，一根很直的辅助我背柴的竹竿便成了型，我将它们插进背篓前面土里立着等我。
@@ -86,6 +85,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487564&idx=
 
 假期即将结束，电脑再到面前，本该是“年终总结（下）”的更新换成拼凑而成的本篇。
 
-我的过年，手机总离我很远。
-
-↓↓↓欢迎关注
+我的过年，手机总离我很远。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487564&amp;idx=1&amp;sn=184345cb81c753fe3a818cb56657f091&amp;chksm=a6c77ca191b0f5b77cf9d7c49e01fe50a2356f9edb9b4b943832e2aa289caa9959b526ab3eff" rel="noopener noreferrer">原文链接</a>）</small>

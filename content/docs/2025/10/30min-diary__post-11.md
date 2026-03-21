@@ -5,7 +5,6 @@ weight: 274780011
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487322&idx=1&sn=c861a986ab9cfaeb2fc049ec0795e51b&chksm=a6c763b791b0eaa1b504d362b20ec2de70dfb6476fb00409b720976a8f206a62d820d0142f95
 ---
-
 今天晚饭桌上，有向阿妮问自己今日的更新主题：“今天只是在路上跑，感觉没得啥子写的呢，晓不得主题应该是哪个。”
 
 “哪个叫你给国人布置这个任务嘞。我给你出个招，你就写今天走了条新路啥，过了达州，因为路上竹子蛮多，又走了大竹，还走了茨竹，你还晓得邻水和重庆挨到起的，还路过了一个叫做渝临大桥的地方。你看，一扒拉列举出来，更新不就到位了？”
@@ -42,6 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487322&idx=
 
 晚上7点到9点半，收拾屋子，收拾母亲带上重庆的应季蔬菜：板栗、野菌、糟辣子、菜瓜、青椒、土豆、红薯、萝卜……
 
-当拖着“不想拖地”心情拖完地，是拥有满足感的。
-
-↓↓↓欢迎关注
+当拖着“不想拖地”心情拖完地，是拥有满足感的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487322&amp;idx=1&amp;sn=c861a986ab9cfaeb2fc049ec0795e51b&amp;chksm=a6c763b791b0eaa1b504d362b20ec2de70dfb6476fb00409b720976a8f206a62d820d0142f95" rel="noopener noreferrer">原文链接</a>）</small>

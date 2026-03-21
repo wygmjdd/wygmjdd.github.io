@@ -5,7 +5,6 @@ weight: 281230063
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485908&idx=1&sn=5a738ffc58de91ace3acc208b8f99d66&chksm=a6c7653991b0ec2f81ea934bbc6ddaee1a7e0fb703f8505fdfa88367e3331aa07d0173541705
 ---
-
 大概是在26岁之前，每当过生日或是即将新年，我脑子里都会生成一个骄傲想法：“原来我才23岁啊！”“原来我才24岁啊！”“原来我才25岁啊！”
 
 那时候有这样想法，大概是因为身边同事都比我大上一些，一岁两岁甚至七岁八岁。我以年龄慰藉自己：“等我像贤哥那样大的时候，肯定也能跟贤哥一样优秀。”
@@ -88,6 +87,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485908&idx=
 
 想一想，然后练一练。
 
-再一次的，感谢您的阅读与关注；祝您的2024，身体健康，没有恼人事。
-
-↓↓↓ 欢迎关注
+再一次的，感谢您的阅读与关注；祝您的2024，身体健康，没有恼人事。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485908&amp;idx=1&amp;sn=5a738ffc58de91ace3acc208b8f99d66&amp;chksm=a6c7653991b0ec2f81ea934bbc6ddaee1a7e0fb703f8505fdfa88367e3331aa07d0173541705" rel="noopener noreferrer">原文链接</a>）</small>

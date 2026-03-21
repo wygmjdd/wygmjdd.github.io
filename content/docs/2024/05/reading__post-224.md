@@ -5,7 +5,6 @@ weight: 279780224
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486228&idx=1&sn=834ff12f2ee77d40372998030fda1060&chksm=a6c767f991b0eeef1704049dc331300ad188d9d173c934cc0daeee3b0760ce3a71603d49e702
 ---
-
 周二排队吃晚饭时一位同事向我推荐一本小说，书叫“沧浪之水”，他说书里讲的是如何更好在职场生存下去；他说书中内容很真实，真实的不像小说。
 
 现实中被推荐书籍，我的阅读兴趣总是更浓厚些。推荐当晚，我便花40分钟看了开头，一看开头便停不下来。接下来三四天，我的所有碎片时间都用来看这本书。到周六早上8点，我花五小时刚读到五分之二处。阅读过程中，我生出许多触动。
@@ -34,6 +33,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486228&idx=
 
 我不知道的，故事还未结束。
 
-且先以此篇，表达我对作者的敬佩之情。我很愿意向大家，推荐这本“世俗”之书。
-
-↓↓↓欢迎关注
+且先以此篇，表达我对作者的敬佩之情。我很愿意向大家，推荐这本“世俗”之书。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486228&amp;idx=1&amp;sn=834ff12f2ee77d40372998030fda1060&amp;chksm=a6c767f991b0eeef1704049dc331300ad188d9d173c934cc0daeee3b0760ce3a71603d49e702" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 288730263
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484452&idx=3&sn=f1eb74000fb9450e75e15667051765f1&chksm=a6c768c991b0e1df88dd72ad90f264438d7aa25461d52c4650a27a6e493383379db84df37fbe
 ---
-
 作者花了二十多年时间研究睡眠，又花了许多时间写出《Why We Sleep》，在书的末尾提供了12条提升睡眠质量的建议，我尝试着用自己的语言进行一次翻译。
 
   1. 坚持规律作息，让睡觉时间与醒来时间每天都保持一致，周末也不要例外，毕竟周末的晚起并不完全弥补工作日欠的睡眠账，还会让周一更难起床。设定一个提醒自己睡觉的闹钟吧，让我们每天都规律睡眠。如果这12条建议，只能留下一条，那就是这条了——**规律作息** 。（书中经常举例的睡眠时间是11点到7点。）
@@ -61,15 +60,9 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484452&idx=
 > 
 >   12. Don’t lie in bed awake. If you find yourself still awake after staying in bed for more than twenty minutes or if you are starting to feel anxious or worried, get up and do some relaxing activity until you feel sleepy. The anxiety of not being able to sleep can make it harder to fall asleep.
 > 
-> 
+> <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484452&amp;idx=3&amp;sn=f1eb74000fb9450e75e15667051765f1&amp;chksm=a6c768c991b0e1df88dd72ad90f264438d7aa25461d52c4650a27a6e493383379db84df37fbe" rel="noopener noreferrer">原文链接</a>）</small>
 
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓关注一个持续学习并乐于分享的程序员↓↓↓

@@ -5,7 +5,6 @@ weight: 279560109
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486275&idx=1&sn=b9f3fc63413a4ffffb467f60c82ed769&chksm=a6c767ae91b0eeb8791d74d4f12b2d6ce911b7616570ff04fd0e0ff92d8fce25dcf37ad8b994
 ---
-
 《津巴多普通心理学》最后一章的最末小节，标题是“我们怎样将消极的应激变为积极的生活策略”，这一小节中提到多种策略，其中一种是“积极情绪”。
 
 作者首先举例一项对75到95岁修女的研究，这些修女在20来岁进入修道院时写过一次自传，自传中使用积极词汇最多的修女比使用积极词汇最少的修女平均多活9.4年，由此引出积极情绪的用处——生活中的快乐是健康和长寿的关键预测因素。
@@ -51,9 +50,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486275&idx=
 
 本书的推荐语为：“保持积极健康心态对我们的事业和成长极为重要，这是大家公认的事实。如何保持积极健康心态，在《真实的幸福》当中可以找到一些办法，比如找到一份可以将之转换为事业的工作，比如反驳自己的悲观。
 
-“条条大路通罗马，找到自己的优势——仁慈、满足、感恩、宽恕、社会智慧、洞察力、正直、幽默、热忱、公平、自我控制、谨慎和谦虚，让它们引导我们走向爱，走向幸福。”
-
-  
-
-
-↓↓↓欢迎关注
+“条条大路通罗马，找到自己的优势——仁慈、满足、感恩、宽恕、社会智慧、洞察力、正直、幽默、热忱、公平、自我控制、谨慎和谦虚，让它们引导我们走向爱，走向幸福。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486275&amp;idx=1&amp;sn=b9f3fc63413a4ffffb467f60c82ed769&amp;chksm=a6c767ae91b0eeb8791d74d4f12b2d6ce911b7616570ff04fd0e0ff92d8fce25dcf37ad8b994" rel="noopener noreferrer">原文链接</a>）</small>

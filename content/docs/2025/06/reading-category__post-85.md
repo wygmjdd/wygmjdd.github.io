@@ -5,7 +5,6 @@ weight: 275970085
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486991&idx=1&sn=a0b97519ba38f0f736ad840693bc8ff1&chksm=a6c762e291b0ebf4ced3a088684f2407f3828cfcef1a8f90d7e21c9c0d5c0b2fa7fca8680efa
 ---
-
 此前回忆自己看过的双男主小说时，有想到李寻欢和阿飞。借着回忆，我去翻看好些《小李飞刀》电视剧中的片段，这些片段让我生出强烈好奇心，我想知道作者原著当中到底是怎样的剧情。
 
 我知道自己已经看过一遍《多情剑客无情剑》，却一点也想不起来书中内容。
@@ -150,6 +149,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486991&idx=
 
 \--
 
-每读完一本书，就该让它留下些印记。
-
-↓↓↓ 欢迎关注
+每读完一本书，就该让它留下些印记。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486991&amp;idx=1&amp;sn=a0b97519ba38f0f736ad840693bc8ff1&amp;chksm=a6c762e291b0ebf4ced3a088684f2407f3828cfcef1a8f90d7e21c9c0d5c0b2fa7fca8680efa" rel="noopener noreferrer">原文链接</a>）</small>

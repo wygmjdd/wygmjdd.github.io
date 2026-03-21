@@ -5,7 +5,6 @@ weight: 288520069
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484479&idx=1&sn=81c4f71085153003e8d24e24c17aba24&chksm=a6c768d291b0e1c488c5499b3108576443b8291c6a739ae457245cbdae29ea9f544dc0994d5c
 ---
-
 各个流量涌动的地方，都在谈年终总结，我想蹭蹭这流量，于是也想着写上一篇年终总结。本以为经过一年多的练习，我已经可以就一个主题的整理信手拈来。事实并不是这样，这种总结性的文字，总是难写的。写着写着，便将流量高峰错过了。
 
 一年真的好快，我翻了翻微博，在2020年的最后一天，我定下一个目标：公众号更新52次。
@@ -52,14 +51,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484479&idx=
 
 \--
 
-谢谢您的关注与阅读。祝您在2022年身体健康，万事如意，心想事成，天天开心！
+谢谢您的关注与阅读。祝您在2022年身体健康，万事如意，心想事成，天天开心！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484479&amp;idx=1&amp;sn=81c4f71085153003e8d24e24c17aba24&amp;chksm=a6c768d291b0e1c488c5499b3108576443b8291c6a739ae457245cbdae29ea9f544dc0994d5c" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓看看我↓↓↓

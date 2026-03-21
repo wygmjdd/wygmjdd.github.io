@@ -5,7 +5,6 @@ weight: 278180045
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=1&sn=40b24c63ebbb7fcff4c47803887a34a0&chksm=a6c7608391b0e9956858550d52e1fdc63de51179ea9e60e1f7b5f8abe83265f7a116a888064b
 ---
-
 今天是2024年11月的第一天，也是我第六份工作的最后一天。现在时间是晚上的10点26分，已经洗漱完毕的我决定完成早上的想法：将在这公司的最后一天做一个小小记录，记录下自己的心境变化。
 
 \--
@@ -99,6 +98,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=
 
 \--
 
-时间已到晚上11点31分。
-
-↓↓↓欢迎关注
+时间已到晚上11点31分。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486574&amp;idx=1&amp;sn=40b24c63ebbb7fcff4c47803887a34a0&amp;chksm=a6c7608391b0e9956858550d52e1fdc63de51179ea9e60e1f7b5f8abe83265f7a116a888064b" rel="noopener noreferrer">原文链接</a>）</small>

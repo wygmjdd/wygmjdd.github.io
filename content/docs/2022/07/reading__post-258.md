@@ -5,7 +5,6 @@ weight: 286490258
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484955&idx=1&sn=b0a6b0619e2cf11e6da321dc462ce0a1&chksm=a6c76af691b0e3e05853d69a9df49105bc6822f00e4357bf8f87961864bc7dd98579f36ff52c
 ---
-
 “我喜欢玩养成游戏”，这在以前的更新中提到过多次。“养成”这个词，是以前做游戏时从策划那听来的，它的核心思路是在玩家认可某个游戏设定之后，慢慢积攒，去一点点达到认可的目标。
 
 真正理解养成的意思，是玩《[皇室战争](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484236&idx=1&sn=e92dd8a9bf02d43e19d8f0d35c8bc936&chksm=a6c76fa191b0e6b7c65ac5dd7c3bef39a333159725054b64acabc533b263702ddbb321e43dd7&scene=21#wechat_redirect)》后期，不再执迷于胜负，只攒卡攒金币，将卡升满级。这让我意识到，原来《皇室战争》是一个养成游戏。后来玩游戏由《皇室战争》换到《部落冲突》，养成变得更加纯粹，攒钱、升级、等待升级完成，等待过程中攒钱、升级……
@@ -41,9 +40,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484955&idx=
 
 相较两年前，我对生存对工作，确实是增加不少信心的，我相信我的习惯，我的小步伐，能让我看出生命的力量。
 
-且再延续三五年，看看。
+且再延续三五年，看看。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484955&amp;idx=1&amp;sn=b0a6b0619e2cf11e6da321dc462ce0a1&amp;chksm=a6c76af691b0e3e05853d69a9df49105bc6822f00e4357bf8f87961864bc7dd98579f36ff52c" rel="noopener noreferrer">原文链接</a>）</small>
 
 * * *
-
-  
-↓↓↓欢迎关注

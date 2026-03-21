@@ -5,7 +5,6 @@ weight: 274740074
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487330&idx=1&sn=ae49ac0abf9984c051faf259660b148a&chksm=a6c7638f91b0ea999b54f5387778312b5d23f3c59bba36535aa3dcb6d78efd794a0dcfbfaa76
 ---
-
 大概是某天上班路上，我在《微信读书》又发现一本自己很感兴趣的书，这书的名字叫做“执拗的拓荒者”。
 
 我对《执拗的拓荒者》感兴趣的原因，依然来源于四年前读完的《[沈从文文集](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484955&idx=1&sn=b0a6b0619e2cf11e6da321dc462ce0a1&scene=21#wechat_redirect)》，读完《沈从文文集》，我以为自己[交到了一个很好朋友](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484979&idx=1&sn=42cd3716c384045d497004a57693fdd6&scene=21#wechat_redirect)，这朋友用文字对我诉说他的心事，而我的心事、迷茫也在沈先生的文字当中获得解答。
@@ -34,6 +33,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487330&idx=
 
 《我的老师沈从文》，有在西南联大教书的沈从文，有不喜欢打牌的沈从文，有喜欢收藏美术品的沈从文，有沈从文的朋友，还有沈从文的教育理念——耐烦与尊重。
 
-汪曾祺先生对沈从文先生说：“你是一个抒情的人道主义者。”
-
-↓↓↓欢迎关注
+汪曾祺先生对沈从文先生说：“你是一个抒情的人道主义者。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487330&amp;idx=1&amp;sn=ae49ac0abf9984c051faf259660b148a&amp;chksm=a6c7638f91b0ea999b54f5387778312b5d23f3c59bba36535aa3dcb6d78efd794a0dcfbfaa76" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 285500172
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485166&idx=1&sn=7faab6f6607df9de615134bf46680866&chksm=a6c76a0391b0e31517c953557a703e5cc2d1d197d4782df5e84b82a4fae43a17c73dcb47770a
 ---
-
 《微信读书》的“阅读”标签栏中，有一个“为你推荐”，会根据最近的读书喜好推荐六本书。被推荐《汪曾祺的写作课》并将其加入阅读清单，是《[文心](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485087&idx=1&sn=070df8f6edb97e351d1b208060ffee5c&chksm=a6c76a7291b0e3646a30a9f2aa4b668cf784c13e27b8a09ffc1487b9a11ed2a4fe165e7c50f9&scene=21#wechat_redirect)》读到一半的时候。
 
 《汪曾祺的写作课》很短，读完只花6小时。本书类似《左手程序右手诗》，是汪先生很多篇文章的汇集。
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485166&idx=
 
 汪先生过了60岁，是还在继续写作的。书中有几篇文章，是汪先生对自己人生的简要介绍，其中好几段，引用了汪先生自己的作品。如果我先看过《汪曾祺全集》之后再来读本书，可能阅读当时的心领神会，会多许多。
 
-本书的推荐语，很简单：“如果您没有时间读《汪曾祺的写作课》，那就不读。读《受戒》便够了，那是一个很短但极美的故事。美极了！”
-
-↓↓↓欢迎关注
+本书的推荐语，很简单：“如果您没有时间读《汪曾祺的写作课》，那就不读。读《受戒》便够了，那是一个很短但极美的故事。美极了！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485166&amp;idx=1&amp;sn=7faab6f6607df9de615134bf46680866&amp;chksm=a6c76a0391b0e31517c953557a703e5cc2d1d197d4782df5e84b82a4fae43a17c73dcb47770a" rel="noopener noreferrer">原文链接</a>）</small>

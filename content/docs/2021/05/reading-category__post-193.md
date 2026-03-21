@@ -5,7 +5,6 @@ weight: 290690193
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484104&idx=1&sn=2c24fabdb50675c2a097b11bf4a3e25e&chksm=a6c76e2591b0e733ab143072be20c0d18c9cc5135a27a908e533d7a4cbc88db39aa517e3edb7
 ---
-
 大概是去年的这个时候，项目开始不再像以前那么忙，相近年龄段的同事陆续离职。他们分享了各自的面试经历，有一个共通点是：“感觉自己这几年真的没学到什么东西，出去面试都感觉自己好水，全都是在写逻辑。”
 
 我与同事们做的事情是一样的，我也只会写逻辑（写逻辑的意思是，为游戏实现量身定制的各种功能。例如玩家花钱抽奖，获奖后给一个酷炫的效果）。
@@ -60,17 +59,11 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484104&idx=
 
 ### 引用链接
 
-  1. 超棒的OpenGL教程**LearnOpenGL** ，https://learnopengl-cn.github.io/#
+  1. 超棒的OpenGL教程**LearnOpenGL** ，https://learnopengl-cn.github.io/# <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484104&amp;idx=1&amp;sn=2c24fabdb50675c2a097b11bf4a3e25e&amp;chksm=a6c76e2591b0e733ab143072be20c0d18c9cc5135a27a908e533d7a4cbc88db39aa517e3edb7" rel="noopener noreferrer">原文链接</a>）</small>
 
 
 
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓关注我，这里有普通程序员的攀爬记录↓↓↓

@@ -5,7 +5,6 @@ weight: 284030158
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485449&idx=1&sn=769cbac1d1ed049cfca6a3eb68681d22&chksm=a6c764e491b0edf240522df96863b8250c118e4559c0cb8e548dda1c7ce04ef2ab05d6cb4134
 ---
-
 继《[被讨厌的勇气](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484942&idx=1&sn=c18bf5e524fa8369d035f66f158c3e50&chksm=a6c76ae391b0e3f50eb0681cf6ee4d65949280f46244354f02bcaf4d35f8702849ac310b9b71&scene=21#wechat_redirect)》之后，我再看完一本心理学书籍，书名叫《人间游戏》。《人间游戏》共11万字，读完花5小时36分钟。
 
 将《人间游戏》加入书架的原因，与《[柳林风声](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485390&idx=1&sn=bb8b3e5f66894135cc055a1ddf44ed33&chksm=a6c76b2391b0e23512b4ced649559bbec35c669544a1243ed7795bf3c17dddd16946d26e98cd&scene=21#wechat_redirect)》一样，都是由于《蛤蟆先生去看心理医生》中提到过多次：我想将《人间游戏》读完后再继续阅读《蛤蟆先生去看心理医生》，我想对《蛤蟆先生去看心理医生》中描述的心理知识了解更多一些。
@@ -52,6 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485449&idx=
 
 本书推荐语，我不知如何写，于是本篇读书笔记，止于此处。
 
-或许，等我知道的再多些。
-
-↓↓↓欢迎关注
+或许，等我知道的再多些。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485449&amp;idx=1&amp;sn=769cbac1d1ed049cfca6a3eb68681d22&amp;chksm=a6c764e491b0edf240522df96863b8250c118e4559c0cb8e548dda1c7ce04ef2ab05d6cb4134" rel="noopener noreferrer">原文链接</a>）</small>

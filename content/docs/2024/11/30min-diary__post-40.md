@@ -5,7 +5,6 @@ weight: 278070040
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486619&idx=1&sn=67fc1a3042f9d73e8ef8b953cf029c1b&chksm=a6c7607691b0e960c6cd95863f6f0a93ca871389b00d09c0326d3ad7f576185d0f6cf571bc5e
 ---
-
 今天进入我意识的热搜，有好几条。
 
 第一条是2025年的放假，过年与五一，都真正加了一天，过年放8天，五一放6天，这算是值得期待的事情。多出来的两天，可以做些啥呢？我首先想到的是，希望可以不加班。对的，加班这件事，在我离开前前司之后的十几个月中，已经被驯化为可接受，很可接受。然后呢？等真正到了再说，肯定有很多事情等着去完成的。
@@ -55,6 +54,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486619&idx=
 
 
 
-总之，又是不刷短视频的一天。
-
-↓↓↓欢迎关注
+总之，又是不刷短视频的一天。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486619&amp;idx=1&amp;sn=67fc1a3042f9d73e8ef8b953cf029c1b&amp;chksm=a6c7607691b0e960c6cd95863f6f0a93ca871389b00d09c0326d3ad7f576185d0f6cf571bc5e" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 273260055
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487591&idx=1&sn=9a04d43744578c58559b1b26d4eff0bc&chksm=a6c77c8a91b0f59c7c8a35b51f7de1b02809bf9b3698b2f5e7631ec14c2414565ae7351c3865
 ---
-
 25年的年终总结，除去前面的[工作](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487441&idx=1&sn=cfac4b7991446891ceb2d82db3a48c48&scene=21#wechat_redirect)、[读书](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=1&sn=a78ba90c2b4126a7774753d5d13ec514&scene=21#wechat_redirect)之外，我还想聊一聊的两个部分是写作与心态。
 
 写作这件事，在整个的25年，我想自己用心程度是很不够的，我的好些更新都只在三四小时内完成，我其实不确定自己是在刻意追求“一鼓作气”，还是由于自制力不够导致时间不够，而不得不在短时间内输出一篇可向自己交差的更新。
@@ -74,6 +73,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487591&idx=
 
 以上内容完成之后，我想要为本篇增添一个结尾。做这件事情之前，我想起本篇当中的“想写就写”，“想看就看”与“想做就做”似乎在过去的总结中已谈到过，我翻阅[去年的年终总结](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486736&idx=1&sn=f7c5e92ab60602a0bf7dbc1b89c3b228&scene=21#wechat_redirect)（标题是“与自己谈心，再听从它的声音”）得到结论：原来过去的一年，我依然在“想做就做”中修炼。
 
-于是未来变得很简单：保持此种心态，给自己的写作多一点心力也多一点时间。
-
-↓↓↓欢迎关注
+于是未来变得很简单：保持此种心态，给自己的写作多一点心力也多一点时间。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487591&amp;idx=1&amp;sn=9a04d43744578c58559b1b26d4eff0bc&amp;chksm=a6c77c8a91b0f59c7c8a35b51f7de1b02809bf9b3698b2f5e7631ec14c2414565ae7351c3865" rel="noopener noreferrer">原文链接</a>）</small>

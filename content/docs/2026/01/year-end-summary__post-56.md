@@ -5,7 +5,6 @@ weight: 273820056
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=1&sn=a78ba90c2b4126a7774753d5d13ec514&chksm=a6c7633091b0ea26d027df758eedb556d3c35b2d60a82d46405a263f29eb12894fa35753954e
 ---
-
 我2025年的读书，被换工作分为上下两个部分。
 
 前面5个月[在家办公](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486923&idx=1&sn=361ca90c9733f9f0286e1d27d8354157&scene=21#wechat_redirect)，读书以听为主。山上老家的公路散步，重庆小区球场中午的投篮放风，周末耗时不菲的做菜，待我耳朵里面的，大都是金戈铁马改朝换代的历史。
@@ -282,6 +281,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 书评，是我对这些即时感悟的汇总以及再思考，我喜欢伊藤比吕美的真实与真诚，我佩服《瓦尔登湖》远离尘嚣的勇气，我借由《十分钟冥想》收获专注与安心。
 
-总之，读书于我，依然是像吃饭睡觉一样是每天都会做的普通事。它，只是一件普通事。
-
-↓↓↓ 欢迎关注
+总之，读书于我，依然是像吃饭睡觉一样是每天都会做的普通事。它，只是一件普通事。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487453&amp;idx=1&amp;sn=a78ba90c2b4126a7774753d5d13ec514&amp;chksm=a6c7633091b0ea26d027df758eedb556d3c35b2d60a82d46405a263f29eb12894fa35753954e" rel="noopener noreferrer">原文链接</a>）</small>

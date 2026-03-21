@@ -5,7 +5,6 @@ weight: 278050039
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486624&idx=1&sn=e8e20b775812689b65ab334ca7b81422&chksm=a6c7604d91b0e95bb0d02b7242ca5efcb9d1f7e950beb751dfa36078bc1cc88cd8dd5912c906
 ---
-
 “今天下楼取了三次快递，一次在上午，一次在下午，最后一次是傍晚。”这句话，是第二次取快递时记下的，显然，现在的我给它又加了一次。
 
 现在时间是晚上的10点10分，已经洗漱完毕的我想着续写当时的触动——一种很想写点东西且如果当时落笔肯定会有不错内容的状态，我找不到当时状态了。
@@ -70,6 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486624&idx=
 
 
 
-时间已经又到晚间11点10分。
-
-↓↓↓欢迎关注
+时间已经又到晚间11点10分。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486624&amp;idx=1&amp;sn=e8e20b775812689b65ab334ca7b81422&amp;chksm=a6c7604d91b0e95bb0d02b7242ca5efcb9d1f7e950beb751dfa36078bc1cc88cd8dd5912c906" rel="noopener noreferrer">原文链接</a>）</small>

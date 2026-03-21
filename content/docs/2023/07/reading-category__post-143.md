@@ -5,7 +5,6 @@ weight: 282770143
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485655&idx=1&sn=4b2d8ee9d50bb119626658aa483b37cc&chksm=a6c7643a91b0ed2c9f693f335f778054c0e57a0a8f1cc209881e997979e937b1a1efda40a4ff
 ---
-
 我关注了好几位写公众号的程序员，前些天看见其中一位分享了一本叫《快速阅读术》的书。我被书名吸引，想知道能写成书的快速阅读术是怎样的，于是将其加入书架看了起来。
 
 《快速阅读术》很短，全书4万字，读完只花1小时26分钟。
@@ -45,6 +44,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485655&idx=
 
 以上。
 
-先养成习惯，然后再读书。
-
-↓↓↓欢迎关注
+先养成习惯，然后再读书。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485655&amp;idx=1&amp;sn=4b2d8ee9d50bb119626658aa483b37cc&amp;chksm=a6c7643a91b0ed2c9f693f335f778054c0e57a0a8f1cc209881e997979e937b1a1efda40a4ff" rel="noopener noreferrer">原文链接</a>）</small>

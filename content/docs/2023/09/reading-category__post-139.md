@@ -5,7 +5,6 @@ weight: 282420139
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485704&idx=1&sn=3c23e14d551daa82779a5847ec4f4bd5&chksm=a6c765e591b0ecf3684012516e8fe2c0a434d7391584d5db803320c9f440efb1c9dcafc1415c
 ---
-
 我很喜欢路遥的《平凡的世界》，阅读当时，我哭过许多次（就在今年，我重新看了书中一些片段，我发现自己的泪点比看第一遍时低了许多：今年看的片段不长，鼻子酸的次数却多了许多）：我会理解少平读书时最后去打饭的心态，我佩服少安哥的勤快有想法有执行力，我会为秀莲的病逝久久不能释怀……
 
 《平凡的世界》，是宝帅于15年送我的，在我进入网易刚转正的那个月。宝帅在书中扉页写道：
@@ -58,6 +57,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485704&idx=
 
 多么勇敢、务实、体贴又有担当的姑娘啊！
 
-本书的推荐语为：“文字是多彩多变的，有的华丽，有的深刻，有的朴实。路遥的《人生》属于朴实那一类，它帮助我们，更加地热爱生活。”
-
-↓↓↓欢迎关注
+本书的推荐语为：“文字是多彩多变的，有的华丽，有的深刻，有的朴实。路遥的《人生》属于朴实那一类，它帮助我们，更加地热爱生活。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485704&amp;idx=1&amp;sn=3c23e14d551daa82779a5847ec4f4bd5&amp;chksm=a6c765e591b0ecf3684012516e8fe2c0a434d7391584d5db803320c9f440efb1c9dcafc1415c" rel="noopener noreferrer">原文链接</a>）</small>

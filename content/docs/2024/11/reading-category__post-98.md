@@ -5,7 +5,6 @@ weight: 278090098
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486607&idx=1&sn=b59c21377a989f3a552e1fb391dd796f&chksm=a6c7606291b0e9749ed5fcdf92bf783d2c4cdc0c4f1b50ebaef95be508628b5c43fa13b1a3ab
 ---
-
 看完《[津巴多普通心理学](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&chksm=a6c7678891b0ee9e58af615abd92f3ea2f686a8b612b1ba1254c0677d446997dd8f5e8c1bbe0&scene=21#wechat_redirect)》，又看过《[和另一个自己谈谈心](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486549&idx=1&sn=16558f4a529a8e74d7396a7db3649567&chksm=a6c760b891b0e9ae741234ad81314cebc05831d7e6d501b13d4c88e8162dbe8eeb2417b4101e&scene=21#wechat_redirect)》，我新开始看的心理学书籍是《心理学和生活》，这本书讲“心理学”之前，会先讲“生物学”，其中的一个“生物学”概念叫做“神经网络”，隶属于神经科学(neuroscience)的研究范围。
 
 神经网络的搭建基础，是被称作“神经元”的细胞，它分作三个类别：感觉神经元、运动神经元和中间神经元。感觉神经元将感受器细胞感受到的信息——比如眼睛看到的光、耳朵听到的声音——向内传递到中枢神经系统；运动神经元则将中枢神经系统的信息向外传递到肌肉和腺体；中间神经元是一种中介，它们将信息从感觉神经元传递到其它神经元或者运动神经元。
@@ -38,6 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486607&idx=
 
 以上，是我初次尝试理解“神经网络”的结果，也是看完《人工智能核心：神经网络（青少科普版）》后逼自己输出的只浮于表面的读书笔记。
 
-神经网络很难，但并没有难到难以理解。
-
-↓↓↓欢迎关注
+神经网络很难，但并没有难到难以理解。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486607&amp;idx=1&amp;sn=b59c21377a989f3a552e1fb391dd796f&amp;chksm=a6c7606291b0e9749ed5fcdf92bf783d2c4cdc0c4f1b50ebaef95be508628b5c43fa13b1a3ab" rel="noopener noreferrer">原文链接</a>）</small>

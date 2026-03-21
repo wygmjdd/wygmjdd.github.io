@@ -5,7 +5,6 @@ weight: 278190211
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486569&idx=1&sn=a5015a5a3b37aa9500f34f4854310dd2&chksm=a6c7608491b0e992997c3444833d1e7c2e2807a0e8aca7bb541a60e6b022c9b8a1e0f935847d
 ---
-
 在[前天的30分钟日记](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486564&idx=1&sn=81da70ce6f4233122cb6153a0d2e1384&chksm=a6c7608991b0e99ff6e42075eddfda26eccf461cc472ff7092f8ae0dfebabd179eac87cc90c1&scene=21#wechat_redirect)中，有提到“成人状态”这个概念，其中一位读者对这状态的定义有些好奇，我在当时给予回复：Emmm……这个定义好像大概算是“就事论事只对事不对人，即便对人也不带情绪，就客观理智”啦。待我今天翻翻书再结合自己看过这个概念后一年多的经验，看看能不能输出一篇更新哈。
 
 后面两天，除《权利的游戏》之外，我其它的看书时间都围绕着“成人状态”这个概念进行：将《[蛤蟆先生去看心理医生](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485719&idx=1&sn=17e994ac68b695f1eb4ee232236e8a23&chksm=a6c765fa91b0ecec34897f301b5e966b58d4f284d5e8172bb54cd70a656f65bec121e1c4ed8b&scene=21#wechat_redirect)》再看一遍，重新翻阅《[人间游戏](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485449&idx=1&sn=769cbac1d1ed049cfca6a3eb68681d22&chksm=a6c764e491b0edf240522df96863b8250c118e4559c0cb8e548dda1c7ce04ef2ab05d6cb4134&scene=21#wechat_redirect)》对“自我状态”的描写部分，再翻了翻《[津巴多普通心理学](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&chksm=a6c7678891b0ee9e58af615abd92f3ea2f686a8b612b1ba1254c0677d446997dd8f5e8c1bbe0&scene=21#wechat_redirect)》。
@@ -76,9 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486569&idx=
 > 
 > 来回好几次的“不是我，我没有”后，杰哥用平缓的语调打断我们：“谁删了这个不重要，让我们看看怎么把它找回来吧。”
 
-杰哥当时，便以“成人状态”与我们沟通。我对杰哥的佩服，一直持续到十年之后的现在。
-
-  
-
-
-↓↓↓欢迎关注
+杰哥当时，便以“成人状态”与我们沟通。我对杰哥的佩服，一直持续到十年之后的现在。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486569&amp;idx=1&amp;sn=a5015a5a3b37aa9500f34f4854310dd2&amp;chksm=a6c7608491b0e992997c3444833d1e7c2e2807a0e8aca7bb541a60e6b022c9b8a1e0f935847d" rel="noopener noreferrer">原文链接</a>）</small>

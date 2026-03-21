@@ -5,7 +5,6 @@ weight: 282220137
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485719&idx=1&sn=17e994ac68b695f1eb4ee232236e8a23&chksm=a6c765fa91b0ecec34897f301b5e966b58d4f284d5e8172bb54cd70a656f65bec121e1c4ed8b
 ---
-
 ### 一、内容简介
 
 我没想到《蛤蟆先生去看心理医生》的读书笔记会写到近三千字。于是在开头理一下内容简介：
@@ -98,6 +97,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485719&idx=
 
 “让我们借助本书的力量，更好地认识自己，于是更好地生活，更好地过好当下每一天。
 
-“当下的每一天，是离不开家人朋友的，他们是我们人生中最重要部分。当郁闷难解时，请找一位朋友，慢慢地聊一聊。”
-
-↓↓↓欢迎关注
+“当下的每一天，是离不开家人朋友的，他们是我们人生中最重要部分。当郁闷难解时，请找一位朋友，慢慢地聊一聊。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485719&amp;idx=1&amp;sn=17e994ac68b695f1eb4ee232236e8a23&amp;chksm=a6c765fa91b0ecec34897f301b5e966b58d4f284d5e8172bb54cd70a656f65bec121e1c4ed8b" rel="noopener noreferrer">原文链接</a>）</small>

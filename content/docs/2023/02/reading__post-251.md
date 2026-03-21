@@ -5,7 +5,6 @@ weight: 284320251
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485366&idx=1&sn=0c8cca0404bf01d58a92ccc41b5db513&chksm=a6c76b5b91b0e24d7900cf401dc8ece1a0aab0e149e88bfdc412a1cf226ab33c15cd7c92851b
 ---
-
 一直以来，我对进程与线程的理解都是模糊的。进程是操作系统运行的基本单位？线程由进程管理，一个进程里面可以有多个线程？线程间的通信是怎样的？进程间的通信呢？线程和进程，到底是什么？
 
 这些老生常谈的问题，我翻过很多的博客，看过很多的阐述，但是一直记不住。有些当时记住过，但过段时间又忘记了。
@@ -103,6 +102,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485366&idx=
 
 条件变量，是并发程序设计的原语之一，与它有相同地位的还有“锁”。当然，还有“信号量”……
 
-写到此处，我依然对线程、进程缺乏一个框架性的认识，但至少多了些想法：“两个线程同时执行，你要等我我要等你，让我们给彼此一个条件变量，待会见吧。”
-
-↓↓↓欢迎关注
+写到此处，我依然对线程、进程缺乏一个框架性的认识，但至少多了些想法：“两个线程同时执行，你要等我我要等你，让我们给彼此一个条件变量，待会见吧。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485366&amp;idx=1&amp;sn=0c8cca0404bf01d58a92ccc41b5db513&amp;chksm=a6c76b5b91b0e24d7900cf401dc8ece1a0aab0e149e88bfdc412a1cf226ab33c15cd7c92851b" rel="noopener noreferrer">原文链接</a>）</small>

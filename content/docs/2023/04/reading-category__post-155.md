@@ -5,7 +5,6 @@ weight: 283890155
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485490&idx=1&sn=fdb534af597a57a21e1c215cd8dabd66&chksm=a6c764df91b0edc953ddb03ba3a9b047d298c69f8b95617d36c496a7009b6f7693bc9ebbfcb7
 ---
-
 《微信读书》给我推荐了一本与众不同的书，书名叫《曼巴精神：科比自传》，它与众不同的点在于“书中内容以图片串联，文字只是图片的附属”。
 
 全书很短，只4.9万字，看完花两小时。
@@ -36,4 +35,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485490&idx=
 
 以上，是本篇读书笔记的全部内容。
 
-愿科比在天堂安息。
+愿科比在天堂安息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485490&amp;idx=1&amp;sn=fdb534af597a57a21e1c215cd8dabd66&amp;chksm=a6c764df91b0edc953ddb03ba3a9b047d298c69f8b95617d36c496a7009b6f7693bc9ebbfcb7" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 283400151
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485553&idx=1&sn=75c433e6aa343169ba0f759e9cd57543&chksm=a6c7649c91b0ed8aa699e4701ae1e386c5fb6e7f1fc404ddbf1b4346e503ad1d91668dd58ea3
 ---
-
 《编码》这本书，是一位PM同事在22年年初于朋友圈推荐的，看过他的推荐文字（具体内容已经记不清楚，只记得推荐语是很诚恳很专业的），我将其加入书架。那时候，我还在用《京东读书》看书，到本周读完本书，我已经连续使用《微信读书》9个月了。
 
 写本篇读书笔记前，我先统计了阅读时长：《京东读书》上是19小时，《微信读书》为6小时。如果两个APP的统计时长是没错的，那我读完本书，耗时为25小时。
@@ -60,6 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485553&idx=
 
 “当然，如果您是一位程序员，我是强烈推荐阅读《编码》的。书中有内存的构造、处理器的原理，它对计算机原理的剖析，是比CSAPP更底层些的。
 
-“总之，《编码》这本书，无关专业，大家是都能读懂的，强烈推荐。”
-
-↓↓↓欢迎关注
+“总之，《编码》这本书，无关专业，大家是都能读懂的，强烈推荐。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485553&amp;idx=1&amp;sn=75c433e6aa343169ba0f759e9cd57543&amp;chksm=a6c7649c91b0ed8aa699e4701ae1e386c5fb6e7f1fc404ddbf1b4346e503ad1d91668dd58ea3" rel="noopener noreferrer">原文链接</a>）</small>

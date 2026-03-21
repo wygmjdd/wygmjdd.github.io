@@ -5,7 +5,6 @@ weight: 278740216
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486439&idx=1&sn=949815dfda59e766da9837468c046afa&chksm=a6c7670a91b0ee1ca320b8c28acbb2204ffec0e51f86603045c8b3aa5b4835b5af03b51ff84e
 ---
-
 最近一周花三个半小时读完伊藤比吕美的《身后无遗物》，输出读书笔记之前，我先将作者于书中分享的人生基本原则摘抄于此处。
 
 这些原则整理自作者二十多年的人生咨询，它们是：坚持自我，做自己想做的事情；不用刻意追求完美人生；反抗父母，活出自己的样子。最后一条是，找到自己的爱好，并用心去执行。
@@ -47,7 +46,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486439&idx=
 我已经在好多好多书中看到过类似推荐：做自己想做热爱做的事情，我们会生活的更幸福。  
 
 
-愿我们，都能活出自我。  
-
-
-↓↓↓欢迎关注
+愿我们，都能活出自我。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486439&amp;idx=1&amp;sn=949815dfda59e766da9837468c046afa&amp;chksm=a6c7670a91b0ee1ca320b8c28acbb2204ffec0e51f86603045c8b3aa5b4835b5af03b51ff84e" rel="noopener noreferrer">原文链接</a>）</small>

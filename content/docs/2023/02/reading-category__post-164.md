@@ -5,7 +5,6 @@ weight: 284520164
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485320&idx=1&sn=41f030cc86c49b7739a151b10755db88&chksm=a6c76b6591b0e273c75330287ef6bb6277bfb301c1a6f9550996a37edb1cd5d4d1b2366ab761
 ---
-
 《雪花写作法》，是《微信读书》推荐给我的。全书10万字，读完只花3小时12分钟。本书的构建方式与《[文心](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485087&idx=1&sn=070df8f6edb97e351d1b208060ffee5c&chksm=a6c76a7291b0e3646a30a9f2aa4b668cf784c13e27b8a09ffc1487b9a11ed2a4fe165e7c50f9&scene=21#wechat_redirect)》很是相像，都是以故事为主线，在故事中融入作者想要传输的知识。
 
 本书故事的主人公是家庭主妇戈德里洛克，她的儿女都已经上学，所以有时间做自己想做的事，她想做的事情是写小说。
@@ -33,6 +32,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485320&idx=
 
 我想要写小说，但从没写过，读完本书，我开始能看到小说中的某些矛盾冲突。我想我暂时不会写小说，于是“雪花写作法”将是我的一种知识储备，于是本篇读书笔记只到此处。
 
-本书的推荐语为：“‘雪花写作法’是一种写小说的公式，如果您有写故事的想法但不知如何起笔，试试看作者的方法，或许会很有帮助的。”
-
-↓↓↓欢迎关注
+本书的推荐语为：“‘雪花写作法’是一种写小说的公式，如果您有写故事的想法但不知如何起笔，试试看作者的方法，或许会很有帮助的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485320&amp;idx=1&amp;sn=41f030cc86c49b7739a151b10755db88&amp;chksm=a6c76b6591b0e273c75330287ef6bb6277bfb301c1a6f9550996a37edb1cd5d4d1b2366ab761" rel="noopener noreferrer">原文链接</a>）</small>

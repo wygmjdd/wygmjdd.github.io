@@ -5,7 +5,6 @@ weight: 278550054
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486478&idx=1&sn=e1a1b859e5fc31cc4008e79f55d4de76&chksm=a6c760e391b0e9f52b40b069452e7e7306be3f68e8bd4726cde14e009d5d0bc9e5d0f093174d
 ---
-
 40天以前，我开始按照《[真实的幸福](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486275&idx=1&sn=b9f3fc63413a4ffffb467f60c82ed769&chksm=a6c767ae91b0eeb8791d74d4f12b2d6ce911b7616570ff04fd0e0ff92d8fce25dcf37ad8b994&scene=21#wechat_redirect)》和《认知驱动》中的建议写“感恩日记”和“成功日记”，在每天睡觉前。
 
 最近几天的日记，我感觉这日记的质量似乎有了明显提升，于是今天兴起“将它们分享到公众号”想法。
@@ -76,9 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486478&idx=
 
 \--
 
-我现在的日记，对我用处极大。
-
-  
-
-
-↓↓↓欢迎关注
+我现在的日记，对我用处极大。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486478&amp;idx=1&amp;sn=e1a1b859e5fc31cc4008e79f55d4de76&amp;chksm=a6c760e391b0e9f52b40b069452e7e7306be3f68e8bd4726cde14e009d5d0bc9e5d0f093174d" rel="noopener noreferrer">原文链接</a>）</small>

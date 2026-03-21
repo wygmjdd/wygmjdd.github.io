@@ -5,7 +5,6 @@ weight: 283960156
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485469&idx=1&sn=a95ea5b219f59b340f2ec9bf7ac3e4fc&chksm=a6c764f091b0ede6e8049296f7b5df9eeefc0f3ecd9eae0402e53a31aef11009349dc7315f84
 ---
-
 22年年中看完《代码整洁之道》之后，常关注着相关信息，前段时间看到一本名叫《好代码·坏代码》的书，我感觉这名字起的很是“响亮”，于是将其读了一遍。这本书我看的纸质版，每个晚上看40分钟，读完历时一个月，全书读完花费约15小时。
 
 本书分为三个部分：理论、实践与测试。
@@ -139,10 +138,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485469&idx=
         }  
       
         return null;  
-    }  
-    
-
-  
-
-
-↓↓↓欢迎关注
+    } <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485469&amp;idx=1&amp;sn=a95ea5b219f59b340f2ec9bf7ac3e4fc&amp;chksm=a6c764f091b0ede6e8049296f7b5df9eeefc0f3ecd9eae0402e53a31aef11009349dc7315f84" rel="noopener noreferrer">原文链接</a>）</small>

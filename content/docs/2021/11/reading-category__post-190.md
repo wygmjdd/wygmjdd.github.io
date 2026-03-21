@@ -5,7 +5,6 @@ weight: 289080190
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484398&idx=1&sn=a98839660cc68d2bbcd39c00be87a3d6&chksm=a6c76f0391b0e6151785f7e2817b4d00d1d64ebce9206a747f2f5afc0fd3ca082529bb19e66d
 ---
-
 三个月前，我决定在下班地铁上看一本书，选择了《贫穷的本质与终结》。我不记得选择本书的原因是某篇博客的推荐亦或是这标题的吸引，寻遍我的记录痕迹，都不见它的名字。猜测我是被这标题给吸引了——我想了解为什么贫穷以及如何能够从贫穷中出来，这标题，正命中我的心理。
 
 即便三本书（《贫穷的本质：如何逃离贫穷陷阱》、《为什么有的国家富裕，有的国家贫穷》、《贫穷的终结：智能时代、避免技术性失业与重塑世界》）合在一起，并不长，每一次坐地铁，我都逼着自己阅读。需要逼迫才能往下看的原因有好几个：我对书中某些观点并不理解，不理解导致不认同；一种我说不清原因的感觉，感觉某些地方翻译的略显生硬；作者有时候会以一种高高在上的姿态评论，我将自己定位为穷人，于是站在一种被评估、被观察、被轻视的角度来仰视，会有些抵触。
@@ -80,14 +79,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484398&idx=
 
 我喜欢听他们讲述过去的、现在的故事，我喜欢听他们的未来展望，我喜欢他们给予我的力量。
 
-未来，是美好的。
+未来，是美好的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484398&amp;idx=1&amp;sn=a98839660cc68d2bbcd39c00be87a3d6&amp;chksm=a6c76f0391b0e6151785f7e2817b4d00d1d64ebce9206a747f2f5afc0fd3ca082529bb19e66d" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓欢迎关注“我要改名叫嘟嘟”↓↓↓

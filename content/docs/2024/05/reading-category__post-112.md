@@ -5,7 +5,6 @@ weight: 279970112
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486213&idx=1&sn=3ea9a7a1856ea894d956d445230f6b7a&chksm=a6c767e891b0eefe360c0ad1029b3add5a7eece14300199e653dff06c5de1909e877631a1021
 ---
-
 我从《[自控力](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485216&idx=1&sn=1a079e8b8581c29fea0054c975c5247d&chksm=a6c76bcd91b0e2dbaa46a5ccd7e0cc3e934d65d82b0ca6034cefbda7a5ef18f25f190125604c&scene=21#wechat_redirect)》看到，虚构一个未来的自己，从未来角度看现在，以未来身份劝自己，是一个很好的自控方法；以未来视角帮助自己做决定，是《[宝贵的人生建议](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486071&idx=1&sn=4aacbe10662555f68f3fedc27f0a11b8&chksm=a6c7669a91b0ef8cfd64aeebd023166f91441c3dac704e8fe0c180ee22bf44e30218201ceec0&scene=21#wechat_redirect)》中的建议。
 
 肆拾，是我虚构的一个角色，指的是[四十岁时的自己](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485171&idx=1&sn=836b699e218223c136b94a7a6e1029f1&chksm=a6c76a1e91b0e3080f47f8ac54d83b73257a5cfc46d8a5521cf272f28c083011bb54912ca345&scene=21#wechat_redirect)。当我心中有疑虑，获得亲人朋友建议后依然不能做出决定时，在某些独处时刻，我总对肆拾诉说。
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486213&idx=
 
 肆拾，你知道的。我按照《写出我心》作者的建议——勇敢地写，不管不顾地写——行事，是有观察到自己的一个变化的。好多个夜晚，我在20分钟内写下至少1000字，这些文字，有一些第二天看，也还算不错。很明显，本篇读书笔记，我就按照作者的建议完成。之前的一个小时，我坐在电脑前，耳朵里听着《既然青春留不住，还是做个大叔好》，脑子不停在记忆中搜寻，手不停敲键盘……
 
-肆拾，我的脑子，已经掏空。后一分钟，我要去晾衣服，然后准备明后两天的早餐。
-
-↓↓↓欢迎关注
+肆拾，我的脑子，已经掏空。后一分钟，我要去晾衣服，然后准备明后两天的早餐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486213&amp;idx=1&amp;sn=3ea9a7a1856ea894d956d445230f6b7a&amp;chksm=a6c767e891b0eefe360c0ad1029b3add5a7eece14300199e653dff06c5de1909e877631a1021" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 277600061
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486692&idx=1&sn=941fd13f6bf38fe742d48a6e8189d355&chksm=a6c7600991b0e91fe4b045d63d8c2389ff72946037ef1e1b9727ee8909d6a3deca0a8f4e6a83
 ---
-
 在我28岁的时候，会为“程序员的35岁”焦虑，那年纪的我真的很害怕未来没了工作该怎么办。当时这焦虑是我内心下一层次的忧虑，它更多来自于平日里的网上冲浪以及和菠萝包的聊天：“咱们未来失业了可怎么办呢？”
 
 当时我并不细究焦虑的前前后后，我的第一优先级，还只是“[回不回重庆](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485135&idx=1&sn=c501d16410f4ea7e555c5bd5205183c3&scene=21#wechat_redirect)，以及什么时候回重庆”。
@@ -126,6 +125,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486692&idx=
 
 \--
 
-2024只剩两天，提前祝大家元旦快乐，万象更新！^.^
-
-↓↓↓欢迎关注
+2024只剩两天，提前祝大家元旦快乐，万象更新！^.^ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486692&amp;idx=1&amp;sn=941fd13f6bf38fe742d48a6e8189d355&amp;chksm=a6c7600991b0e91fe4b045d63d8c2389ff72946037ef1e1b9727ee8909d6a3deca0a8f4e6a83" rel="noopener noreferrer">原文链接</a>）</small>

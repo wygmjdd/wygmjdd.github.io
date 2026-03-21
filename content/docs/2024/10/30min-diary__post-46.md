@@ -5,7 +5,6 @@ weight: 278210046
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486564&idx=1&sn=81da70ce6f4233122cb6153a0d2e1384&chksm=a6c7608991b0e99ff6e42075eddfda26eccf461cc472ff7092f8ae0dfebabd179eac87cc90c1
 ---
-
 上周五请组内几位同事吃饭时，他们对我说找领导签字可能会不太顺利，这为我添了些焦虑。阿妮后面两天很忙，需要我的陪同。两个问题合在一起后的解决方案是：今天去公司，先将未确定项确定下来。
 
 去除焦虑的唯一办法，是直面问题。
@@ -57,9 +56,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486564&idx=
 
 
 
-为小莱，我会做一个有能量有希望的人儿。
-
-  
-
-
-↓↓↓欢迎关注
+为小莱，我会做一个有能量有希望的人儿。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486564&amp;idx=1&amp;sn=81da70ce6f4233122cb6153a0d2e1384&amp;chksm=a6c7608991b0e99ff6e42075eddfda26eccf461cc472ff7092f8ae0dfebabd179eac87cc90c1" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 274310073
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487405&idx=1&sn=b29454f463aae06415b5ae802f408f0b&chksm=a6c7634091b0ea569ac1f0e97686f24f7ad62ab36ffbe2bc952b849458e7f045801f032e6557
 ---
-
 我的上一份工作，是[远程办公](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486923&idx=1&sn=361ca90c9733f9f0286e1d27d8354157&scene=21#wechat_redirect)，上班地点可以自由选择，山上、城里都可以。今年过完年，我并不急着上重庆，而是在山上的家工作近一个月。
 
 那段时间，我每天的作息是起床、工作、吃饭，以及睡觉。起床到睡觉之间，除开吃饭，我给自己安排了两段时间休息，一是中午的随便走走，二是傍晚的去捡柴。每天临睡前，我将[休息时获得的体验](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486803&idx=1&sn=a51c1dbf36ada8f9a4d522ae227aac2e&scene=21#wechat_redirect)记录为文字，这文字被一位读者评价说：“你肯定看过《瓦尔登湖》。”
@@ -102,6 +101,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487405&idx=
 
 我特别喜欢书中的一句话是：“我相信每一天都有一个我还没有滥用过的、更早更神圣的黎明时刻。”
 
-我想自己，正清醒的活着，我活着的每一刻，都是不滥用的。
-
-↓↓↓欢迎关注
+我想自己，正清醒的活着，我活着的每一刻，都是不滥用的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487405&amp;idx=1&amp;sn=b29454f463aae06415b5ae802f408f0b&amp;chksm=a6c7634091b0ea569ac1f0e97686f24f7ad62ab36ffbe2bc952b849458e7f045801f032e6557" rel="noopener noreferrer">原文链接</a>）</small>

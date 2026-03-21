@@ -5,7 +5,6 @@ weight: 273750071
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487458&idx=1&sn=ddb0f920f3d2aa46e3c3ad21df9ede13&chksm=a6c7630f91b0ea1902391938a2743e2ac4ea2df103020c5c2c18da994779cf820179ccaf9ccb
 ---
-
 上周六，不知是刷视频看到过天空还是被阿力影响——他说自己正看一些讲述神秘现象的书，我忽然也想看一些神秘现象。
 
 在我显得狭窄的认知当中，与“神秘”挂钩的物事，只有鬼神、星空以及某某未解之谜。
@@ -144,6 +143,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487458&idx=
 
 写本篇到最末，我想起自己过去是喜欢仰望星空的。
 
-每当我仰望星空时，我想最多的，是下一秒将有又一颗流星飞过。
-
-↓↓↓ 欢迎关注
+每当我仰望星空时，我想最多的，是下一秒将有又一颗流星飞过。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487458&amp;idx=1&amp;sn=ddb0f920f3d2aa46e3c3ad21df9ede13&amp;chksm=a6c7630f91b0ea1902391938a2743e2ac4ea2df103020c5c2c18da994779cf820179ccaf9ccb" rel="noopener noreferrer">原文链接</a>）</small>

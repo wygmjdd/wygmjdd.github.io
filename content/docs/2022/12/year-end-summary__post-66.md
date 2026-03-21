@@ -5,7 +5,6 @@ weight: 284940066
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485256&idx=1&sn=440b39fbb9951581cb741e63a4af2a81&chksm=a6c76ba591b0e2b37d4f309fc982ad108977db5a90676cedb33dea540705e27ab2c043f947de
 ---
-
 2022年，我将许多能自我支配的时间花在读书上面，此篇汇总我在2022年读过的书。汇总形式是很简单的——用一小段话概括该书留给我的最深印象。
 
 一些我感觉很赞的书，我会放上购买链接。是的，我否决掉之前说过的“每一篇读书笔记都放上购书链接”打算，只在年末总结处放上我买过（有些买过纸质书，大部分是打算只看电子书的）的书。
@@ -74,16 +73,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485256&idx=
 
 如果您真的买书，我建议您在618或是双十一购买。或许那时佣金与我已经无关，但您真的可以省些钱。
 
-我感觉插入太多“返佣商品”不太好，于是标准再高了些：下面的书籍是我需要常常翻阅的。  
-
-
-  
-
-
-  
-
-
-  
-
-
-↓↓↓ 欢迎关注
+我感觉插入太多“返佣商品”不太好，于是标准再高了些：下面的书籍是我需要常常翻阅的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485256&amp;idx=1&amp;sn=440b39fbb9951581cb741e63a4af2a81&amp;chksm=a6c76ba591b0e2b37d4f309fc982ad108977db5a90676cedb33dea540705e27ab2c043f947de" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 276840030
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486840&idx=1&sn=62ca2b9286e580328e6cf7e3d9eb4a47&chksm=a6c7619591b0e883d13475e8323fd8111d1080d2be1a779d692180b47489eba8f584b0597aab
 ---
-
 这周每天晚上临睡前，都有花十几二十分钟记下些即时体验。其中一些内容给予我分享勇气，故搬运汇总到此篇。
 
 \--
@@ -126,6 +125,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486840&idx=
 
 \--
 
-以上，是周一周二与周三。
-
-↓↓↓欢迎关注
+以上，是周一周二与周三。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486840&amp;idx=1&amp;sn=62ca2b9286e580328e6cf7e3d9eb4a47&amp;chksm=a6c7619591b0e883d13475e8323fd8111d1080d2be1a779d692180b47489eba8f584b0597aab" rel="noopener noreferrer">原文链接</a>）</small>

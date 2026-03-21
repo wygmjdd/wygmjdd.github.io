@@ -5,7 +5,6 @@ weight: 278270049
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486534&idx=1&sn=7310daeb935be8de8ee23f58866f3fa9&chksm=a6c760ab91b0e9bdc512a7acee329bbd763217bf07cca99666304c7b8dc11372538bec4f0c49
 ---
-
 我喜欢打篮球，已经到有些魔怔程度，比如上一个周日，阿妮加班，我在没做完自己事情（写[《湘行散记》的读书笔记](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486518&idx=1&sn=1624aee21d1aee93be76604708704357&chksm=a6c760db91b0e9cd411aa2c7b87bf8b1b60fdbeba263df30ffcb4949f6cfb2d60380b009ed3c&scene=21#wechat_redirect)）时看见大家在群里喊打球依然跃跃欲试，即便在周六，我已经和另外的两个帅单挑一上午。最终，跃跃欲试变成真实行动，我在周末，连打两天球，这是从深圳回重庆后的第一次。
 
 喜欢打球的原因，我在之前的[一篇更新](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486125&idx=1&sn=c9d4f756f09f02419c67620227fd5f74&chksm=a6c7664091b0ef56b9f47f14b30b6ee25c9667878b4fe30557345a3e8012fc02a68d961410bc&scene=21#wechat_redirect)中理过，核心原因大概算是喜欢和大家待在一起，喜欢那种带着规则的竞争。
@@ -75,6 +74,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486534&idx=
 
 今天写日记，没有逼自己。
 
-有一点进步的是，现在时间为晚间11点15分，我能比昨天早些睡觉，真好。
-
-↓↓↓欢迎关注
+有一点进步的是，现在时间为晚间11点15分，我能比昨天早些睡觉，真好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486534&amp;idx=1&amp;sn=7310daeb935be8de8ee23f58866f3fa9&amp;chksm=a6c760ab91b0e9bdc512a7acee329bbd763217bf07cca99666304c7b8dc11372538bec4f0c49" rel="noopener noreferrer">原文链接</a>）</small>

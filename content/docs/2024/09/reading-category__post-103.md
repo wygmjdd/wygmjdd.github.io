@@ -5,7 +5,6 @@ weight: 278630103
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486458&idx=1&sn=5f6d0b5fbe7407980ab4eeda84d2511b&chksm=a6c7671791b0ee01c40edb0bc8e438623ac9af6fac075a4ffbed5ae9baabd56cb74e3516780a
 ---
-
 大概是去年某天下班路上，我没有客人（顺路且同时下班的同事，10块钱一位，之前有整理过一篇《[跑顺风车的程序员](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485887&idx=1&sn=71f3da67c8c1a8bc4a95b24d7f7e6035&chksm=a6c7655291b0ec44144358e6eca1f8b61e86876a3a37aee569d5a0f54c1334b741a8c0700170&scene=21#wechat_redirect)》）、不打电话（我喜欢在开车时给家人打电话），精神状态也还不错，就又兴起听书想法。
 
 我似乎已经形成这样的认知：开车时最好的听书类别，是历史，历史对我来说，是故事；听故事漏掉些情节是没关系的，前前后后总能再串起来。
@@ -62,6 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486458&idx=
 
 > GPT-3冒充我写的那些文字我并不全同意。但其中有一句话我完全认可：“我们生活在由和我们非常不同的人在我们出生很久以前发明的思想牢狱之中。”在我看来，像我这样的历史学家的工作是展示这些思想牢狱是如何建造起来的，并表明我们并非注定关在其中无法逃脱。人是讲故事的动物；没有故事，人类社会就无法运作。但归根结底，这些故事不过是我们为了帮助人而创造出来的工具。如果一个故事造成的弊大于利，我们总可以把它改掉。
 
-未来，当我拥有足够大书架那天，我会将纸质版《人类简史》买回家，在闲暇时间，再翻一翻。
-
-↓↓↓欢迎关注
+未来，当我拥有足够大书架那天，我会将纸质版《人类简史》买回家，在闲暇时间，再翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486458&amp;idx=1&amp;sn=5f6d0b5fbe7407980ab4eeda84d2511b&amp;chksm=a6c7671791b0ee01c40edb0bc8e438623ac9af6fac075a4ffbed5ae9baabd56cb74e3516780a" rel="noopener noreferrer">原文链接</a>）</small>

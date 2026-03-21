@@ -5,7 +5,6 @@ weight: 291040267
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484023&idx=3&sn=470abc1b05cb80a4dbfe0245b2aa87d9&chksm=a6c76e9a91b0e78cf4a31a5b11582910246158dce415b6277287be8eebf33a42976f786d27ee
 ---
-
 将书中的示例，都跟着走了一遍之后，将一些SQL语句、概念性的东西，记在这里，使用的时候快速翻阅。
 
 ## 查询
@@ -325,4 +324,4 @@ Indexes，提升查找、排序的速度，类似书籍的页码。
 
 Triggers，特殊的存储过程，某些情况发生的时候，触发执行一下。
 
-Security，数据库的安全管理。
+Security，数据库的安全管理。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484023&amp;idx=3&amp;sn=470abc1b05cb80a4dbfe0245b2aa87d9&amp;chksm=a6c76e9a91b0e78cf4a31a5b11582910246158dce415b6277287be8eebf33a42976f786d27ee" rel="noopener noreferrer">原文链接</a>）</small>

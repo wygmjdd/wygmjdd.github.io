@@ -5,7 +5,6 @@ weight: 276550205
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486891&idx=1&sn=7e3d4677e971019617d205347fe409ce&chksm=a6c7614691b0e850c5a9793f5724e78affd7115372b612d377437fe07848dc24d55534f14dc2
 ---
-
 对的，今早的问一问回答，又碰到一个可以搬运的问题，于是搬运到此处。
 
 今天的问题是：**分享一下你是怎么选书的？**
@@ -38,6 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486891&idx=
 
 当知道一本书之后，第二个步骤是决定看不看它。做出这决定的方式，依然分作两种：一是先看前言与目录，如果真正对书中内容很感兴趣，我就将它加入书架，等着未来去读；二是基于对朋友和作者的很是信赖，我不做选择直接加入书架。
 
-由以上步骤，现在被我加入书架的书，已经好多好多。
-
-↓↓↓欢迎关注
+由以上步骤，现在被我加入书架的书，已经好多好多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486891&amp;idx=1&amp;sn=7e3d4677e971019617d205347fe409ce&amp;chksm=a6c7614691b0e850c5a9793f5724e78affd7115372b612d377437fe07848dc24d55534f14dc2" rel="noopener noreferrer">原文链接</a>）</small>

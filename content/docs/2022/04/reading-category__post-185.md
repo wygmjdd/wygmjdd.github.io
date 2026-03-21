@@ -5,7 +5,6 @@ weight: 287400185
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484725&idx=2&sn=7414a2959398b2dc856dace9fa21cb5b&chksm=a6c769d891b0e0ce74394424a430d0f0942bca775c7bd4f39255ce14fe63723799910c5fd4ae
 ---
-
 我不记得这本书是如何被我加进书架的，可能是看它的标题很有特色吧。
 
 《程序员的自我修养》，我需要拥有的修养有哪些呢？
@@ -32,14 +31,8 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484725&idx=
 
 但如果感觉自己时间不够，我会更推荐阅读《[软技能](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484709&idx=1&sn=877674d71a2ff063a09ad02285f7bd6b&chksm=a6c769c891b0e0de7bb462c9a685628aeb44f997a76729317e03054f619703ee49fd389382b8&scene=21#wechat_redirect)》。《软技能》与本书，是相似的，讲述的内容会更全面一些。
 
-读《软技能》之前或者之后，可以读侯捷老师的《[左手程序右手诗](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483680&idx=1&sn=01e6a91f8bbd1c40edebcab75ab012e6&chksm=a6c76dcd91b0e4db3a2d734627ec42f8005f58bc66f66b55b96936438d15e852c29d19ea0df0&scene=21#wechat_redirect)》。
+读《软技能》之前或者之后，可以读侯捷老师的《[左手程序右手诗](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483680&idx=1&sn=01e6a91f8bbd1c40edebcab75ab012e6&chksm=a6c76dcd91b0e4db3a2d734627ec42f8005f58bc66f66b55b96936438d15e852c29d19ea0df0&scene=21#wechat_redirect)》。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484725&amp;idx=2&amp;sn=7414a2959398b2dc856dace9fa21cb5b&amp;chksm=a6c769d891b0e0ce74394424a430d0f0942bca775c7bd4f39255ce14fe63723799910c5fd4ae" rel="noopener noreferrer">原文链接</a>）</small>
 
   
-
 
 * * *
-
-  
-
-
-↓↓↓ 一个学做菜、用文字分享生活的程序员

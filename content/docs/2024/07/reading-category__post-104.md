@@ -5,7 +5,6 @@ weight: 279140104
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486361&idx=1&sn=7037667de47a7ee09564759da40deaac&chksm=a6c7677491b0ee625cc7d1e6fc880cdf75928a8cc3f71b5f22790f23dab4703760beabb44444
 ---
-
 《向死而生：我修的死亡学分》是《[世界因你不同：李开复自传](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485786&idx=1&sn=26abb1325cfe853f36dcffd7436f0084&chksm=a6c765b791b0eca17951406779a65a55c744b12adf329d263580909bf3658735d4f359093a48&scene=21#wechat_redirect)》的续集，是开复老师从淋巴癌康复之后整理的“过往经历”，这两本书被《微信读书》收录在一起。去年看完《世界因你不同》之后，继续往后看的我先读完开复老师分享的《[重生手记](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485856&idx=1&sn=4e8bf02e2c11951a0c70c6cfd27c3f0c&chksm=a6c7654d91b0ec5bdc2fa0489af76ca7941e55a80fcd0ea010e69d1ecb5e9430aa74ccc962fd&scene=21#wechat_redirect)》又看完《[水是最好的药](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485855&idx=1&sn=d7a9e94fd306e3a43ef5b1f81cc7a9cd&chksm=a6c7657291b0ec645b26139fadaaad1e3467307800c13f97ae48592f8d89aa9c874db89192c1&scene=21#wechat_redirect)》，待回到《向死而生》，发现自己并不很想继续读下去。
 
 于是不做深究只是不读，只让这两本书一直待在我的置顶书架上。
@@ -70,6 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486361&idx=
 > 
 > （6）如果人生真要留下什么，那就为世界留下心存善念的孩子，让他们一代又一代地将世界的希望与爱传递下去。
 
-“让每一个今天，都比昨天更好”是目标；追逐目标的过程，慢一点，是可以接受的。
-
-↓↓↓欢迎关注
+“让每一个今天，都比昨天更好”是目标；追逐目标的过程，慢一点，是可以接受的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486361&amp;idx=1&amp;sn=7037667de47a7ee09564759da40deaac&amp;chksm=a6c7677491b0ee625cc7d1e6fc880cdf75928a8cc3f71b5f22790f23dab4703760beabb44444" rel="noopener noreferrer">原文链接</a>）</small>

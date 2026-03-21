@@ -5,7 +5,6 @@ weight: 278010210
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486633&idx=1&sn=cc765527fab08d7f7aa67259ce095ed5&chksm=a6c7604491b0e95236b7fc9acbd97e92108e4ba6e9f84932d68942b6e024731ece6b2275e2dd
 ---
-
 我新认识一位陌生——现实生活中没有见过，在线上经由公众号彼此熟悉，就像之前[认识沈从文先生一样](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484979&idx=1&sn=42cd3716c384045d497004a57693fdd6&chksm=a6c76ade91b0e3c853217a75e867c15667b122b356e4d69ba4bddbd2d1f9492989560efd627c&scene=21#wechat_redirect)——朋友阿晨，他也是一个程序员，看很多书也写很多读书笔记。周一和阿晨聊天时，有翻开他的公众号再看一看，吸引我眼球的，是《[书单：读完的100本书中，对我影响最大的是这7本](https://mp.weixin.qq.com/s?__biz=Mzk0NTQzNTc3OQ==&mid=2247484012&idx=1&sn=38a2392cfc47dec4489460409c7b471b&scene=21#wechat_redirect)》。
 
 自从4年前，开始周更公众号并且发现自己没有内容可以输出之后，我开始看书，每看完一本书，都强迫自己输出一篇读书笔记以充当当周更新。大概半年前，我为这些读书笔记加了[“阅读书目”标签](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5ODczOTMzMA==&action=getalbum&album_id=3564746998857072642&scene=173&subscene=&sessionid=svr_7ecf311d04f&enterid=1731760620&from_msgid=2247486607&from_itemidx=1&count=3&nolastread=1#wechat_redirect)，标签将读书笔记汇总，能够很方便查看属于自己的“养成游戏”——我将持续阅读持续输出看作是将会持续一生的养成游戏——进度。
@@ -101,6 +100,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486633&idx=
 
 \--
 
-看书，只是一个爱好，它是属于我的养成游戏。
-
-↓↓↓欢迎关注
+看书，只是一个爱好，它是属于我的养成游戏。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486633&amp;idx=1&amp;sn=cc765527fab08d7f7aa67259ce095ed5&amp;chksm=a6c7604491b0e95236b7fc9acbd97e92108e4ba6e9f84932d68942b6e024731ece6b2275e2dd" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 275820023
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487007&idx=1&sn=6f254dfb23eef93f93b1f264b79d1c43&chksm=a6c762f291b0ebe4a6348ff03377bf5e0db35031619b300dfcc646415c2ae7ad3d28f3ec7402
 ---
-
 现在时间是晚上的9点07分，正在地铁正在回家路上的我已完全看不进去书，我且来试试，能不能为过去的一周作一点记录。在久不记录之后。
 
 在得知需要出差那一刻，我内心是有一点小小期待的。我的打工生涯，还不有过出差体验，多出一种新的人生体验总是不错的。
@@ -74,4 +73,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487007&idx=
 
 其它？似乎和广州、深圳以及重庆，差异并不很大。坐地铁需要买票，大家也都在公司上班，公司楼下饭店的生意都很好，高楼晚上的灯都好看……
 
-地铁距离终点还剩两站，我想说的，好像只有这些。对了，我想现在这一刻的自己，很喜欢地铁上的这一段独处。
+地铁距离终点还剩两站，我想说的，好像只有这些。对了，我想现在这一刻的自己，很喜欢地铁上的这一段独处。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487007&amp;idx=1&amp;sn=6f254dfb23eef93f93b1f264b79d1c43&amp;chksm=a6c762f291b0ebe4a6348ff03377bf5e0db35031619b300dfcc646415c2ae7ad3d28f3ec7402" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 279160105
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486354&idx=1&sn=ae8789a45ab50e57f5de0925ec8d7d34&chksm=a6c7677f91b0ee692c2d3639453c4ead26ca011ad699ee805c7969b16e24a5dd7ea96e8bf496
 ---
-
 《以慢制胜：钟睒睒的长期主义经营哲学》是过年期间看完的，读完当时并没有输出读书笔记便一直拖到现在。今天是一个短暂逃离现今工作的周五，现在是一段独处时间，独处，便想做些什么。
 
 刷题？我还未真正下定决心每天都做一点点。写本周的更新？不行，早早完成便意味着周末将有更多时间花在刷短视频上面。续写我的Python博客？是一个不错选择，但这样的独处时间并不很想动脑子。（最后一遍阅读本篇时，发现自己内心已经安静许多，多动脑子也是可接受的。读书，然后写笔记，真是一个好的静心选择。）
@@ -28,6 +27,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486354&idx=
 
 ……
 
-过去半小时，我将上面内容来回看好几遍，确信自己的混沌已到尽头。于是本篇，只到此处。
-
-↓↓↓欢迎关注
+过去半小时，我将上面内容来回看好几遍，确信自己的混沌已到尽头。于是本篇，只到此处。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486354&amp;idx=1&amp;sn=ae8789a45ab50e57f5de0925ec8d7d34&amp;chksm=a6c7677f91b0ee692c2d3639453c4ead26ca011ad699ee805c7969b16e24a5dd7ea96e8bf496" rel="noopener noreferrer">原文链接</a>）</small>

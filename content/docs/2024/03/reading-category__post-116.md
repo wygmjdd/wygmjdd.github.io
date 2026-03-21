@@ -5,7 +5,6 @@ weight: 280540116
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486081&idx=1&sn=60f1744259510ee6e0d5dfdfe77594b8&chksm=a6c7666c91b0ef7a8828d2de3763f8b30a7f774241894d64d9cbc7b4fa6ad29eed6ea882b51c
 ---
-
 我第一次听到“云风”这个名字，是11年大学的操作系统课上。我不记得当时身为副教授老师的原话是怎样说的，只记得一个大意：“云风这个人，好厉害的，是一个网易的大牛。他将操作系统、计算机原理搞得超级透。他的文章也写得很好。”
 
 老师课上提到过云风不止一次，我能感受到老师的崇拜与佩服。
@@ -40,9 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486081&idx=
 
 云风也看很多书，他将很多的闲暇时间用来看书。云风大大的闲暇时间不多，很多时候，他都专注于执行、验证自己的想法。26岁的云风大大对33岁的我说：“花时间去专注地做自己感兴趣的事吧。”
 
-这句话，我甚至还想对20年前，10年前，甚至5年3年前的自己说：“花时间去专注地做自己感兴趣的事吧。时间，会给你答案的。”
-
-  
-
-
-↓↓↓欢迎关注
+这句话，我甚至还想对20年前，10年前，甚至5年3年前的自己说：“花时间去专注地做自己感兴趣的事吧。时间，会给你答案的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486081&amp;idx=1&amp;sn=60f1744259510ee6e0d5dfdfe77594b8&amp;chksm=a6c7666c91b0ef7a8828d2de3763f8b30a7f774241894d64d9cbc7b4fa6ad29eed6ea882b51c" rel="noopener noreferrer">原文链接</a>）</small>

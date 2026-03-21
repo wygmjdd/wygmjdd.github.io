@@ -5,7 +5,6 @@ weight: 275640201
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487036&idx=1&sn=a091dee8533b11d0ce5eafae1e910382&chksm=a6c762d191b0ebc70a4f75c795d26981dd3c37eee5b437b4bbe65bf95b976b0ea5e3fe55dffa
 ---
-
 最近刚刚读完一本叫做《十分钟冥想》的书，为之输出读书笔记之前，我很想先记录一下自己的冥想初体验，于是有此篇。
 
 书中的“十分钟冥想”，专指腰背挺直的坐着十分钟，它有一份摘要如下：
@@ -84,6 +83,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487036&idx=
 
 对的，我以为是可以使用“轻快”二字形容当时感受的，即便“专注于呼吸”时心猿意马甚至烦躁难安，但结束之后的几分钟，我真真感觉整个人轻快、平静许多。
 
-以上，是我近几月以来，尝试冥想小几十次的初体验。
-
-↓↓↓欢迎关注
+以上，是我近几月以来，尝试冥想小几十次的初体验。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487036&amp;idx=1&amp;sn=a091dee8533b11d0ce5eafae1e910382&amp;chksm=a6c762d191b0ebc70a4f75c795d26981dd3c37eee5b437b4bbe65bf95b976b0ea5e3fe55dffa" rel="noopener noreferrer">原文链接</a>）</small>

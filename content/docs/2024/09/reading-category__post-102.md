@@ -5,7 +5,6 @@ weight: 278580102
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486473&idx=1&sn=24eb5616fecb50f5dbe82b7b55adf884&chksm=a6c760e491b0e9f2c6ca6e9814e7c49da3e0ca900ff3a8a6046590d37545000e8b7d8e7b5291
 ---
-
 我会被“身后无遗物”几个字吸引的缘由，大概依然算作是一种探索，一种对人生意义的探索。
 
 在劝诫别人或是被别人劝诫时，有那么几句话，出现的频率总是会比较高，比如“生不带来，死不带去”，比如“赤条条来去无牵挂”，比如“人间无常，及时行乐”，总之，在出生之前和死去之后，这世界于我，是毫无意义的。
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486473&idx=
 
 夫死后，作者感受到寂寞，但生活依然在继续；写完本书的作者，即将回到日本到早稻田大学教书，将不再被寂寞困扰。
 
-最后，本篇读书笔记又回到我。我想说的是：“我新认识一位作家，就像您认识我一样。”
-
-↓↓↓欢迎关注
+最后，本篇读书笔记又回到我。我想说的是：“我新认识一位作家，就像您认识我一样。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486473&amp;idx=1&amp;sn=24eb5616fecb50f5dbe82b7b55adf884&amp;chksm=a6c760e491b0e9f2c6ca6e9814e7c49da3e0ca900ff3a8a6046590d37545000e8b7d8e7b5291" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 279990225
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486207&idx=1&sn=96664b9c7ac856f3c79f91f7adda9066&chksm=a6c7661291b0ef047ff7f828c942382e525cac9e79df92c35c7d94260553101f66a45dadb689
 ---
-
 我的摘抄习惯（将书中那些让我当时产生过触动的句子汇集到一起，供未来的自己阅读），已经养成许久，由《[蛤蟆先生去看心理医生](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485723&idx=1&sn=948de0b9811660a82272e57c1218834d&chksm=a6c765f691b0ece0ac326f0cc2003758f2b6afb5cbea91978a15e3b37081fd82909717903736&scene=21#wechat_redirect)》[得到加强](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485837&idx=1&sn=3391a0dcd84711150b6d9403c0c6ef36&chksm=a6c7656091b0ec767ddf80f26ef450fa40a30d76f7c5f6fa13d6aa244ec2e628743ff02e3522&scene=21#wechat_redirect)。
 
 整理《写出我心》读书笔记时，翻阅阅读当时的书中摘抄，我又起了整理汇集心思——作者的许多想法，未来的我看到，是依然会有触动的。
@@ -44,9 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486207&idx=
 
 > 往往你一页又一页翻阅自己的笔记本时，说不定只找得到一两行或两三行佳句。别泄气，别忘了足球队花很多的时间练球，仅只为了参加寥寥数次的比赛。
 
-> 我想，如果我仅仅停留在“表现自我”的层次上，我可能会坐下来，像是写日记一样地写道：“我今天很高兴，我谈恋爱了，我很爱我的男朋友，他太萌了。”那么别人看了估计也会觉得无聊透顶。如果想达到超越自我境界的交流，我们就必须超越浅层次表达，来更加深入地触碰事物更本质的一面。
-
-  
-
-
-↓↓↓欢迎关注
+> 我想，如果我仅仅停留在“表现自我”的层次上，我可能会坐下来，像是写日记一样地写道：“我今天很高兴，我谈恋爱了，我很爱我的男朋友，他太萌了。”那么别人看了估计也会觉得无聊透顶。如果想达到超越自我境界的交流，我们就必须超越浅层次表达，来更加深入地触碰事物更本质的一面。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486207&amp;idx=1&amp;sn=96664b9c7ac856f3c79f91f7adda9066&amp;chksm=a6c7661291b0ef047ff7f828c942382e525cac9e79df92c35c7d94260553101f66a45dadb689" rel="noopener noreferrer">原文链接</a>）</small>

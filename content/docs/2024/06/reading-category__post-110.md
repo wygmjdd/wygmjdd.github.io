@@ -5,7 +5,6 @@ weight: 279710110
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486251&idx=1&sn=233d8bdac85b495709d42ca64bdfa885&chksm=a6c767c691b0eed0b935e1e77b4d6bfc5a6cf4e26ad9d34888edf1bbf67caec2b218a87cb78c
 ---
-
 我没想到自己停下来的地方，正是全书的转折点。
 
 一波被烫伤，手头钱不够的大为在医院求医生快快手术，医生按规矩——先交钱后手术——办事，人人不理大为。大为找到身为处长的丁小槐，在丁小槐一句话帮助下，大为为儿子办好入院手续。
@@ -40,6 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486251&idx=
 
 书中没有提到过“零和游戏”这个词，但却常常提出这一观点：我这时才体会到，一个人走运是需要另一个人倒霉作为代价的，他不倒霉，你的运又从何来？
 
-读完本书当晚，洗澡时听《原则》，作者瑞·达利欧说：我们是可以选择不玩“零和游戏”的，只一起把蛋糕做大就好。
-
-↓↓↓欢迎关注
+读完本书当晚，洗澡时听《原则》，作者瑞·达利欧说：我们是可以选择不玩“零和游戏”的，只一起把蛋糕做大就好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486251&amp;idx=1&amp;sn=233d8bdac85b495709d42ca64bdfa885&amp;chksm=a6c767c691b0eed0b935e1e77b4d6bfc5a6cf4e26ad9d34888edf1bbf67caec2b218a87cb78c" rel="noopener noreferrer">原文链接</a>）</small>

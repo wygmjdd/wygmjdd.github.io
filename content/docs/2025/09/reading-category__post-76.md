@@ -5,7 +5,6 @@ weight: 275010076
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487160&idx=1&sn=0b46be43eab9b02943a9e471f31be86a&chksm=a6c7625591b0eb43c070827f983356f9cc8d52163e73c5d338a7cd5b46107e060ea264f89c8b
 ---
-
 上半年听完《[五代十国全史](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486916&idx=1&sn=a182c454037a9de9fc5638381f3519b6&scene=21#wechat_redirect)》之后，我的“将历史过一遍”计划并不停下，我新听完的历史书，是《黎东方讲史之续·细说宋朝》。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aa17lmRY1pXvdPygOV7QcQF3o9wLEJicNOJOXgq3v2iaaAxvDBVhPQ70PDPIX3WN0wrXhvymGzcsteMaKPnP8yvg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)北宋，摘自《国史大纲》
@@ -102,6 +101,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487160&idx=
 
 读书听书时，感悟极多，待真正写读书笔记时，依然感觉内里空空无落笔处，于是摘抄钱穆先生的文字许多。
 
-钱穆先生的文字，真可谓言简意赅，情意均满。
-
-↓↓↓欢迎关注
+钱穆先生的文字，真可谓言简意赅，情意均满。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487160&amp;idx=1&amp;sn=0b46be43eab9b02943a9e471f31be86a&amp;chksm=a6c7625591b0eb43c070827f983356f9cc8d52163e73c5d338a7cd5b46107e060ea264f89c8b" rel="noopener noreferrer">原文链接</a>）</small>

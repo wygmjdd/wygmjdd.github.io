@@ -5,7 +5,6 @@ weight: 279490218
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486302&idx=1&sn=cfd51e593ba216ef28ea4cf998d1aebb&chksm=a6c767b391b0eea54bc3fb2092d723f258e032dacece1cbb84b601415411b8fed1ccaded146f
 ---
-
 （本篇笔记的[第一](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486285&idx=1&sn=c5b20aae1c162785944b70693ee859c8&chksm=a6c767a091b0eeb6bfa6f7d25c82153166dae541159b7d98bd6321cedfa6befa085dfd039737&scene=21#wechat_redirect)、[第二](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486289&idx=1&sn=b51f6bdf7d97458108b3fcd4a0e073bc&chksm=a6c767bc91b0eeaaa416d1281843772180f068085615838b4fd20c8e5e67d858a084d4f70b4f&scene=21#wechat_redirect)和[第三部分](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486295&idx=1&sn=8ca27c119528a898db39e5a224698c26&chksm=a6c767ba91b0eeacb13d2b21f51d0dce1ef027a6ced22fb41cb9d22f0116b0031e9e87693858&scene=21#wechat_redirect)，它们是“压力是什么？”“压力对我们身体的影响”“哪些人更容易受到压力的影响”。）
 
 ### 5、我们怎样将消极的应激变为积极的生活策略？
@@ -38,9 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486302&idx=
 
 ![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)保持个人健康的10个步骤
 
-愿我们，都健康且幸福，且拥有一颗追逐幸福的心。
-
-  
-
-
-↓↓↓欢迎关注
+愿我们，都健康且幸福，且拥有一颗追逐幸福的心。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486302&amp;idx=1&amp;sn=cfd51e593ba216ef28ea4cf998d1aebb&amp;chksm=a6c767b391b0eea54bc3fb2092d723f258e032dacece1cbb84b601415411b8fed1ccaded146f" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 278300052
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486514&idx=1&sn=902c07a9b90ea7e9d257858521f9cf54&chksm=a6c760df91b0e9c94892ad47f58be84488791fedd577c53f795018bf9df2394fa4581f121355
 ---
-
 如果我在半个小时之前开始写今天的日记，那么我的日记，将会是充满能量的。现在呢？兴奋劲已经过去，留下来的，是平静中带些倦意，倦意中藏着满足，满足里有笑意。
 
 为什么会这样呢？
@@ -72,6 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486514&idx=
 
 对的，我一直在前进着。
 
-（记于10月17日晚间临睡前。）
-
-↓↓↓欢迎关注
+（记于10月17日晚间临睡前。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486514&amp;idx=1&amp;sn=902c07a9b90ea7e9d257858521f9cf54&amp;chksm=a6c760df91b0e9c94892ad47f58be84488791fedd577c53f795018bf9df2394fa4581f121355" rel="noopener noreferrer">原文链接</a>）</small>

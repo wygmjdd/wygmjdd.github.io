@@ -5,7 +5,6 @@ weight: 277460059
 primary_category: year-end-summary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486722&idx=1&sn=788f06466ddd688caca571e11819e722&chksm=a6c761ef91b0e8f969d476b9e49da6194bc9e0951d8ece5d698a365eeb9d9bb51005c843c559
 ---
-
 上篇的[链接在这里](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486701&idx=1&sn=36300d05181018a5037f596b9b99b46f&scene=21#wechat_redirect)。
 
 ### 6、和“程序员”相关联的书
@@ -70,6 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486722&idx=
 
 24年内很长一段时间，我有对读书祛魅，我不再想着靠读书荐书来收获流量或是求得虚荣。读书，只是生活中一件很小很小的事情，它跟篮球、游戏一样，只是我的一个小小爱好，然后碰巧，这小小爱好能够帮助我更好地认识自己，认识世界，如此而已。而认识自己，认识世界的办法，还有很多很多。
 
-对了，今年的我发现：即便读书很多，但我依然是我。
-
-↓↓↓欢迎关注
+对了，今年的我发现：即便读书很多，但我依然是我。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486722&amp;idx=1&amp;sn=788f06466ddd688caca571e11819e722&amp;chksm=a6c761ef91b0e8f969d476b9e49da6194bc9e0951d8ece5d698a365eeb9d9bb51005c843c559" rel="noopener noreferrer">原文链接</a>）</small>

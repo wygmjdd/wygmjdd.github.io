@@ -5,7 +5,6 @@ weight: 277080033
 primary_category: 30min-diary
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486781&idx=1&sn=bda9d3c715c53b4c8e77c198a762effb&chksm=a6c761d091b0e8c6a242128e8475546f74af8e9257f952b4ef8e8bb61c8849f70b641313f6ce
 ---
-
 山上大多数人都搬走了，后面整片山山脚人家，只剩我们家与邻居家。人户变少导致的后果是近处的树近处的路都慢慢变得原始，树长得很大，路已不通达。
 
 母亲在家砍柴的方式，由近及远。那些长得比较大的看起来要倒的树，都变成母亲眼中很好的柴，她砍好些柴，摆在近处的山。
@@ -44,6 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486781&idx=
 
 我现在困了，要快快睡觉。
 
-今天的英文口语计划，先跳过吧。对的，自然与非自然之间，我其实又生出过新的不那么强烈的愿望：我也想在村里，建一栋属于自己的房子。
-
-↓↓↓欢迎关注
+今天的英文口语计划，先跳过吧。对的，自然与非自然之间，我其实又生出过新的不那么强烈的愿望：我也想在村里，建一栋属于自己的房子。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486781&amp;idx=1&amp;sn=bda9d3c715c53b4c8e77c198a762effb&amp;chksm=a6c761d091b0e8c6a242128e8475546f74af8e9257f952b4ef8e8bb61c8849f70b641313f6ce" rel="noopener noreferrer">原文链接</a>）</small>

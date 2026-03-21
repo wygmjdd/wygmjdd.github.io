@@ -5,7 +5,6 @@ weight: 278230099
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486549&idx=1&sn=16558f4a529a8e74d7396a7db3649567&chksm=a6c760b891b0e9ae741234ad81314cebc05831d7e6d501b13d4c88e8162dbe8eeb2417b4101e
 ---
-
 三年以前，或许是和聪聪第一次在深圳散步，我们走在一条宽阔人行道上，道路两旁的树很大，大到遮蔽绝大部分阳光，大到仿佛听不见隔壁马路声响。
 
 我们安静聊天，那正是陌生到即将熟悉的分界点。聪聪向我推荐一本书，书名叫《和另一个自己谈谈心》。聪聪说这本书对他影响很大：“我以前抽烟的，还抽的很凶，然后也会很有些焦虑，直到看过这本书，我觉得好像一切都想通了。那之后，我戒烟成功，然后没有活得很焦虑。”
@@ -44,6 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486549&idx=
 
 读完全书，我并没有像聪聪一样，从这本书中收获一种“新生”体验，但我以为，本书值得推荐，正如上面已经说过的，它很适合安静时用心去读，一条条慢慢读。（那些适合自己的，我已做了些摘抄，[在此处](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486544&idx=1&sn=d335fc18cd230d1ebe734145d7031856&chksm=a6c760bd91b0e9ab0ddc3cb7a1e0623e4470c9cf329dac651abbe3d41816c8384986bb1cbcce&scene=21#wechat_redirect)。）
 
-对的，投身于自己热爱的事，不仅是为了追求所谓的“成就”，更是在修炼自己的生命力。
-
-↓↓↓欢迎关注
+对的，投身于自己热爱的事，不仅是为了追求所谓的“成就”，更是在修炼自己的生命力。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486549&amp;idx=1&amp;sn=16558f4a529a8e74d7396a7db3649567&amp;chksm=a6c760b891b0e9ae741234ad81314cebc05831d7e6d501b13d4c88e8162dbe8eeb2417b4101e" rel="noopener noreferrer">原文链接</a>）</small>

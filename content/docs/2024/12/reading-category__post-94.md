@@ -5,7 +5,6 @@ weight: 277670094
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486680&idx=1&sn=13bfb3605608f65651b7199c4706d336&chksm=a6c7603591b0e923cb678edec47a0eb4daae193d387dfd8fb3480bc5447dd88a7122c07b1da4
 ---
-
 《微信读书》对听书并没有很好的记录，所以我并不知道自己是什么时候听完《认知驱动》的，只知道自己花近10小时，是确确实实听完了这本书的。
 
 另一个很肯定的点是，在听《认知驱动》过程中，我是很认真的，听书时要么独自走路，要么安静做着午饭，我认为听书当时，我的心思，除开那些需要想一想下一步如何做的时刻，剩下的，都在听书上面。
@@ -49,6 +48,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486680&idx=
 
 对的，这就跟津巴多教授给予我的认知关联起来。《认知驱动》肯定是有用的，在一些特定的时刻；但同时，请尝试认清自己，选择适合自己的帽子。“选择适合自己的帽子”也像鸡汤，它是《宝贵的人生建议》作者凯文·凯利68岁时写给他子女的。
 
-为什么不愿意相信呢？这是发生在我身上的一种现象，我先将它记下来。
-
-↓↓↓欢迎关注
+为什么不愿意相信呢？这是发生在我身上的一种现象，我先将它记下来。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486680&amp;idx=1&amp;sn=13bfb3605608f65651b7199c4706d336&amp;chksm=a6c7603591b0e923cb678edec47a0eb4daae193d387dfd8fb3480bc5447dd88a7122c07b1da4" rel="noopener noreferrer">原文链接</a>）</small>

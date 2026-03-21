@@ -5,7 +5,6 @@ weight: 275570082
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487041&idx=1&sn=73f32f2ff37e643ca45ec7e228aeef61&chksm=a6c762ac91b0ebba9e5038a09e6e7521e02fcd4bbfa1393bf9136c7a586c691a461c86c5aa6f
 ---
-
 《长安的荔枝》，是一本微信神作（神作是那些大家读完都推荐的书），我已经在好多地方看过好多次，它被我早早加入书架，但一直不看。
 
 上个周末，不知是怎样缘由——是的，我又想不起来缘由——将《长安的荔枝》重新翻开看看，一看便看完。（检查时刻有想起来，原因之一可能是最近工作很忙费心力很多，那些空闲时间便只想看些简单故事。昨天周六，需要开车出行，我不愿开车，将司机角色让给阿妮阿江，自己专坐副驾，再看《神雕英雄传》5小时。）
@@ -52,6 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487041&idx=
 
 \--
 
-看完本书不久，和同事一起下班，我们之间，又多出一点谈资：“我觉得主角最后到岭南种荔枝这结局，很不错啊，刚好避开安禄山起兵。丹荔没吃过，但肯定好吃的。”
-
-↓↓↓欢迎关注
+看完本书不久，和同事一起下班，我们之间，又多出一点谈资：“我觉得主角最后到岭南种荔枝这结局，很不错啊，刚好避开安禄山起兵。丹荔没吃过，但肯定好吃的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487041&amp;idx=1&amp;sn=73f32f2ff37e643ca45ec7e228aeef61&amp;chksm=a6c762ac91b0ebba9e5038a09e6e7521e02fcd4bbfa1393bf9136c7a586c691a461c86c5aa6f" rel="noopener noreferrer">原文链接</a>）</small>

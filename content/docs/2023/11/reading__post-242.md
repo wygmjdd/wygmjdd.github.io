@@ -5,7 +5,6 @@ weight: 281640242
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485825&idx=1&sn=541535178af3c04215df90159c8d8e22&chksm=a6c7656c91b0ec7adef0fa2429fbd03467c9aaf983b40b1b5b88334038aaf2fe9e91f747bdf7
 ---
-
 人民文学出版社出版的《鲁迅全集（全十八卷）》一共424万字，我花48小时刚读到书中第五分之一处。
 
 读书过程中，收集了许多鲁迅先生说的金句。特汇集此处以供自己不时查阅（当然，也期望被更多人看见），改变自己的精神，使得自己少些麻木。
@@ -66,6 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485825&idx=
 > 
 > 但我常看外国的批评文章，因为他于我没有恩怨嫉恨，虽然所评的是别人的作品，却很有可以借镜之处。但自然，我也同时一定留心这批评家的派别。（《南腔北调集》《我怎么做起小说来》）
 
-鲁迅先生写过的金句有许多，于是此篇只是摘抄的第一篇。
-
-↓↓↓欢迎关注
+鲁迅先生写过的金句有许多，于是此篇只是摘抄的第一篇。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485825&amp;idx=1&amp;sn=541535178af3c04215df90159c8d8e22&amp;chksm=a6c7656c91b0ec7adef0fa2429fbd03467c9aaf983b40b1b5b88334038aaf2fe9e91f747bdf7" rel="noopener noreferrer">原文链接</a>）</small>

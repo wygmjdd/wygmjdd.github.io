@@ -5,7 +5,6 @@ weight: 280680118
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486021&idx=1&sn=61c0f3f887827445d3cd39b005e3169f&chksm=a6c766a891b0efbef419a1e70823d6a9db7150b9ca61154237db8d91d7aa94a717f805fed473
 ---
-
 转眼使用Git已经两年半时间。
 
 刚学会`git add`、`git commit`、`git push`三件套时，整理过[一篇新手期记录](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484280&idx=2&sn=feb9b4a6cae75a420b03138cc25a34b0&chksm=a6c76f9591b0e6837f9fe7206b1337d1f0b31ad7ff769b9356ac5286dc1cc925f88547612b03&scene=21#wechat_redirect)，现在距离当时已经又过去两年，我对Git的理解更多些了么？
@@ -205,9 +204,4 @@ Git可以借由`git reflog`、`git fsck --full`来恢复误删掉的提交，将
 
 《Pro Git》是一本很专业的工具书，书中讲述了Git的许多内容。读完本书，我感觉到自己对Git的使用，是依旧生疏的。想要对Git懂更多些，且继续用下去。
 
-读完本书，我本地的某些测试文件，也将用Git管理（只需要在目录下执行`git init`就可以使用`add`和`commit`啦）。至于是否push到远端，并不重要的，我本地能看到代码或文字的变化过程便好。
-
-  
-
-
-↓↓↓欢迎关注
+读完本书，我本地的某些测试文件，也将用Git管理（只需要在目录下执行`git init`就可以使用`add`和`commit`啦）。至于是否push到远端，并不重要的，我本地能看到代码或文字的变化过程便好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486021&amp;idx=1&amp;sn=61c0f3f887827445d3cd39b005e3169f&amp;chksm=a6c766a891b0efbef419a1e70823d6a9db7150b9ca61154237db8d91d7aa94a717f805fed473" rel="noopener noreferrer">原文链接</a>）</small>

@@ -5,7 +5,6 @@ weight: 280740119
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486001&idx=1&sn=c59eec9ba51434733d48dd3140c1fbbe&chksm=a6c766dc91b0efcaea96f9d4920c7d01da3ce0b6f652392db3bd8a00147ad12b8b1bbe5abba5
 ---
-
 作为软件工程专业学生，刚进大学的第一堂编程课，是在Microsoft Visual C++ 6.0中用C++打印出“Hello World”：点一下屏幕上方的三角形按钮开始调试，程序无错便在屏幕最上层弹出一个黑框，黑框里的第一行文字，是“Hello World”。
 
 待工作之后，发现编译调试C++程序，不在Windows环境下也可以，只需要在Linux系统中输入两行指令：
@@ -96,6 +95,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486001&idx=
 
 本书的推荐语为：“《C/C++代码调试的艺术》是一本关于C/C++调试的‘百科全书’，关于C/C++调试的方方面面，书中都有详细讲解。
 
-“如果您的工作中经常使用C/C++调试，是可以借助本书于脑中形成一个关于调试的全面目录，然后将书常备案头待需要时再随手翻阅的。”
-
-↓↓↓欢迎关注
+“如果您的工作中经常使用C/C++调试，是可以借助本书于脑中形成一个关于调试的全面目录，然后将书常备案头待需要时再随手翻阅的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486001&amp;idx=1&amp;sn=c59eec9ba51434733d48dd3140c1fbbe&amp;chksm=a6c766dc91b0efcaea96f9d4920c7d01da3ce0b6f652392db3bd8a00147ad12b8b1bbe5abba5" rel="noopener noreferrer">原文链接</a>）</small>

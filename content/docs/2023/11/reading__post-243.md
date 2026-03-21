@@ -5,7 +5,6 @@ weight: 281650243
 primary_category: reading
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485819&idx=1&sn=250878b3459f96712fce3635d2b8772b&chksm=a6c7659691b0ec8059fe9e937d37e770f820b25db2d8060028e192ecccbcdb80bd0a5e216c0c
 ---
-
 摘抄的“[《蛤蟆先生去看心理医生》中的金句](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485723&idx=1&sn=948de0b9811660a82272e57c1218834d&chksm=a6c765f691b0ece0ac326f0cc2003758f2b6afb5cbea91978a15e3b37081fd82909717903736&scene=21#wechat_redirect)”莫名火起来，便决定将此前看过的那些很想要分享的句子都整理汇集到一起，发表但不通知（“发表不通知”是公众号的新调整，代表关注者不会收到推送消息而被打扰，然后可以选择从公众号主页上看到文章）。
 
 想要分享的那些句子，来自于很想推荐的书。2023年读完书籍中，我最推荐书籍之一是《[也许你该找个人聊聊](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485461&idx=1&sn=2362318a3001ee1526ef69204cfd5526&chksm=a6c764f891b0edee6b2b4cc84f9a53cf17d5f2bfb3029eb7d3f6d481b3570b3b20f367f214cb&scene=21#wechat_redirect)》，这是一本很真诚很治愈的书。
@@ -50,6 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485819&idx=
 
 > 如果你要分享一个让人难以接受的真相，那就意味着你需要面对这个真相，但同时你也将获得一项回报，那就是自由。真相能把我们从羞愧中解放出来。
 
-> 有时我们渴望别人原谅，只是为了自我满足；我们祈求别人的原谅，只是为了避免要自己原谅自己，因为自我原谅更难做到。
-
-↓↓↓欢迎关注
+> 有时我们渴望别人原谅，只是为了自我满足；我们祈求别人的原谅，只是为了避免要自己原谅自己，因为自我原谅更难做到。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485819&amp;idx=1&amp;sn=250878b3459f96712fce3635d2b8772b&amp;chksm=a6c7659691b0ec8059fe9e937d37e770f820b25db2d8060028e192ecccbcdb80bd0a5e216c0c" rel="noopener noreferrer">原文链接</a>）</small>

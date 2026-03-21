@@ -5,7 +5,6 @@ weight: 283970157
 primary_category: reading-category
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485461&idx=1&sn=2362318a3001ee1526ef69204cfd5526&chksm=a6c764f891b0edee6b2b4cc84f9a53cf17d5f2bfb3029eb7d3f6d481b3570b3b20f367f214cb
 ---
-
 汪曾祺先生说看书可以由着自己的喜好：不喜欢就放下不看，喜欢便一鼓作气看下去。
 
 显然，《也许你该找个人聊聊》是我所喜欢的，从3月上旬将它加入书架以来，每天看它的时长从9分钟涨到22分钟再涨到40分钟，连续阅读16天后于今天读到结尾。
@@ -72,6 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485461&idx=
 
 ### 附：
 
-1、作者的TED对书中内容做了总结：https://www.ted.com/talks/lori_gottlieb_how_changing_your_story_can_change_your_life
-
-↓↓↓欢迎关注
+1、作者的TED对书中内容做了总结：https://www.ted.com/talks/lori_gottlieb_how_changing_your_story_can_change_your_life <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485461&amp;idx=1&amp;sn=2362318a3001ee1526ef69204cfd5526&amp;chksm=a6c764f891b0edee6b2b4cc84f9a53cf17d5f2bfb3029eb7d3f6d481b3570b3b20f367f214cb" rel="noopener noreferrer">原文链接</a>）</small>
