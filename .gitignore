@@ -7,3 +7,4 @@ __pycache__/
 .hugo_build.lock
 /_vendor/
 /_archive/
+.DS_Store

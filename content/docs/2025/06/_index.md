@@ -1,5 +1,5 @@
 ---
-title: 2025年6月
+title: 06月
 weight: 94
 ---
 

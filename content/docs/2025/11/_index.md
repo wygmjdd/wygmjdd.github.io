@@ -1,5 +1,5 @@
 ---
-title: 2025年11月
+title: 11月
 weight: 89
 ---
 

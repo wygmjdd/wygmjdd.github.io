@@ -1,15 +1,18 @@
 {{/*
   Do not use class "book-toc" here: the theme sets .book-toc { display: none } on
   mobile, which would hide this block inside the header TOC drawer as well.
+
+  Category labels and order: data/categories.yml (list of slug / title).
 */}}
+{{ with site.Data.categories }}
 <div class="book-toc-custom" style="margin-bottom: 1rem;">
   <p class="book-toc-title" style="margin: 0 0 0.5rem; font-weight: 600;">分类入口</p>
-  <ul style="margin: 0; padding-left: 1rem;">
-    <li>
-      <a href="{{ "/docs/hubs/reading-category/" | relLangURL }}">阅读书目</a>
-    </li>
-    <li>
-      <a href="{{ "/docs/hubs/year-end-summary/" | relLangURL }}">年终总结</a>
-    </li>
+  <ul>
+    {{ range . }}
+      <li>
+        <a href="{{ printf "/docs/hubs/%s/" .slug | relLangURL }}">{{ .title }}</a>
+      </li>
+    {{ end }}
   </ul>
 </div>
+{{ end }}

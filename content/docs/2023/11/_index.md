@@ -1,5 +1,5 @@
 ---
-title: 2023年11月
+title: 11月
 weight: 89
 ---
 

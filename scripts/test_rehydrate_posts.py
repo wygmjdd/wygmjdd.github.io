@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-from rehydrate_posts import read_front_matter, write_rehydrated_post
+from rehydrate_posts import dedupe_skipped_log_on_disk, read_front_matter, write_rehydrated_post
 
 
 def test_read_front_matter_parses_source_url_and_categories(tmp_path: Path):
@@ -16,6 +16,24 @@ def test_read_front_matter_parses_source_url_and_categories(tmp_path: Path):
     fm = read_front_matter(p)
     assert fm.source_url == "https://mp.weixin.qq.com/s?x=1"
     assert fm.categories == ["cat-a", "cat-b"]
+
+
+def test_dedupe_skipped_log_merges_same_url(tmp_path: Path):
+    log = tmp_path / "skipped.yml"
+    log.write_text(
+        "- path: a.md\n"
+        "  source_url: http://x?s=1&amp;b=2\n"
+        "  reason: short\n"
+        "- path: b.md\n"
+        "  source_url: http://x?s=1&b=2\n"
+        "  reason: longer reason wins here\n",
+        encoding="utf-8",
+    )
+    n = dedupe_skipped_log_on_disk(log)
+    assert n == 1
+    text = log.read_text(encoding="utf-8")
+    assert text.count("source_url:") == 1
+    assert "longer reason wins" in text
 
 
 def test_write_rehydrated_post_keeps_categories_and_source_url(tmp_path: Path):

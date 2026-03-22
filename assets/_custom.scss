@@ -14,9 +14,35 @@
   color: var(--gray-500);
 }
 
-/* Match theme TOC column typography; safe now that this block is not .book-toc (mobile display:none). */
+/* Match sidebar subtitle scale; was --font-size-smallest and felt too small in the TOC column. */
 .book-toc-custom {
-  font-size: var(--font-size-smallest);
+  font-size: var(--font-size-smaller);
+  line-height: 1.45;
+}
+
+.book-toc-custom .book-toc-title {
+  font-size: 1em;
+}
+
+.book-toc-custom ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+/*
+ * Left archive menu: stronger hierarchy (year > month > post). Scoped to .book-menu-filetree
+ * wrapper in layouts/partials/docs/menu-filetree.html.
+ */
+.book-menu-filetree > ul > li > label a {
+  font-weight: 600;
+}
+
+.book-menu-filetree > ul > li > ul > li > a {
+  font-weight: 500;
+}
+
+.book-menu-filetree > ul > li > ul > li > ul > li > a {
+  font-weight: var(--body-font-weight);
 }
 
 /*

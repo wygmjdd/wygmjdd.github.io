@@ -1,5 +1,5 @@
 ---
-title: 2023年8月
+title: 08月
 weight: 92
 ---
 

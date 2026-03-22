@@ -10,7 +10,7 @@ def test_slug_from_album_uses_pinyin_when_slug_is_none():
 
 
 def test_slug_from_album_uses_provided_slug():
-    assert slug_from_album("年终总结", "year-end-summary") == "year-end-summary"
+    assert slug_from_album("总结", "summary") == "summary"
 
 
 def test_slug_from_album_uses_provided_slug_when_name_is_chinese():

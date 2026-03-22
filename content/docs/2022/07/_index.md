@@ -1,5 +1,5 @@
 ---
-title: 2022年7月
+title: 07月
 weight: 93
 ---
 

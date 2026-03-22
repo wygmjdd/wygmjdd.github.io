@@ -15,7 +15,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486182&idx=
 
 《活出生命的意义》是一本小书，阅读《津巴多普通心理学》是我近一年每天都会做的事情。于是《活出生命的意义》，我在最近的5天内花4小时读完。读完当天，我给自己的任务是“一鼓作气完成本书的读书笔记”，于是有了本篇。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)今天的午饭，春笋香菇洋芋块块炖腊排骨、腌黄瓜、昨天剩下的豆皮炒早上剩下的菜心
+![图片](/images/wechat/1fff985575d1/001.jpg)今天的午饭，春笋香菇洋芋块块炖腊排骨、腌黄瓜、昨天剩下的豆皮炒早上剩下的菜心
 
 吃过午饭，收拾碗筷之前，我在饭桌上向阿妮分享了刚读完的这本书。
 
@@ -39,7 +39,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486182&idx=
 
 “先不说啦，我先洗碗了，洗完碗我到篮球场去晒晒太阳哦。”
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate\(-249.000000, -126.000000\)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)当天的晚餐，有点辣的土豆胡萝卜青瓜西红柿火腿鸡蛋红椒炒土豆粉
+![图片](/images/wechat/1fff985575d1/002.jpg)当天的晚餐，有点辣的土豆胡萝卜青瓜西红柿火腿鸡蛋红椒炒土豆粉
 
 到球场晒过太阳回到家，炒一份自己很喜欢吃的粉，再坐在电脑前两小时，输出的内容如上。
 

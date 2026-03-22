@@ -1,5 +1,5 @@
 ---
-title: 2024年10月
+title: 10月
 weight: 90
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 2024年12月
+title: 12月
 weight: 88
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 2022年5月
+title: 05月
 weight: 95
 ---
 

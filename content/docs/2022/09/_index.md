@@ -1,5 +1,5 @@
 ---
-title: 2022年9月
+title: 09月
 weight: 91
 ---
 

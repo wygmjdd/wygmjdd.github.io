@@ -1,5 +1,5 @@
 ---
-title: 2025年4月
+title: 04月
 weight: 96
 ---
 

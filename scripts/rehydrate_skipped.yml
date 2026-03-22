@@ -1,12 +1,10 @@
-- path: /Users/ljj/learn/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-07-01-post-2.md
-  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487569&amp;idx=1&amp;sn=9e690fe2267c8eb72c591db095d4e829&amp;chksm=a6c77cbc91b0f5aa8d56e566a000266ac33ef87952217d32d31e44a83671a9444ef6d66e1eb3
-  reason: 'fetch_error: Empty title/body after fetch.'
-- path: /Users/ljj/learn/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-07-01-post-2.md
-  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487569&amp;idx=1&amp;sn=9e690fe2267c8eb72c591db095d4e829&amp;chksm=a6c77cbc91b0f5aa8d56e566a000266ac33ef87952217d32d31e44a83671a9444ef6d66e1eb3
-  reason: 'fetch_error: Empty title/body after fetch.'
-- path: /Users/ljj/learn/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-07-01-post-2.md
+- path: _archive/legacy-jekyll/_posts/2033-07-01-post-2.md
   source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487569&idx=1&sn=9e690fe2267c8eb72c591db095d4e829&chksm=a6c77cbc91b0f5aa8d56e566a000266ac33ef87952217d32d31e44a83671a9444ef6d66e1eb3
-  reason: 'fetch_error: Empty title/body after fetch.'
+  reason: "fetch_error: WeChat page needs JavaScript to render content. Request with\
+    \ browser failed: Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n\
+    \  - waiting for locator(\"#js_content\") to be visible\n    - waiting for\" https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HMZTv2mjdWnBxYti2uD4f7tZf9w2qhlE2iQj-3o8&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247487569%26i…\"\
+    \ navigation to finish...\n    - navigated to \"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HMZTv2mjdWnBxYti2uD4f7tZf9w2qhlE2iQj-3o8&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247487569%26i…\"\
+    \n. Install Playwright browsers: pip install playwright && playwright install"
 - path: _archive/legacy-jekyll/_posts/2033-07-01-post-124.md
   source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485918&idx=1&sn=6e7c2dd44d6e8442e1d9dd5850017899&chksm=a6c7653391b0ec253aec45df705ce60192351ab762992009455c8dae12f7d917b31c411f39e1
   reason: "fetch_error: WeChat page needs JavaScript to render content. Request with\
@@ -20,4 +18,31 @@
     \ browser failed: Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n\
     \  - waiting for locator(\"#js_content\") to be visible\n    - waiting for\" https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483913&idx=1&sn=545b24948cea931dd779196f36309d00&chksm=a6c76ee491b0e7f2e294554ff6bde5ab61facca67ac1cff4e2cb14327da492b83384a69e5ce9&poc_token…\"\
     \ navigation to finish...\n    - navigated to \"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGlOuWmjc1oUlIPLn03_a8AIBnyixihcpuUhAq2H&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247483913%26i…\"\
+    \n. Install Playwright browsers: pip install playwright && playwright install"
+- path: _archive/legacy-jekyll/_posts/2033-01-01-post-1b41405d76.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486584&idx=1&sn=87d378fb312f724d3cb1889063dd4687&chksm=a6c7609591b0e983792a0e786b84f283eca6e4451c69076680ed32ac6b01882628721ab512f5
+  reason: "fetch_error: WeChat page needs JavaScript to render content. Request with\
+    \ browser failed: Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n\
+    \  - waiting for locator(\"#js_content\") to be visible\n. Install Playwright\
+    \ browsers: pip install playwright && playwright install"
+- path: _archive/legacy-jekyll/_posts/2033-01-01-post-5bed061d69.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484063&idx=1&sn=cb5cb505d60a3323405d1fe5e9a8f986&chksm=a6c76e7291b0e76426529d3c72b9cac4f3eb9c1eb13b22f2b155e00ed78f7f0950f03ce89042
+  reason: "fetch_error: WeChat page needs JavaScript to render content. Request with\
+    \ browser failed: Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n\
+    \  - waiting for locator(\"#js_content\") to be visible\n    - waiting for\" https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484063&idx=1&sn=cb5cb505d60a3323405d1fe5e9a8f986&chksm=a6c76e7291b0e76426529d3c72b9cac4f3eb9c1eb13b22f2b155e00ed78f7f0950f03ce89042&poc_token…\"\
+    \ navigation to finish...\n    - navigated to \"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCpCv2mjfecxd36ASmhoRnJ9mesamTbn1Xnkcywg&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247484063%26i…\"\
+    \n. Install Playwright browsers: pip install playwright && playwright install"
+- path: _archive/legacy-jekyll/_posts/2033-01-01-post-7333ae8343.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485209&idx=1&sn=757ed51a397ab95b328f4c36c74b3f5f&chksm=a6c76bf491b0e2e22a01187a1dc78928a5264cca3dacab5bd50a8f3450d1a403ed41e1d7ca7c
+  reason: "fetch_error: WeChat page needs JavaScript to render content. Request with\
+    \ browser failed: Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n\
+    \  - waiting for locator(\"#js_content\") to be visible\n    - waiting for\" https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485209&idx=1&sn=757ed51a397ab95b328f4c36c74b3f5f&chksm=a6c76bf491b0e2e22a01187a1dc78928a5264cca3dacab5bd50a8f3450d1a403ed41e1d7ca7c&poc_token…\"\
+    \ navigation to finish...\n    - navigated to \"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HNxEv2mjeyhT3sJ1FcJvAovUstaolO4wr7oIWpDl&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247485209%26i…\"\
+    \n. Install Playwright browsers: pip install playwright && playwright install"
+- path: _archive/legacy-jekyll/_posts/2033-01-01-post-73eb60ca31.md
+  source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485376&idx=1&sn=73a55563bfc591b9c5fc819eaa607dd4&chksm=a6c76b2d91b0e23b7a40a1ae43a2a7ccf952dc4b1bb186b6c1ed234ef7dfbad856c317ed979d
+  reason: "fetch_error: WeChat page needs JavaScript to render content. Request with\
+    \ browser failed: Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n\
+    \  - waiting for locator(\"#js_content\") to be visible\n    - waiting for\" https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HAdFv2mj5Zl6AnDSss3AdYqMnBNTKPpYBfaDnIcq&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247485376%26i…\"\
+    \ navigation to finish...\n    - navigated to \"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HAdFv2mj5Zl6AnDSss3AdYqMnBNTKPpYBfaDnIcq&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247485376%26i…\"\
     \n. Install Playwright browsers: pip install playwright && playwright install"

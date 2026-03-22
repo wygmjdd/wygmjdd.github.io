@@ -2,14 +2,14 @@
 """Migrate Jekyll-style posts into Hugo hugo-book content/docs tree.
 
 Reads posts from ``_archive/legacy-jekyll/_rehydrated_posts`` (or ``_posts`` fallback)
-and categories from ``scripts/data/categories.yml``. Override source dir with env
+and categories from ``data/categories.yml``. Override source dir with env
 ``WYGMJDD_POSTS_DIR`` if needed.
 
 Output layout (newest year/month first via weight):
 
     content/docs/
       _index.md
-      hubs/{slug}.md   # optional hub pages (reading-category, year-end-summary)
+      hubs/{slug}.md   # hub pages per data/categories.yml (bookHidden)
       {YYYY}/_index.md
       {YYYY}/{MM}/_index.md
       {YYYY}/{MM}/{category}__{slug}.md
@@ -29,23 +29,18 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 LEGACY_JEKYLL = ROOT / "_archive" / "legacy-jekyll"
-CATEGORIES_FILE = ROOT / "scripts" / "data" / "categories.yml"
+CATEGORIES_FILE = ROOT / "data" / "categories.yml"
 OUT_DOCS = ROOT / "content" / "docs"
 REHYDRATED_DIR = LEGACY_JEKYLL / "_rehydrated_posts"
 LEGACY_POSTS_DIR = LEGACY_JEKYLL / "_posts"
 
 CATEGORY_ALIASES: dict[str, str] = {
     "yuedushumu": "reading-category",
+    "year-end-summary": "summary",
 }
 
 FALLBACK_CATEGORY = "uncategorized"
 FALLBACK_TITLE = "未分类"
-
-# Hub pages (bookHidden): linked from ToC inject; list posts by primary_category.
-TOC_HUB_SLUGS: tuple[tuple[str, str], ...] = (
-    ("reading-category", "阅读书目"),
-    ("year-end-summary", "年终总结"),
-)
 
 # Ascending Hugo weight = earlier in menu; use high anchor so newer dates sort first.
 _YEAR_WEIGHT_BASE = 4000
@@ -135,14 +130,27 @@ def output_slug_and_revision(filename: str) -> tuple[str, int]:
 
 def load_category_titles() -> dict[str, str]:
     raw = yaml.safe_load(CATEGORIES_FILE.read_text(encoding="utf-8"))
-    if not isinstance(raw, dict):
-        raise ValueError("categories.yml must be a mapping")
     titles: dict[str, str] = {}
-    for key, value in raw.items():
-        if not isinstance(key, str) or not isinstance(value, str):
-            continue
-        titles[key.strip()] = value.strip()
-    return titles
+    if isinstance(raw, list):
+        for item in raw:
+            if not isinstance(item, dict):
+                continue
+            slug = item.get("slug")
+            title = item.get("title")
+            if isinstance(slug, str) and isinstance(title, str):
+                titles[slug.strip()] = title.strip()
+        if not titles:
+            raise ValueError("categories.yml list must contain {slug, title} entries")
+        return titles
+    if isinstance(raw, dict):
+        for key, value in raw.items():
+            if not isinstance(key, str) or not isinstance(value, str):
+                continue
+            titles[key.strip()] = value.strip()
+        if not titles:
+            raise ValueError("categories.yml mapping must be non-empty")
+        return titles
+    raise ValueError("categories.yml must be a list of {slug, title} or a mapping")
 
 
 def normalize_category_slug(raw: str) -> str:
@@ -225,7 +233,7 @@ def write_toc_hub_pages() -> None:
     """Hidden index pages used by layouts/partials/docs/inject/toc-before.html."""
     hubs = OUT_DOCS / "hubs"
     hubs.mkdir(parents=True, exist_ok=True)
-    for cat_slug, title in TOC_HUB_SLUGS:
+    for cat_slug, title in load_category_titles().items():
         meta: dict[str, Any] = {
             "title": title,
             "list_category": cat_slug,
@@ -335,7 +343,7 @@ def main() -> None:
             month_weight = 100 - month
             write_index(
                 OUT_DOCS / f"{year:04d}" / f"{month:02d}" / "_index.md",
-                f"{year}年{month}月",
+                f"{month:02d}月",
                 month_weight,
             )
 
