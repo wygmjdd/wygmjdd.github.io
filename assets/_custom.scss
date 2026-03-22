@@ -30,6 +30,30 @@
 }
 
 /*
+ * WeChat-import lines like ![图片](url)Caption → scripts/postprocess_image_captions.py
+ * emits <figure class="figure-with-caption">…</figure> (Goldmark unsafe).
+ */
+.markdown .figure-with-caption {
+  margin: 1.25rem 0;
+  text-align: center;
+}
+
+.markdown .figure-with-caption img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+
+.markdown .figure-with-caption figcaption {
+  margin-top: 0.45rem;
+  font-size: var(--font-size-smaller);
+  color: var(--gray-500);
+  text-align: center;
+  line-height: 1.45;
+}
+
+/*
  * Left archive menu: stronger hierarchy (year > month > post). Scoped to .book-menu-filetree
  * wrapper in layouts/partials/docs/menu-filetree.html.
  */

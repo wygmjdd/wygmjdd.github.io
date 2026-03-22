@@ -5,6 +5,10 @@ Reads posts from ``_archive/legacy-jekyll/_rehydrated_posts`` (or ``_posts`` fal
 and categories from ``data/categories.yml``. Override source dir with env
 ``WYGMJDD_POSTS_DIR`` if needed.
 
+Posts that share the same canonical ``source_url`` (after HTML unescape and stripping
+``#fragment``) collapse to a single output page; the winner uses the same tie-break
+as before (higher filename revision, then longer body).
+
 Output layout (newest year/month first via weight):
 
     content/docs/
@@ -17,6 +21,7 @@ Output layout (newest year/month first via weight):
 
 from __future__ import annotations
 
+import html
 import os
 import re
 import shutil
@@ -54,6 +59,30 @@ POST_NUM_RE = re.compile(r"post-(\d+)", re.IGNORECASE)
 STEM_WITH_DATE_PREFIX_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(.+)$")
 
 
+def canonical_source_url(url: str) -> str:
+    """Match migrate.py / rehydrate_posts: stable key for WeChat article URLs."""
+    return html.unescape(url.strip()).split("#", 1)[0]
+
+
+def is_better_candidate(
+    rev: int,
+    body_len: int,
+    path_name: str,
+    prev_rev: int,
+    prev_len: int,
+    prev_path: str,
+) -> bool:
+    if rev > prev_rev:
+        return True
+    if rev < prev_rev:
+        return False
+    if body_len > prev_len:
+        return True
+    if body_len < prev_len:
+        return False
+    return False
+
+
 class MarkdownPost:
     """YAML front matter + Markdown body (no external frontmatter parser)."""
 
@@ -65,6 +94,10 @@ class MarkdownPost:
 
     def get(self, key: str, default: Any = None) -> Any:
         return self.metadata.get(key, default)
+
+
+# revision, body_len, post, path_name, category, out_slug — pick best duplicate
+CandidateRow = tuple[int, int, MarkdownPost, str, str, str]
 
 
 def parse_frontmatter_markdown(text: str) -> MarkdownPost:
@@ -257,11 +290,10 @@ def main() -> None:
     OUT_DOCS.mkdir(parents=True, exist_ok=True)
 
     category_titles = load_category_titles()
-    original_cat_order = list(category_titles.keys())
     allowed_roots = set(category_titles.keys()) | {FALLBACK_CATEGORY}
 
-    candidates: dict[tuple[str, str], tuple[int, int, MarkdownPost, str]] = {}
-    # key (category, out_slug) -> (revision, body_len, post, path_name)
+    by_source_url: dict[str, CandidateRow] = {}
+    by_category_slug: dict[tuple[str, str], CandidateRow] = {}
 
     if not posts_dir.is_dir():
         raise FileNotFoundError(f"Missing posts directory: {posts_dir}")
@@ -280,17 +312,42 @@ def main() -> None:
             revision = 0
 
         body_len = len(post.content.strip())
+        row: CandidateRow = (revision, body_len, post, path.name, category, out_slug)
+
+        su_raw = post.get("source_url")
+        if isinstance(su_raw, str) and su_raw.strip():
+            ukey = canonical_source_url(su_raw)
+            prev = by_source_url.get(ukey)
+            if prev is None or is_better_candidate(
+                revision, body_len, path.name, prev[0], prev[1], prev[3]
+            ):
+                by_source_url[ukey] = row
+        else:
+            sk = (category, out_slug)
+            prev = by_category_slug.get(sk)
+            if prev is None or is_better_candidate(
+                revision, body_len, path.name, prev[0], prev[1], prev[3]
+            ):
+                by_category_slug[sk] = row
+
+    merged: list[CandidateRow] = list(by_source_url.values()) + list(
+        by_category_slug.values()
+    )
+
+    candidates: dict[tuple[str, str], CandidateRow] = {}
+    for row in merged:
+        _, _, _, src_name, category, out_slug = row
         key = (category, out_slug)
         prev = candidates.get(key)
-        if prev is None or revision > prev[0] or (
-            revision == prev[0] and body_len > prev[1]
+        if prev is None or is_better_candidate(
+            row[0], row[1], row[3], prev[0], prev[1], prev[3]
         ):
-            candidates[key] = (revision, body_len, post, path.name)
+            candidates[key] = row
 
     seen_years: set[int] = set()
     seen_year_month: set[tuple[int, int]] = set()
 
-    for (category, out_slug), (_, _, post, src_name) in sorted(candidates.items()):
+    for (category, out_slug), (_, _, post, src_name, _, _) in sorted(candidates.items()):
         year, month, day = parse_date(post, src_name)
         date_iso = f"{year:04d}-{month:02d}-{day:02d}"
         title = title_for_post(post, out_slug)
