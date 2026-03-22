@@ -1,3 +1,7 @@
+- slug: reading-category
+  title: 阅读书目
+- slug: summary
+  title: 总结
 - slug: 30min-diary
   title: 30分钟日记
 - slug: book-quotes-sharing
@@ -12,14 +16,10 @@
   title: 结婚这件事
 - slug: reading
   title: 读书
-- slug: reading-category
-  title: 阅读书目
 - slug: shenzhen
   title: 深圳
 - slug: subway-diary
   title: 地铁日记
-- slug: summary
-  title: 总结
 - slug: technical-blog
   title: 技术博客
 - slug: workplace-experience

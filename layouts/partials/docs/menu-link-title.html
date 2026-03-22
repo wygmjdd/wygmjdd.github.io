@@ -1,0 +1,18 @@
+{{- with .Params.BookIcon -}}
+  <img src="{{ partial "docs/icon" . }}" class="book-icon" alt="{{ partial "docs/text/i18n" . }}" />
+{{- end -}}
+{{- if .IsSection -}}
+  {{- $dir := strings.TrimSuffix "/" .File.Dir -}}
+  {{- if or (findRE `^docs/[0-9]{4}$` $dir) (findRE `^docs/[0-9]{4}/[0-9]{2}$` $dir) -}}
+    {{- $pages := where .RegularPagesRecursive "Params.bookHidden" "ne" true -}}
+    {{- $pages = where $pages "Draft" "ne" true -}}
+    <span class="menu-link-label">
+      {{- partial "docs/title" . -}}
+      <span class="menu-entry-count">（{{ len $pages }}）</span>
+    </span>
+  {{- else -}}
+    {{- partial "docs/title" . -}}
+  {{- end -}}
+{{- else -}}
+  {{- partial "docs/title" . -}}
+{{- end -}}

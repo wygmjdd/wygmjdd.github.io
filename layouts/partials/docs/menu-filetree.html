@@ -10,52 +10,86 @@
 {{ end }}
 
 {{ define "book-section-children" }}{{/* (dict "Section" .Section "CurrentPage" .CurrentPage) */}}
+  {{ $sec := .Section }}
+  {{ $cur := .CurrentPage }}
+  {{ $secDir := strings.TrimSuffix "/" $sec.File.Dir }}
+  {{ $menuMaxM := 0 }}
+  {{ $menuAnyMA := false }}
+  {{ if findRE `^docs/[0-9]{4}$` $secDir }}
+    {{ $sc := newScratch }}
+    {{ $sc.Set "maxM" 0 }}
+    {{ $sc.Set "anyMA" false }}
+    {{ range (where $sec.Pages "Params.bookHidden" "ne" true) }}
+      {{ if .IsSection }}
+        {{ $sd := strings.TrimSuffix "/" .File.Dir }}
+        {{ if findRE `^docs/[0-9]{4}/[0-9]{2}$` $sd }}
+          {{/* int("09") fails (octal); strip leading zeros then parse base-10 */}}
+          {{ $mStr := strings.TrimLeft "0" (path.Base $sd) }}
+          {{ if eq $mStr "" }}{{ $mStr = "0" }}{{ end }}
+          {{ $mm := int $mStr }}
+          {{ if gt $mm ($sc.Get "maxM") }}{{ $sc.Set "maxM" $mm }}{{ end }}
+          {{ if .IsAncestor $cur }}{{ $sc.Set "anyMA" true }}{{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $menuMaxM = int ($sc.Get "maxM") }}
+    {{ $menuAnyMA = $sc.Get "anyMA" }}
+  {{ end }}
   <ul>
-    {{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}
+    {{ range (where $sec.Pages "Params.bookHidden" "ne" true) }}
       {{ if .IsSection }}
         <li {{- if .Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
-          {{ template "book-page-link" (dict "Page" . "CurrentPage" $.CurrentPage) }}
-          {{ template "book-section-children" (dict "Section" . "CurrentPage" $.CurrentPage) }}
+          {{ template "book-page-link" (dict "Page" . "CurrentPage" $cur "MenuYearMaxMonth" $menuMaxM "MenuYearAnyMonthAncestor" $menuAnyMA) }}
+          {{ template "book-section-children" (dict "Section" . "CurrentPage" $cur) }}
         </li>
       {{ else if and .IsPage .Content }}
         <li>
-          {{ template "book-page-link" (dict "Page" . "CurrentPage" $.CurrentPage) }}
+          {{ template "book-page-link" (dict "Page" . "CurrentPage" $cur "MenuYearMaxMonth" $menuMaxM "MenuYearAnyMonthAncestor" $menuAnyMA) }}
         </li>
       {{ end }}
     {{ end }}
   </ul>
 {{ end }}
 
-{{ define "book-page-link" }}{{/* (dict "Page" .Page "CurrentPage" .CurrentPage) */}}
-  {{ $current := eq .CurrentPage .Page }}
-  {{ $ancestor := .Page.IsAncestor .CurrentPage }}
+{{ define "book-page-link" }}{{/*
+  dict: Page, CurrentPage, MenuYearMaxMonth (int), MenuYearAnyMonthAncestor (bool)
+  Menu* are set when the parent section in the tree is a year; used only for month rows.
+*/}}
+  {{ $p := .Page }}
+  {{ $cur := .CurrentPage }}
+  {{ $menuMaxM := int (default 0 (index . "MenuYearMaxMonth")) }}
+  {{ $menuAnyMA := default false (index . "MenuYearAnyMonthAncestor") }}
+  {{ $current := eq $cur $p }}
+  {{ $ancestor := $p.IsAncestor $cur }}
+  {{ $open := or $current $ancestor }}
+  {{ $dir := strings.TrimSuffix "/" $p.File.Dir }}
+  {{ $collapse := or $p.Params.BookCollapseSection (findRE `^docs/[0-9]{4}/[0-9]{2}$` $dir) }}
+  {{ if and $collapse (findRE `^docs/[0-9]{4}/[0-9]{2}$` $dir) (not $open) (not $menuAnyMA) (gt $menuMaxM 0) }}
+    {{ $tStr := strings.TrimLeft "0" (path.Base $dir) }}
+    {{ if eq $tStr "" }}{{ $tStr = "0" }}{{ end }}
+    {{ $thisM := int $tStr }}
+    {{ if eq $thisM $menuMaxM }}{{ $open = true }}{{ end }}
+  {{ end }}
 
-  {{ if .Page.Params.BookCollapseSection }}
-    <input type="checkbox" id="section-{{ md5 .Page }}" class="toggle" {{ if or $current $ancestor }}checked{{ end }} />
-    <label for="section-{{ md5 .Page }}" class="flex">
-      <a {{ if .Page.Content }}href="{{ .Page.RelPermalink }}"{{ else }}role="button"{{ end }} class="{{ if $current }}active{{ end }}">
-        {{ template "book-icon-title" .Page -}}
+  {{ if $collapse }}
+    <input type="checkbox" id="section-{{ md5 $p }}" class="toggle" {{ if $open }}checked{{ end }} />
+    <label for="section-{{ md5 $p }}" class="flex">
+      <a {{ if $p.Content }}href="{{ $p.RelPermalink }}"{{ else }}role="button"{{ end }} class="{{ if $current }}active{{ end }}">
+        {{ partial "docs/menu-link-title" $p -}}
       </a>
       <img src="{{ partial "docs/icon" "chevron-right" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Expand" }}" />
     </label>
-  {{ else if .Page.Params.BookHref }}
-    <a href="{{ .Page.Params.BookHref }}" class="{{ if $current }}active{{ end }}" target="_blank" rel="noopener">
-      {{ template "book-icon-title" .Page -}}
+  {{ else if $p.Params.BookHref }}
+    <a href="{{ $p.Params.BookHref }}" class="{{ if $current }}active{{ end }}" target="_blank" rel="noopener">
+      {{ partial "docs/menu-link-title" $p -}}
     </a>
-  {{ else if .Page.Content }}
-    <a href="{{ .Page.RelPermalink }}" class="{{ if $current }}active{{ end }}">
-      {{ template "book-icon-title" .Page -}}
+  {{ else if $p.Content }}
+    <a href="{{ $p.RelPermalink }}" class="{{ if $current }}active{{ end }}">
+      {{ partial "docs/menu-link-title" $p -}}
     </a>
   {{ else }}
     <a>
-      {{ template "book-icon-title" .Page -}}
+      {{ partial "docs/menu-link-title" $p -}}
     </a>
   {{ end }}
-{{ end }}
-
-{{ define "book-icon-title" }}
-{{- with .Page.Params.BookIcon -}}
-  <img src="{{ partial "docs/icon" . }}" class="book-icon" alt="{{ partial "docs/text/i18n" . }}" />
-{{- end -}}
-{{- partial "docs/title" .Page -}}
 {{ end }}

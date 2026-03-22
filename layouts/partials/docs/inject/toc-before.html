@@ -6,11 +6,15 @@
 */}}
 {{ with site.Data.categories }}
 <div class="book-toc-custom" style="margin-bottom: 1rem;">
-  <p class="book-toc-title" style="margin: 0 0 0.5rem; font-weight: 600;">分类入口</p>
+  <p class="book-toc-title" style="margin: 0 0 0.5rem; font-weight: 600;">文章分类</p>
   <ul>
     {{ range . }}
+      {{ $catPages := where site.RegularPages "Params.primary_category" .slug }}
+      {{ $catPages = where $catPages "Draft" "ne" true }}
+      {{ $catPages = where $catPages "Params.bookHidden" "ne" true }}
+      {{ $n := len $catPages }}
       <li>
-        <a href="{{ printf "/docs/hubs/%s/" .slug | relLangURL }}">{{ .title }}</a>
+        <a href="{{ printf "/docs/hubs/%s/" .slug | relLangURL }}">{{ .title }}<span class="toc-category-count">（{{ $n }}）</span></a>
       </li>
     {{ end }}
   </ul>

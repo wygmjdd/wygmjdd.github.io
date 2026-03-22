@@ -8,15 +8,20 @@
         {{ $cat := . }}
         {{- $.Content -}}
         {{ $pages := where site.RegularPages "Params.primary_category" $cat }}
+        {{ $pages = where $pages "Draft" "ne" true }}
+        {{ $pages = where $pages "Params.bookHidden" "ne" true }}
         {{ if $pages }}
-          <ul>
-            {{ range sort $pages "Date" "desc" }}
-              <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                <small> — {{ .Date.Format "2006-01-02" }}</small>
-              </li>
-            {{ end }}
-          </ul>
+          {{ range ($pages.GroupByDate "2006" "desc") }}
+            <h2 class="hub-year-heading" id="hub-year-{{ .Key }}">{{ .Key }}年<span class="hub-year-count">（{{ len .Pages }}）</span></h2>
+            <ul>
+              {{ range .Pages }}
+                <li>
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  <small> — {{ .Date.Format "2006-01-02" }}</small>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
         {{ else }}
           <p>该分类下暂无文章。</p>
         {{ end }}
