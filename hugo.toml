@@ -18,6 +18,7 @@ BookTheme = "auto"
 BookSection = "docs"
 BookSearch = true
 BookToC = true
+GTMContainerID = "GTM-TD2ZLS4W"
 
 [module]
 [[module.imports]]
