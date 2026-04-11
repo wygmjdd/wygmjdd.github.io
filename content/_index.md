@@ -12,8 +12,10 @@ title: 首页
 
 是的，我来自于重庆巫溪，离重庆主城很远；我家在巫溪的山上，离巫溪县城很远。
 
-![在家中拍那冒烟的地方](/images/wo_jia_de_shan.jpg)
-<center>在家中拍那冒烟的地方</center>
+<figure class="figure-with-caption">
+<img src="/images/wo_jia_de_shan.jpg" alt="在家中拍那冒烟的地方" loading="lazy" decoding="async" />
+<figcaption>在家中拍那冒烟的地方</figcaption>
+</figure>
 
 1991年，我在父母的期盼下出生。其后沿着全中国最普遍的升级之路——小学、初中、高中、大学、工作——升级。
 
@@ -45,5 +47,7 @@ title: 首页
 
 于是**我要改名叫嘟嘟**，正在**用文字分享生活**。
 
-![一个用文字分享生活的程序员。](/images/code.png "欢迎扫码关注")
-<center>欢迎关注：一个用文字分享生活的程序员</center>
+<figure class="figure-with-caption">
+<img src="/images/code.png" alt="一个用文字分享生活的程序员。" loading="lazy" decoding="async" />
+<figcaption>欢迎关注：一个用文字分享生活的程序员</figcaption>
+</figure>
