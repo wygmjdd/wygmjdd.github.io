@@ -250,12 +250,17 @@ def main() -> None:
     )
     parser.add_argument("--out-dir", type=str, default=str(DEFAULT_OUT_DIR), help="Output directory for rehydrated posts.")
     parser.add_argument("--skipped-log", type=str, default=str(DEFAULT_LOG_PATH), help="YAML log file for skipped entries.")
+    parser.add_argument(
+        "--skip-if-output-exists",
+        action="store_true",
+        help="If out_dir already has a file with the same name as the _posts stub, skip fetch (idempotent re-runs).",
+    )
     parser.add_argument("--between-min", type=float, default=2.0, help="Min seconds to sleep between articles.")
     parser.add_argument("--between-max", type=float, default=6.0, help="Max seconds to sleep between articles.")
     parser.add_argument("--batch-min", type=int, default=3, help="Min articles per batch before long sleep.")
     parser.add_argument("--batch-max", type=int, default=5, help="Max articles per batch before long sleep.")
-    parser.add_argument("--sleep-min", type=float, default=180.0, help="Min seconds to long-sleep between batches.")
-    parser.add_argument("--sleep-max", type=float, default=600.0, help="Max seconds to long-sleep between batches.")
+    parser.add_argument("--sleep-min", type=float, default=30.0, help="Min seconds to long-sleep between batches.")
+    parser.add_argument("--sleep-max", type=float, default=90.0, help="Max seconds to long-sleep between batches.")
     args = parser.parse_args()
 
     if args.dedupe_skipped_log_only:
@@ -314,6 +319,11 @@ def main() -> None:
         print(f"    source: {fm.source_url[:88]}…" if len(fm.source_url) > 88 else f"    source: {fm.source_url}", flush=True)
         if fm.categories:
             print(f"    categories: {', '.join(fm.categories)}", flush=True)
+        if args.skip_if_output_exists:
+            existing_out = out_dir / post_path.name
+            if existing_out.is_file():
+                print(f"    skip (output exists): {existing_out.name}", flush=True)
+                continue
         print("    fetching HTML → markdown + local images (please wait)…", flush=True)
         try:
             article = fetch_article(fm.source_url)

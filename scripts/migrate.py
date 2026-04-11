@@ -8,8 +8,6 @@ Do not mix full migrate and stubs-only for the same URLs (would create duplicate
 """
 
 import argparse
-import hashlib
-import html
 import re
 import sys
 from pathlib import Path
@@ -19,21 +17,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import yaml
 
+from wechat_url_stub import STUB_DATE, STUB_HASH_LEN, canonical_source_url, stub_filename_for_url
+
 # Run from repo root or scripts/; repo root = parent of scripts/ or cwd
 REPO_ROOT = Path(__file__).resolve().parent.parent
 LEGACY_JEKYLL = REPO_ROOT / "_archive" / "legacy-jekyll"
 DATA_DIR = LEGACY_JEKYLL / "_data"
 POSTS_DIR = LEGACY_JEKYLL / "_posts"
 DONE_FILE = REPO_ROOT / "scripts" / ".migrate_done"
-
-# Placeholder date in stub front matter + filename; real date comes from rehydrate fetch.
-STUB_DATE = "2033-01-01"
-STUB_HASH_LEN = 10
-
-
-def canonical_source_url(url: str) -> str:
-    u = html.unescape(url.strip())
-    return u.split("#")[0]
 
 
 def load_albums_config() -> list[dict]:
@@ -150,11 +141,6 @@ def append_done_url(url: str) -> None:
     DONE_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(DONE_FILE, "a", encoding="utf-8") as f:
         f.write(canonical_source_url(url) + "\n")
-
-
-def stub_filename_for_url(url: str) -> str:
-    key = hashlib.sha256(canonical_source_url(url).encode("utf-8")).hexdigest()[:STUB_HASH_LEN]
-    return f"{STUB_DATE}-post-{key}.md"
 
 
 def _read_post_front_matter_raw(path: Path) -> str | None:
