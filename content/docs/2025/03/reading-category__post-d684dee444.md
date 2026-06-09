@@ -59,4 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486851&idx=
 
 > 我讲了一天的故事，累了。我没有告诉你们我的名字，因为我不想留下名字了。我已经嘱咐了安草儿，阿帖走的时候，一定不要埋在土里，要葬在树上，葬在风中。
 
-故事已经结束，“我”将继续留在山里，留在风中；以及，我的记忆里。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486851&amp;idx=1&amp;sn=70c46b4fa18b866456587477babcc823&amp;chksm=a6c7616e91b0e8783bd79dbeb1efa4012d264dac7835871ffa262b5b16b1af9e74b4d3ecf19e" rel="noopener noreferrer">原文链接</a>）</small>
+故事已经结束，“我”将继续留在山里，留在风中；以及，我的记忆里。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486851&amp;idx=1&amp;sn=70c46b4fa18b866456587477babcc823&amp;chksm=a6c7616e91b0e8783bd79dbeb1efa4012d264dac7835871ffa262b5b16b1af9e74b4d3ecf19e" rel="noopener noreferrer">原文链接</a>，更新于2025-03-17。）</small>

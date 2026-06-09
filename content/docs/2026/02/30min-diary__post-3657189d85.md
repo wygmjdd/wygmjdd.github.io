@@ -103,4 +103,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487564&idx=
 
 假期即将结束，电脑再到面前，本该是“年终总结（下）”的更新换成拼凑而成的本篇。
 
-我的过年，手机总离我很远。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487564&amp;idx=1&amp;sn=184345cb81c753fe3a818cb56657f091&amp;chksm=a6c77ca191b0f5b77cf9d7c49e01fe50a2356f9edb9b4b943832e2aa289caa9959b526ab3eff" rel="noopener noreferrer">原文链接</a>）</small>
+我的过年，手机总离我很远。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487564&amp;idx=1&amp;sn=184345cb81c753fe3a818cb56657f091&amp;chksm=a6c77ca191b0f5b77cf9d7c49e01fe50a2356f9edb9b4b943832e2aa289caa9959b526ab3eff" rel="noopener noreferrer">原文链接</a>，更新于2026-02-22。）</small>

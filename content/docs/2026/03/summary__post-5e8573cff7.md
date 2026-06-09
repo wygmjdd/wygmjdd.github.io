@@ -73,4 +73,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487591&idx=
 
 以上内容完成之后，我想要为本篇增添一个结尾。做这件事情之前，我想起本篇当中的“想写就写”，“想看就看”与“想做就做”似乎在过去的总结中已谈到过，我翻阅[去年的年终总结](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486736&idx=1&sn=f7c5e92ab60602a0bf7dbc1b89c3b228&scene=21#wechat_redirect)（标题是“与自己谈心，再听从它的声音”）得到结论：原来过去的一年，我依然在“想做就做”中修炼。
 
-于是未来变得很简单：保持此种心态，给自己的写作多一点心力也多一点时间。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487591&amp;idx=1&amp;sn=9a04d43744578c58559b1b26d4eff0bc&amp;chksm=a6c77c8a91b0f59c7c8a35b51f7de1b02809bf9b3698b2f5e7631ec14c2414565ae7351c3865" rel="noopener noreferrer">原文链接</a>）</small>
+于是未来变得很简单：保持此种心态，给自己的写作多一点心力也多一点时间。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487591&amp;idx=1&amp;sn=9a04d43744578c58559b1b26d4eff0bc&amp;chksm=a6c77c8a91b0f59c7c8a35b51f7de1b02809bf9b3698b2f5e7631ec14c2414565ae7351c3865" rel="noopener noreferrer">原文链接</a>，更新于2026-03-08。）</small>

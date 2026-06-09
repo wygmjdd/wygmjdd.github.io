@@ -79,4 +79,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486936&idx=
 
 《[文心](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485087&idx=1&sn=070df8f6edb97e351d1b208060ffee5c&scene=21#wechat_redirect)》说：“小说该是世间最真实的故事，然而不是某一件事情的实录。小说的作者把意义寄托在故事的叙述上边，并不特别说明，让人家看了他的叙述，自然省悟他的意义是什么。”
 
-看过这许多小说，我想自己从书中省悟的意义，并没有很多，但有模糊感觉到自己省悟的能力，在一直进步着。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486936&amp;idx=1&amp;sn=3fabdef98732bd74e11808278dc0ddca&amp;chksm=a6c7613591b0e823d28c1ecf10610dcd44771be9f2e3c24409b4fb11dfcb8b8f05055fd71ffc" rel="noopener noreferrer">原文链接</a>）</small>
+看过这许多小说，我想自己从书中省悟的意义，并没有很多，但有模糊感觉到自己省悟的能力，在一直进步着。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486936&amp;idx=1&amp;sn=3fabdef98732bd74e11808278dc0ddca&amp;chksm=a6c7613591b0e823d28c1ecf10610dcd44771be9f2e3c24409b4fb11dfcb8b8f05055fd71ffc" rel="noopener noreferrer">原文链接</a>，更新于2025-05-11。）</small>

@@ -47,4 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486208&idx=
 
 查看当时笔记，憋出本篇整理之后，我脑中多出两条从本书收获的未来大概率能记住的有用认知：创业创意的来源，可以是大家都抱怨的点，改进的方向就是创业；二是自己的产品，得自己满意后才有获得大家满意的可能。
 
-樊登博士创业成功，《樊登读书》能赚很多钱，我想我，还不拥有创业思维。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486208&amp;idx=1&amp;sn=a8e595449367c715e77177d0790d5e6e&amp;chksm=a6c767ed91b0eefbfa69e6a1ca5676cf5a94fbfdc8ef5e726f205d62acbb9b19cfcdf31cc3ed" rel="noopener noreferrer">原文链接</a>）</small>
+樊登博士创业成功，《樊登读书》能赚很多钱，我想我，还不拥有创业思维。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486208&amp;idx=1&amp;sn=a8e595449367c715e77177d0790d5e6e&amp;chksm=a6c767ed91b0eefbfa69e6a1ca5676cf5a94fbfdc8ef5e726f205d62acbb9b19cfcdf31cc3ed" rel="noopener noreferrer">原文链接</a>，更新于2024-05-05。）</small>

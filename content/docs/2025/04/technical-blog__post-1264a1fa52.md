@@ -48,4 +48,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486896&idx=
 
 前两天排查一个与k8s有些关联的线上问题，即便有AI帮我搞清楚各种名词的含义帮我道出可能的排查方向，到真正需要自己操作时，却依然有无从下手之感。即AI好用的前提是自己对某个领域已经有所了解。
 
-最后，重度使用Cursor再3个月，我关于AI的基础认知并不改变：AI真好用，但自我迭代，可万万不能停。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486896&amp;idx=1&amp;sn=33070f4e6cc9ddff06354958cab49d74&amp;chksm=a6c7615d91b0e84bf170ba0f6f11a6b058221a1b193f460306d7630489e49676cb7a5b3e251f" rel="noopener noreferrer">原文链接</a>）</small>
+最后，重度使用Cursor再3个月，我关于AI的基础认知并不改变：AI真好用，但自我迭代，可万万不能停。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486896&amp;idx=1&amp;sn=33070f4e6cc9ddff06354958cab49d74&amp;chksm=a6c7615d91b0e84bf170ba0f6f11a6b058221a1b193f460306d7630489e49676cb7a5b3e251f" rel="noopener noreferrer">原文链接</a>，更新于2025-04-19。）</small>

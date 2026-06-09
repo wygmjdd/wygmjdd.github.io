@@ -106,7 +106,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484112&idx=
 
 且不想太多，先安顿下来。
 
-如果你问我，为什么不看小区房？为什么不就租在公司周围？原因很简单，只有一个字——贵！按同事同学的经历，只需要符合一个条件，房子就4000起，这便打消了再去看看的念头。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484112&amp;idx=1&amp;sn=487a4ad53167b5cd406cab202d6d4cea&amp;chksm=a6c76e3d91b0e72bb59dbc0478612890582ebdc8150c749651b80263a7babd3aa1672ec5fb9e" rel="noopener noreferrer">原文链接</a>）</small>
+如果你问我，为什么不看小区房？为什么不就租在公司周围？原因很简单，只有一个字——贵！按同事同学的经历，只需要符合一个条件，房子就4000起，这便打消了再去看看的念头。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484112&amp;idx=1&amp;sn=487a4ad53167b5cd406cab202d6d4cea&amp;chksm=a6c76e3d91b0e72bb59dbc0478612890582ebdc8150c749651b80263a7babd3aa1672ec5fb9e" rel="noopener noreferrer">原文链接</a>，更新于2021-06-06。）</small>
 
   
 

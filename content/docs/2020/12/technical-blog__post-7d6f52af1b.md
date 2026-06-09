@@ -238,4 +238,4 @@ awk能用来做什么呢？
                             f.write(genOneLog())  
       
     if __name__ == '__main__':  
-            genLogs() <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483831&amp;idx=1&amp;sn=4bb24232eb8a0eecb73479d57ea6e186&amp;chksm=a6c76d5a91b0e44ca08505bc686be0785403ab38aedd037c01c11f2742f3bf181811ac798fe3" rel="noopener noreferrer">原文链接</a>）</small>
+            genLogs() <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483831&amp;idx=1&amp;sn=4bb24232eb8a0eecb73479d57ea6e186&amp;chksm=a6c76d5a91b0e44ca08505bc686be0785403ab38aedd037c01c11f2742f3bf181811ac798fe3" rel="noopener noreferrer">原文链接</a>，更新于2020-12-20。）</small>

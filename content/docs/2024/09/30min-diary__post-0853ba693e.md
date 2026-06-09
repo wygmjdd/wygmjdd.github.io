@@ -58,4 +58,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486486&idx=
 
 今天，我过得很快乐。
 
-正如《坛经》中所说，今天的我确确实实是“吃饭时，只吃饭”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486486&amp;idx=1&amp;sn=b61cec8f737f106e5f5a8d118a1e5761&amp;chksm=a6c760fb91b0e9ed4e9f64051611f549bf6a7d23e5a7d89f5a9aae1dbd1eee872273d2184fbe" rel="noopener noreferrer">原文链接</a>）</small>
+正如《坛经》中所说，今天的我确确实实是“吃饭时，只吃饭”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486486&amp;idx=1&amp;sn=b61cec8f737f106e5f5a8d118a1e5761&amp;chksm=a6c760fb91b0e9ed4e9f64051611f549bf6a7d23e5a7d89f5a9aae1dbd1eee872273d2184fbe" rel="noopener noreferrer">原文链接</a>，更新于2024-09-29。）</small>

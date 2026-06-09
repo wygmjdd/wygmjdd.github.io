@@ -77,4 +77,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486946&idx=
 
 《活着》算是一出悲剧么？
 
-看完全书的我在现在这一刻的感受是：我不知道。我知道的是，我自己正活着。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486946&amp;idx=1&amp;sn=ec5abb657f9070a26059a051008ae16a&amp;chksm=a6c7610f91b0e819ff3c430f6b52956773bc8cb1661804a47e005bbff2b639f683882cd3188c" rel="noopener noreferrer">原文链接</a>）</small>
+看完全书的我在现在这一刻的感受是：我不知道。我知道的是，我自己正活着。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486946&amp;idx=1&amp;sn=ec5abb657f9070a26059a051008ae16a&amp;chksm=a6c7610f91b0e819ff3c430f6b52956773bc8cb1661804a47e005bbff2b639f683882cd3188c" rel="noopener noreferrer">原文链接</a>，更新于2025-05-18。）</small>

@@ -78,7 +78,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484236&idx=
 
 ![图片](/images/wechat/5313b84ae6c5/002.png)
 
-打箱子、收奖励、冲杯 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484236&amp;idx=1&amp;sn=e92dd8a9bf02d43e19d8f0d35c8bc936&amp;chksm=a6c76fa191b0e6b7c65ac5dd7c3bef39a333159725054b64acabc533b263702ddbb321e43dd7" rel="noopener noreferrer">原文链接</a>）</small>
+打箱子、收奖励、冲杯 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484236&amp;idx=1&amp;sn=e92dd8a9bf02d43e19d8f0d35c8bc936&amp;chksm=a6c76fa191b0e6b7c65ac5dd7c3bef39a333159725054b64acabc533b263702ddbb321e43dd7" rel="noopener noreferrer">原文链接</a>，更新于2021-08-15。）</small>
 
   
 

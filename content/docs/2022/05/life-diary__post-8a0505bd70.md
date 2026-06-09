@@ -28,7 +28,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484780&idx=
 
 
 
-看完电影，意犹未尽，我将原著小说加入阅读清单。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484780&amp;idx=2&amp;sn=63b673024b10f23075f088f26c0dfd24&amp;chksm=a6c7698191b0e09712156403b29d0c7f4f19b7cc0cb1c484faf9a30821b3cd357ffd15c377f0" rel="noopener noreferrer">原文链接</a>）</small>
+看完电影，意犹未尽，我将原著小说加入阅读清单。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484780&amp;idx=2&amp;sn=63b673024b10f23075f088f26c0dfd24&amp;chksm=a6c7698191b0e09712156403b29d0c7f4f19b7cc0cb1c484faf9a30821b3cd357ffd15c377f0" rel="noopener noreferrer">原文链接</a>，更新于2022-05-22。）</small>
 
   
 

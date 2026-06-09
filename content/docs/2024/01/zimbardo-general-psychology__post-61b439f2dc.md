@@ -149,4 +149,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485938&idx=
 <figure class="figure-with-caption">
 <img src="/images/wechat/61b439f2dcf3/004.png" alt="图片" loading="lazy" decoding="async" />
 <figcaption>刺激寻求表格 &lt;small&gt;（&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;amp;mid=2247485938&amp;amp;idx=1&amp;amp;sn=e094ada06e25705b8f834fb5c6803e76&amp;amp;chksm=a6c7651f91b0ec09c847c16212460fd311fad646789696c748dd25e3e08ae54e195bcd9ef547&quot; rel=&quot;noopener noreferrer&quot;&gt;原文链接&lt;/a&gt;）&lt;/small&gt;</figcaption>
-</figure>
+</figure> <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485938&amp;idx=1&amp;sn=e094ada06e25705b8f834fb5c6803e76&amp;chksm=a6c7651f91b0ec09c847c16212460fd311fad646789696c748dd25e3e08ae54e195bcd9ef547" rel="noopener noreferrer">原文链接</a>，更新于2024-01-14。）</small>

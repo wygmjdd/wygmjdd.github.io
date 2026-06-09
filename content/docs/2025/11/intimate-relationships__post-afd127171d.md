@@ -57,4 +57,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487375&idx=
 
 > 更重要的是，研究发现了两个大五人格因素与死亡率之间的关系。在控制社会人口学因素的情况下，宜人性高的各州公民有明显更长的预期寿命。与热情大方的人生活在一起，你的寿命会延长。神经质得分最高的各州公民的预期寿命明显较低，癌症和心脏病导致的死亡率也较高。
 
-以上，是性别与人格对亲密关系的影响。同时拥有表达性、工具性的个体，是更好的伴侣；那些神经质分数低的个体，也是更好的伴侣。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487375&amp;idx=1&amp;sn=c7fff8347ebffc44955f0b433c3f6112&amp;chksm=a6c7636291b0ea744818d03c4d589eca19eb1f5fce8e0c6ff307e28bb184b02444d804c96305" rel="noopener noreferrer">原文链接</a>）</small>
+以上，是性别与人格对亲密关系的影响。同时拥有表达性、工具性的个体，是更好的伴侣；那些神经质分数低的个体，也是更好的伴侣。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487375&amp;idx=1&amp;sn=c7fff8347ebffc44955f0b433c3f6112&amp;chksm=a6c7636291b0ea744818d03c4d589eca19eb1f5fce8e0c6ff307e28bb184b02444d804c96305" rel="noopener noreferrer">原文链接</a>，更新于2025-11-01。）</small>

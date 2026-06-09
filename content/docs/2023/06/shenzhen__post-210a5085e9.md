@@ -37,4 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485574&idx=
 
 这3小时内做的事，丰富无规律：与聪聪吃饭、和同事聚餐，真诚地聊各样的话题；为篮球，我待在公司场、野场、我们篮球小队租的场、楼下天气阴冷只我一人投篮的场；走一号线，从一个地铁站到另一个地铁站……绝大部分，是待在房间窝在沙发，刷短视频、接收或是产出碎片信息。
 
-沙发不长，左边一个枕头，右边一个枕头，我窝在两个枕头中间成一个V字，手机或是电脑放在腿上，我的世界，又回到眼前屏幕上。就在这个安静房间。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485574&amp;idx=1&amp;sn=8d058161051dec942584dd7173e4e887&amp;chksm=a6c7646b91b0ed7d18cec8f656da6b0507c2748ee1a8bc2e185b50a80b1f923476bd2e55444f" rel="noopener noreferrer">原文链接</a>）</small>
+沙发不长，左边一个枕头，右边一个枕头，我窝在两个枕头中间成一个V字，手机或是电脑放在腿上，我的世界，又回到眼前屏幕上。就在这个安静房间。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485574&amp;idx=1&amp;sn=8d058161051dec942584dd7173e4e887&amp;chksm=a6c7646b91b0ed7d18cec8f656da6b0507c2748ee1a8bc2e185b50a80b1f923476bd2e55444f" rel="noopener noreferrer">原文链接</a>，更新于2023-06-11。）</small>

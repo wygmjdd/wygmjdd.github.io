@@ -63,7 +63,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484680&idx=
 
 今天下午，看见一位大学同学发了一条朋友圈：“不知不觉已经WFH两年多了，近来团队海底捞了一次，已经没人想回去了。”
 
-原来我这新奇体验，已经流行了许久。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484680&amp;idx=1&amp;sn=dd72b4cea7f2672f1950dda46a847808&amp;chksm=a6c769e591b0e0f39ce0d4928d472c3bd766d3fa2e88af42a0971771362f31b83062d75b5ebb" rel="noopener noreferrer">原文链接</a>）</small>
+原来我这新奇体验，已经流行了许久。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484680&amp;idx=1&amp;sn=dd72b4cea7f2672f1950dda46a847808&amp;chksm=a6c769e591b0e0f39ce0d4928d472c3bd766d3fa2e88af42a0971771362f31b83062d75b5ebb" rel="noopener noreferrer">原文链接</a>，更新于2022-04-03。）</small>
 
   
 

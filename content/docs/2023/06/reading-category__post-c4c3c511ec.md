@@ -43,4 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485587&idx=
 
 先生书中第一句话是“知我者，谓我心忧；不知我者，谓我何求。”
 
-我只能对自己说：“我不知我！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485587&amp;idx=1&amp;sn=e44da3e0c3418d6f7edeef23cfb5bc3c&amp;chksm=a6c7647e91b0ed685c4de85109c870b295d8134b2d7d63ec7f3ef97306dbc1d246662332a6e9" rel="noopener noreferrer">原文链接</a>）</small>
+我只能对自己说：“我不知我！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485587&amp;idx=1&amp;sn=e44da3e0c3418d6f7edeef23cfb5bc3c&amp;chksm=a6c7647e91b0ed685c4de85109c870b295d8134b2d7d63ec7f3ef97306dbc1d246662332a6e9" rel="noopener noreferrer">原文链接</a>，更新于2023-06-19。）</small>

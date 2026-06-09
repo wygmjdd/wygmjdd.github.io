@@ -42,7 +42,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484432&idx=
 
 肉煸的可以再老点
 
-每一次制作，都有自己能够认识到的提升点，技艺并不纯熟，持续完善中。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484432&amp;idx=1&amp;sn=5187b82ea1896f6199e1c1808d3712f8&amp;chksm=a6c768fd91b0e1ebecd3cfd802f0043e72bd6425f1aa399f400ed82d690f6a7f05c9772487eb" rel="noopener noreferrer">原文链接</a>）</small>
+每一次制作，都有自己能够认识到的提升点，技艺并不纯熟，持续完善中。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484432&amp;idx=1&amp;sn=5187b82ea1896f6199e1c1808d3712f8&amp;chksm=a6c768fd91b0e1ebecd3cfd802f0043e72bd6425f1aa399f400ed82d690f6a7f05c9772487eb" rel="noopener noreferrer">原文链接</a>，更新于2021-12-05。）</small>
 
   
 

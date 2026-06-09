@@ -47,4 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486355&idx=
 
 简单来说，就是这样。我不认为这里会是我最后的一站，因为我还是无法接受一眼能看到头的生活。有了孩子让我对稳定有了更高的需求，我记得我知道有了孩子的我做的第一件事是买了一份人寿。但是这不代表我就完全接受不了风险了。买人寿的意义不就在于对冲掉部分风险吗？
 
-长风破浪会有时，希望在下一个十年，我能有更精彩的故事可以分享。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486355&amp;idx=1&amp;sn=61e502ced3bc93648cf206d680f2e331&amp;chksm=a6c7677e91b0ee683ff359f7bf4965fca8e660b30fad7f33c91b2f87261d5c34c204e852b54a" rel="noopener noreferrer">原文链接</a>）</small>
+长风破浪会有时，希望在下一个十年，我能有更精彩的故事可以分享。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486355&amp;idx=1&amp;sn=61e502ced3bc93648cf206d680f2e331&amp;chksm=a6c7677e91b0ee683ff359f7bf4965fca8e660b30fad7f33c91b2f87261d5c34c204e852b54a" rel="noopener noreferrer">原文链接</a>，更新于2024-07-27。）</small>

@@ -58,7 +58,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484466&idx=
 > 
 > 如果是四场，可以是 周杰伦->五月天->陈奕迅->李宗盛。
 
-如果只有一场，我也想看李宗盛！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484466&amp;idx=1&amp;sn=f2903e50188ea97d5e4932b5bc2c02e6&amp;chksm=a6c768df91b0e1c9e3ac213ba20b92edd4e71bd0414e62c5eeeb61dc5cda238b49fc474e1759" rel="noopener noreferrer">原文链接</a>）</small>
+如果只有一场，我也想看李宗盛！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484466&amp;idx=1&amp;sn=f2903e50188ea97d5e4932b5bc2c02e6&amp;chksm=a6c768df91b0e1c9e3ac213ba20b92edd4e71bd0414e62c5eeeb61dc5cda238b49fc474e1759" rel="noopener noreferrer">原文链接</a>，更新于2021-12-19。）</small>
 
   
 

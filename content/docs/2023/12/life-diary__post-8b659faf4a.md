@@ -81,4 +81,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485878&idx=
 
 回重庆后的周末，做饭次数变得多些，偶尔会很有冲动将一句话介绍——一个学做菜、用文字分享生活和读书感悟的程序员——中删去的“学做菜”加回来。
 
-现在做饭频率不高，且再等一等。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485878&amp;idx=1&amp;sn=df3cdd6ecf86280e438ad86befd664d5&amp;chksm=a6c7655b91b0ec4d95a30ec8f854f6f17bc7f615c3c77823c4dc81e1b3c2bb260fa08552dac6" rel="noopener noreferrer">原文链接</a>）</small>
+现在做饭频率不高，且再等一等。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485878&amp;idx=1&amp;sn=df3cdd6ecf86280e438ad86befd664d5&amp;chksm=a6c7655b91b0ec4d95a30ec8f854f6f17bc7f615c3c77823c4dc81e1b3c2bb260fa08552dac6" rel="noopener noreferrer">原文链接</a>，更新于2023-12-10。）</small>

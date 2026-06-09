@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483874&idx=
 
 记流水账果然简单，只用了15分钟就搞定。那就放在附板吧~
 
-对了，给这篇内容加一句总结——一个程序员的一天，他在异地恋。（走路的过程中给媳妇儿电话![图片](/images/wechat/743c0db5a47a/001.png)） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483874&amp;idx=2&amp;sn=3bfecc04bf83d6558d960a6e8aa564d5&amp;chksm=a6c76d0f91b0e419370c87453b1c0297f5581a570d6fd8038d7f642bd853c65218de5e98f188" rel="noopener noreferrer">原文链接</a>）</small>
+对了，给这篇内容加一句总结——一个程序员的一天，他在异地恋。（走路的过程中给媳妇儿电话![图片](/images/wechat/743c0db5a47a/001.png)） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483874&amp;idx=2&amp;sn=3bfecc04bf83d6558d960a6e8aa564d5&amp;chksm=a6c76d0f91b0e419370c87453b1c0297f5581a570d6fd8038d7f642bd853c65218de5e98f188" rel="noopener noreferrer">原文链接</a>，更新于2021-01-24。）</small>

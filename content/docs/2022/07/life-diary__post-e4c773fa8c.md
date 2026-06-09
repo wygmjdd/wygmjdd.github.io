@@ -47,7 +47,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484915&idx=
 
 发完朋友圈，又有了本篇。
 
-我不懂团建，只觉得这种团建，是极好的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484915&amp;idx=1&amp;sn=10f80d10c27064127b23c5c5367b6cd9&amp;chksm=a6c7691e91b0e008858023e77887089f00d82a8d8d8044572fb5f81a6e81bdff6b56ee1781da" rel="noopener noreferrer">原文链接</a>）</small>
+我不懂团建，只觉得这种团建，是极好的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484915&amp;idx=1&amp;sn=10f80d10c27064127b23c5c5367b6cd9&amp;chksm=a6c7691e91b0e008858023e77887089f00d82a8d8d8044572fb5f81a6e81bdff6b56ee1781da" rel="noopener noreferrer">原文链接</a>，更新于2022-07-10。）</small>
 
   
 

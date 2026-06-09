@@ -41,4 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486173&idx=
 
 > 滋养内心的自由，拥抱自然、艺术、诗歌和文学之美，感受对家庭和朋友的爱，是十分重要的。但是其他个人选择、行动、关系、爱好甚至简单的快乐也能赋予生命以意义。
 
-这篇摘抄很长，但原书很短。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486173&amp;idx=1&amp;sn=4f75fa879b7af45ba91638afe1e8a5df&amp;chksm=a6c7663091b0ef2664f5e799b810dbd5ae3ccfde8b50abe2590654effc9f04945237c18e1f34" rel="noopener noreferrer">原文链接</a>）</small>
+这篇摘抄很长，但原书很短。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486173&amp;idx=1&amp;sn=4f75fa879b7af45ba91638afe1e8a5df&amp;chksm=a6c7663091b0ef2664f5e799b810dbd5ae3ccfde8b50abe2590654effc9f04945237c18e1f34" rel="noopener noreferrer">原文链接</a>，更新于2024-04-27。）</small>

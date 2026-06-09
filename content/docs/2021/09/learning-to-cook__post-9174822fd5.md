@@ -63,7 +63,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484326&idx=
 
 到饭点立即起身吃饭的习惯，便因这好处一直保留下来。
 
-（这好处，是一直有效的。大概三四年前，公司食堂粉面档口推出常德米粉，我很喜欢吃，便每天都去微笑打卡，后来与大姐熟悉起来，她每次都给我添上几块牛肉。某一次与老周一起，他排我后面，拆了我的台：“唉，为什么他的牛肉比我多一勺的？”大姐略显尴尬，给老周也加了几块牛肉。从那以后，大姐再不给我加量。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484326&amp;idx=1&amp;sn=a0957c866dda172605506400acfee4ba&amp;chksm=a6c76f4b91b0e65d653165a7fc661770378bb7195161803f59dad0d05ad6ef73eec31fcbdb84" rel="noopener noreferrer">原文链接</a>）</small>
+（这好处，是一直有效的。大概三四年前，公司食堂粉面档口推出常德米粉，我很喜欢吃，便每天都去微笑打卡，后来与大姐熟悉起来，她每次都给我添上几块牛肉。某一次与老周一起，他排我后面，拆了我的台：“唉，为什么他的牛肉比我多一勺的？”大姐略显尴尬，给老周也加了几块牛肉。从那以后，大姐再不给我加量。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484326&amp;idx=1&amp;sn=a0957c866dda172605506400acfee4ba&amp;chksm=a6c76f4b91b0e65d653165a7fc661770378bb7195161803f59dad0d05ad6ef73eec31fcbdb84" rel="noopener noreferrer">原文链接</a>，更新于2021-09-26。）</small>
 
   
 

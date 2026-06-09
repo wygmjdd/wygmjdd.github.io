@@ -195,4 +195,4 @@ dis函数的输入种类可以有很多：
 
   2. https://docs.python.org/3.10/library/functions.html?highlight=compile#compile
 
-  3. https://docs.python.org/3.10/library/dis.html?highlight=dis dis#module-dis <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483970&amp;idx=1&amp;sn=dd3a2d00fecf5caf0b79e2262d8b3d4b&amp;chksm=a6c76eaf91b0e7b9a0d5eb293e75e27a38a820a00db9504fbbc71e74ba60d487e248d6995ba6" rel="noopener noreferrer">原文链接</a>）</small>
+  3. https://docs.python.org/3.10/library/dis.html?highlight=dis dis#module-dis <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483970&amp;idx=1&amp;sn=dd3a2d00fecf5caf0b79e2262d8b3d4b&amp;chksm=a6c76eaf91b0e7b9a0d5eb293e75e27a38a820a00db9504fbbc71e74ba60d487e248d6995ba6" rel="noopener noreferrer">原文链接</a>，更新于2021-03-28。）</small>

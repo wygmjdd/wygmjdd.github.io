@@ -68,4 +68,4 @@ source_url: https://mp.weixin.qq.com/s/oaTKd4AZRnvvOFWZZKF4iA
 
 周五晚上9点地铁乘客已经不多，下车、走路再回家。我想起打完球和阿帅挥手告别，他笑着对我说：“哈哈哈，下周一再来。”
 
-下周一，我真的还想再去。 <small>（<a href="https://mp.weixin.qq.com/s/oaTKd4AZRnvvOFWZZKF4iA" rel="noopener noreferrer">原文链接</a>）</small>
+下周一，我真的还想再去。 <small>（<a href="https://mp.weixin.qq.com/s/oaTKd4AZRnvvOFWZZKF4iA" rel="noopener noreferrer">原文链接</a>，更新于2026-04-25。）</small>

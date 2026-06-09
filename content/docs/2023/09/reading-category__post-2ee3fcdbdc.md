@@ -48,4 +48,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485714&idx=
 
 这次对话，是全书中少有的溥仪说自己很是高兴的片段，是少有的我读来感到轻松的片段，这似乎在提醒我人生的最好状态是“吃得下饭，睡得着觉，以及身体没有大毛病。”
 
-珍惜这人生最好状态，是我读完本书后的最大收获。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485714&amp;idx=1&amp;sn=f70ff6e505a2eeb74af71b277e0637b3&amp;chksm=a6c765ff91b0ece95db62c364ff290c8d519b22bbc359be98208da42301e4f970da9d51623a8" rel="noopener noreferrer">原文链接</a>）</small>
+珍惜这人生最好状态，是我读完本书后的最大收获。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485714&amp;idx=1&amp;sn=f70ff6e505a2eeb74af71b277e0637b3&amp;chksm=a6c765ff91b0ece95db62c364ff290c8d519b22bbc359be98208da42301e4f970da9d51623a8" rel="noopener noreferrer">原文链接</a>，更新于2023-09-17。）</small>

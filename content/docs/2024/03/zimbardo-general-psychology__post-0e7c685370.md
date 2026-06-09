@@ -41,4 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486088&idx=
 > 
 > ……
 > 
-> 各种与健康相关的结果都受心理控制源的影响。除了更有可能系安全带、有规律的运动、注意饮食等对健康有明显好处的行为之外，内控者的免疫系统比外控者的更好(Chen et al.,2003)。他们很少生病，从疾病和手术中康复得更快(Skinner,1996)。更重要的是，强烈的内控感实际上消解了社会阶层和健康之间的关系：具有内控倾向的低收入个体和高收入个体一样健康(Lachman&Weaver,1998)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486088&amp;idx=1&amp;sn=99e98ce0f06b1fcbb0ba9c44864c295b&amp;chksm=a6c7666591b0ef73150c224efd5590ad565f3fe2728a59de49b87037998d3ae41b91007e6de1" rel="noopener noreferrer">原文链接</a>）</small>
+> 各种与健康相关的结果都受心理控制源的影响。除了更有可能系安全带、有规律的运动、注意饮食等对健康有明显好处的行为之外，内控者的免疫系统比外控者的更好(Chen et al.,2003)。他们很少生病，从疾病和手术中康复得更快(Skinner,1996)。更重要的是，强烈的内控感实际上消解了社会阶层和健康之间的关系：具有内控倾向的低收入个体和高收入个体一样健康(Lachman&Weaver,1998)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486088&amp;idx=1&amp;sn=99e98ce0f06b1fcbb0ba9c44864c295b&amp;chksm=a6c7666591b0ef73150c224efd5590ad565f3fe2728a59de49b87037998d3ae41b91007e6de1" rel="noopener noreferrer">原文链接</a>，更新于2024-03-16。）</small>

@@ -47,7 +47,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484860&idx=
 
 本书有许多的引用与注释，引用的是文言文，注释说明文言文的出处。书中引用的出处，许多都来自于《曾国藩全集》，《曾国藩全集》，收录了曾国藩的日记、书信、奏稿、批牍。曾国藩不止看书，写的东西也极多。
 
-本书结尾说曾国藩是“中国传统文化的最后一个偶像”。偶像的事迹给予我正向力量，我想我，读书添加人物传记方向，是不错的选择。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484860&amp;idx=1&amp;sn=86e75da8951708f40996548980361630&amp;chksm=a6c7695191b0e047503d9785a15c2dcd44d60d4a39fb2a36316a8bd821638581e82963896459" rel="noopener noreferrer">原文链接</a>）</small>
+本书结尾说曾国藩是“中国传统文化的最后一个偶像”。偶像的事迹给予我正向力量，我想我，读书添加人物传记方向，是不错的选择。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484860&amp;idx=1&amp;sn=86e75da8951708f40996548980361630&amp;chksm=a6c7695191b0e047503d9785a15c2dcd44d60d4a39fb2a36316a8bd821638581e82963896459" rel="noopener noreferrer">原文链接</a>，更新于2022-07-04。）</small>
 
   
 

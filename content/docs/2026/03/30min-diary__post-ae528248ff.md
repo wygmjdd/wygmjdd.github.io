@@ -54,4 +54,4 @@ source_url: https://mp.weixin.qq.com/s/b8EhU3K4MXi9uDJamVbt9Q
 
 总之，今天上午的六个多小时，我是有再体验到一点成就感的，于是作此篇记录。
 
-我想自己，可算作是拥有了自己的第一个vibe coding产品——网站基于公众号的再更新。 <small>（<a href="https://mp.weixin.qq.com/s/b8EhU3K4MXi9uDJamVbt9Q" rel="noopener noreferrer">原文链接</a>）</small>
+我想自己，可算作是拥有了自己的第一个vibe coding产品——网站基于公众号的再更新。 <small>（<a href="https://mp.weixin.qq.com/s/b8EhU3K4MXi9uDJamVbt9Q" rel="noopener noreferrer">原文链接</a>，更新于2026-03-22。）</small>

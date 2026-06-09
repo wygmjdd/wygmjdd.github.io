@@ -80,4 +80,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486974&idx=
 
 写本篇到现在，我仿佛再一次感受到沈从文先生所说的那种对生存的自信心，我有感受到当下这一刻自己的内心是满满的，甚至在这一刻，我眼里充满着笑意。我相信自己就这样的读下去、写下去，总有一天，我可以仅仅依靠文字，便真正养活自己和阿妮（最近两个月内，我每天的文字收入已经够自己吃上一碗小面了）。
 
-人生30000天，1000占去其中三十分之一。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486974&amp;idx=1&amp;sn=1ddde08afd7298bc037a585cbb707f85&amp;chksm=a6c7611391b0e8052f192f57df6e4fbb8778fb034f4d03c0e71d39fc27b7d7c5c864c7eab4b1" rel="noopener noreferrer">原文链接</a>）</small>
+人生30000天，1000占去其中三十分之一。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486974&amp;idx=1&amp;sn=1ddde08afd7298bc037a585cbb707f85&amp;chksm=a6c7611391b0e8052f192f57df6e4fbb8778fb034f4d03c0e71d39fc27b7d7c5c864c7eab4b1" rel="noopener noreferrer">原文链接</a>，更新于2025-06-02。）</small>

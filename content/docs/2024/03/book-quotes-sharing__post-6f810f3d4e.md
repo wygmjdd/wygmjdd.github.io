@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486076&idx=
 > 
 > 因为这简直是大部分程序错误的根源，在多个地方表达相似的概念，意味着日后改动一个地方，就必须记得改动相似的所有地方。而直接复制这些代码，导致编译器并不知道这些地方的相似性，不能为你提供这种帮助。而人，随着项目的扩大，几乎不可能记住自己干过多少这种复制的动作。
 > 
-> 程序员有时或许没有意识到他们在重复，有时是出于偷懒，这些都可以用加强对代码糟糕味道的嗅觉敏感度和提高作为编码者的责任心来达到。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486076&amp;idx=1&amp;sn=fb8808c2c9f1ded52db6a4d47f21c7d1&amp;chksm=a6c7669191b0ef872a2f741e6e11a8befebf3a730a37014936c45ea565a256f82d81327dbae3" rel="noopener noreferrer">原文链接</a>）</small>
+> 程序员有时或许没有意识到他们在重复，有时是出于偷懒，这些都可以用加强对代码糟糕味道的嗅觉敏感度和提高作为编码者的责任心来达到。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486076&amp;idx=1&amp;sn=fb8808c2c9f1ded52db6a4d47f21c7d1&amp;chksm=a6c7669191b0ef872a2f741e6e11a8befebf3a730a37014936c45ea565a256f82d81327dbae3" rel="noopener noreferrer">原文链接</a>，更新于2024-03-10。）</small>

@@ -67,4 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487387&idx=
 
 虽然同性恋者会有一些专属于自己的亲密关系特点，但整体而言，同性恋与异性恋之间的差异，是并不大的，我们都感受同样的刺激，经历同样的疑虑，觉知到同样的承诺。
 
-对的，爱情，是可以与性别无关的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487387&amp;idx=1&amp;sn=a64e3babe281ab5e5889c1c4a030cdbd&amp;chksm=a6c7637691b0ea60e6d10058315660ecc7c4e687de07f31aef19a65bca4c6cadc82c68468fa4" rel="noopener noreferrer">原文链接</a>）</small>
+对的，爱情，是可以与性别无关的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487387&amp;idx=1&amp;sn=a64e3babe281ab5e5889c1c4a030cdbd&amp;chksm=a6c7637691b0ea60e6d10058315660ecc7c4e687de07f31aef19a65bca4c6cadc82c68468fa4" rel="noopener noreferrer">原文链接</a>，更新于2025-11-14。）</small>

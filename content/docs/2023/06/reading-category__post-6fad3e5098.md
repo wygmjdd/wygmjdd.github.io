@@ -45,4 +45,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485569&idx=
 
 “科学，是一个证伪的过程。
 
-“或许提出下一个关于量子的被大众所接受假设的人，是年轻的你！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485569&amp;idx=1&amp;sn=3a529c87c8f7aa0d29bee26321418b31&amp;chksm=a6c7646c91b0ed7a8b57f8f888207a17bb7fc6400894a9b1b42e58ff6b19cc97709b8588f727" rel="noopener noreferrer">原文链接</a>）</small>
+“或许提出下一个关于量子的被大众所接受假设的人，是年轻的你！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485569&amp;idx=1&amp;sn=3a529c87c8f7aa0d29bee26321418b31&amp;chksm=a6c7646c91b0ed7a8b57f8f888207a17bb7fc6400894a9b1b42e58ff6b19cc97709b8588f727" rel="noopener noreferrer">原文链接</a>，更新于2023-06-05。）</small>

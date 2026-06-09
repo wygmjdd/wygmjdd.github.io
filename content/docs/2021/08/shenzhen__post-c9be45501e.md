@@ -48,7 +48,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484225&idx=
 
 我看他们喝酒、吃肉、聊天，就像看电影一样。
 
-羊肉串好吃，昨天又去了一次，与大白鹅一起。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484225&amp;idx=1&amp;sn=1b674d167ab55c3f7293bbdcf1d606c7&amp;chksm=a6c76fac91b0e6ba9845b659760d91b328f992f2a124d686ddc41992fd281ebbea1a02040a3f" rel="noopener noreferrer">原文链接</a>）</small>
+羊肉串好吃，昨天又去了一次，与大白鹅一起。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484225&amp;idx=1&amp;sn=1b674d167ab55c3f7293bbdcf1d606c7&amp;chksm=a6c76fac91b0e6ba9845b659760d91b328f992f2a124d686ddc41992fd281ebbea1a02040a3f" rel="noopener noreferrer">原文链接</a>，更新于2021-08-08。）</small>
 
   
 

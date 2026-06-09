@@ -79,4 +79,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485949&idx=
 
 怎样能够将使用数据结构与算法变得跟骑自行车一样——不用想便能生出自然反应并做出正确选择——呢？
 
-且待我再找几本书来看。只看书？或许并不太够。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485949&amp;idx=1&amp;sn=f8e38aeea1744d2a6a31cdb0397b2c15&amp;chksm=a6c7651091b0ec06ae48f2e889d7d73fe0c1ae7726b33c44624737c8092fb2679d2cc8ac5364" rel="noopener noreferrer">原文链接</a>）</small>
+且待我再找几本书来看。只看书？或许并不太够。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485949&amp;idx=1&amp;sn=f8e38aeea1744d2a6a31cdb0397b2c15&amp;chksm=a6c7651091b0ec06ae48f2e889d7d73fe0c1ae7726b33c44624737c8092fb2679d2cc8ac5364" rel="noopener noreferrer">原文链接</a>，更新于2024-01-21。）</small>

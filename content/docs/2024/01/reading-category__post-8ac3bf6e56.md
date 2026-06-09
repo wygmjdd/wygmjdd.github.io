@@ -85,4 +85,4 @@ SAE（美国汽车工程师学会）对自动驾驶的分级：
   
 
 
-（本篇笔记只是许多名词的摘抄，类似金句摘抄：只发表不通知，不打扰大家啦。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485943&amp;idx=1&amp;sn=3b31051a191424a6b7eb682ed7bfb5ad&amp;chksm=a6c7651a91b0ec0c928fef9d27ec24df35fabb9bce1cbf2df2a037a93e4295238725e2866a53" rel="noopener noreferrer">原文链接</a>）</small>
+（本篇笔记只是许多名词的摘抄，类似金句摘抄：只发表不通知，不打扰大家啦。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485943&amp;idx=1&amp;sn=3b31051a191424a6b7eb682ed7bfb5ad&amp;chksm=a6c7651a91b0ec0c928fef9d27ec24df35fabb9bce1cbf2df2a037a93e4295238725e2866a53" rel="noopener noreferrer">原文链接</a>，更新于2024-01-15。）</small>

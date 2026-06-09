@@ -51,4 +51,4 @@ source_url: https://mp.weixin.qq.com/s/WL5wBaF6ss6rLGpNB1QLUQ
 
 我想自己今天的能量，来源于昨晚好的睡眠、早饭午饭的好吃——自己做饭味道会更好的，以及于球场的出汗。
 
-总之是，认真对待自己的每一天就好（不写每一分钟每一小时的缘由，是我总开小差不能做到每分钟每小时都处于“心流”状态）。 <small>（<a href="https://mp.weixin.qq.com/s/WL5wBaF6ss6rLGpNB1QLUQ" rel="noopener noreferrer">原文链接</a>）</small>
+总之是，认真对待自己的每一天就好（不写每一分钟每一小时的缘由，是我总开小差不能做到每分钟每小时都处于“心流”状态）。 <small>（<a href="https://mp.weixin.qq.com/s/WL5wBaF6ss6rLGpNB1QLUQ" rel="noopener noreferrer">原文链接</a>，更新于2026-05-10。）</small>

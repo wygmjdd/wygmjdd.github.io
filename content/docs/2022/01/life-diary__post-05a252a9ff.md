@@ -52,6 +52,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484532&idx=
 
 \--
 
-回渝的详细、具体政策，还请看[重庆本地宝的说明](https://mp.weixin.qq.com/s?__biz=MzAwNTkyMDUzOQ==&mid=2247594262&idx=4&sn=e4ab937b42bc4f7ddc59f86e1c129323&scene=21#wechat_redirect)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484532&amp;idx=2&amp;sn=6b9217d97cfb5ce8f85f476d2129fa52&amp;chksm=a6c7689991b0e18ffff5c918f362fc515fd6862eda52d6ad8a95a655f29bbbb7efd2c518e4ae" rel="noopener noreferrer">原文链接</a>）</small>
+回渝的详细、具体政策，还请看[重庆本地宝的说明](https://mp.weixin.qq.com/s?__biz=MzAwNTkyMDUzOQ==&mid=2247594262&idx=4&sn=e4ab937b42bc4f7ddc59f86e1c129323&scene=21#wechat_redirect)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484532&amp;idx=2&amp;sn=6b9217d97cfb5ce8f85f476d2129fa52&amp;chksm=a6c7689991b0e18ffff5c918f362fc515fd6862eda52d6ad8a95a655f29bbbb7efd2c518e4ae" rel="noopener noreferrer">原文链接</a>，更新于2022-01-23。）</small>
 
 * * *

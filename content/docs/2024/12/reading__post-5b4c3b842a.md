@@ -42,4 +42,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486648&idx=
 <figcaption>作者拍的日照金山，给予我感动与震撼</figcaption>
 </figure>
 
-信念来自于平凡，一步、一步、又一步…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486648&amp;idx=1&amp;sn=6238949c117142af0fbc9802feaec982&amp;chksm=a6c7605591b0e943c70f29e29da29582e38f8f3fb56184146c6eb7ab2ca6da0fb8b5823481ea" rel="noopener noreferrer">原文链接</a>）</small>
+信念来自于平凡，一步、一步、又一步…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486648&amp;idx=1&amp;sn=6238949c117142af0fbc9802feaec982&amp;chksm=a6c7605591b0e943c70f29e29da29582e38f8f3fb56184146c6eb7ab2ca6da0fb8b5823481ea" rel="noopener noreferrer">原文链接</a>，更新于2024-12-01。）</small>

@@ -65,4 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485684&idx=
 
 我想我的写作，也应该慢一点。
 
-以上内容，是当前的我所能想到的关于我写作的全部了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485684&amp;idx=1&amp;sn=8989d933922a9d27883a6d8cf2c536ca&amp;chksm=a6c7641991b0ed0f52c633c037e32a459756a64f8f77212e11424968d7fca93f3a84ce068e0c" rel="noopener noreferrer">原文链接</a>）</small>
+以上内容，是当前的我所能想到的关于我写作的全部了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485684&amp;idx=1&amp;sn=8989d933922a9d27883a6d8cf2c536ca&amp;chksm=a6c7641991b0ed0f52c633c037e32a459756a64f8f77212e11424968d7fca93f3a84ce068e0c" rel="noopener noreferrer">原文链接</a>，更新于2023-08-20。）</small>

@@ -60,7 +60,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485059&idx=
 
 这一次，飞猪告诉我，航空公司已经于上个月将票款全额退到飞猪。
 
-飞猪即将把差额补退于我。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485059&amp;idx=1&amp;sn=08ad0cdce564382ebfd4e0f46e65fbec&amp;chksm=a6c76a6e91b0e3780760b8f551b44f3edd30db628843cfa0884359630dcbb2776e7ecf04e1d8" rel="noopener noreferrer">原文链接</a>）</small>
+飞猪即将把差额补退于我。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485059&amp;idx=1&amp;sn=08ad0cdce564382ebfd4e0f46e65fbec&amp;chksm=a6c76a6e91b0e3780760b8f551b44f3edd30db628843cfa0884359630dcbb2776e7ecf04e1d8" rel="noopener noreferrer">原文链接</a>，更新于2022-08-21。）</small>
 
   
 

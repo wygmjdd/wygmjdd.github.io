@@ -113,4 +113,4 @@ o了k，这就可以了。
 
   5. SQLiteSutdio，https://sqlitestudio.pl/
 
-  6. Python使用sqlite，https://docs.python.org/3.10/library/sqlite3.html?highlight=sqlite3#module-sqlite3 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484023&amp;idx=2&amp;sn=59123201490c4864d76bcbf7e94a460d&amp;chksm=a6c76e9a91b0e78c3fd4e78c7adf671aa311bfc96f2589f96503abfa48fe58486e0433dbc094" rel="noopener noreferrer">原文链接</a>）</small>
+  6. Python使用sqlite，https://docs.python.org/3.10/library/sqlite3.html?highlight=sqlite3#module-sqlite3 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484023&amp;idx=2&amp;sn=59123201490c4864d76bcbf7e94a460d&amp;chksm=a6c76e9a91b0e78c3fd4e78c7adf671aa311bfc96f2589f96503abfa48fe58486e0433dbc094" rel="noopener noreferrer">原文链接</a>，更新于2021-04-25。）</small>

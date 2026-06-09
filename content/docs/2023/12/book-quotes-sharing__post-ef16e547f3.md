@@ -89,4 +89,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485845&idx=
 > 
 > 事实上，如果我们把“治疗”的天地敞开，就可以想象，对自己有好处而没坏处的方法实在有很多。“吃喝拉撒睡”是，“晒太阳”是，“散步”也是。
 
-这些总结全放一起篇幅过长，作者分享的关于饮食的建议，我放在另外一篇，可直接由文末“合集”跳转。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485845&amp;idx=1&amp;sn=dd86fe50bb7979139e0514b9001af18d&amp;chksm=a6c7657891b0ec6e7088be66881b7a5e63c9533ac693c2cccd6747b8c0599fc994d9ffae8fec" rel="noopener noreferrer">原文链接</a>）</small>
+这些总结全放一起篇幅过长，作者分享的关于饮食的建议，我放在另外一篇，可直接由文末“合集”跳转。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485845&amp;idx=1&amp;sn=dd86fe50bb7979139e0514b9001af18d&amp;chksm=a6c7657891b0ec6e7088be66881b7a5e63c9533ac693c2cccd6747b8c0599fc994d9ffae8fec" rel="noopener noreferrer">原文链接</a>，更新于2023-12-02。）</small>

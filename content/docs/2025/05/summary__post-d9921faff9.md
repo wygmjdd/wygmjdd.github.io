@@ -66,4 +66,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486923&idx=
 
 这体验简单些说，是工作地点可以灵活选择，但工作事情很多时间上并不灵活；和同事们的沟通效率及干活效率并不降低；我的读书时间变少，工作内容让我不停学新东西，但缺少时间去做总结和整理。
 
-如果要给自己这份全新模式的工作体验打一打分，我会将这段还在持续的经历并列排名第二：还不错，但还可以变得更好些。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486923&amp;idx=1&amp;sn=361ca90c9733f9f0286e1d27d8354157&amp;chksm=a6c7612691b0e83063f5bf5fd34e74e7b12ec325eaf32e440ba1c9bdbbfe49047f363190d460" rel="noopener noreferrer">原文链接</a>）</small>
+如果要给自己这份全新模式的工作体验打一打分，我会将这段还在持续的经历并列排名第二：还不错，但还可以变得更好些。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486923&amp;idx=1&amp;sn=361ca90c9733f9f0286e1d27d8354157&amp;chksm=a6c7612691b0e83063f5bf5fd34e74e7b12ec325eaf32e440ba1c9bdbbfe49047f363190d460" rel="noopener noreferrer">原文链接</a>，更新于2025-05-06。）</small>

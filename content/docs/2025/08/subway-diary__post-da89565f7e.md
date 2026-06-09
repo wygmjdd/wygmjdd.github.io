@@ -155,4 +155,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487082&idx=
   
 
 
-我翻出《一千零一夜》看10分钟，将《甘于平凡的勇气》抛之脑后；今日如是。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487082&amp;idx=1&amp;sn=f88cec0879642b144dbb0c069437d1ad&amp;chksm=a6c7628791b0eb910cf6ab57975f40e626bc057ec9ddc077c3c98d0aa8bda6c3cf455d446100" rel="noopener noreferrer">原文链接</a>）</small>
+我翻出《一千零一夜》看10分钟，将《甘于平凡的勇气》抛之脑后；今日如是。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487082&amp;idx=1&amp;sn=f88cec0879642b144dbb0c069437d1ad&amp;chksm=a6c7628791b0eb910cf6ab57975f40e626bc057ec9ddc077c3c98d0aa8bda6c3cf455d446100" rel="noopener noreferrer">原文链接</a>，更新于2025-08-18。）</small>

@@ -214,4 +214,4 @@ Python 生成器将栈帧以及对一些代码的引用封装在一起。`gen_fn
 
 2、Frame Object的介绍：https://nanguage.gitbook.io/inside-python-vm-cn/6.-frames-objects
 
-3、`yield` 关键词的讲解，这里面有很多的大神清楚讲解：https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python/231855#231855 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485444&amp;idx=1&amp;sn=5f85cabba348964ddb89fa857a71f86e&amp;chksm=a6c764e991b0edff26de0723a958b74fb59b2864982e8d6de73059a0483dc6a1b3604b2a7b19" rel="noopener noreferrer">原文链接</a>）</small>
+3、`yield` 关键词的讲解，这里面有很多的大神清楚讲解：https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python/231855#231855 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485444&amp;idx=1&amp;sn=5f85cabba348964ddb89fa857a71f86e&amp;chksm=a6c764e991b0edff26de0723a958b74fb59b2864982e8d6de73059a0483dc6a1b3604b2a7b19" rel="noopener noreferrer">原文链接</a>，更新于2023-03-26。）</small>

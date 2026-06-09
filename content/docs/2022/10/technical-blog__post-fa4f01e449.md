@@ -516,4 +516,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485111&idx=
   1. 那篇超级厉害的博客：https://www.cnblogs.com/onepixel/p/7674659.html
   2. 维基百科希尔排序：https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F
   3. 分治法的介绍：https://blog.csdn.net/lemon_tree12138/article/details/48783535
-  4. 快速排序的介绍：https://zhuanlan.zhihu.com/p/93129029 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485111&amp;idx=2&amp;sn=7730e7806b5a75426a0dc8b14b03be71&amp;chksm=a6c76a5a91b0e34c0d64cc9bc9415bc19a16e6ce802d610f73f3fdbdafc19b8a1e59b9bc3f0c" rel="noopener noreferrer">原文链接</a>）</small>
+  4. 快速排序的介绍：https://zhuanlan.zhihu.com/p/93129029 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485111&amp;idx=2&amp;sn=7730e7806b5a75426a0dc8b14b03be71&amp;chksm=a6c76a5a91b0e34c0d64cc9bc9415bc19a16e6ce802d610f73f3fdbdafc19b8a1e59b9bc3f0c" rel="noopener noreferrer">原文链接</a>，更新于2022-10-02。）</small>

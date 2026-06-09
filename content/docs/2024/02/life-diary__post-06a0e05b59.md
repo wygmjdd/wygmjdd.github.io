@@ -156,4 +156,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486040&idx=
 
 “你看我，写了好长了哦。”
 
-剪完头发回家，路上忽然有感觉想要练一练对话，于是有了本篇。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486040&amp;idx=2&amp;sn=935729734564541b148d591ed95385b0&amp;chksm=a6c766b591b0efa399ee9639483cf208003c4275367a0943d973ce78a525977d85ada8ffa845" rel="noopener noreferrer">原文链接</a>）</small>
+剪完头发回家，路上忽然有感觉想要练一练对话，于是有了本篇。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486040&amp;idx=2&amp;sn=935729734564541b148d591ed95385b0&amp;chksm=a6c766b591b0efa399ee9639483cf208003c4275367a0943d973ce78a525977d85ada8ffa845" rel="noopener noreferrer">原文链接</a>，更新于2024-02-26。）</small>

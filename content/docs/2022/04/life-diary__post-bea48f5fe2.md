@@ -29,7 +29,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484690&idx=
 
 如果莫尼碰到的并非男主呢？是那个人贩子，或者是只想逃避责任的其他人？
 
-这世界，确实所有人都愿意帮助一下别人，但像男主一样的人，会很多么？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484690&amp;idx=2&amp;sn=0c8faa49c3f61a21002b43f220d38cc8&amp;chksm=a6c769ff91b0e0e95065c3dfa78e7be6db0171618a4281bb051e55b018f7984e0984cf3661b5" rel="noopener noreferrer">原文链接</a>）</small>
+这世界，确实所有人都愿意帮助一下别人，但像男主一样的人，会很多么？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484690&amp;idx=2&amp;sn=0c8faa49c3f61a21002b43f220d38cc8&amp;chksm=a6c769ff91b0e0e95065c3dfa78e7be6db0171618a4281bb051e55b018f7984e0984cf3661b5" rel="noopener noreferrer">原文链接</a>，更新于2022-04-10。）</small>
 
   
 

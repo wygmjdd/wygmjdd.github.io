@@ -75,4 +75,4 @@ source_url: https://mp.weixin.qq.com/s/th1k7un3ThPvTOJzH5B3VQ
 
 通体安闲、心神解放、了无挂碍、万物自得、天地皆春……
 
-我当然也体验过这自然的“解欲”过程，但从不能对它作出准确描述，直到此处。初次看见这片段的我的内心，只有“钦佩”心情，我想未来，那给予我“常读常新感受”的书籍清单，又多出一本《性心理学》。 <small>（<a href="https://mp.weixin.qq.com/s/th1k7un3ThPvTOJzH5B3VQ" rel="noopener noreferrer">原文链接</a>）</small>
+我当然也体验过这自然的“解欲”过程，但从不能对它作出准确描述，直到此处。初次看见这片段的我的内心，只有“钦佩”心情，我想未来，那给予我“常读常新感受”的书籍清单，又多出一本《性心理学》。 <small>（<a href="https://mp.weixin.qq.com/s/th1k7un3ThPvTOJzH5B3VQ" rel="noopener noreferrer">原文链接</a>，更新于2026-05-25。）</small>

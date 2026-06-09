@@ -37,6 +37,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485233&idx=
 
 本书的推荐语既对您说也对我自己说：“如果您喜欢听故事，《为奴十二年》是一本不可多得的故事书。作者在书中讲了他自己的故事，看过他的生活，您会发现自己活得还算不错。
 
-“如果看完依然认为自己的生活差些意思。请不要灰心，一切都会好起来的。真的！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485233&amp;idx=1&amp;sn=2131400b109af41d0e62c3bb78b27e05&amp;chksm=a6c76bdc91b0e2ca0ac3d10adb77fba2266fa896a92c004e9bd9b001b9a8dd5b139cf91aa9fd" rel="noopener noreferrer">原文链接</a>）</small>
+“如果看完依然认为自己的生活差些意思。请不要灰心，一切都会好起来的。真的！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485233&amp;idx=1&amp;sn=2131400b109af41d0e62c3bb78b27e05&amp;chksm=a6c76bdc91b0e2ca0ac3d10adb77fba2266fa896a92c004e9bd9b001b9a8dd5b139cf91aa9fd" rel="noopener noreferrer">原文链接</a>，更新于2022-12-12。）</small>
 
 ​​​​​​

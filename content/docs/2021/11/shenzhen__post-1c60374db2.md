@@ -23,7 +23,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484408&idx=
 
 聪聪的新小区，并不远，相距原处只5公里。聪聪跟我说，他的幸福感高了许多。房租便宜了，买菜便宜了，最重要的是，带小孩儿的去处多了许多，不再只有商场可以逛。
 
-新小区周围，有馆子将桌子摆到路边，有广场舞大妈，有围圈下棋的大爷……生活气息浓浓的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484408&amp;idx=1&amp;sn=29b96de53e02eaab72e4b2cccb5b93cc&amp;chksm=a6c76f1591b0e60375a2709df9ecdccf8b0945c5070178626f246e696263f7358f7fcdcd0aa4" rel="noopener noreferrer">原文链接</a>）</small>
+新小区周围，有馆子将桌子摆到路边，有广场舞大妈，有围圈下棋的大爷……生活气息浓浓的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484408&amp;idx=1&amp;sn=29b96de53e02eaab72e4b2cccb5b93cc&amp;chksm=a6c76f1591b0e60375a2709df9ecdccf8b0945c5070178626f246e696263f7358f7fcdcd0aa4" rel="noopener noreferrer">原文链接</a>，更新于2021-11-14。）</small>
 
   
 

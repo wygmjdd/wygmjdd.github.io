@@ -55,4 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485381&idx=
 
 > 总之，我的意思是很简单的：我们自动的读书，即嗜好的读书，请教别人是大抵无用，只好先行泛览，然后决择而入于自己所爱的较专的一门或几门；但专读书也有弊病，所以必须和实社会接触，使所读的书活起来。
 
-我想我的困境，应该源于“实社会接触”的减少，于是特此整理，向自己说明：**多读书是没错的，但读书同时，请一定别忘了勇敢真诚地去生活** 。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485381&amp;idx=1&amp;sn=41282d728ca35dcd2aa17f56f52afc9c&amp;chksm=a6c76b2891b0e23e57669c0f8b3da0e506d035eb1bc14c442bbfa29e2727b27024bf979aa4c3" rel="noopener noreferrer">原文链接</a>）</small>
+我想我的困境，应该源于“实社会接触”的减少，于是特此整理，向自己说明：**多读书是没错的，但读书同时，请一定别忘了勇敢真诚地去生活** 。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485381&amp;idx=1&amp;sn=41282d728ca35dcd2aa17f56f52afc9c&amp;chksm=a6c76b2891b0e23e57669c0f8b3da0e506d035eb1bc14c442bbfa29e2727b27024bf979aa4c3" rel="noopener noreferrer">原文链接</a>，更新于2023-03-12。）</small>

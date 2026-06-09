@@ -45,4 +45,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486344&idx=
 
 离开广州一个月，大家群内叫打球，阿照知道我已经离开依然@我：“龙队，到了么？人在哪里？”被记得的感觉真好。
 
-篮球，给予我快乐！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486344&amp;idx=1&amp;sn=e4f1efd01b7ebc454f8994a3d6b0871e&amp;chksm=a6c7676591b0ee7321ba9dc5ee91ecd0504e3878a2d833dd3709ada023107c2329b3edf70031" rel="noopener noreferrer">原文链接</a>）</small>
+篮球，给予我快乐！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486344&amp;idx=1&amp;sn=e4f1efd01b7ebc454f8994a3d6b0871e&amp;chksm=a6c7676591b0ee7321ba9dc5ee91ecd0504e3878a2d833dd3709ada023107c2329b3edf70031" rel="noopener noreferrer">原文链接</a>，更新于2024-07-21。）</small>

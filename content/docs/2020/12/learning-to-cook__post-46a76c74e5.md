@@ -75,4 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483831&idx=
 
 我喜欢自己煮面吃。一直想煮出老妈、老妹煮的面条味道，但这些年来，似乎味道越来越不如自己的意。许多步骤都凭感觉操作，似乎胸中自有丘壑。到整理时刻，问自己，为什么放那么多？只能答“凭感觉”。而，王刚与小高姐的视频中的各个食材、佐料（作料）都是定量的。
 
-煮面的第二天，去到一位姑姑家中，她煮的面条超级好吃。当时我觉得时间比较晚、不饿，就控制自己只喝了面汤，后面想起来，好后悔。下次煮面前，再请教一下。![图片](/images/wechat/46a76c74e5cd/006.png) <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483831&amp;idx=2&amp;sn=fcc430a0c6016bce239f8b65dba1def8&amp;chksm=a6c76d5a91b0e44c8ac5222d761490486d8274fd47813398afa865e9ce1c1d5b966ef38c7b18" rel="noopener noreferrer">原文链接</a>）</small>
+煮面的第二天，去到一位姑姑家中，她煮的面条超级好吃。当时我觉得时间比较晚、不饿，就控制自己只喝了面汤，后面想起来，好后悔。下次煮面前，再请教一下。![图片](/images/wechat/46a76c74e5cd/006.png) <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483831&amp;idx=2&amp;sn=fcc430a0c6016bce239f8b65dba1def8&amp;chksm=a6c76d5a91b0e44c8ac5222d761490486d8274fd47813398afa865e9ce1c1d5b966ef38c7b18" rel="noopener noreferrer">原文链接</a>，更新于2020-12-20。）</small>

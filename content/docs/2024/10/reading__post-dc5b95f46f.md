@@ -54,4 +54,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486554&idx=
 
 以上。
 
-我认为每一本书，都让我受益匪浅。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486554&amp;idx=1&amp;sn=06d250470ca8e4f93e414c29318d68ce&amp;chksm=a6c760b791b0e9a1f78109eb9c7a7a6bd3d3af16258e085bf6ad95da9f03eefc716ae06ab442" rel="noopener noreferrer">原文链接</a>）</small>
+我认为每一本书，都让我受益匪浅。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486554&amp;idx=1&amp;sn=06d250470ca8e4f93e414c29318d68ce&amp;chksm=a6c760b791b0e9a1f78109eb9c7a7a6bd3d3af16258e085bf6ad95da9f03eefc716ae06ab442" rel="noopener noreferrer">原文链接</a>，更新于2024-10-27。）</small>

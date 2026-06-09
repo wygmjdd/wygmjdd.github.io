@@ -55,4 +55,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485766&idx=
 
 人生路并不平坦，有峰峦起伏是正常的。
 
-本书的推荐语，我不知道怎样写，于是本篇笔记只到此处。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485766&amp;idx=1&amp;sn=e3217aa25e45ee999f37c9780a9d576a&amp;chksm=a6c765ab91b0ecbd35cefd813a55e15a7656beccb3282f61d599a47a2f884702a5ac54126c5b" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语，我不知道怎样写，于是本篇笔记只到此处。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485766&amp;idx=1&amp;sn=e3217aa25e45ee999f37c9780a9d576a&amp;chksm=a6c765ab91b0ecbd35cefd813a55e15a7656beccb3282f61d599a47a2f884702a5ac54126c5b" rel="noopener noreferrer">原文链接</a>，更新于2023-10-22。）</small>

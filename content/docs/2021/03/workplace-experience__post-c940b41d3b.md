@@ -60,4 +60,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483936&idx=
 
 这一段不错的经历，在当时被我记录下来，让我可以对比自己前后的变化。明显的，现在的许多观点，已经和当年不太一样。
 
-我猜，或许再过许多年，很多观点又会再起变化，拭目以待。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483936&amp;idx=1&amp;sn=d38ea2f330e1ed4cd25b1eb4465aa833&amp;chksm=a6c76ecd91b0e7dbbb591c12d0f0ae86310898cfda7e2bda4a5c78d328ee44bcb99f1127f970" rel="noopener noreferrer">原文链接</a>）</small>
+我猜，或许再过许多年，很多观点又会再起变化，拭目以待。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483936&amp;idx=1&amp;sn=d38ea2f330e1ed4cd25b1eb4465aa833&amp;chksm=a6c76ecd91b0e7dbbb591c12d0f0ae86310898cfda7e2bda4a5c78d328ee44bcb99f1127f970" rel="noopener noreferrer">原文链接</a>，更新于2021-03-07。）</small>

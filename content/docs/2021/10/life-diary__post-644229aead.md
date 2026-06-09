@@ -53,7 +53,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484344&idx=
 
 国庆第10天，带着不舍，再回第一世界（飞机再次延误……发布时刻还未出发，希望到深圳不会太晚）。
 
-工作是收入的来源，生活是工作的目标，放松是心态的调整，这所有世界，对我来说，缺一不可。我会在深圳想念，国庆的每一天。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484344&amp;idx=1&amp;sn=ecee59226b6de455f545a290a3e0aab1&amp;chksm=a6c76f5591b0e643a8502c89cc5dcbbd96fa2480abdd84e4c00241c8b2a4b62fe1a2dce4dc61" rel="noopener noreferrer">原文链接</a>）</small>
+工作是收入的来源，生活是工作的目标，放松是心态的调整，这所有世界，对我来说，缺一不可。我会在深圳想念，国庆的每一天。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484344&amp;idx=1&amp;sn=ecee59226b6de455f545a290a3e0aab1&amp;chksm=a6c76f5591b0e643a8502c89cc5dcbbd96fa2480abdd84e4c00241c8b2a4b62fe1a2dce4dc61" rel="noopener noreferrer">原文链接</a>，更新于2021-10-10。）</small>
 
   
 

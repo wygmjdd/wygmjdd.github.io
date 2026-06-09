@@ -68,7 +68,7 @@ Git有一个叫做Graph的功能，可以看到分支的演变
 
 作为从Svn转过来的新手，是一直带着疑惑在使用的。为什么使用Git比Svn麻烦这么多，还被称为比Svn好用呢？大家都说Git比Svn好，真的是这样的么？为什么Git要分两步提交呢？为什么Git提交之前不先检测是否与服务器上有冲突呢？merge是真的不推荐使用的么？Git项目中可以加入公共分支么？
 
-如此多的问题，谨以此文，督促自己，持续学习…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484280&amp;idx=2&amp;sn=feb9b4a6cae75a420b03138cc25a34b0&amp;chksm=a6c76f9591b0e6837f9fe7206b1337d1f0b31ad7ff769b9356ac5286dc1cc925f88547612b03" rel="noopener noreferrer">原文链接</a>）</small>
+如此多的问题，谨以此文，督促自己，持续学习…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484280&amp;idx=2&amp;sn=feb9b4a6cae75a420b03138cc25a34b0&amp;chksm=a6c76f9591b0e6837f9fe7206b1337d1f0b31ad7ff769b9356ac5286dc1cc925f88547612b03" rel="noopener noreferrer">原文链接</a>，更新于2021-09-12。）</small>
 
   
 

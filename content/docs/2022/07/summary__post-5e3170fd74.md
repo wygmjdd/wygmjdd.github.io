@@ -40,6 +40,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484955&idx=
 
 相较两年前，我对生存对工作，确实是增加不少信心的，我相信我的习惯，我的小步伐，能让我看出生命的力量。
 
-且再延续三五年，看看。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484955&amp;idx=1&amp;sn=b0a6b0619e2cf11e6da321dc462ce0a1&amp;chksm=a6c76af691b0e3e05853d69a9df49105bc6822f00e4357bf8f87961864bc7dd98579f36ff52c" rel="noopener noreferrer">原文链接</a>）</small>
+且再延续三五年，看看。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484955&amp;idx=1&amp;sn=b0a6b0619e2cf11e6da321dc462ce0a1&amp;chksm=a6c76af691b0e3e05853d69a9df49105bc6822f00e4357bf8f87961864bc7dd98579f36ff52c" rel="noopener noreferrer">原文链接</a>，更新于2022-07-24。）</small>
 
 * * *

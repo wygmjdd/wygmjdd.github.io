@@ -61,4 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486458&idx=
 
 > GPT-3冒充我写的那些文字我并不全同意。但其中有一句话我完全认可：“我们生活在由和我们非常不同的人在我们出生很久以前发明的思想牢狱之中。”在我看来，像我这样的历史学家的工作是展示这些思想牢狱是如何建造起来的，并表明我们并非注定关在其中无法逃脱。人是讲故事的动物；没有故事，人类社会就无法运作。但归根结底，这些故事不过是我们为了帮助人而创造出来的工具。如果一个故事造成的弊大于利，我们总可以把它改掉。
 
-未来，当我拥有足够大书架那天，我会将纸质版《人类简史》买回家，在闲暇时间，再翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486458&amp;idx=1&amp;sn=5f6d0b5fbe7407980ab4eeda84d2511b&amp;chksm=a6c7671791b0ee01c40edb0bc8e438623ac9af6fac075a4ffbed5ae9baabd56cb74e3516780a" rel="noopener noreferrer">原文链接</a>）</small>
+未来，当我拥有足够大书架那天，我会将纸质版《人类简史》买回家，在闲暇时间，再翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486458&amp;idx=1&amp;sn=5f6d0b5fbe7407980ab4eeda84d2511b&amp;chksm=a6c7671791b0ee01c40edb0bc8e438623ac9af6fac075a4ffbed5ae9baabd56cb74e3516780a" rel="noopener noreferrer">原文链接</a>，更新于2024-09-17。）</small>

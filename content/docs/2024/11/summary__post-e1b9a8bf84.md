@@ -100,4 +100,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486633&idx=
 
 \--
 
-看书，只是一个爱好，它是属于我的养成游戏。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486633&amp;idx=1&amp;sn=cc765527fab08d7f7aa67259ce095ed5&amp;chksm=a6c7604491b0e95236b7fc9acbd97e92108e4ba6e9f84932d68942b6e024731ece6b2275e2dd" rel="noopener noreferrer">原文链接</a>）</small>
+看书，只是一个爱好，它是属于我的养成游戏。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486633&amp;idx=1&amp;sn=cc765527fab08d7f7aa67259ce095ed5&amp;chksm=a6c7604491b0e95236b7fc9acbd97e92108e4ba6e9f84932d68942b6e024731ece6b2275e2dd" rel="noopener noreferrer">原文链接</a>，更新于2024-11-18。）</small>

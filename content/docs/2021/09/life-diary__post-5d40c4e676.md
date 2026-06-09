@@ -70,7 +70,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484267&idx=
 
 ![图片](/images/wechat/5d40c4e67625/003.jpg)
 
-好吃的自制糟辣子腌鸡爪 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484267&amp;idx=1&amp;sn=ef5a5209b8646423ff25111b8509d56d&amp;chksm=a6c76f8691b0e690f20d3a1a9364a2546e3d2273842d0af1882b6f9fc15640dcaf357d21bc9a" rel="noopener noreferrer">原文链接</a>）</small>
+好吃的自制糟辣子腌鸡爪 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484267&amp;idx=1&amp;sn=ef5a5209b8646423ff25111b8509d56d&amp;chksm=a6c76f8691b0e690f20d3a1a9364a2546e3d2273842d0af1882b6f9fc15640dcaf357d21bc9a" rel="noopener noreferrer">原文链接</a>，更新于2021-09-05。）</small>
 
   
 

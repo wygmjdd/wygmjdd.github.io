@@ -46,4 +46,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486302&idx=
 <figcaption>保持个人健康的10个步骤</figcaption>
 </figure>
 
-愿我们，都健康且幸福，且拥有一颗追逐幸福的心。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486302&amp;idx=1&amp;sn=cfd51e593ba216ef28ea4cf998d1aebb&amp;chksm=a6c767b391b0eea54bc3fb2092d723f258e032dacece1cbb84b601415411b8fed1ccaded146f" rel="noopener noreferrer">原文链接</a>）</small>
+愿我们，都健康且幸福，且拥有一颗追逐幸福的心。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486302&amp;idx=1&amp;sn=cfd51e593ba216ef28ea4cf998d1aebb&amp;chksm=a6c767b391b0eea54bc3fb2092d723f258e032dacece1cbb84b601415411b8fed1ccaded146f" rel="noopener noreferrer">原文链接</a>，更新于2024-06-23。）</small>

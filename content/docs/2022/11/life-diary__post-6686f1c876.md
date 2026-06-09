@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485171&idx=
 
 先这样吧，我得去写《一个瑜伽行者的自传》的读书笔记了。是的，今年看书很多，已经连着好几周都需要写读书笔记，我是否应该慢一点呢？
 
-祝生活愉快，就像现在一样。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485171&amp;idx=1&amp;sn=836b699e218223c136b94a7a6e1029f1&amp;chksm=a6c76a1e91b0e3080f47f8ac54d83b73257a5cfc46d8a5521cf272f28c083011bb54912ca345" rel="noopener noreferrer">原文链接</a>）</small>
+祝生活愉快，就像现在一样。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485171&amp;idx=1&amp;sn=836b699e218223c136b94a7a6e1029f1&amp;chksm=a6c76a1e91b0e3080f47f8ac54d83b73257a5cfc46d8a5521cf272f28c083011bb54912ca345" rel="noopener noreferrer">原文链接</a>，更新于2022-11-06。）</small>

@@ -177,4 +177,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487030&idx=
 
 今天有把自己的闲置显示器带到公司，用大屏敲代码，爽歪歪的。为这大屏，我新买一个显示器支架。
 
-它正在路上。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487030&amp;idx=1&amp;sn=aa609ff6938334d2e6ccbee51152258e&amp;chksm=a6c762db91b0ebcd48a2ad5c5d3856656ef01ccd9054b31abb507d4ec17988779aedbdc18628" rel="noopener noreferrer">原文链接</a>）</small>
+它正在路上。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487030&amp;idx=1&amp;sn=aa609ff6938334d2e6ccbee51152258e&amp;chksm=a6c762db91b0ebcd48a2ad5c5d3856656ef01ccd9054b31abb507d4ec17988779aedbdc18628" rel="noopener noreferrer">原文链接</a>，更新于2025-07-12。）</small>

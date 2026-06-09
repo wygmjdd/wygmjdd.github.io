@@ -89,4 +89,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486161&idx=
 
 我转头对自己说：“有了印记，待到用时再翻书。”
 
-本书的推荐语为：“性能分析，是软件开发中必须要考虑的事情。如何考虑，怎样分析性能瓶颈，都可以在《深入理解软件性能》中找到具体的实施方法，测量、观察再推理，找到性能的瓶颈点，然后再修改。软件，会快起来的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486161&amp;idx=1&amp;sn=0f8abfe5d1034c0fd5894a27d6cec5fb&amp;chksm=a6c7663c91b0ef2adf56e986989ce8ceb196e09f94ebbfc5cf06defecbb4276f5f8eaa46204d" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语为：“性能分析，是软件开发中必须要考虑的事情。如何考虑，怎样分析性能瓶颈，都可以在《深入理解软件性能》中找到具体的实施方法，测量、观察再推理，找到性能的瓶颈点，然后再修改。软件，会快起来的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486161&amp;idx=1&amp;sn=0f8abfe5d1034c0fd5894a27d6cec5fb&amp;chksm=a6c7663c91b0ef2adf56e986989ce8ceb196e09f94ebbfc5cf06defecbb4276f5f8eaa46204d" rel="noopener noreferrer">原文链接</a>，更新于2024-04-21。）</small>

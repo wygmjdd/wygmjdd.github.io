@@ -51,4 +51,4 @@ CR有另外一条养成路线，一个月内，这条线上的皇冠累积数量
 
 CR此前待在手机中四五年，我们一直相安无事，它不见我，我也不见它。怎么现在又出来纠缠我了呢？
 
-我没有准确答案，没有好的解决方案，只暂时记下最近半个月的沉迷。因为处理问题的步骤，是先意识到问题存在，再定位问题原因，最后出解决方案。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487161&amp;idx=1&amp;sn=97d19115b91dc5cb47e57f621e5cb537&amp;chksm=a6c7625491b0eb4257efd7b32b9e399a9ae54965c9de3b4ee0abf9206addf0f06ec8d729b424" rel="noopener noreferrer">原文链接</a>）</small>
+我没有准确答案，没有好的解决方案，只暂时记下最近半个月的沉迷。因为处理问题的步骤，是先意识到问题存在，再定位问题原因，最后出解决方案。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487161&amp;idx=1&amp;sn=97d19115b91dc5cb47e57f621e5cb537&amp;chksm=a6c7625491b0eb4257efd7b32b9e399a9ae54965c9de3b4ee0abf9206addf0f06ec8d729b424" rel="noopener noreferrer">原文链接</a>，更新于2025-09-15。）</small>

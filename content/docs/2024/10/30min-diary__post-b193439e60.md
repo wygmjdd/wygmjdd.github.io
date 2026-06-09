@@ -74,4 +74,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486534&idx=
 
 今天写日记，没有逼自己。
 
-有一点进步的是，现在时间为晚间11点15分，我能比昨天早些睡觉，真好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486534&amp;idx=1&amp;sn=7310daeb935be8de8ee23f58866f3fa9&amp;chksm=a6c760ab91b0e9bdc512a7acee329bbd763217bf07cca99666304c7b8dc11372538bec4f0c49" rel="noopener noreferrer">原文链接</a>）</small>
+有一点进步的是，现在时间为晚间11点15分，我能比昨天早些睡觉，真好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486534&amp;idx=1&amp;sn=7310daeb935be8de8ee23f58866f3fa9&amp;chksm=a6c760ab91b0e9bdc512a7acee329bbd763217bf07cca99666304c7b8dc11372538bec4f0c49" rel="noopener noreferrer">原文链接</a>，更新于2024-10-23。）</small>

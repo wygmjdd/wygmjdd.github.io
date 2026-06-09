@@ -61,4 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486986&idx=
 
 以上，是我听完《未来简史》后收获的信息，它并不像《人类简史》那样，给予我一种很是底层——我的除开吃饱穿暖睡好之外的一切渴望都来源于某种故事——的认知改变。
 
-它给予我的，是另一种自己已经感受到的体验：“历史唯一不变的事实，就是一切都会改变。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486986&amp;idx=1&amp;sn=16b589de93837640f234e24d8ed9ac78&amp;chksm=a6c762e791b0ebf1078c1b3f750c8254a43c8bf2d773c84f384e746e3784722a90bbea0181e4" rel="noopener noreferrer">原文链接</a>）</small>
+它给予我的，是另一种自己已经感受到的体验：“历史唯一不变的事实，就是一切都会改变。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486986&amp;idx=1&amp;sn=16b589de93837640f234e24d8ed9ac78&amp;chksm=a6c762e791b0ebf1078c1b3f750c8254a43c8bf2d773c84f384e746e3784722a90bbea0181e4" rel="noopener noreferrer">原文链接</a>，更新于2025-06-08。）</small>

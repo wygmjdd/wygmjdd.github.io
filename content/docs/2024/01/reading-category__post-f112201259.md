@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485970&idx=
 
 看小说的速度很快，阅读本书时的即时感想很少，于是本篇读书笔记只到此处。
 
-读完《雍正王朝》，我的最大收获，大概是终于知道“四阿哥”是谁了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485970&amp;idx=1&amp;sn=bc22058d517a775604fbd711c032a146&amp;chksm=a6c766ff91b0efe9839e7ee3c4a478073a2a1a04781612e7b4da3529bebb42f5cffb80f367ac" rel="noopener noreferrer">原文链接</a>）</small>
+读完《雍正王朝》，我的最大收获，大概是终于知道“四阿哥”是谁了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485970&amp;idx=1&amp;sn=bc22058d517a775604fbd711c032a146&amp;chksm=a6c766ff91b0efe9839e7ee3c4a478073a2a1a04781612e7b4da3529bebb42f5cffb80f367ac" rel="noopener noreferrer">原文链接</a>，更新于2024-01-29。）</small>

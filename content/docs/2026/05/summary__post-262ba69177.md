@@ -47,4 +47,4 @@ source_url: https://mp.weixin.qq.com/s/-oxvcsE4emxZ24vrnbZlrg
 
 整理此篇到此处，正想结尾的我忽然想起，一季度我心理上有多出一个很果断想法，果断想法在此处被删去，因为“还未执行的行动且不要记录”。
 
-总之是，26年第1季度的我的生活，一切依然平常着。 <small>（<a href="https://mp.weixin.qq.com/s/-oxvcsE4emxZ24vrnbZlrg" rel="noopener noreferrer">原文链接</a>）</small>
+总之是，26年第1季度的我的生活，一切依然平常着。 <small>（<a href="https://mp.weixin.qq.com/s/-oxvcsE4emxZ24vrnbZlrg" rel="noopener noreferrer">原文链接</a>，更新于2026-05-11。）</small>

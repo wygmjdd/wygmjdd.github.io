@@ -79,4 +79,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485786&idx=
 
 “开复老师希望用他的人生经验供当代年轻人参考，《世界因你不同：李开复自传》便是开复老师人生经验的汇集之处。
 
-“阅读本书，会拓宽我们的视野。即便世界很大，我们依然可以通过自己的努力‘让世界因我不同’。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485786&amp;idx=1&amp;sn=26abb1325cfe853f36dcffd7436f0084&amp;chksm=a6c765b791b0eca17951406779a65a55c744b12adf329d263580909bf3658735d4f359093a48" rel="noopener noreferrer">原文链接</a>）</small>
+“阅读本书，会拓宽我们的视野。即便世界很大，我们依然可以通过自己的努力‘让世界因我不同’。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485786&amp;idx=1&amp;sn=26abb1325cfe853f36dcffd7436f0084&amp;chksm=a6c765b791b0eca17951406779a65a55c744b12adf329d263580909bf3658735d4f359093a48" rel="noopener noreferrer">原文链接</a>，更新于2023-11-05。）</small>

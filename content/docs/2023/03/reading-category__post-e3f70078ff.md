@@ -40,4 +40,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485390&idx=
 
 > 至于你，小兄弟，你也会来的。因为即便光阴不复返，日子一天天过去，南方依旧在等着你。在无法挽回的时光逝去之前，听从召唤，冒一次险吧！只需‘砰’的一声关上门，高高兴兴地向前迈出一步，你就告别旧生活，跨入新生活了！然后，在某一天，很久很久以后的某一天，杯中的酒干了，好戏演完了，如果愿意，你再慢悠悠地回到家里，坐在这条安静的河边，用一大堆精彩的回忆款待朋友们。
 
-能带着故事款待朋友，是我对未来的追求。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485390&amp;idx=1&amp;sn=bb8b3e5f66894135cc055a1ddf44ed33&amp;chksm=a6c76b2391b0e23512b4ced649559bbec35c669544a1243ed7795bf3c17dddd16946d26e98cd" rel="noopener noreferrer">原文链接</a>）</small>
+能带着故事款待朋友，是我对未来的追求。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485390&amp;idx=1&amp;sn=bb8b3e5f66894135cc055a1ddf44ed33&amp;chksm=a6c76b2391b0e23512b4ced649559bbec35c669544a1243ed7795bf3c17dddd16946d26e98cd" rel="noopener noreferrer">原文链接</a>，更新于2023-03-13。）</small>

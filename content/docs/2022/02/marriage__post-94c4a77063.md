@@ -41,7 +41,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484590&idx=
 
 这让我感受到老板、老板娘的耿直、豪爽、负责。
 
-如果有机会，我是很愿意将身边需要买喜糖的好友介绍给他们的。（当天主要逛了4楼，每一家都看过，最终选定他们家，不止是上面所说的巧合，更多的是性格，是一种面对面交流的即时感受。阿妮在另外一家选好重庆版本喜糖，下单之前，我尝试与老板砍砍价，老板回应我一种爱买不买、不买滚蛋的态度。我们将疲惫赶走，在另外一家重新选定。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484590&amp;idx=1&amp;sn=a72d0320ad305751966fd75b30b02568&amp;chksm=a6c7684391b0e1559580fc2dd4f72834f9fd7ea2bab4dd11bf4345b1ce2ef5c64afc3d033ed4" rel="noopener noreferrer">原文链接</a>）</small>
+如果有机会，我是很愿意将身边需要买喜糖的好友介绍给他们的。（当天主要逛了4楼，每一家都看过，最终选定他们家，不止是上面所说的巧合，更多的是性格，是一种面对面交流的即时感受。阿妮在另外一家选好重庆版本喜糖，下单之前，我尝试与老板砍砍价，老板回应我一种爱买不买、不买滚蛋的态度。我们将疲惫赶走，在另外一家重新选定。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484590&amp;idx=1&amp;sn=a72d0320ad305751966fd75b30b02568&amp;chksm=a6c7684391b0e1559580fc2dd4f72834f9fd7ea2bab4dd11bf4345b1ce2ef5c64afc3d033ed4" rel="noopener noreferrer">原文链接</a>，更新于2022-02-27。）</small>
 
   
 

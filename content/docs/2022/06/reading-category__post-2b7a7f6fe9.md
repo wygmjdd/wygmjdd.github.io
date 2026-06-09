@@ -27,7 +27,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484824&idx=
 
 > 一直以来我都坚信如果一个受过‍训练的学生可以避免再次犯同样的错误——不管是技术上还是心理上——他就可以成为某个领域的佼佼者。第十章：寻找更强大的对手
 
-找到错误，通过训练，避免错误，于是便能进步。我想我的“台球”，会越打越好的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484824&amp;idx=1&amp;sn=248e953335962f291844655ce0afdc2f&amp;chksm=a6c7697591b0e0636abbb484daa60fc15d446a3abe4ddbbf6bb70ed3304e39290710cfa685ba" rel="noopener noreferrer">原文链接</a>）</small>
+找到错误，通过训练，避免错误，于是便能进步。我想我的“台球”，会越打越好的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484824&amp;idx=1&amp;sn=248e953335962f291844655ce0afdc2f&amp;chksm=a6c7697591b0e0636abbb484daa60fc15d446a3abe4ddbbf6bb70ed3304e39290710cfa685ba" rel="noopener noreferrer">原文链接</a>，更新于2022-06-13。）</small>
 
 
   

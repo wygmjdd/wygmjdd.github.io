@@ -41,4 +41,4 @@ Grok还对我说，cursor也可以安装superpowers。
 
 验证需要先下载另一个插件，等待过程中我又想着将今天下午的体验做一下小小记录：我这两小时内的心情，是又一次的激动与满足。原来之前我确实，只是在用cursor古法编程。
 
-要用好工具，依然是需要花心思的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487606&amp;idx=1&amp;sn=f8096a11f9b72cf45ae93de612d483de&amp;chksm=a6c77c9b91b0f58d00f3d96f7f42931b7fc67abc99e6427cbb46d31c75061fe5dacedfda77fa" rel="noopener noreferrer">原文链接</a>）</small>
+要用好工具，依然是需要花心思的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487606&amp;idx=1&amp;sn=f8096a11f9b72cf45ae93de612d483de&amp;chksm=a6c77c9b91b0f58d00f3d96f7f42931b7fc67abc99e6427cbb46d31c75061fe5dacedfda77fa" rel="noopener noreferrer">原文链接</a>，更新于2026-03-14。）</small>

@@ -75,4 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487135&idx=
   
 
 
-然而，最终不论是有形的还是无形的，最好的支持是这样的：它能够表明朋友认真理解和关心我们的需求，从而对我们的需求做出回应(Maisel & Gable, 2009)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487135&amp;idx=1&amp;sn=00bbaf2288f3b569c022ed5c9a304252&amp;chksm=a6c7627291b0eb64f72d955dda549130fb0576221016264843abe94a52b84bf54d5669b2bd84" rel="noopener noreferrer">原文链接</a>）</small>
+然而，最终不论是有形的还是无形的，最好的支持是这样的：它能够表明朋友认真理解和关心我们的需求，从而对我们的需求做出回应(Maisel & Gable, 2009)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487135&amp;idx=1&amp;sn=00bbaf2288f3b569c022ed5c9a304252&amp;chksm=a6c7627291b0eb64f72d955dda549130fb0576221016264843abe94a52b84bf54d5669b2bd84" rel="noopener noreferrer">原文链接</a>，更新于2025-09-02。）</small>

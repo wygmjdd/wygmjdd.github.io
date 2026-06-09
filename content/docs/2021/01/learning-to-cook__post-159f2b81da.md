@@ -69,4 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483874&idx=
 
 2、记得老家每次酒席，骨头汤中最受欢迎的就是萝卜，大厨们都会提前将萝卜焯水。
 
-3、汤的味道有一点轻微的涩。下次少放一点姜片试试看。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483874&amp;idx=1&amp;sn=ceeec9e1240df0bd2b20dcae912cb779&amp;chksm=a6c76d0f91b0e419c2717460f7935e471542af2848b559f7c24330a18ba51b28ddda7b5d35dc" rel="noopener noreferrer">原文链接</a>）</small>
+3、汤的味道有一点轻微的涩。下次少放一点姜片试试看。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483874&amp;idx=1&amp;sn=ceeec9e1240df0bd2b20dcae912cb779&amp;chksm=a6c76d0f91b0e419c2717460f7935e471542af2848b559f7c24330a18ba51b28ddda7b5d35dc" rel="noopener noreferrer">原文链接</a>，更新于2021-01-24。）</small>

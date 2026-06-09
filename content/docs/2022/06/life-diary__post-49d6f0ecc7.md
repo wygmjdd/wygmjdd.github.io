@@ -37,7 +37,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484817&idx=
 
 早上打完球，收到吴叔的回复：“哈哈，你直接复制过去就行啦。不合适的内容删掉或者改正就可以了。”
 
-周五，是吴叔的内容搬运，是诗与远方的畅想。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484817&amp;idx=2&amp;sn=022d2b7ddf28ffbbbd356502a32cfc5f&amp;chksm=a6c7697c91b0e06a0c6d92a045e56ed11a3095b2257de15eff7b866327c7c58d66c93ac9a5eb" rel="noopener noreferrer">原文链接</a>）</small>
+周五，是吴叔的内容搬运，是诗与远方的畅想。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484817&amp;idx=2&amp;sn=022d2b7ddf28ffbbbd356502a32cfc5f&amp;chksm=a6c7697c91b0e06a0c6d92a045e56ed11a3095b2257de15eff7b866327c7c58d66c93ac9a5eb" rel="noopener noreferrer">原文链接</a>，更新于2022-06-12。）</small>
 
   
 

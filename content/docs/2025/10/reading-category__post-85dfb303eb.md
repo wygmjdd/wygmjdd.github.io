@@ -33,4 +33,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487330&idx=
 
 《我的老师沈从文》，有在西南联大教书的沈从文，有不喜欢打牌的沈从文，有喜欢收藏美术品的沈从文，有沈从文的朋友，还有沈从文的教育理念——耐烦与尊重。
 
-汪曾祺先生对沈从文先生说：“你是一个抒情的人道主义者。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487330&amp;idx=1&amp;sn=ae49ac0abf9984c051faf259660b148a&amp;chksm=a6c7638f91b0ea999b54f5387778312b5d23f3c59bba36535aa3dcb6d78efd794a0dcfbfaa76" rel="noopener noreferrer">原文链接</a>）</small>
+汪曾祺先生对沈从文先生说：“你是一个抒情的人道主义者。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487330&amp;idx=1&amp;sn=ae49ac0abf9984c051faf259660b148a&amp;chksm=a6c7638f91b0ea999b54f5387778312b5d23f3c59bba36535aa3dcb6d78efd794a0dcfbfaa76" rel="noopener noreferrer">原文链接</a>，更新于2025-10-11。）</small>

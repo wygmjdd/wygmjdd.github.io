@@ -76,7 +76,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484155&idx=
 
 
 
-师傅早上10点多出门，快到12点：“钢板板够咯，下叫就还差点，不过快了。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484155&amp;idx=2&amp;sn=68263fa98ca93e8bd507d992483eddac&amp;chksm=a6c76e1691b0e70031c6915e2edb508abb1f90f40acaea2f06fe5ead451874f9d5233ccaa6a0" rel="noopener noreferrer">原文链接</a>）</small>
+师傅早上10点多出门，快到12点：“钢板板够咯，下叫就还差点，不过快了。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484155&amp;idx=2&amp;sn=68263fa98ca93e8bd507d992483eddac&amp;chksm=a6c76e1691b0e70031c6915e2edb508abb1f90f40acaea2f06fe5ead451874f9d5233ccaa6a0" rel="noopener noreferrer">原文链接</a>，更新于2021-06-20。）</small>
 
   
 

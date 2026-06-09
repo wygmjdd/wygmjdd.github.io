@@ -59,4 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486453&idx=
 
 吃过午饭，我帮着收收桌子。
 
-郑家爷爷在树荫下继续划篾。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486453&amp;idx=1&amp;sn=1d0067f79e407a940ae53bc00cbc83d1&amp;chksm=a6c7671891b0ee0eea72b69234f7da90ecab167a2837113ea9da7a5705d3ab38101f40bdaba9" rel="noopener noreferrer">原文链接</a>）</small>
+郑家爷爷在树荫下继续划篾。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486453&amp;idx=1&amp;sn=1d0067f79e407a940ae53bc00cbc83d1&amp;chksm=a6c7671891b0ee0eea72b69234f7da90ecab167a2837113ea9da7a5705d3ab38101f40bdaba9" rel="noopener noreferrer">原文链接</a>，更新于2024-09-15。）</small>

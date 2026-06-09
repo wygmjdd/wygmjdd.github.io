@@ -53,7 +53,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484942&idx=
 > 
 > 哲人：首先，行为方面的目标有“自立”和“与社会和谐共处”这两点。而且，支撑这种行为的心理方面的目标是“我有能力”以及“人人都是我的伙伴”这两种意识。
 
-> 首先，人际关系的起点是“课题分离”，终点是“共同体感觉”。而且，共同体感觉是指“把他人看成朋友，并在其中能够感受到有自己的位置”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484942&amp;idx=1&amp;sn=c18bf5e524fa8369d035f66f158c3e50&amp;chksm=a6c76ae391b0e3f50eb0681cf6ee4d65949280f46244354f02bcaf4d35f8702849ac310b9b71" rel="noopener noreferrer">原文链接</a>）</small>
+> 首先，人际关系的起点是“课题分离”，终点是“共同体感觉”。而且，共同体感觉是指“把他人看成朋友，并在其中能够感受到有自己的位置”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484942&amp;idx=1&amp;sn=c18bf5e524fa8369d035f66f158c3e50&amp;chksm=a6c76ae391b0e3f50eb0681cf6ee4d65949280f46244354f02bcaf4d35f8702849ac310b9b71" rel="noopener noreferrer">原文链接</a>，更新于2022-07-18。）</small>
 
   
 

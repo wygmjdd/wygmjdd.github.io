@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485892&idx=
 
 2023年的倒数第二个周末，我在学校度过，每个上午下午，我都拥有完整的不被手机“打搅”的3小时，这样的3小时，可以看许多文章做许多思考写许多文字。这新的体验对我说：“原来你，是可以连续3小时不看手机的。”
 
-这个周末，要么在考研，要么在考研的路上，于是本篇更新，是周日晚间，急急赶出来记我的裸考周末的：我的人生经历，又丰富了些；我想我，知道完整考研流程是怎样的了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485892&amp;idx=1&amp;sn=48dbd368a28a531e0ecd8c5b51828fa2&amp;chksm=a6c7652991b0ec3f83a59d1d4b0149b3b6f82ec471faf865b76fa912f5595a9732f4e0ba3852" rel="noopener noreferrer">原文链接</a>）</small>
+这个周末，要么在考研，要么在考研的路上，于是本篇更新，是周日晚间，急急赶出来记我的裸考周末的：我的人生经历，又丰富了些；我想我，知道完整考研流程是怎样的了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485892&amp;idx=1&amp;sn=48dbd368a28a531e0ecd8c5b51828fa2&amp;chksm=a6c7652991b0ec3f83a59d1d4b0149b3b6f82ec471faf865b76fa912f5595a9732f4e0ba3852" rel="noopener noreferrer">原文链接</a>，更新于2023-12-24。）</small>

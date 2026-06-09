@@ -48,7 +48,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484791&idx=
 
 做这总结时，心中经常遗憾，如果能够早几年，多看些书，即便只是小说（曾经有一个按作者名字读小说计划，只读完金庸古龙，琼瑶读一小半后搁置），现在是否会不一样？
 
-我向阿妮说这遗憾，她回我“种一棵树，最好的时间是10年前；其次，是现在。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484791&amp;idx=1&amp;sn=9529da3839616e49a05e3a7dbaa71f5d&amp;chksm=a6c7699a91b0e08c16b6cc7dced6a4fa35410af4535579bbcab57d38b0c81fa3275173015968" rel="noopener noreferrer">原文链接</a>）</small>
+我向阿妮说这遗憾，她回我“种一棵树，最好的时间是10年前；其次，是现在。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484791&amp;idx=1&amp;sn=9529da3839616e49a05e3a7dbaa71f5d&amp;chksm=a6c7699a91b0e08c16b6cc7dced6a4fa35410af4535579bbcab57d38b0c81fa3275173015968" rel="noopener noreferrer">原文链接</a>，更新于2022-05-29。）</small>
 
   
 

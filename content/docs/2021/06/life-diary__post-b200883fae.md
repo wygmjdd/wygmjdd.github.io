@@ -31,7 +31,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484164&idx=
 
 福哥说：“这么辛苦，要是每个月搞不到一万多，我还不如回去进厂。”
 
-这是我上周被迫（端午节回重庆，从机场路过，绿码变黄码）打车途中，福哥给我讲述的故事。这一周以来，我时不时的想起来，他的作息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484164&amp;idx=1&amp;sn=973b31559ac4076877c6e53e4500d4cc&amp;chksm=a6c76fe991b0e6ff4464247407349fdb43164ba59550f5f707faf14e9c193c4933016257713b" rel="noopener noreferrer">原文链接</a>）</small>
+这是我上周被迫（端午节回重庆，从机场路过，绿码变黄码）打车途中，福哥给我讲述的故事。这一周以来，我时不时的想起来，他的作息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484164&amp;idx=1&amp;sn=973b31559ac4076877c6e53e4500d4cc&amp;chksm=a6c76fe991b0e6ff4464247407349fdb43164ba59550f5f707faf14e9c193c4933016257713b" rel="noopener noreferrer">原文链接</a>，更新于2021-06-27。）</small>
 
   
 

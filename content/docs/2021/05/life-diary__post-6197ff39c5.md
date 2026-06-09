@@ -62,7 +62,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484098&idx=
 
 直到我以一个旁观者、0.1个参与者的角度，见证了老师的这一周忙碌后，才真正意识到，老师的工作很累，是真的。
 
-我很是佩服老师的工作态度。未来，如果我小孩儿的老师，也如此认真负责的准备上课，我是会很放心孩子在学校的学习的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484098&amp;idx=1&amp;sn=552e2618e02001d71c827f88b1e3a3fc&amp;chksm=a6c76e2f91b0e739a9854e600a36a1813b121ac076deebd31f95e299f43e35b6a3fcf9f9b823" rel="noopener noreferrer">原文链接</a>）</small>
+我很是佩服老师的工作态度。未来，如果我小孩儿的老师，也如此认真负责的准备上课，我是会很放心孩子在学校的学习的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484098&amp;idx=1&amp;sn=552e2618e02001d71c827f88b1e3a3fc&amp;chksm=a6c76e2f91b0e739a9854e600a36a1813b121ac076deebd31f95e299f43e35b6a3fcf9f9b823" rel="noopener noreferrer">原文链接</a>，更新于2021-05-23。）</small>
 
   
 

@@ -51,4 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485141&idx=
 
 我将标题从“苦行僧”改为“作息”，是对我自怜想法的纠正。我不应该抱着“等回到重庆再好好生活”的态度活着。
 
-当下活着的每一秒，都是我人生的一部分。好好过现在，是重要的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485141&amp;idx=1&amp;sn=4f567d806c98e6177efedc8db5c77f0e&amp;chksm=a6c76a3891b0e32ea898279200cdb8c8222df9edba623678fe405e634ec0ab34566b3eab5a78" rel="noopener noreferrer">原文链接</a>）</small>
+当下活着的每一秒，都是我人生的一部分。好好过现在，是重要的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485141&amp;idx=1&amp;sn=4f567d806c98e6177efedc8db5c77f0e&amp;chksm=a6c76a3891b0e32ea898279200cdb8c8222df9edba623678fe405e634ec0ab34566b3eab5a78" rel="noopener noreferrer">原文链接</a>，更新于2022-10-16。）</small>

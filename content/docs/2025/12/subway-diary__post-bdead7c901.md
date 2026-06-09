@@ -232,4 +232,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487434&idx=
 
 对的，《亲密关系》看两遍的原因是，它是我超级推荐的一本书，我想自己理解更多些后再给出有理有据的推荐理由。
 
-对的，书读第二遍，速度慢许多许多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487434&amp;idx=1&amp;sn=ea8565c82d878751534e7f04d5b2837a&amp;chksm=a6c7632791b0ea31583afd5d068d8b14da7ce27f2f0534292b06230e26e3a4ecfd2edae0fce9" rel="noopener noreferrer">原文链接</a>）</small>
+对的，书读第二遍，速度慢许多许多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487434&amp;idx=1&amp;sn=ea8565c82d878751534e7f04d5b2837a&amp;chksm=a6c7632791b0ea31583afd5d068d8b14da7ce27f2f0534292b06230e26e3a4ecfd2edae0fce9" rel="noopener noreferrer">原文链接</a>，更新于2025-12-24。）</small>

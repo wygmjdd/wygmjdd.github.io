@@ -104,4 +104,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483680&idx=
 
 > 30岁正是英年，体力和智力和成熟度都正达到巅峰，怎麽会做不动程序？想往管理阶层走当然很好，那就努力充实自己，并且扪心自问，你做管理快乐吗？要知道，人事绝对比机器让你更焦头烂额。如果你决定争取一个粥少僧多的职位，就不要再问「怎麽办」。还能怎麽办呢？就努力以赴呀！比赛还没开始就问「输了怎麽办」，这不像话，你注定要输。
 
-振聋发聩！30岁正是英年，努力以赴呀！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483680&amp;idx=1&amp;sn=01e6a91f8bbd1c40edebcab75ab012e6&amp;chksm=a6c76dcd91b0e4db3a2d734627ec42f8005f58bc66f66b55b96936438d15e852c29d19ea0df0" rel="noopener noreferrer">原文链接</a>）</small>
+振聋发聩！30岁正是英年，努力以赴呀！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483680&amp;idx=1&amp;sn=01e6a91f8bbd1c40edebcab75ab012e6&amp;chksm=a6c76dcd91b0e4db3a2d734627ec42f8005f58bc66f66b55b96936438d15e852c29d19ea0df0" rel="noopener noreferrer">原文链接</a>，更新于2020-09-23。）</small>

@@ -51,4 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485776&idx=
 
 演讲，可以在刷牙、做早餐、吃早餐时听完。
 
-《选择的智慧》，可以是周末早晨的醒脑剂。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485776&amp;idx=1&amp;sn=f0e010c9a629d1420007399c305d29e8&amp;chksm=a6c765bd91b0ecabb1b32398b77111976b2bc190a9dacbe66aee28838ed86fd7eeddf624bed2" rel="noopener noreferrer">原文链接</a>）</small>
+《选择的智慧》，可以是周末早晨的醒脑剂。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485776&amp;idx=1&amp;sn=f0e010c9a629d1420007399c305d29e8&amp;chksm=a6c765bd91b0ecabb1b32398b77111976b2bc190a9dacbe66aee28838ed86fd7eeddf624bed2" rel="noopener noreferrer">原文链接</a>，更新于2023-10-23。）</small>

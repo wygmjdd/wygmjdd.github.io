@@ -31,4 +31,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483770&idx=
   
 
 
-对了，最近的某几个瞬间，我感觉我：相较于前几个月，变得成熟了一些、自信了一些。我不确定是否是看侯捷老师课程所附赠的额外礼物。（哈哈，哈哈，这一段留着吧。我逗笑了自己。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483770&amp;idx=2&amp;sn=ab2e24dc6021b9eca44328134654357b&amp;chksm=a6c76d9791b0e481d2713e228f5a9ca67494a13263843c434b68e1c59b93ed4abb360209602a" rel="noopener noreferrer">原文链接</a>）</small>
+对了，最近的某几个瞬间，我感觉我：相较于前几个月，变得成熟了一些、自信了一些。我不确定是否是看侯捷老师课程所附赠的额外礼物。（哈哈，哈哈，这一段留着吧。我逗笑了自己。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483770&amp;idx=2&amp;sn=ab2e24dc6021b9eca44328134654357b&amp;chksm=a6c76d9791b0e481d2713e228f5a9ca67494a13263843c434b68e1c59b93ed4abb360209602a" rel="noopener noreferrer">原文链接</a>，更新于2020-11-29。）</small>

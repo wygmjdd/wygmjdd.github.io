@@ -45,4 +45,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485615&idx=
 
 我对于作者的标准是很认可的，但我想要补充一点我自己的认知：“想要获得幸福，除了防御烦恼操心事情到来之外，我们还需要真诚接受来自于亲人、朋友所给予所分享的赏心乐事。赏心乐事，是可以冲散掉部分烦恼的。”
 
-幸福并不来源于孤独，我想念在深圳打台球的生活。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485615&amp;idx=1&amp;sn=937e90295bd425fc6a17cbb861d4c352&amp;chksm=a6c7644291b0ed546aa948a6b506b44ba9b2e6fd940072ee2d505851a15e4284f401a461fa78" rel="noopener noreferrer">原文链接</a>）</small>
+幸福并不来源于孤独，我想念在深圳打台球的生活。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485615&amp;idx=1&amp;sn=937e90295bd425fc6a17cbb861d4c352&amp;chksm=a6c7644291b0ed546aa948a6b506b44ba9b2e6fd940072ee2d505851a15e4284f401a461fa78" rel="noopener noreferrer">原文链接</a>，更新于2023-07-02。）</small>

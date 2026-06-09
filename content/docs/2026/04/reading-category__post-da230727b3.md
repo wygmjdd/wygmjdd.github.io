@@ -48,4 +48,4 @@ source_url: https://mp.weixin.qq.com/s/Ipku6Evd-VX8AQya1X5QsQ
 
 二是未来的选书将加上许多世界名著。原来这些世界名著，并不都像《[人生的智慧](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485766&idx=1&sn=e3217aa25e45ee999f37c9780a9d576a&scene=21#wechat_redirect)》一样需要很花心思去理解去察觉背后的力量，它们也可以像是《基督山伯爵》一样，只得一个来自于沉迷的酣畅淋漓。
 
-《基督山伯爵》好看，它是我强烈推荐的又一本小说。 <small>（<a href="https://mp.weixin.qq.com/s/Ipku6Evd-VX8AQya1X5QsQ" rel="noopener noreferrer">原文链接</a>）</small>
+《基督山伯爵》好看，它是我强烈推荐的又一本小说。 <small>（<a href="https://mp.weixin.qq.com/s/Ipku6Evd-VX8AQya1X5QsQ" rel="noopener noreferrer">原文链接</a>，更新于2026-04-19。）</small>

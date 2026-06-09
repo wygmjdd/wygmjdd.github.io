@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485111&idx=
 
 看书如何影响我，之前的更新聊过一些，之后的更新也将一直聊下去。只是，“技术含量”到底是什么呢？
 
-我还没有答案。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485111&amp;idx=1&amp;sn=d02616cf04130ddeccced5e7542c7722&amp;chksm=a6c76a5a91b0e34c17da63c14b05fee22bea20cc23418cba32ecdc07b692c66d0262c31532e9" rel="noopener noreferrer">原文链接</a>）</small>
+我还没有答案。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485111&amp;idx=1&amp;sn=d02616cf04130ddeccced5e7542c7722&amp;chksm=a6c76a5a91b0e34c17da63c14b05fee22bea20cc23418cba32ecdc07b692c66d0262c31532e9" rel="noopener noreferrer">原文链接</a>，更新于2022-10-02。）</small>

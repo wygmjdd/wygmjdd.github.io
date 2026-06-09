@@ -75,4 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487189&idx=
 
 这路上每一处，都是亲切可爱的。
 
-6点半回到家，吃过晚饭坐着的我眼睛不能睁开。秋天的山上穿着外套正凉快，我坐地坝两小时，港儿讲话不停，我心越来越静。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487189&amp;idx=1&amp;sn=81aade6d9cf18aab8a01fef78e2f9f4f&amp;chksm=a6c7623891b0eb2efaf0c3dfd9ba422092361552117d5c246c2b0dda29d626353a4e1aa96ca1" rel="noopener noreferrer">原文链接</a>）</small>
+6点半回到家，吃过晚饭坐着的我眼睛不能睁开。秋天的山上穿着外套正凉快，我坐地坝两小时，港儿讲话不停，我心越来越静。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487189&amp;idx=1&amp;sn=81aade6d9cf18aab8a01fef78e2f9f4f&amp;chksm=a6c7623891b0eb2efaf0c3dfd9ba422092361552117d5c246c2b0dda29d626353a4e1aa96ca1" rel="noopener noreferrer">原文链接</a>，更新于2025-10-01。）</small>

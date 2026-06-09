@@ -179,4 +179,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487511&idx=
 
 相对来说，“避之唯恐不及”是比“避之唯恐不速”更常见的，且用在此处并不突兀，也不会变了原文意思，但此处的将“及”改为“速”，则合了后一句“失望的一途”的韵脚。正是此种前后连贯的韵脚，给予我一种流畅的阅读体验。
 
-以上，是我现在所以推荐《性心理学》的缘由之二。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487511&amp;idx=1&amp;sn=67cae4aed02c8a110254653bc502a4a1&amp;chksm=a6c77cfa91b0f5ecddb5d3fa1e34d6b4efcc4907518d4e3a048a2da99425f4dcb6459e8005e2" rel="noopener noreferrer">原文链接</a>）</small>
+以上，是我现在所以推荐《性心理学》的缘由之二。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487511&amp;idx=1&amp;sn=67cae4aed02c8a110254653bc502a4a1&amp;chksm=a6c77cfa91b0f5ecddb5d3fa1e34d6b4efcc4907518d4e3a048a2da99425f4dcb6459e8005e2" rel="noopener noreferrer">原文链接</a>，更新于2026-02-04。）</small>

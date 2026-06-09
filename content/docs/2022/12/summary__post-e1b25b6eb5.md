@@ -73,4 +73,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485256&idx=
 
 如果您真的买书，我建议您在618或是双十一购买。或许那时佣金与我已经无关，但您真的可以省些钱。
 
-我感觉插入太多“返佣商品”不太好，于是标准再高了些：下面的书籍是我需要常常翻阅的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485256&amp;idx=1&amp;sn=440b39fbb9951581cb741e63a4af2a81&amp;chksm=a6c76ba591b0e2b37d4f309fc982ad108977db5a90676cedb33dea540705e27ab2c043f947de" rel="noopener noreferrer">原文链接</a>）</small>
+我感觉插入太多“返佣商品”不太好，于是标准再高了些：下面的书籍是我需要常常翻阅的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485256&amp;idx=1&amp;sn=440b39fbb9951581cb741e63a4af2a81&amp;chksm=a6c76ba591b0e2b37d4f309fc982ad108977db5a90676cedb33dea540705e27ab2c043f947de" rel="noopener noreferrer">原文链接</a>，更新于2022-12-26。）</small>

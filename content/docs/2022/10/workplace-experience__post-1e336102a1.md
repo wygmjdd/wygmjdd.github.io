@@ -46,4 +46,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485151&idx=
 得心应手之后，是信息焦虑症。  
 
 
-再之后，是就自己工作中所用到的内容，知其然，并尝试知其所以然。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485151&amp;idx=1&amp;sn=605334bc5f3601fcde3933029d627743&amp;chksm=a6c76a3291b0e32470f097abcc37b0de1ee685b9a75a235e7e9e5e0b707ba6a410cf34947c92" rel="noopener noreferrer">原文链接</a>）</small>
+再之后，是就自己工作中所用到的内容，知其然，并尝试知其所以然。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485151&amp;idx=1&amp;sn=605334bc5f3601fcde3933029d627743&amp;chksm=a6c76a3291b0e32470f097abcc37b0de1ee685b9a75a235e7e9e5e0b707ba6a410cf34947c92" rel="noopener noreferrer">原文链接</a>，更新于2022-10-23。）</small>

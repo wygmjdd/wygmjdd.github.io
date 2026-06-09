@@ -100,4 +100,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485792&idx=
 
 “精细复述”是书中提过多次的概念，本篇更新来源于书中的“精细复述”——将学到的知识用自己的语言描述一遍便可以加深对该知识的记忆。
 
-以上。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485792&amp;idx=1&amp;sn=06c5b520ddb1b853848317e40beaf709&amp;chksm=a6c7658d91b0ec9b947d60a40fe096c93066ab0667a05c8aef513dc7d2a79c1f1cf0d11dda21" rel="noopener noreferrer">原文链接</a>）</small>
+以上。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485792&amp;idx=1&amp;sn=06c5b520ddb1b853848317e40beaf709&amp;chksm=a6c7658d91b0ec9b947d60a40fe096c93066ab0667a05c8aef513dc7d2a79c1f1cf0d11dda21" rel="noopener noreferrer">原文链接</a>，更新于2023-11-06。）</small>

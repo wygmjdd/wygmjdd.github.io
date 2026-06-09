@@ -71,4 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485500&idx=
 
 “书很短。但书中提到的关于写作的训练方法，朴实易懂，可操作性极强。
 
-“强烈推荐。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485500&amp;idx=1&amp;sn=97f1a0ca4989e61b9f6307d05e4cdd03&amp;chksm=a6c764d191b0edc716faa4023f57b590b94d05a98d9165f251cf7e94208db9ee90daa7230486" rel="noopener noreferrer">原文链接</a>）</small>
+“强烈推荐。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485500&amp;idx=1&amp;sn=97f1a0ca4989e61b9f6307d05e4cdd03&amp;chksm=a6c764d191b0edc716faa4023f57b590b94d05a98d9165f251cf7e94208db9ee90daa7230486" rel="noopener noreferrer">原文链接</a>，更新于2023-04-17。）</small>

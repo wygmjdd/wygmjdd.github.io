@@ -41,4 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486285&idx=
 
 我的理解是，应激（压力）是由应激（压力）源导致的一种自然反应，它会同时在生理和心理上起作用。
 
-（本篇笔记内容有些长，我将其拆分为四篇发布，以拥有更专注的阅读与修改体验。翻页可直接点击文章下方的“上一篇”“下一篇”。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486285&amp;idx=1&amp;sn=c5b20aae1c162785944b70693ee859c8&amp;chksm=a6c767a091b0eeb6bfa6f7d25c82153166dae541159b7d98bd6321cedfa6befa085dfd039737" rel="noopener noreferrer">原文链接</a>）</small>
+（本篇笔记内容有些长，我将其拆分为四篇发布，以拥有更专注的阅读与修改体验。翻页可直接点击文章下方的“上一篇”“下一篇”。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486285&amp;idx=1&amp;sn=c5b20aae1c162785944b70693ee859c8&amp;chksm=a6c767a091b0eeb6bfa6f7d25c82153166dae541159b7d98bd6321cedfa6befa085dfd039737" rel="noopener noreferrer">原文链接</a>，更新于2024-06-23。）</small>

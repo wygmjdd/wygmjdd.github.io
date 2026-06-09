@@ -95,4 +95,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486001&idx=
 
 本书的推荐语为：“《C/C++代码调试的艺术》是一本关于C/C++调试的‘百科全书’，关于C/C++调试的方方面面，书中都有详细讲解。
 
-“如果您的工作中经常使用C/C++调试，是可以借助本书于脑中形成一个关于调试的全面目录，然后将书常备案头待需要时再随手翻阅的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486001&amp;idx=1&amp;sn=c59eec9ba51434733d48dd3140c1fbbe&amp;chksm=a6c766dc91b0efcaea96f9d4920c7d01da3ce0b6f652392db3bd8a00147ad12b8b1bbe5abba5" rel="noopener noreferrer">原文链接</a>）</small>
+“如果您的工作中经常使用C/C++调试，是可以借助本书于脑中形成一个关于调试的全面目录，然后将书常备案头待需要时再随手翻阅的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486001&amp;idx=1&amp;sn=c59eec9ba51434733d48dd3140c1fbbe&amp;chksm=a6c766dc91b0efcaea96f9d4920c7d01da3ce0b6f652392db3bd8a00147ad12b8b1bbe5abba5" rel="noopener noreferrer">原文链接</a>，更新于2024-02-19。）</small>

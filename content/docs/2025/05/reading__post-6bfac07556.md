@@ -41,4 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486941&idx=
 
 （嗐！又得加上一个括号，具体的整理方法，怎样能够做到高效，什么是用心，我依然说不太清，只是一种感觉，那感觉简单些说：我知道自己真的搞懂、搞定了这件事，我没有骗自己。）
 
-[#读书笔记](javascript:;) [#笔记的方法](javascript:;) <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486941&amp;idx=1&amp;sn=0a3c44c8acc220578db583787613b732&amp;chksm=a6c7613091b0e8266a74b8fd10d2425a18ecc1c0e519d2b215f8fdedf084c781b33d7f85d673" rel="noopener noreferrer">原文链接</a>）</small>
+[#读书笔记](javascript:;) [#笔记的方法](javascript:;) <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486941&amp;idx=1&amp;sn=0a3c44c8acc220578db583787613b732&amp;chksm=a6c7613091b0e8266a74b8fd10d2425a18ecc1c0e519d2b215f8fdedf084c781b33d7f85d673" rel="noopener noreferrer">原文链接</a>，更新于2025-05-16。）</small>

@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486213&idx=
 
 肆拾，你知道的。我按照《写出我心》作者的建议——勇敢地写，不管不顾地写——行事，是有观察到自己的一个变化的。好多个夜晚，我在20分钟内写下至少1000字，这些文字，有一些第二天看，也还算不错。很明显，本篇读书笔记，我就按照作者的建议完成。之前的一个小时，我坐在电脑前，耳朵里听着《既然青春留不住，还是做个大叔好》，脑子不停在记忆中搜寻，手不停敲键盘……
 
-肆拾，我的脑子，已经掏空。后一分钟，我要去晾衣服，然后准备明后两天的早餐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486213&amp;idx=1&amp;sn=3ea9a7a1856ea894d956d445230f6b7a&amp;chksm=a6c767e891b0eefe360c0ad1029b3add5a7eece14300199e653dff06c5de1909e877631a1021" rel="noopener noreferrer">原文链接</a>）</small>
+肆拾，我的脑子，已经掏空。后一分钟，我要去晾衣服，然后准备明后两天的早餐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486213&amp;idx=1&amp;sn=3ea9a7a1856ea894d956d445230f6b7a&amp;chksm=a6c767e891b0eefe360c0ad1029b3add5a7eece14300199e653dff06c5de1909e877631a1021" rel="noopener noreferrer">原文链接</a>，更新于2024-05-06。）</small>

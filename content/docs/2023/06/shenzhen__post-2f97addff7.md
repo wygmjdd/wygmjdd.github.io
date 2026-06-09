@@ -40,4 +40,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485582&idx=
 
 与烧哥一样，能够打球的周末，我总醒得很早。
 
-我喜欢在深圳的生活：在深圳的生活，周末有规律的早上篮球。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485582&amp;idx=1&amp;sn=c399d84e7f5ee1f931d2bb81c5857eba&amp;chksm=a6c7646391b0ed75a9d21dc3f9425c6796dcec4ee8ea8ccf480f9f0b74676ed35462056e671f" rel="noopener noreferrer">原文链接</a>）</small>
+我喜欢在深圳的生活：在深圳的生活，周末有规律的早上篮球。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485582&amp;idx=1&amp;sn=c399d84e7f5ee1f931d2bb81c5857eba&amp;chksm=a6c7646391b0ed75a9d21dc3f9425c6796dcec4ee8ea8ccf480f9f0b74676ed35462056e671f" rel="noopener noreferrer">原文链接</a>，更新于2023-06-18。）</small>

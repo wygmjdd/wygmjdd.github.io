@@ -60,4 +60,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486718&idx=
 
 ……
 
-洗漱完毕将本篇日记稍作整理，就一个番茄钟也不剩了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486718&amp;idx=1&amp;sn=79d776554b31c12ffaa2d40bc3edefd0&amp;chksm=a6c7601391b0e9056c67daa844a7cb1609ca09d0c5da1a7a2d99646ac0af4a2a298fc84671ea" rel="noopener noreferrer">原文链接</a>）</small>
+洗漱完毕将本篇日记稍作整理，就一个番茄钟也不剩了。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486718&amp;idx=1&amp;sn=79d776554b31c12ffaa2d40bc3edefd0&amp;chksm=a6c7601391b0e9056c67daa844a7cb1609ca09d0c5da1a7a2d99646ac0af4a2a298fc84671ea" rel="noopener noreferrer">原文链接</a>，更新于2025-01-09。）</small>

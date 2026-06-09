@@ -61,4 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486425&idx=
 
 剪完头发，看着镜子中那个笑脸依旧的精神自己，内心生出心思将今天的理发经历记一记，于是有了本篇。
 
-小区里的理发店，已经成为我的能量补给站。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486425&amp;idx=1&amp;sn=8c354ca3d82f989fdeeaedab8619e609&amp;chksm=a6c7673491b0ee22dd57b2acd77c131ef74f03419aa528a5aeb61dadf7b870371e8644fc8d59" rel="noopener noreferrer">原文链接</a>）</small>
+小区里的理发店，已经成为我的能量补给站。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486425&amp;idx=1&amp;sn=8c354ca3d82f989fdeeaedab8619e609&amp;chksm=a6c7673491b0ee22dd57b2acd77c131ef74f03419aa528a5aeb61dadf7b870371e8644fc8d59" rel="noopener noreferrer">原文链接</a>，更新于2024-08-30。）</small>

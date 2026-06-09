@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486473&idx=
 
 夫死后，作者感受到寂寞，但生活依然在继续；写完本书的作者，即将回到日本到早稻田大学教书，将不再被寂寞困扰。
 
-最后，本篇读书笔记又回到我。我想说的是：“我新认识一位作家，就像您认识我一样。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486473&amp;idx=1&amp;sn=24eb5616fecb50f5dbe82b7b55adf884&amp;chksm=a6c760e491b0e9f2c6ca6e9814e7c49da3e0ca900ff3a8a6046590d37545000e8b7d8e7b5291" rel="noopener noreferrer">原文链接</a>）</small>
+最后，本篇读书笔记又回到我。我想说的是：“我新认识一位作家，就像您认识我一样。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486473&amp;idx=1&amp;sn=24eb5616fecb50f5dbe82b7b55adf884&amp;chksm=a6c760e491b0e9f2c6ca6e9814e7c49da3e0ca900ff3a8a6046590d37545000e8b7d8e7b5291" rel="noopener noreferrer">原文链接</a>，更新于2024-09-22。）</small>

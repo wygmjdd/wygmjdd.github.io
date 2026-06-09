@@ -43,4 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486207&idx=
 
 > 往往你一页又一页翻阅自己的笔记本时，说不定只找得到一两行或两三行佳句。别泄气，别忘了足球队花很多的时间练球，仅只为了参加寥寥数次的比赛。
 
-> 我想，如果我仅仅停留在“表现自我”的层次上，我可能会坐下来，像是写日记一样地写道：“我今天很高兴，我谈恋爱了，我很爱我的男朋友，他太萌了。”那么别人看了估计也会觉得无聊透顶。如果想达到超越自我境界的交流，我们就必须超越浅层次表达，来更加深入地触碰事物更本质的一面。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486207&amp;idx=1&amp;sn=96664b9c7ac856f3c79f91f7adda9066&amp;chksm=a6c7661291b0ef047ff7f828c942382e525cac9e79df92c35c7d94260553101f66a45dadb689" rel="noopener noreferrer">原文链接</a>）</small>
+> 我想，如果我仅仅停留在“表现自我”的层次上，我可能会坐下来，像是写日记一样地写道：“我今天很高兴，我谈恋爱了，我很爱我的男朋友，他太萌了。”那么别人看了估计也会觉得无聊透顶。如果想达到超越自我境界的交流，我们就必须超越浅层次表达，来更加深入地触碰事物更本质的一面。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486207&amp;idx=1&amp;sn=96664b9c7ac856f3c79f91f7adda9066&amp;chksm=a6c7661291b0ef047ff7f828c942382e525cac9e79df92c35c7d94260553101f66a45dadb689" rel="noopener noreferrer">原文链接</a>，更新于2024-05-04。）</small>

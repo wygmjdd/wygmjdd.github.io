@@ -51,4 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485781&idx=
 
 “如果是不对的，不要去做；如果是不真实的，不要去说。
 
-“如果《沉思录》能被更多的人看到，这由人组成的社会便会越来越好。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485781&amp;idx=1&amp;sn=e9c791cf139ccacfdff2ea568162db85&amp;chksm=a6c765b891b0ecae31073332dfbe4edc482d6517f47d26410b9ca989363122e66c4d735f5cef" rel="noopener noreferrer">原文链接</a>）</small>
+“如果《沉思录》能被更多的人看到，这由人组成的社会便会越来越好。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485781&amp;idx=1&amp;sn=e9c791cf139ccacfdff2ea568162db85&amp;chksm=a6c765b891b0ecae31073332dfbe4edc482d6517f47d26410b9ca989363122e66c4d735f5cef" rel="noopener noreferrer">原文链接</a>，更新于2023-10-29。）</small>

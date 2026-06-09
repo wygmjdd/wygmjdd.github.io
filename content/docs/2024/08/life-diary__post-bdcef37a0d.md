@@ -69,4 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486420&idx=
 
 \--
 
-原来当“老板”，是这样的感觉。要拥有超强执行力——任务都是自己布置给自己的，要拥有超强耐力，还要照顾客人的情绪。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486420&amp;idx=1&amp;sn=f200445b1ded4d3b2f48594fc0b4b625&amp;chksm=a6c7673991b0ee2f952961312a16237aef36bc854744b3a1403e9912150871da396479099125" rel="noopener noreferrer">原文链接</a>）</small>
+原来当“老板”，是这样的感觉。要拥有超强执行力——任务都是自己布置给自己的，要拥有超强耐力，还要照顾客人的情绪。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486420&amp;idx=1&amp;sn=f200445b1ded4d3b2f48594fc0b4b625&amp;chksm=a6c7673991b0ee2f952961312a16237aef36bc854744b3a1403e9912150871da396479099125" rel="noopener noreferrer">原文链接</a>，更新于2024-08-25。）</small>

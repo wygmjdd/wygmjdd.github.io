@@ -75,4 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486478&idx=
 
 \--
 
-我现在的日记，对我用处极大。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486478&amp;idx=1&amp;sn=e1a1b859e5fc31cc4008e79f55d4de76&amp;chksm=a6c760e391b0e9f52b40b069452e7e7306be3f68e8bd4726cde14e009d5d0bc9e5d0f093174d" rel="noopener noreferrer">原文链接</a>）</small>
+我现在的日记，对我用处极大。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486478&amp;idx=1&amp;sn=e1a1b859e5fc31cc4008e79f55d4de76&amp;chksm=a6c760e391b0e9f52b40b069452e7e7306be3f68e8bd4726cde14e009d5d0bc9e5d0f093174d" rel="noopener noreferrer">原文链接</a>，更新于2024-09-25。）</small>

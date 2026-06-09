@@ -68,4 +68,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486110&idx=
 
 然后，就没有更多想法了，我只告诉自己，且继续将这几件当下自己认为对自己有用事情坚持下去。
 
-至于坚持的意义，等下一个1000天到来时，再想想。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486110&amp;idx=1&amp;sn=29f7f155b109fd9540bee9b2ed404ac5&amp;chksm=a6c7667391b0ef65a4d55352add8e603c25c0856b11534ed1a33a1804a9954a575fa8b6a1481" rel="noopener noreferrer">原文链接</a>）</small>
+至于坚持的意义，等下一个1000天到来时，再想想。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486110&amp;idx=1&amp;sn=29f7f155b109fd9540bee9b2ed404ac5&amp;chksm=a6c7667391b0ef65a4d55352add8e603c25c0856b11534ed1a33a1804a9954a575fa8b6a1481" rel="noopener noreferrer">原文链接</a>，更新于2024-03-31。）</small>

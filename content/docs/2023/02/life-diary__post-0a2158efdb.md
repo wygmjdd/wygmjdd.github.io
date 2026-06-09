@@ -61,4 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485319&idx=
 ### 引用链接：
 
   1. LeBron James Scoring Tracker：https://www.nba.com/news/lebron-james-scoring-tracker
-  2. 韦德问老詹为什么冰敷：https://bbs.hupu.com/55760419.html <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485319&amp;idx=1&amp;sn=20852c944564f9a57c9c8c5bd7df3b61&amp;chksm=a6c76b6a91b0e27cae9a163b74bc4470184a040e9d82a49b09aa620df704ddb036052c70d2c3" rel="noopener noreferrer">原文链接</a>）</small>
+  2. 韦德问老詹为什么冰敷：https://bbs.hupu.com/55760419.html <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485319&amp;idx=1&amp;sn=20852c944564f9a57c9c8c5bd7df3b61&amp;chksm=a6c76b6a91b0e27cae9a163b74bc4470184a040e9d82a49b09aa620df704ddb036052c70d2c3" rel="noopener noreferrer">原文链接</a>，更新于2023-02-05。）</small>

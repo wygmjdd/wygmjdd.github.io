@@ -78,4 +78,4 @@ source_url: https://mp.weixin.qq.com/s/DmFnpxKZ3lQZd7JXElkBkg
 
 第一印象很重要，而我们存在证实偏见。第一印象以及后续的印象，会叠加起来影响我们对某个人的判断。
 
-维系好的关系的方法是将对方相较真实的他（她）想的完美一些，他（她）的失误都来自于疏忽，而他（她）所表现出来的对我的爱与美好，都来自于他（她）的内在很好。 <small>（<a href="https://mp.weixin.qq.com/s/DmFnpxKZ3lQZd7JXElkBkg" rel="noopener noreferrer">原文链接</a>）</small>
+维系好的关系的方法是将对方相较真实的他（她）想的完美一些，他（她）的失误都来自于疏忽，而他（她）所表现出来的对我的爱与美好，都来自于他（她）的内在很好。 <small>（<a href="https://mp.weixin.qq.com/s/DmFnpxKZ3lQZd7JXElkBkg" rel="noopener noreferrer">原文链接</a>，更新于2026-04-18。）</small>

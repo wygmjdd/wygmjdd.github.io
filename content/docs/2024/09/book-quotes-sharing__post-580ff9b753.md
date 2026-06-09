@@ -29,4 +29,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486468&idx=
 
 就在今年，和阿妮讨论这个问题，阿妮也说：“亲戚之间一起开店，也不好搞。前期大家一条心事业红红火火，后面做起来之后出矛盾就江河日下。”
 
-摘抄只到此处，未来再找一找，成功合伙的示例。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486468&amp;idx=1&amp;sn=397cd512f146c57c19995db3360b25b3&amp;chksm=a6c760e991b0e9ffcc30464b05cfc74af62871d6865f59ab53cf9cdc49b9931090626eb8dcd3" rel="noopener noreferrer">原文链接</a>）</small>
+摘抄只到此处，未来再找一找，成功合伙的示例。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486468&amp;idx=1&amp;sn=397cd512f146c57c19995db3360b25b3&amp;chksm=a6c760e991b0e9ffcc30464b05cfc74af62871d6865f59ab53cf9cdc49b9931090626eb8dcd3" rel="noopener noreferrer">原文链接</a>，更新于2024-09-22。）</small>

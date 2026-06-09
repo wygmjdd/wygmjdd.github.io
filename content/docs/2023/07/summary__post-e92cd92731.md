@@ -73,4 +73,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485650&idx=
 
 “你手机上的《多看阅读》是一直都在的。除了看猫腻、辰东、天蚕土豆、我吃西红柿……金庸古龙梁羽生之外，再多看看其它类型的书。技术、文学、心理、经济、励志……挑自己喜欢的，早点看起来。是的，早点养成阅读习惯，早点养成为阅读做总结的习惯。
 
-“至于其他方面，你已经做的不错。过去十年，你依然在慢慢变好。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485650&amp;idx=1&amp;sn=aee8d9fca27d1a8f0f813e71117c5649&amp;chksm=a6c7643f91b0ed2948756c8bbfbc55a1097253899c4782d0965cb4f17f4c874d89e3e4a1d58f" rel="noopener noreferrer">原文链接</a>）</small>
+“至于其他方面，你已经做的不错。过去十年，你依然在慢慢变好。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485650&amp;idx=1&amp;sn=aee8d9fca27d1a8f0f813e71117c5649&amp;chksm=a6c7643f91b0ed2948756c8bbfbc55a1097253899c4782d0965cb4f17f4c874d89e3e4a1d58f" rel="noopener noreferrer">原文链接</a>，更新于2023-07-30。）</small>

@@ -37,7 +37,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484984&idx=
 
 我们沿着围栏往右转，目的地是社区最外围小河边。路过的人少空旷处，有三五赤裸上身大叔坐着聊天，有自备音响独自跳舞的阿姨，有正看港剧的小卖部老板。
 
-与阿妮沿河边走一趟，我量出社区长900步。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484984&amp;idx=1&amp;sn=e210406989af00a782167f65e43d09ff&amp;chksm=a6c76ad591b0e3c3a5cc8a83179b92c739ada731dce7961ef94134811e3e65da7af91261d138" rel="noopener noreferrer">原文链接</a>）</small>
+与阿妮沿河边走一趟，我量出社区长900步。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484984&amp;idx=1&amp;sn=e210406989af00a782167f65e43d09ff&amp;chksm=a6c76ad591b0e3c3a5cc8a83179b92c739ada731dce7961ef94134811e3e65da7af91261d138" rel="noopener noreferrer">原文链接</a>，更新于2022-08-07。）</small>
 
   
 

@@ -52,7 +52,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484170&idx=
 
 很期待，在坚持2000天，甚至5000天以后，我的改变！
 
-或许那时候，我能不借助词典便将一本英文书读完，能够只一遍便将无字幕的TED听懂，能够把自己的想法用英文流畅表达…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484170&amp;idx=1&amp;sn=d7fb7767eff02458b91df5c77180b2ea&amp;chksm=a6c76fe791b0e6f1237101ce2d152e846aaca4bd215b72787eba330bc06126ba226b0c3b7e7a" rel="noopener noreferrer">原文链接</a>）</small>
+或许那时候，我能不借助词典便将一本英文书读完，能够只一遍便将无字幕的TED听懂，能够把自己的想法用英文流畅表达…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484170&amp;idx=1&amp;sn=d7fb7767eff02458b91df5c77180b2ea&amp;chksm=a6c76fe791b0e6f1237101ce2d152e846aaca4bd215b72787eba330bc06126ba226b0c3b7e7a" rel="noopener noreferrer">原文链接</a>，更新于2021-07-04。）</small>
 
   
 

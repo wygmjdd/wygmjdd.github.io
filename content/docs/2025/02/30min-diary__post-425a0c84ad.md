@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486814&idx=
 
 在家里待的两周，我一天是只吃两顿饭的，早上9点与下午3点，我认为这作息还算不错。今天午饭，是下午三点送到家的外卖。
 
-现在时间来到晚上的10点51分，今天的30分钟日记只到此处。本篇，就分享我这毫无心理压力的考研成绩就好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486814&amp;idx=1&amp;sn=da26c652a62af880181fac3ac6365ba3&amp;chksm=a6c761b391b0e8a5e5de83a916d8bec22d536f5bcbf32ce80af4c33c375f52a06cfb13b7c065" rel="noopener noreferrer">原文链接</a>）</small>
+现在时间来到晚上的10点51分，今天的30分钟日记只到此处。本篇，就分享我这毫无心理压力的考研成绩就好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486814&amp;idx=1&amp;sn=da26c652a62af880181fac3ac6365ba3&amp;chksm=a6c761b391b0e8a5e5de83a916d8bec22d536f5bcbf32ce80af4c33c375f52a06cfb13b7c065" rel="noopener noreferrer">原文链接</a>，更新于2025-02-24。）</small>

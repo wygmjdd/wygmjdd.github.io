@@ -60,7 +60,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484452&idx=
 > 
 >   12. Don’t lie in bed awake. If you find yourself still awake after staying in bed for more than twenty minutes or if you are starting to feel anxious or worried, get up and do some relaxing activity until you feel sleepy. The anxiety of not being able to sleep can make it harder to fall asleep.
 > 
-> <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484452&amp;idx=3&amp;sn=f1eb74000fb9450e75e15667051765f1&amp;chksm=a6c768c991b0e1df88dd72ad90f264438d7aa25461d52c4650a27a6e493383379db84df37fbe" rel="noopener noreferrer">原文链接</a>）</small>
+> <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484452&amp;idx=3&amp;sn=f1eb74000fb9450e75e15667051765f1&amp;chksm=a6c768c991b0e1df88dd72ad90f264438d7aa25461d52c4650a27a6e493383379db84df37fbe" rel="noopener noreferrer">原文链接</a>，更新于2021-12-12。）</small>
 
 
   

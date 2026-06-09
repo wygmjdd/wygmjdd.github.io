@@ -64,7 +64,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484650&idx=
 
 ![图片](/images/wechat/afce8b014c50/001.jpg)
 
-Vim（下）与VS Code的对比 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484650&amp;idx=2&amp;sn=ecbc1f0e788a0284a31b188cd27d70f4&amp;chksm=a6c7680791b0e111b1f0451f8b33747a3fc3ed55068708f653afa0f17ec78649e12223d225b9" rel="noopener noreferrer">原文链接</a>）</small>
+Vim（下）与VS Code的对比 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484650&amp;idx=2&amp;sn=ecbc1f0e788a0284a31b188cd27d70f4&amp;chksm=a6c7680791b0e111b1f0451f8b33747a3fc3ed55068708f653afa0f17ec78649e12223d225b9" rel="noopener noreferrer">原文链接</a>，更新于2022-03-13。）</small>
 
   
 

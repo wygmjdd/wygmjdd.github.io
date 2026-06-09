@@ -50,4 +50,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486401&idx=
 
 即将离职前两天，我从自己工位拿走的东西，有杯垫、指甲刀、挖耳勺、游泳装备、六双鞋子、四个篮球，以及好几个一直摆放桌面的可爱公仔。
 
-钱包和电脑，是离职当天带走的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486401&amp;idx=1&amp;sn=8a61f9f3caad8ee0feea48aa0462f6e5&amp;chksm=a6c7672c91b0ee3ab4f17e75dba30d2c99e548671969433af53caaa3413b1ffd91a9879a1d36" rel="noopener noreferrer">原文链接</a>）</small>
+钱包和电脑，是离职当天带走的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486401&amp;idx=1&amp;sn=8a61f9f3caad8ee0feea48aa0462f6e5&amp;chksm=a6c7672c91b0ee3ab4f17e75dba30d2c99e548671969433af53caaa3413b1ffd91a9879a1d36" rel="noopener noreferrer">原文链接</a>，更新于2024-08-23。）</small>

@@ -173,4 +173,4 @@ Yes，心怀感恩的感觉可真好。
 
 我想专注这一点，肯定和我最近一段时间，每天早上都在公司至少冥想五分钟有些关系。
 
-冥想，[给予我专注与放松](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487051&idx=1&sn=338d1d2c99fbfa7377c402322b98534d&scene=21#wechat_redirect)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487066&amp;idx=1&amp;sn=04ed189abb40c10438e7e4a8bc71b079&amp;chksm=a6c762b791b0eba1efaa37f73296defefe2bc5a5c1f51dd9f28dc90b645e7563fe91515211c9" rel="noopener noreferrer">原文链接</a>）</small>
+冥想，[给予我专注与放松](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487051&idx=1&sn=338d1d2c99fbfa7377c402322b98534d&scene=21#wechat_redirect)。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487066&amp;idx=1&amp;sn=04ed189abb40c10438e7e4a8bc71b079&amp;chksm=a6c762b791b0eba1efaa37f73296defefe2bc5a5c1f51dd9f28dc90b645e7563fe91515211c9" rel="noopener noreferrer">原文链接</a>，更新于2025-08-08。）</small>

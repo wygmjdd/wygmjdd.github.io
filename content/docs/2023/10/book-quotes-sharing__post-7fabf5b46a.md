@@ -25,4 +25,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485771&idx=
 
 > 衡量一个人是否幸福，我们不应该向他询问那些令他高兴的赏心乐事，而应该了解那些让他烦恼操心的事情；因为烦扰他的事情越少、越微不足道，那么，他也就生活得越幸福，因为如果微不足道的烦恼都让我们感受得到，那就意味着我们正处于安逸、舒适的状态了——在很不幸的时候，我们是不会感觉到这些小事情的。
 
-> 只有现时才是真正的和现实的。现时的时间包含现实的内容，我们的存在唯独就在这一时间。因此，我们应该愉快地迎接现在此刻，从而有意识地享受每一可忍受的、没有直接烦恼和痛苦的短暂时光，也就是说，不要由于在过去我们的希望落空现在就变得忧郁寡欢，或者为了将来操心伤神以致败坏现时。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485771&amp;idx=1&amp;sn=a87686333494ed86308d8dab3fee4fe8&amp;chksm=a6c765a691b0ecb062c1228fd14afced6769b8e378eb02c360c4c5e59f1b3028f1635b3c8be8" rel="noopener noreferrer">原文链接</a>）</small>
+> 只有现时才是真正的和现实的。现时的时间包含现实的内容，我们的存在唯独就在这一时间。因此，我们应该愉快地迎接现在此刻，从而有意识地享受每一可忍受的、没有直接烦恼和痛苦的短暂时光，也就是说，不要由于在过去我们的希望落空现在就变得忧郁寡欢，或者为了将来操心伤神以致败坏现时。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485771&amp;idx=1&amp;sn=a87686333494ed86308d8dab3fee4fe8&amp;chksm=a6c765a691b0ecb062c1228fd14afced6769b8e378eb02c360c4c5e59f1b3028f1635b3c8be8" rel="noopener noreferrer">原文链接</a>，更新于2023-10-22。）</small>

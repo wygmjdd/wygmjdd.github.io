@@ -48,7 +48,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484334&idx=
   
 
 
-贝拉，是一位真诚负责、技术精湛的婚纱摄影化妆师，媳妇儿与我都很喜欢她。遇见贝拉作为我们的化妆师，运气真好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484334&amp;idx=1&amp;sn=df57af8daf1202ef3d919ef846f338d7&amp;chksm=a6c76f4391b0e65536065d20bfcd07e101012885bee3107fb1a58f95183609f26568f7337bd4" rel="noopener noreferrer">原文链接</a>）</small>
+贝拉，是一位真诚负责、技术精湛的婚纱摄影化妆师，媳妇儿与我都很喜欢她。遇见贝拉作为我们的化妆师，运气真好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484334&amp;idx=1&amp;sn=df57af8daf1202ef3d919ef846f338d7&amp;chksm=a6c76f4391b0e65536065d20bfcd07e101012885bee3107fb1a58f95183609f26568f7337bd4" rel="noopener noreferrer">原文链接</a>，更新于2021-10-03。）</small>
 
   
 

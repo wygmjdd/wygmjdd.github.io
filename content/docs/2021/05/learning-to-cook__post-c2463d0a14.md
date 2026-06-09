@@ -82,7 +82,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484098&idx=
 
   1. https://www.cfs.gov.hk/sc_chi/nutrient/
 
-  2. http://db.foodmate.net/yingyang/typeid_1472_236.html <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484098&amp;idx=2&amp;sn=e9bd239632d5ba904d817394f1616065&amp;chksm=a6c76e2f91b0e739d16a1a22ccdeca9729f2687a2925e90fe560342ec89faaf6b19016a889aa" rel="noopener noreferrer">原文链接</a>）</small>
+  2. http://db.foodmate.net/yingyang/typeid_1472_236.html <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484098&amp;idx=2&amp;sn=e9bd239632d5ba904d817394f1616065&amp;chksm=a6c76e2f91b0e739d16a1a22ccdeca9729f2687a2925e90fe560342ec89faaf6b19016a889aa" rel="noopener noreferrer">原文链接</a>，更新于2021-05-23。）</small>
 
 
 

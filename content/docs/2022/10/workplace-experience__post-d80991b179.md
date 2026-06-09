@@ -83,4 +83,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485135&idx=
 
 心思用在别处，竟被我找到一条，跟房子车子一样重要的路。
 
-是的，周更公众号，我愿称之“路”，一条修心的路。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485135&amp;idx=1&amp;sn=c501d16410f4ea7e555c5bd5205183c3&amp;chksm=a6c76a2291b0e3342cdac2bcf764cde1dcebb9a646d904beb3fc476bbd2e00c1f63e4a5430aa" rel="noopener noreferrer">原文链接</a>）</small>
+是的，周更公众号，我愿称之“路”，一条修心的路。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485135&amp;idx=1&amp;sn=c501d16410f4ea7e555c5bd5205183c3&amp;chksm=a6c76a2291b0e3342cdac2bcf764cde1dcebb9a646d904beb3fc476bbd2e00c1f63e4a5430aa" rel="noopener noreferrer">原文链接</a>，更新于2022-10-09。）</small>

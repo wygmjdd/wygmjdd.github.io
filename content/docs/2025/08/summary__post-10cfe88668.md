@@ -85,4 +85,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487131&idx=
 
 我的出路，是就一份自己喜欢的工作——我喜欢自己当前的工作——好好工作，工作之余看看书写写东西，看书不分类别，写作不博眼球，再坚持个三五年，再说。
 
-存在即合理，我正存在着，我热爱自己的存在。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487131&amp;idx=1&amp;sn=f7083d151271cee90779e3e2337d76b3&amp;chksm=a6c7627691b0eb60abf2cf040b87d9963059d13e4ad63104e6e49e30cc74d187f731cf67f9db" rel="noopener noreferrer">原文链接</a>）</small>
+存在即合理，我正存在着，我热爱自己的存在。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487131&amp;idx=1&amp;sn=f7083d151271cee90779e3e2337d76b3&amp;chksm=a6c7627691b0eb60abf2cf040b87d9963059d13e4ad63104e6e49e30cc74d187f731cf67f9db" rel="noopener noreferrer">原文链接</a>，更新于2025-08-31。）</small>

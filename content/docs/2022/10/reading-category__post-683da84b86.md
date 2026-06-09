@@ -52,4 +52,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485146&idx=
 
 “为成为更好的自己，为让人生旅程更轻松，为职业生涯不孤独，试试看从本书开始吧。
 
-“有些路，是前人已经走过的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485146&amp;idx=1&amp;sn=ea7d88623663c6eaf1133bba1a0550bd&amp;chksm=a6c76a3791b0e32186e80b0f1040e7b59769322c1518717a90fbd9b17bde062f83bfb6417bef" rel="noopener noreferrer">原文链接</a>）</small>
+“有些路，是前人已经走过的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485146&amp;idx=1&amp;sn=ea7d88623663c6eaf1133bba1a0550bd&amp;chksm=a6c76a3791b0e32186e80b0f1040e7b59769322c1518717a90fbd9b17bde062f83bfb6417bef" rel="noopener noreferrer">原文链接</a>，更新于2022-10-17。）</small>

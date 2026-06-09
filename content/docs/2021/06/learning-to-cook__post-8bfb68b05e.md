@@ -119,7 +119,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484155&idx=
 > 
 > 虽然鸡精味精对人体无害，但依然要遵循吃东西的基本原则——无论什么样的食物（营养素），都过犹不及，一定要适可而止。钠就是盐，盐就是钠，味精鸡精吃多了，就跟盐吃多了一样，齁得慌。
 
-是的，前进方向的第一步：认识各式样的食材与调料。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484155&amp;idx=1&amp;sn=4493883a6a4c54ab83eef18dd6fbcb46&amp;chksm=a6c76e1691b0e70056655ae6455d76ff062802719fec9de08e35b0a143f68d9c30f7905e3737" rel="noopener noreferrer">原文链接</a>）</small>
+是的，前进方向的第一步：认识各式样的食材与调料。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484155&amp;idx=1&amp;sn=4493883a6a4c54ab83eef18dd6fbcb46&amp;chksm=a6c76e1691b0e70056655ae6455d76ff062802719fec9de08e35b0a143f68d9c30f7905e3737" rel="noopener noreferrer">原文链接</a>，更新于2021-06-20。）</small>
 
   
 

@@ -39,7 +39,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484295&idx=
 > 
 > 对了，我还问了一个问题，奖金的多少跟基本工资是否挂钩。他说不挂，但是绩效奖金的浮动是可以操控的，可以多一些。so？能信么？
 > 
-> 谈完之后，只是给了个结果，下次肯定会给我涨，并且调到与其他人一样。且再等半年看结果吧。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484295&amp;idx=2&amp;sn=5ea5c6b3340e37d49b359f52baed8e79&amp;chksm=a6c76f6a91b0e67c5f9709f523a8070a87e7eb0c8c7cc79e46059fd39c45bd4e87d9bc042127" rel="noopener noreferrer">原文链接</a>）</small>
+> 谈完之后，只是给了个结果，下次肯定会给我涨，并且调到与其他人一样。且再等半年看结果吧。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484295&amp;idx=2&amp;sn=5ea5c6b3340e37d49b359f52baed8e79&amp;chksm=a6c76f6a91b0e67c5f9709f523a8070a87e7eb0c8c7cc79e46059fd39c45bd4e87d9bc042127" rel="noopener noreferrer">原文链接</a>，更新于2021-09-19。）</small>
 
   
 

@@ -71,4 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486514&idx=
 
 对的，我一直在前进着。
 
-（记于10月17日晚间临睡前。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486514&amp;idx=1&amp;sn=902c07a9b90ea7e9d257858521f9cf54&amp;chksm=a6c760df91b0e9c94892ad47f58be84488791fedd577c53f795018bf9df2394fa4581f121355" rel="noopener noreferrer">原文链接</a>）</small>
+（记于10月17日晚间临睡前。） <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486514&amp;idx=1&amp;sn=902c07a9b90ea7e9d257858521f9cf54&amp;chksm=a6c760df91b0e9c94892ad47f58be84488791fedd577c53f795018bf9df2394fa4581f121355" rel="noopener noreferrer">原文链接</a>，更新于2024-10-20。）</small>

@@ -62,4 +62,4 @@ PM回复：“下午玩的太开心了看来是”
 
 中午1.吃湘菜，落座后，所点的菜在十分钟内上齐。饭菜很是合我的胃口，但桌上太不能吃辣的几位，便只吃了很少的东西。饭桌上，继续玩起了游戏。
 
-4.回到出发集合点，团建结束。VIP漂流与星级酒店，这周末，过的不错。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483669&amp;idx=1&amp;sn=52396234d211f0ae8457a3d719998d28&amp;chksm=a6c76df891b0e4ee65ebfb3586efda67cc18eec899be889d5ff59a27bf5d8148e8fba71ddf75" rel="noopener noreferrer">原文链接</a>）</small>
+4.回到出发集合点，团建结束。VIP漂流与星级酒店，这周末，过的不错。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483669&amp;idx=1&amp;sn=52396234d211f0ae8457a3d719998d28&amp;chksm=a6c76df891b0e4ee65ebfb3586efda67cc18eec899be889d5ff59a27bf5d8148e8fba71ddf75" rel="noopener noreferrer">原文链接</a>，更新于2020-09-09。）</small>

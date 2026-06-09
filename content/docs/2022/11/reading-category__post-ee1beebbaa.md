@@ -62,4 +62,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485216&idx=
 
 > 这些实例都证实了，认识自我、关心自我和提醒自己真正重要的事物，这三种方法正是自我控制的基石。
 
-本书，对我来说，只看一遍是不行的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485216&amp;idx=1&amp;sn=1a079e8b8581c29fea0054c975c5247d&amp;chksm=a6c76bcd91b0e2dbaa46a5ccd7e0cc3e934d65d82b0ca6034cefbda7a5ef18f25f190125604c" rel="noopener noreferrer">原文链接</a>）</small>
+本书，对我来说，只看一遍是不行的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485216&amp;idx=1&amp;sn=1a079e8b8581c29fea0054c975c5247d&amp;chksm=a6c76bcd91b0e2dbaa46a5ccd7e0cc3e934d65d82b0ca6034cefbda7a5ef18f25f190125604c" rel="noopener noreferrer">原文链接</a>，更新于2022-11-28。）</small>

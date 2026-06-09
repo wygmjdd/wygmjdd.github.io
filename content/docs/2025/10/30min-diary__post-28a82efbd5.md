@@ -45,4 +45,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487312&idx=
 
 现在我敢往后视镜中看了。
 
-我跑输了夕阳，但身后有一束光。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487312&amp;idx=1&amp;sn=30aad799a01656a04be763e45325199c&amp;chksm=a6c763bd91b0eaabf5c7c58a0274e5ae0597c2d467edc238235f3e00524a9310a6b65030135a" rel="noopener noreferrer">原文链接</a>）</small>
+我跑输了夕阳，但身后有一束光。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487312&amp;idx=1&amp;sn=30aad799a01656a04be763e45325199c&amp;chksm=a6c763bd91b0eaabf5c7c58a0274e5ae0597c2d467edc238235f3e00524a9310a6b65030135a" rel="noopener noreferrer">原文链接</a>，更新于2025-10-06。）</small>

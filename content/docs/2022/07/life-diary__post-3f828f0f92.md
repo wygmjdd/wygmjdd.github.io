@@ -37,7 +37,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484854&idx=
 
 端午回重庆，去二爹家吃饭，二爹送我一袋老鹰茶（田坎上的茶，是为家茶。有另一种两人高的茶树叫老鹰茶，老鹰茶比家茶少，也比家茶“俏”），茶叶拆开，我带一小罐到深圳。
 
-于是，我买一个杯子，写一篇文。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484854&amp;idx=1&amp;sn=c498aa5c0e49e6cb788e2c9cc825df4a&amp;chksm=a6c7695b91b0e04dac192d32b829c67540bcc64ba6842e8774df507ac552539493defcf1c47b" rel="noopener noreferrer">原文链接</a>）</small>
+于是，我买一个杯子，写一篇文。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484854&amp;idx=1&amp;sn=c498aa5c0e49e6cb788e2c9cc825df4a&amp;chksm=a6c7695b91b0e04dac192d32b829c67540bcc64ba6842e8774df507ac552539493defcf1c47b" rel="noopener noreferrer">原文链接</a>，更新于2022-07-03。）</small>
 
   
 

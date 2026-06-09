@@ -141,7 +141,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484164&idx=
 
   1. 字节码的一篇介绍，https://opensource.com/article/18/4/introduction-python-bytecode
 
-  2. 那一篇超赞的文章，建议阅读，https://towardsdatascience.com/understanding-python-bytecode-e7edaae8734d <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484164&amp;idx=2&amp;sn=510e41c23cbd44428e9f7f53f35eebab&amp;chksm=a6c76fe991b0e6ff2ba9699efe963b9a0afa456b35f837ec902a0ba7719103862ee23f4a51c3" rel="noopener noreferrer">原文链接</a>）</small>
+  2. 那一篇超赞的文章，建议阅读，https://towardsdatascience.com/understanding-python-bytecode-e7edaae8734d <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484164&amp;idx=2&amp;sn=510e41c23cbd44428e9f7f53f35eebab&amp;chksm=a6c76fe991b0e6ff2ba9699efe963b9a0afa456b35f837ec902a0ba7719103862ee23f4a51c3" rel="noopener noreferrer">原文链接</a>，更新于2021-06-27。）</small>
 
 
 

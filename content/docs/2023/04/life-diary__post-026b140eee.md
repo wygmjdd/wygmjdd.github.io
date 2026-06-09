@@ -73,4 +73,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485495&idx=
 
 前段时间阅读《[也许你该找个人聊聊](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485461&idx=1&sn=2362318a3001ee1526ef69204cfd5526&chksm=a6c764f891b0edee6b2b4cc84f9a53cf17d5f2bfb3029eb7d3f6d481b3570b3b20f367f214cb&scene=21#wechat_redirect)》，看过书中约翰的故事（开车过程中想拿手机，未躲开转弯时的酒驾来车），在不开车时，我是害怕的。
 
-我担心开车时的某个疏忽，会导致意外的发生，于是整理自己心态的变化：“你知道的，开车应该慢一点。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485495&amp;idx=1&amp;sn=0e3ef6c3f61aa18f0ceebcdcefd1afd6&amp;chksm=a6c764da91b0edccd1657678a3050be2fda811e146657647eed8a39c2955444f6da780e54b2b" rel="noopener noreferrer">原文链接</a>）</small>
+我担心开车时的某个疏忽，会导致意外的发生，于是整理自己心态的变化：“你知道的，开车应该慢一点。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485495&amp;idx=1&amp;sn=0e3ef6c3f61aa18f0ceebcdcefd1afd6&amp;chksm=a6c764da91b0edccd1657678a3050be2fda811e146657647eed8a39c2955444f6da780e54b2b" rel="noopener noreferrer">原文链接</a>，更新于2023-04-16。）</small>

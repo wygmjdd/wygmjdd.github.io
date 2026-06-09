@@ -65,4 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485156&idx=
 
 理完本篇读书笔记草稿的那个早上，看到鲁迅先生小说《理水》中用另外的文字，描述了血酬定律的具体表现。
 
-我心中，是多了许多愤怒的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485156&amp;idx=1&amp;sn=2e2b3dece14242770d32890fefb1e802&amp;chksm=a6c76a0991b0e31f361abeda0782d8fd7818580b616b81f3e4ec6ec38bac087cbab94030dc63" rel="noopener noreferrer">原文链接</a>）</small>
+我心中，是多了许多愤怒的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485156&amp;idx=1&amp;sn=2e2b3dece14242770d32890fefb1e802&amp;chksm=a6c76a0991b0e31f361abeda0782d8fd7818580b616b81f3e4ec6ec38bac087cbab94030dc63" rel="noopener noreferrer">原文链接</a>，更新于2022-10-24。）</small>

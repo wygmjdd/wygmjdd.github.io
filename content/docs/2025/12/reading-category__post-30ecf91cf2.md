@@ -47,4 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487424&idx=
 
 最后，我发现读书选择类别这件事于我，大概也算是某种持续阅读的动力，不同书籍带给我的，是不一样的新奇体验。看完《初老的女人》，我再将比吕美女士的《生而为女，不必抱歉》加入书架，但一直不看。我想要的，先看些其它类别图书之后再回来。
 
-比吕美女士，且过段时间再见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487424&amp;idx=1&amp;sn=3133242fda8f1a1d1661734fb68f7bbc&amp;chksm=a6c7632d91b0ea3baea1f4ac0b6b4d43af8bc455a53ca99947397858e89a7bb74971f06462cc" rel="noopener noreferrer">原文链接</a>）</small>
+比吕美女士，且过段时间再见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487424&amp;idx=1&amp;sn=3133242fda8f1a1d1661734fb68f7bbc&amp;chksm=a6c7632d91b0ea3baea1f4ac0b6b4d43af8bc455a53ca99947397858e89a7bb74971f06462cc" rel="noopener noreferrer">原文链接</a>，更新于2025-12-14。）</small>

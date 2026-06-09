@@ -77,4 +77,4 @@ source_url: https://mp.weixin.qq.com/s/g0VY3ZlbguRnAdbMBiJrOA
 
 最后，是作者对于战争的评说，这些评说我并不能做到复述，但常感受到内心触动。
 
-战争，并不只是某个大人物的一句指令，大人物于战争中所发挥的作用或许是小的，他们也在时代的洪流中被裹挟着前行；而同时，参与战争的所有人，特别是那些不被记录的小角色，也都拥有属于自己的人生。 <small>（<a href="https://mp.weixin.qq.com/s/g0VY3ZlbguRnAdbMBiJrOA" rel="noopener noreferrer">原文链接</a>）</small>
+战争，并不只是某个大人物的一句指令，大人物于战争中所发挥的作用或许是小的，他们也在时代的洪流中被裹挟着前行；而同时，参与战争的所有人，特别是那些不被记录的小角色，也都拥有属于自己的人生。 <small>（<a href="https://mp.weixin.qq.com/s/g0VY3ZlbguRnAdbMBiJrOA" rel="noopener noreferrer">原文链接</a>，更新于2026-03-29。）</small>

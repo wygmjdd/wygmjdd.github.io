@@ -69,4 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487475&idx=
 
 陌生人初遇时的第一印象，便是外表，而对方是否好看，我们大部分人其实在3秒钟内便已经做出决定。友好、外向的人往往很受欢迎，没有人喜欢害羞或对被抛弃感到高度焦虑的人，但**在初次见面时，没有什么比长相更重要的了** 。
 
-> 总而言之，这些研究结果表明，人类天性和环境条件共同塑造了我们对美丑的判断标准。我们通常会被那些看起来是好伴侣的人所吸引，但什么样的人才算是好伴侣在一定程度上取决于我们所处的环境。然而，并不总是情人眼里出西施。世界各地的人们对于美丑的判断标准出奇地一致。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487475&amp;idx=1&amp;sn=3e9869e453885ecb7633e3b18848e02e&amp;chksm=a6c7631e91b0ea08bab26b3a83f85d50b60247e147594b51c5420801c2c6c445bfea7058769a" rel="noopener noreferrer">原文链接</a>）</small>
+> 总而言之，这些研究结果表明，人类天性和环境条件共同塑造了我们对美丑的判断标准。我们通常会被那些看起来是好伴侣的人所吸引，但什么样的人才算是好伴侣在一定程度上取决于我们所处的环境。然而，并不总是情人眼里出西施。世界各地的人们对于美丑的判断标准出奇地一致。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487475&amp;idx=1&amp;sn=3e9869e453885ecb7633e3b18848e02e&amp;chksm=a6c7631e91b0ea08bab26b3a83f85d50b60247e147594b51c5420801c2c6c445bfea7058769a" rel="noopener noreferrer">原文链接</a>，更新于2026-01-27。）</small>

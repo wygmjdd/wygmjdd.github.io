@@ -81,4 +81,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485092&idx=
 > 
 > Bob入职、转正，Andy拿到岗位提成。
 
-猎头，对找工作有帮助么？是很有帮助的，但更重要的，依然是自己的实力。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485092&amp;idx=1&amp;sn=a8c58d042ce5f68ed72b11530ed8ae02&amp;chksm=a6c76a4991b0e35fb19a653afcb02a633ade12f82f151c17041a4952ace7923d2e3d51dbdaee" rel="noopener noreferrer">原文链接</a>）</small>
+猎头，对找工作有帮助么？是很有帮助的，但更重要的，依然是自己的实力。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485092&amp;idx=1&amp;sn=a8c58d042ce5f68ed72b11530ed8ae02&amp;chksm=a6c76a4991b0e35fb19a653afcb02a633ade12f82f151c17041a4952ace7923d2e3d51dbdaee" rel="noopener noreferrer">原文链接</a>，更新于2022-09-25。）</small>

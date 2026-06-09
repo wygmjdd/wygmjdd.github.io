@@ -77,4 +77,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486523&idx=
 
 
 
-今天日记记的很慢，80分钟2300字。记于10月21日晚临睡前。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486523&amp;idx=1&amp;sn=c96c7099beed19fc16ff21a726855443&amp;chksm=a6c760d691b0e9c02c9fb08ccb99235be27f8371ac885d985fa51332245bcc87aae75b7c79ad" rel="noopener noreferrer">原文链接</a>）</small>
+今天日记记的很慢，80分钟2300字。记于10月21日晚临睡前。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486523&amp;idx=1&amp;sn=c96c7099beed19fc16ff21a726855443&amp;chksm=a6c760d691b0e9c02c9fb08ccb99235be27f8371ac885d985fa51332245bcc87aae75b7c79ad" rel="noopener noreferrer">原文链接</a>，更新于2024-10-21。）</small>

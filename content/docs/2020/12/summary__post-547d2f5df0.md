@@ -47,4 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483808&idx=
 
 在我的老家，建一套自住房子，有大工和小工的区分，大工砌墙、小工搬砖。50多岁的大工，50多岁的小工，都能有活干。甚至于，许多时候大工还需要排班，先这家做几天，然后去那家做几天。（当然，并非全年都有人建新房，其他的日子，会种地）
 
-我作为一个程序员，说到底，还是类似大工小工的技术工人。如果一直打磨我的技能，为什么我的50岁，会找不到工作呢？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483808&amp;idx=1&amp;sn=e508f6b9bdf0e827e99425960cbd5db8&amp;chksm=a6c76d4d91b0e45b9e36e01abc6e0b1c1d50e68856558ae122a8a4b283b273741142a7da247c" rel="noopener noreferrer">原文链接</a>）</small>
+我作为一个程序员，说到底，还是类似大工小工的技术工人。如果一直打磨我的技能，为什么我的50岁，会找不到工作呢？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483808&amp;idx=1&amp;sn=e508f6b9bdf0e827e99425960cbd5db8&amp;chksm=a6c76d4d91b0e45b9e36e01abc6e0b1c1d50e68856558ae122a8a4b283b273741142a7da247c" rel="noopener noreferrer">原文链接</a>，更新于2020-12-13。）</small>

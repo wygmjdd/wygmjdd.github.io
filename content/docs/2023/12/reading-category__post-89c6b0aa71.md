@@ -56,4 +56,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485856&idx=
 
 > 我生活中的第一要务是我的身体健康。对我来说，健康的重要性高于幸福，高于家庭，高于工作。我的身体健康是一切的起点，排在第一位，紧随其后的是我的心理健康和精神健康。接着是家人的健康和幸福。在确保了这些之后，我就可以按照自己的意志在这个世界上自由活动了。
 
-愿我们，都更加重视自己的身心健康。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485856&amp;idx=1&amp;sn=4e8bf02e2c11951a0c70c6cfd27c3f0c&amp;chksm=a6c7654d91b0ec5bdc2fa0489af76ca7941e55a80fcd0ea010e69d1ecb5e9430aa74ccc962fd" rel="noopener noreferrer">原文链接</a>）</small>
+愿我们，都更加重视自己的身心健康。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485856&amp;idx=1&amp;sn=4e8bf02e2c11951a0c70c6cfd27c3f0c&amp;chksm=a6c7654d91b0ec5bdc2fa0489af76ca7941e55a80fcd0ea010e69d1ecb5e9430aa74ccc962fd" rel="noopener noreferrer">原文链接</a>，更新于2023-12-04。）</small>

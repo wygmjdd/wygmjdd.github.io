@@ -52,7 +52,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484817&idx=
 > 
 > 肠粉味道，与第二个老板一样，还是松松软软的。
 
-前两天，我再路过这家店，它已经大门紧闭。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484817&amp;idx=1&amp;sn=40c1eaee6dc2ae8817b7d61c634f30e5&amp;chksm=a6c7697c91b0e06a52c1e252c07cc7f4fc056c016f857a645e6c70b4258891c081a8527e3574" rel="noopener noreferrer">原文链接</a>）</small>
+前两天，我再路过这家店，它已经大门紧闭。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484817&amp;idx=1&amp;sn=40c1eaee6dc2ae8817b7d61c634f30e5&amp;chksm=a6c7697c91b0e06a52c1e252c07cc7f4fc056c016f857a645e6c70b4258891c081a8527e3574" rel="noopener noreferrer">原文链接</a>，更新于2022-06-12。）</small>
 
   
 

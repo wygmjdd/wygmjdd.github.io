@@ -27,4 +27,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487463&idx=
 
 以上《性心理学》中对于美的总结，与《亲密关系》中很是相像，即美的标准大体共通同时，又拥有属于自己文化的特色以及个体差异。
 
-而对于美的具体标准的共同看法，将在下一篇中列叙。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487463&amp;idx=1&amp;sn=6785b76f5381605622381bc2dfe1999a&amp;chksm=a6c7630a91b0ea1c9d21ee4248e4e9ce370d32d01665fde92f85d4f4d028a71b08cd7f467adc" rel="noopener noreferrer">原文链接</a>）</small>
+而对于美的具体标准的共同看法，将在下一篇中列叙。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487463&amp;idx=1&amp;sn=6785b76f5381605622381bc2dfe1999a&amp;chksm=a6c7630a91b0ea1c9d21ee4248e4e9ce370d32d01665fde92f85d4f4d028a71b08cd7f467adc" rel="noopener noreferrer">原文链接</a>，更新于2026-01-24。）</small>

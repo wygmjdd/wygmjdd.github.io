@@ -79,6 +79,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484505&idx=
 
 世界重新安静，老叽的脑袋依旧，我想将“叽”换成另外一个字。
 
-飞机落地，等待下机开门，我排到老叽那一排，他半漏在外的鼻孔中，透出浓浓白酒味。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484505&amp;idx=1&amp;sn=930ff51f5a6b95922ff713821c34a686&amp;chksm=a6c768b491b0e1a26540473e39ff5f642f1f1cf7935af91fc368c66e978d441505933a939786" rel="noopener noreferrer">原文链接</a>）</small>
+飞机落地，等待下机开门，我排到老叽那一排，他半漏在外的鼻孔中，透出浓浓白酒味。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484505&amp;idx=1&amp;sn=930ff51f5a6b95922ff713821c34a686&amp;chksm=a6c768b491b0e1a26540473e39ff5f642f1f1cf7935af91fc368c66e978d441505933a939786" rel="noopener noreferrer">原文链接</a>，更新于2022-01-09。）</small>
 
 * * *

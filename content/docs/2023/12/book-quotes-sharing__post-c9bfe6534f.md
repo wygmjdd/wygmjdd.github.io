@@ -45,4 +45,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485846&idx=
 > 
 > 我尽量去买各种原生态的食物，不买过度加工的食品。我原本特别爱吃油炸食品，每天早上吃一根油条对我来说是一大享受。但是现在，我已杜绝任何油炸食物，也几乎不去餐馆吃饭。我在家里采用的烹调方法主要是：煮、蒸、焯以及少量的炒。无论素菜还是荤菜，除了盐之外不加任何调味品。
 > 
-> 这种饮食方式在开始时让我觉得不那么美味，但是习惯之后，品出各种食物最原始的味道，那就别有一番滋味。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485846&amp;idx=1&amp;sn=caaea0360270037a33be1ff3bbff7476&amp;chksm=a6c7657b91b0ec6d396b0f49d0ee959468d767ed2765f3ca11504a17ec3fd237da5edf3010d6" rel="noopener noreferrer">原文链接</a>）</small>
+> 这种饮食方式在开始时让我觉得不那么美味，但是习惯之后，品出各种食物最原始的味道，那就别有一番滋味。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485846&amp;idx=1&amp;sn=caaea0360270037a33be1ff3bbff7476&amp;chksm=a6c7657b91b0ec6d396b0f49d0ee959468d767ed2765f3ca11504a17ec3fd237da5edf3010d6" rel="noopener noreferrer">原文链接</a>，更新于2023-12-02。）</small>

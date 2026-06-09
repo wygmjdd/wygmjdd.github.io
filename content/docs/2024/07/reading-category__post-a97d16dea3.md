@@ -69,4 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486361&idx=
 > 
 > （6）如果人生真要留下什么，那就为世界留下心存善念的孩子，让他们一代又一代地将世界的希望与爱传递下去。
 
-“让每一个今天，都比昨天更好”是目标；追逐目标的过程，慢一点，是可以接受的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486361&amp;idx=1&amp;sn=7037667de47a7ee09564759da40deaac&amp;chksm=a6c7677491b0ee625cc7d1e6fc880cdf75928a8cc3f71b5f22790f23dab4703760beabb44444" rel="noopener noreferrer">原文链接</a>）</small>
+“让每一个今天，都比昨天更好”是目标；追逐目标的过程，慢一点，是可以接受的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486361&amp;idx=1&amp;sn=7037667de47a7ee09564759da40deaac&amp;chksm=a6c7677491b0ee625cc7d1e6fc880cdf75928a8cc3f71b5f22790f23dab4703760beabb44444" rel="noopener noreferrer">原文链接</a>，更新于2024-07-28。）</small>

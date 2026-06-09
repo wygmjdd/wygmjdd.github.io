@@ -28,4 +28,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484000&idx=
 
 周五晚上加上周六白天，一共有0.16元的收益。还有一个没有搞清楚的问题是，这个收益怎么提现呢？
 
-查阅了一下公众号的规则，平台会在每月的1号和15号结算此前半个月的收益，自动缴税后，将收益发放到银行卡。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484000&amp;idx=2&amp;sn=8a9b0cdd0626e4c31993a7b273713074&amp;chksm=a6c76e8d91b0e79b879ad028df9941dc0736e36b8ee500ee729f248b59831088648205a5d361" rel="noopener noreferrer">原文链接</a>）</small>
+查阅了一下公众号的规则，平台会在每月的1号和15号结算此前半个月的收益，自动缴税后，将收益发放到银行卡。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484000&amp;idx=2&amp;sn=8a9b0cdd0626e4c31993a7b273713074&amp;chksm=a6c76e8d91b0e79b879ad028df9941dc0736e36b8ee500ee729f248b59831088648205a5d361" rel="noopener noreferrer">原文链接</a>，更新于2021-04-18。）</small>

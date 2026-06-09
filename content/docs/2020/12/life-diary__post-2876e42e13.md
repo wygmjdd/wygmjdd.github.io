@@ -90,4 +90,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483839&idx=
 
 ![图片](/images/wechat/2876e42e13f7/001.jpg)
 
-为特色球衣所做的摆拍 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483839&amp;idx=1&amp;sn=9762a85083f0f046a8c67f8801b97174&amp;chksm=a6c76d5291b0e44476d956b089463d4c0c44e1d34f9d6d7e39e8a12137da67f9b9ef24210b2c" rel="noopener noreferrer">原文链接</a>）</small>
+为特色球衣所做的摆拍 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483839&amp;idx=1&amp;sn=9762a85083f0f046a8c67f8801b97174&amp;chksm=a6c76d5291b0e44476d956b089463d4c0c44e1d34f9d6d7e39e8a12137da67f9b9ef24210b2c" rel="noopener noreferrer">原文链接</a>，更新于2020-12-27。）</small>

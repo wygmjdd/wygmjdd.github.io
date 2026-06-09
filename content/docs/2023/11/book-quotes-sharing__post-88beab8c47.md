@@ -65,4 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485825&idx=
 > 
 > 但我常看外国的批评文章，因为他于我没有恩怨嫉恨，虽然所评的是别人的作品，却很有可以借镜之处。但自然，我也同时一定留心这批评家的派别。（《南腔北调集》《我怎么做起小说来》）
 
-鲁迅先生写过的金句有许多，于是此篇只是摘抄的第一篇。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485825&amp;idx=1&amp;sn=541535178af3c04215df90159c8d8e22&amp;chksm=a6c7656c91b0ec7adef0fa2429fbd03467c9aaf983b40b1b5b88334038aaf2fe9e91f747bdf7" rel="noopener noreferrer">原文链接</a>）</small>
+鲁迅先生写过的金句有许多，于是此篇只是摘抄的第一篇。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485825&amp;idx=1&amp;sn=541535178af3c04215df90159c8d8e22&amp;chksm=a6c7656c91b0ec7adef0fa2429fbd03467c9aaf983b40b1b5b88334038aaf2fe9e91f747bdf7" rel="noopener noreferrer">原文链接</a>，更新于2023-11-21。）</small>

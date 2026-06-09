@@ -91,4 +91,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486104&idx=
 
 这一章节，我留下的最深刻印象是：情境的力量真的很强大。
 
-然后就有新的疑问：我反抗过，但反抗不成功；当我不得不屈从于情境力量时，我还是我么？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486104&amp;idx=1&amp;sn=c09697a101e33357f7987333ad69a851&amp;chksm=a6c7667591b0ef63c514be511fb172fbbbf9e9c13e606b293aac68b7eed357ef056a96bc4caa" rel="noopener noreferrer">原文链接</a>）</small>
+然后就有新的疑问：我反抗过，但反抗不成功；当我不得不屈从于情境力量时，我还是我么？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486104&amp;idx=1&amp;sn=c09697a101e33357f7987333ad69a851&amp;chksm=a6c7667591b0ef63c514be511fb172fbbbf9e9c13e606b293aac68b7eed357ef056a96bc4caa" rel="noopener noreferrer">原文链接</a>，更新于2024-03-24。）</small>

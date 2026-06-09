@@ -71,4 +71,4 @@ source_url: https://mp.weixin.qq.com/s/IA7OxtuWlg6BZMoZD323hg
 
 峨眉山往返，本该是本篇日记的最后一句，但时间到晚上10点，这行程又多出些变化：明天，峨眉下山之后，我和阿妮将去成都赴旧友之邀。
 
-这邀请，本被我以路程很远为由回绝，但“好久不见想再见”恰似一颗种子在心，忽然长得很大。 <small>（<a href="https://mp.weixin.qq.com/s/IA7OxtuWlg6BZMoZD323hg" rel="noopener noreferrer">原文链接</a>）</small>
+这邀请，本被我以路程很远为由回绝，但“好久不见想再见”恰似一颗种子在心，忽然长得很大。 <small>（<a href="https://mp.weixin.qq.com/s/IA7OxtuWlg6BZMoZD323hg" rel="noopener noreferrer">原文链接</a>，更新于2026-04-04。）</small>

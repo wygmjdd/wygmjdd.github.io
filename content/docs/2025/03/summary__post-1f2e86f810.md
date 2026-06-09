@@ -38,4 +38,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486819&idx=
 
 读过这许多书，看过许多不同的人生经历之后，我发现自己曾经有过的迷茫——不知道自己未来会怎样，不知道世界未来会怎样，不知道自己当下应该如何做选择——其实真就有消散许多，我从这些分享者的经历中，有收获、理解到一种或许我已经看到过许多次自己也说过许多次的结论：一切随心，将自己喜欢且擅长的事情做好，且让这些事情一直持续下去，总会有突破谜障的那天。
 
-总之，我认为迷茫的时候想看书，阅读人物传记，会是一种不错的选择，不管是谁，是平凡还是伟大，是都曾迷茫过的。当我们看过的真实故事更多些，总能从其中找到自己想要去尝试又合符自己脾胃的那条道。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486819&amp;idx=1&amp;sn=61164d7217b8b85831156747c800585f&amp;chksm=a6c7618e91b0e89865e88d2bfa04d70b62799431d2065baded5e78405cd403ec7e9f50c35893" rel="noopener noreferrer">原文链接</a>）</small>
+总之，我认为迷茫的时候想看书，阅读人物传记，会是一种不错的选择，不管是谁，是平凡还是伟大，是都曾迷茫过的。当我们看过的真实故事更多些，总能从其中找到自己想要去尝试又合符自己脾胃的那条道。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486819&amp;idx=1&amp;sn=61164d7217b8b85831156747c800585f&amp;chksm=a6c7618e91b0e89865e88d2bfa04d70b62799431d2065baded5e78405cd403ec7e9f50c35893" rel="noopener noreferrer">原文链接</a>，更新于2025-03-01。）</small>

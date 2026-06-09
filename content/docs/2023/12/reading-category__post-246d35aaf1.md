@@ -27,4 +27,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485855&idx=
 
 即便不太相信作者观点，我确实也被作者影响了。自从上半年看过《[胃靠养，肠靠清](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485620&idx=1&sn=ae8f6ae8fbd1f630244479d055f7bd0c&chksm=a6c7645991b0ed4f5faeff8e3592bb7761e018fee6b9022eb574257e8ed92532072f30adf3d7&scene=21#wechat_redirect)》，我每日的饮水量比以前多了许多，上午三杯，下午三杯，隔三差五泡些茶喝。阅读本书的一个月中，许多泡茶冲动被本书冲散：“既然茶也是饮料，那就不喝茶只喝水算了。”
 
-本书没有推荐语，完成本篇读书笔记也仅仅是为了完成自己的养成游戏（为看完的每一本书输出一篇读书笔记），但听从自己身体的声音，多喝水，是绝不会错的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485855&amp;idx=1&amp;sn=d7a9e94fd306e3a43ef5b1f81cc7a9cd&amp;chksm=a6c7657291b0ec645b26139fadaaad1e3467307800c13f97ae48592f8d89aa9c874db89192c1" rel="noopener noreferrer">原文链接</a>）</small>
+本书没有推荐语，完成本篇读书笔记也仅仅是为了完成自己的养成游戏（为看完的每一本书输出一篇读书笔记），但听从自己身体的声音，多喝水，是绝不会错的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485855&amp;idx=1&amp;sn=d7a9e94fd306e3a43ef5b1f81cc7a9cd&amp;chksm=a6c7657291b0ec645b26139fadaaad1e3467307800c13f97ae48592f8d89aa9c874db89192c1" rel="noopener noreferrer">原文链接</a>，更新于2023-12-03。）</small>

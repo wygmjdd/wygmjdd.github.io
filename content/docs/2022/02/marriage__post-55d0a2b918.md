@@ -102,7 +102,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484555&idx=
 > 可能当时我们多多讨论一下具体的定价是如何的，就不会有后面的这些误会。  
 > 当然，不管怎样。现在事情得到了解决，谢谢千哥。也真的很抱歉因为我们准备工作不足对千哥造成的麻烦。
 
-后面便没有了联系，压在我心里八天的这件事情落下帷幕。接下来，定下一家；这一次，我们要了解清楚各个价格。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484555&amp;idx=2&amp;sn=fd3bca6908a32f6b6e9064c462260145&amp;chksm=a6c7686691b0e170f8a639cce020f7c3ed895f8e9dff0903ef6f1bf1a6bb6e67fb1229ea603b" rel="noopener noreferrer">原文链接</a>）</small>
+后面便没有了联系，压在我心里八天的这件事情落下帷幕。接下来，定下一家；这一次，我们要了解清楚各个价格。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484555&amp;idx=2&amp;sn=fd3bca6908a32f6b6e9064c462260145&amp;chksm=a6c7686691b0e170f8a639cce020f7c3ed895f8e9dff0903ef6f1bf1a6bb6e67fb1229ea603b" rel="noopener noreferrer">原文链接</a>，更新于2022-02-13。）</small>
 
   
 

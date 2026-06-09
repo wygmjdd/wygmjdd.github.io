@@ -35,7 +35,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484421&idx=
 
 ![图片](/images/wechat/f5fffaa26b89/001.jpg)
 
-这是一碗鸡公面 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484421&amp;idx=1&amp;sn=f18a7ac082630cbd8634a4ad68e24709&amp;chksm=a6c768e891b0e1fe93b71ff493c620d6a569cae781242708f0fd865b9545f74e25b23ac68979" rel="noopener noreferrer">原文链接</a>）</small>
+这是一碗鸡公面 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484421&amp;idx=1&amp;sn=f18a7ac082630cbd8634a4ad68e24709&amp;chksm=a6c768e891b0e1fe93b71ff493c620d6a569cae781242708f0fd865b9545f74e25b23ac68979" rel="noopener noreferrer">原文链接</a>，更新于2021-11-28。）</small>
 
 
   

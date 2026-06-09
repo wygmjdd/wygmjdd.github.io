@@ -75,4 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486448&idx=
 
 是的，到8月底，我[坚持周更公众号整整4年](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486434&idx=1&sn=246e90f431c312997e6b729c58fdde34&chksm=a6c7670f91b0ee195c009b38a7b7572aeee6fdbaa7351bf077bdae40038a3ea17a0eccd8894c&token=1471216144&lang=zh_CN&scene=21#wechat_redirect)了；这篇总结，更多是当下心境的整理：我真的有在慢慢认清自己。
 
-未完待续…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486448&amp;idx=1&amp;sn=18f968077417d1a400c47d8f65b05c90&amp;chksm=a6c7671d91b0ee0bbca97e0fdbcb47e93c620e1f4f0926ac7adb0e1984438a4ae02a59f6dba6" rel="noopener noreferrer">原文链接</a>）</small>
+未完待续…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486448&amp;idx=1&amp;sn=18f968077417d1a400c47d8f65b05c90&amp;chksm=a6c7671d91b0ee0bbca97e0fdbcb47e93c620e1f4f0926ac7adb0e1984438a4ae02a59f6dba6" rel="noopener noreferrer">原文链接</a>，更新于2024-09-12。）</small>

@@ -68,4 +68,4 @@ source_url: https://mp.weixin.qq.com/s/hSmRvkxP6EeA-Z2mxlXnBQ
 <figcaption>历史最长而文学最多</figcaption>
 </figure>
 
-以上，《微信读书》也在与时俱进，此Skill很好用，特此推荐。 <small>（<a href="https://mp.weixin.qq.com/s/hSmRvkxP6EeA-Z2mxlXnBQ" rel="noopener noreferrer">原文链接</a>）</small>
+以上，《微信读书》也在与时俱进，此Skill很好用，特此推荐。 <small>（<a href="https://mp.weixin.qq.com/s/hSmRvkxP6EeA-Z2mxlXnBQ" rel="noopener noreferrer">原文链接</a>，更新于2026-05-17。）</small>

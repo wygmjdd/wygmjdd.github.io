@@ -67,4 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487014&idx=
 
 安静便能专注。
 
-“回首向来萧瑟处，也无风雨也无晴”，东坡写得可真好，李一冰先生，可理得真好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487014&amp;idx=1&amp;sn=2d7e0fb84858d713cc321576eced410f&amp;chksm=a6c762cb91b0ebdd04456cf4adfab6a044c4e9fe6b239f5f618e10ae8e03fba4831517b4ebd3" rel="noopener noreferrer">原文链接</a>）</small>
+“回首向来萧瑟处，也无风雨也无晴”，东坡写得可真好，李一冰先生，可理得真好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487014&amp;idx=1&amp;sn=2d7e0fb84858d713cc321576eced410f&amp;chksm=a6c762cb91b0ebdd04456cf4adfab6a044c4e9fe6b239f5f618e10ae8e03fba4831517b4ebd3" rel="noopener noreferrer">原文链接</a>，更新于2025-06-29。）</small>

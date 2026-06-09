@@ -43,4 +43,4 @@ source_url: https://mp.weixin.qq.com/s/nTy-xkw-hhU2jgGPLIna_A
 
 眼前一亮的我对我的小改动（大概一百行左右吧）执行了此subagent。它重构的结果，是让我很是满意的：重复代码被提取出来，函数短了许多。
 
-晚上下班地铁上，觉得此发现值得做一次小小记录，于是作此记录。 <small>（<a href="https://mp.weixin.qq.com/s/nTy-xkw-hhU2jgGPLIna_A" rel="noopener noreferrer">原文链接</a>）</small>
+晚上下班地铁上，觉得此发现值得做一次小小记录，于是作此记录。 <small>（<a href="https://mp.weixin.qq.com/s/nTy-xkw-hhU2jgGPLIna_A" rel="noopener noreferrer">原文链接</a>，更新于2026-04-02。）</small>

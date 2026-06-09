@@ -87,4 +87,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486040&idx=
 
 看到成绩后回去翻了翻考研结束时记下的感受。
 
-记下当时感受真不错，它帮我记着过去的自己是怎样想的，于是再有此篇：“持续地学习英语很有用处，我要再去试试看，考一考本专业研究生么？” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486040&amp;idx=1&amp;sn=1aa2cb162f555b80ad092d8cfeca9d0e&amp;chksm=a6c766b591b0efa308f831cefc11c20758d772df08641fb793f4b2c4aea2bd74bc7e9cd9e488" rel="noopener noreferrer">原文链接</a>）</small>
+记下当时感受真不错，它帮我记着过去的自己是怎样想的，于是再有此篇：“持续地学习英语很有用处，我要再去试试看，考一考本专业研究生么？” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486040&amp;idx=1&amp;sn=1aa2cb162f555b80ad092d8cfeca9d0e&amp;chksm=a6c766b591b0efa308f831cefc11c20758d772df08641fb793f4b2c4aea2bd74bc7e9cd9e488" rel="noopener noreferrer">原文链接</a>，更新于2024-02-26。）</small>

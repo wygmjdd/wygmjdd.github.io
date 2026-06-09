@@ -52,4 +52,4 @@ source_url: https://mp.weixin.qq.com/s/-Pdi1uc8mOgMINd-v8_rOw
 
 或许会吧？但前提，一定得是我知道自己在做什么，且大概知道怎么做。
 
-因为啥都不会？那出来的东西，大概率将是shit！ <small>（<a href="https://mp.weixin.qq.com/s/-Pdi1uc8mOgMINd-v8_rOw" rel="noopener noreferrer">原文链接</a>）</small>
+因为啥都不会？那出来的东西，大概率将是shit！ <small>（<a href="https://mp.weixin.qq.com/s/-Pdi1uc8mOgMINd-v8_rOw" rel="noopener noreferrer">原文链接</a>，更新于2026-04-16。）</small>

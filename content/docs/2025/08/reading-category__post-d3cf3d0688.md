@@ -127,4 +127,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487057&idx=
 
 
 
-综上，书中倡导的健康生活方式可概括为：饮食均衡、少吃加工食品和有害脂肪，坚持规律运动，保持健康体重，保证充足睡眠，远离烟草与过量酒精，以及在日常细节中培养长期可持续的健康习惯。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487057&amp;idx=1&amp;sn=c18d4c7dd1846a64696d701dc8bfcd72&amp;chksm=a6c762bc91b0ebaa7a8758d4c9465859c34990c788ade10d4785dbebc158f66c65357f626c6f" rel="noopener noreferrer">原文链接</a>）</small>
+综上，书中倡导的健康生活方式可概括为：饮食均衡、少吃加工食品和有害脂肪，坚持规律运动，保持健康体重，保证充足睡眠，远离烟草与过量酒精，以及在日常细节中培养长期可持续的健康习惯。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487057&amp;idx=1&amp;sn=c18d4c7dd1846a64696d701dc8bfcd72&amp;chksm=a6c762bc91b0ebaa7a8758d4c9465859c34990c788ade10d4785dbebc158f66c65357f626c6f" rel="noopener noreferrer">原文链接</a>，更新于2025-08-03。）</small>

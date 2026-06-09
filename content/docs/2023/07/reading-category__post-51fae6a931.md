@@ -44,4 +44,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485655&idx=
 
 以上。
 
-先养成习惯，然后再读书。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485655&amp;idx=1&amp;sn=4b2d8ee9d50bb119626658aa483b37cc&amp;chksm=a6c7643a91b0ed2c9f693f335f778054c0e57a0a8f1cc209881e997979e937b1a1efda40a4ff" rel="noopener noreferrer">原文链接</a>）</small>
+先养成习惯，然后再读书。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485655&amp;idx=1&amp;sn=4b2d8ee9d50bb119626658aa483b37cc&amp;chksm=a6c7643a91b0ed2c9f693f335f778054c0e57a0a8f1cc209881e997979e937b1a1efda40a4ff" rel="noopener noreferrer">原文链接</a>，更新于2023-07-31。）</small>

@@ -86,4 +86,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487350&idx=
 
 今天忙着做饭、运动、写本篇更新，《皇室战争》一把不玩，视频只刷几分钟，而衣服还没晾……睡觉时间，显然又已经超过11点。
 
-算了，年底再见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487350&amp;idx=1&amp;sn=0a1518cbd4d95c08f2bbcdd519d1d2be&amp;chksm=a6c7639b91b0ea8d8e909bd680ef6ddd3ad16bf31cee57562f886dccef7b6f652ccbc4fd8bf4" rel="noopener noreferrer">原文链接</a>）</small>
+算了，年底再见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487350&amp;idx=1&amp;sn=0a1518cbd4d95c08f2bbcdd519d1d2be&amp;chksm=a6c7639b91b0ea8d8e909bd680ef6ddd3ad16bf31cee57562f886dccef7b6f652ccbc4fd8bf4" rel="noopener noreferrer">原文链接</a>，更新于2025-10-19。）</small>

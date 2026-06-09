@@ -86,4 +86,4 @@ https://github.com/mliu98/awesome-human-distillation?tab=readme-ov-file
 <figure class="figure-with-caption">
 <img src="/images/wechat/e4efb32d71dc/004.png" alt="图片" loading="lazy" decoding="async" />
 <figcaption>早上这些任务，花MiniMax Coding Plan 201次Token调用 &lt;small&gt;（&lt;a href=&quot;https://mp.weixin.qq.com/s/02VDct6cymmqivlMpTHkrw&quot; rel=&quot;noopener noreferrer&quot;&gt;原文链接&lt;/a&gt;）&lt;/small&gt;</figcaption>
-</figure>
+</figure> <small>（<a href="https://mp.weixin.qq.com/s/02VDct6cymmqivlMpTHkrw" rel="noopener noreferrer">原文链接</a>，更新于2026-04-12。）</small>

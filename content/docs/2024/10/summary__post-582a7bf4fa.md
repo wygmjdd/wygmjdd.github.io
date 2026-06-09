@@ -47,4 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486496&idx=
 
 第三季度，我一次又一次给自己打气，希望自己勇敢些，鼓励自己乐于拥抱变化。这些鼓励与希望，在早上作用最是明显——我一定可以的，我肯定能够在自己预想的方向上前行；它们在中午、傍晚开始有些动摇：其实安于现状也行，反正怎样都是活着；临睡前，缓解疲倦之后，则忘记选择，一心扑在日记上。
 
-一次又一次给自己打气，有效果，但不如阿妮的一句：“想问就问嘛。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486496&amp;idx=1&amp;sn=f8b9247ded64584a2f761f4b45608100&amp;chksm=a6c760cd91b0e9db73501b340912a50737a5b9bbdc1c4a2a6a207cf20e70e09bc82d8a871018" rel="noopener noreferrer">原文链接</a>）</small>
+一次又一次给自己打气，有效果，但不如阿妮的一句：“想问就问嘛。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486496&amp;idx=1&amp;sn=f8b9247ded64584a2f761f4b45608100&amp;chksm=a6c760cd91b0e9db73501b340912a50737a5b9bbdc1c4a2a6a207cf20e70e09bc82d8a871018" rel="noopener noreferrer">原文链接</a>，更新于2024-10-06。）</small>

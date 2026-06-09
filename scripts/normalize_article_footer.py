@@ -19,6 +19,7 @@ from __future__ import annotations
 import argparse
 import re
 import sys
+from datetime import date, datetime
 from html import escape
 from pathlib import Path
 from typing import Any
@@ -28,7 +29,10 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DOCS = ROOT / "content" / "docs"
 
-INLINE_LINK_MARKER = ">原文链接</a>）</small>"
+_INLINE_LINK_RE = re.compile(
+    r' <small>（<a href="([^"]+)" rel="noopener noreferrer">原文链接</a>'
+    r"(?:，更新于\d{4}-\d{2}-\d{2}。)?）</small>"
+)
 _CTA_BLOCK_RE = re.compile(
     r'\n*<div class="article-follow-cta">.*?</div>\s*',
     re.DOTALL,
@@ -42,7 +46,7 @@ _HR_LINE_RE = re.compile(r"^\s*(\*\s*){3,}\s*$")
 _PROMO_LINE_RE = re.compile(r"^\s*【?\s*↓↓↓")
 _HR_WITH_INLINE_LINK_RE = re.compile(
     r"^(\*\s*\*\s*\*)\s+(<small>（<a href=\"[^\"]+\" rel=\"noopener noreferrer\">"
-    r"原文链接</a>）</small>)\s*$",
+    r"原文链接</a>(?:，更新于\d{4}-\d{2}-\d{2}。)?）</small>)\s*$",
     re.MULTILINE,
 )
 
@@ -107,24 +111,58 @@ def _last_content_line_index(lines: list[str]) -> int | None:
     return None
 
 
-def append_source_link(main: str, source_url: str) -> str:
-    if INLINE_LINK_MARKER in main:
-        return main
-    if not source_url.strip():
-        return main
+def format_date_from_meta(meta: dict[str, Any]) -> str | None:
+    raw = meta.get("date")
+    if raw is None:
+        return None
+    if isinstance(raw, str):
+        value = raw.strip()
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+            return value
+        return None
+    if isinstance(raw, datetime):
+        return raw.strftime("%Y-%m-%d")
+    if isinstance(raw, date):
+        return raw.strftime("%Y-%m-%d")
+    return None
 
-    href = escape(source_url.strip(), quote=True)
-    suffix = (
-        f' <small>（<a href="{href}" rel="noopener noreferrer">原文链接</a>）</small>'
+
+def build_source_link_suffix(href: str, date_str: str | None) -> str:
+    date_part = f"，更新于{date_str}。" if date_str else ""
+    return (
+        f' <small>（<a href="{href}" rel="noopener noreferrer">原文链接</a>{date_part}）</small>'
     )
 
+
+def normalize_source_link(
+    main: str,
+    source_url: str | None,
+    date_str: str | None,
+) -> tuple[str, bool]:
+    """Append, upgrade, or skip the inline source link block. Returns (body, changed)."""
+    match = _INLINE_LINK_RE.search(main)
+    if match:
+        if not source_url or not source_url.strip():
+            return main, False
+        href = escape(source_url.strip(), quote=True)
+        expected_suffix = build_source_link_suffix(href, date_str)
+        if match.group(0) == expected_suffix:
+            return main, False
+        new_main = main[: match.start()] + expected_suffix + main[match.end() :]
+        return new_main.rstrip(), True
+
+    if not source_url or not source_url.strip():
+        return main, False
+
+    href = escape(source_url.strip(), quote=True)
+    suffix = build_source_link_suffix(href, date_str)
     lines = main.split("\n")
     idx = _last_content_line_index(lines)
     if idx is None:
-        return main.rstrip() + suffix
+        return main.rstrip() + suffix, True
 
     lines[idx] = lines[idx].rstrip() + suffix
-    return "\n".join(lines).rstrip()
+    return "\n".join(lines).rstrip(), True
 
 
 def strip_cta_html(body: str) -> str:
@@ -200,7 +238,11 @@ def repair_existing_body(body: str) -> str:
     return body
 
 
-def transform_body(body: str, source_url: str | None) -> tuple[str, bool]:
+def transform_body(
+    body: str,
+    source_url: str | None,
+    date_str: str | None = None,
+) -> tuple[str, bool]:
     """Return (new_body, changed)."""
     idx = body.find("↓↓↓")
     if idx >= 0:
@@ -210,9 +252,7 @@ def transform_body(body: str, source_url: str | None) -> tuple[str, bool]:
         main = body.rstrip()
         tail = ""
 
-    new_main = main
-    if source_url:
-        new_main = append_source_link(main, source_url)
+    new_main, _ = normalize_source_link(main, source_url, date_str)
 
     new_body = new_main
     if tail:
@@ -221,8 +261,6 @@ def transform_body(body: str, source_url: str | None) -> tuple[str, bool]:
             new_body = f"{new_main}\n\n{cleaned_tail}"
         else:
             new_body = new_main
-    elif source_url and INLINE_LINK_MARKER not in body:
-        new_body = new_main
 
     return new_body, new_body != body
 
@@ -268,8 +306,10 @@ def main() -> int:
         if not isinstance(source_url, str):
             source_url = None
 
+        date_str = format_date_from_meta(post.metadata)
+
         repaired = repair_existing_body(post.content)
-        new_body, t_changed = transform_body(repaired, source_url)
+        new_body, t_changed = transform_body(repaired, source_url, date_str)
         final_body = new_body if t_changed else repaired
         if final_body == post.content:
             skipped += 1

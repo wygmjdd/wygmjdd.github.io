@@ -42,7 +42,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484519&idx=
 
 2021，我开始感受到读书的力量。
 
-2022，我将继续！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484519&amp;idx=2&amp;sn=9f635a74742b3c53069b69fb6f81b13c&amp;chksm=a6c7688a91b0e19c897e859b51d7a59612b183f2dadceb96f0994e64e33f9b51d4032921e81c" rel="noopener noreferrer">原文链接</a>）</small>
+2022，我将继续！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484519&amp;idx=2&amp;sn=9f635a74742b3c53069b69fb6f81b13c&amp;chksm=a6c7688a91b0e19c897e859b51d7a59612b183f2dadceb96f0994e64e33f9b51d4032921e81c" rel="noopener noreferrer">原文链接</a>，更新于2022-01-16。）</small>
 
   
 

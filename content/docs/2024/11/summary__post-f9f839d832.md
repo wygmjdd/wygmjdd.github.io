@@ -53,4 +53,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486638&idx=
 
 《[津巴多普通心理学](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&chksm=a6c7678891b0ee9e58af615abd92f3ea2f686a8b612b1ba1254c0677d446997dd8f5e8c1bbe0&scene=21#wechat_redirect)》，是一本心理学的百科全书。
 
-以上，是过去四五年中，给我带来改变的现在的我还记着的书。我并不执着于推荐，我只是将自己看过觉得还不错的书，一一列举。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486638&amp;idx=1&amp;sn=0e5f87bff9ae90f61cbf347becbc6e4a&amp;chksm=a6c7604391b0e95505a39891270817629fc237cadc8c5edff5e09bd99acb6a86168e5aa32db3" rel="noopener noreferrer">原文链接</a>）</small>
+以上，是过去四五年中，给我带来改变的现在的我还记着的书。我并不执着于推荐，我只是将自己看过觉得还不错的书，一一列举。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486638&amp;idx=1&amp;sn=0e5f87bff9ae90f61cbf347becbc6e4a&amp;chksm=a6c7604391b0e95505a39891270817629fc237cadc8c5edff5e09bd99acb6a86168e5aa32db3" rel="noopener noreferrer">原文链接</a>，更新于2024-11-24。）</small>

@@ -43,4 +43,4 @@ source_url: https://mp.weixin.qq.com/s/STbrBhyo39x2KkcOMS36LQ
 
 总之，我想作者最核心的观念与我此前已经领悟到的“要做甚至做成某件事的前提，是自己喜欢且真正想做这件事”想法一致：
 
-要锻炼，首先是想要锻炼，然后从锻炼中感受到快乐，在快乐督促下常锻炼，最后便成了习惯。（到此处，我发现“锻炼”二字，换成“读书”也一样。） <small>（<a href="https://mp.weixin.qq.com/s/STbrBhyo39x2KkcOMS36LQ" rel="noopener noreferrer">原文链接</a>）</small>
+要锻炼，首先是想要锻炼，然后从锻炼中感受到快乐，在快乐督促下常锻炼，最后便成了习惯。（到此处，我发现“锻炼”二字，换成“读书”也一样。） <small>（<a href="https://mp.weixin.qq.com/s/STbrBhyo39x2KkcOMS36LQ" rel="noopener noreferrer">原文链接</a>，更新于2026-04-15。）</small>

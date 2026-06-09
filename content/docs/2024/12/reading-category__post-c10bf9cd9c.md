@@ -48,4 +48,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486680&idx=
 
 对的，这就跟津巴多教授给予我的认知关联起来。《认知驱动》肯定是有用的，在一些特定的时刻；但同时，请尝试认清自己，选择适合自己的帽子。“选择适合自己的帽子”也像鸡汤，它是《宝贵的人生建议》作者凯文·凯利68岁时写给他子女的。
 
-为什么不愿意相信呢？这是发生在我身上的一种现象，我先将它记下来。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486680&amp;idx=1&amp;sn=13bfb3605608f65651b7199c4706d336&amp;chksm=a6c7603591b0e923cb678edec47a0eb4daae193d387dfd8fb3480bc5447dd88a7122c07b1da4" rel="noopener noreferrer">原文链接</a>）</small>
+为什么不愿意相信呢？这是发生在我身上的一种现象，我先将它记下来。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486680&amp;idx=1&amp;sn=13bfb3605608f65651b7199c4706d336&amp;chksm=a6c7603591b0e923cb678edec47a0eb4daae193d387dfd8fb3480bc5447dd88a7122c07b1da4" rel="noopener noreferrer">原文链接</a>，更新于2024-12-22。）</small>

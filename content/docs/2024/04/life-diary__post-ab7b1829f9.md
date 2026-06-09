@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486187&idx=
 > 
 > 对正在进行行凶、杀人、抢劫、强奸、绑架以及其他严重危机人生安全的暴力犯罪，采取防卫行为，造成不法侵害人伤亡的，不属于防卫过当，不负刑事责任。
 
-看过《第二十条》，我多了许多面对邪恶的勇气，于是有此推荐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486187&amp;idx=1&amp;sn=676d884b8fdf1253e14025cafa7c0f77&amp;chksm=a6c7660691b0ef102a0206252e83c09bbf00b002f8b8a2cb9e9cc573ba411c11e133e2085075" rel="noopener noreferrer">原文链接</a>）</small>
+看过《第二十条》，我多了许多面对邪恶的勇气，于是有此推荐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486187&amp;idx=1&amp;sn=676d884b8fdf1253e14025cafa7c0f77&amp;chksm=a6c7660691b0ef102a0206252e83c09bbf00b002f8b8a2cb9e9cc573ba411c11e133e2085075" rel="noopener noreferrer">原文链接</a>，更新于2024-04-29。）</small>

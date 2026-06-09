@@ -37,4 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486265&idx=
 
 > 1.培养孩子积极情绪和幸福感的方法有：在孩子比较小的时候，和孩子一起睡觉。和小宝宝玩能带给他即时回应的游戏或玩具。尽量不对孩子说：“不行，不要这样……”不要无条件地称赞孩子。惩罚并不像想象的那么糟糕，但要注意惩罚的技巧。利用每个孩子的优势去化解兄弟姐妹间的嫉妒。在每天晚上睡觉前，和孩子分享一天中的美好往事，帮孩子克服坏事引起的消极情绪。让孩子带着最快乐的想法入睡。当打骂奖惩都无效时，可以试着和孩子做交易，但这个方法不能滥用，而且父母要言出必行。订立积极的新年计划，不要总计划着改正错误，弥补不足。
 > 
-> 2.当孩子完成本章的优势调查表后，他的优势就一目了然了。当孩子展现出他们的优势时，一定要及时奖励，并明确地告诉孩子，他具有这种优势。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486265&amp;idx=1&amp;sn=81f4629e8644d63fab05f4922209f269&amp;chksm=a6c767d491b0eec2c2a8a3620f4bd194eed19babfb13ffd038f3b9c6604826cce2aee498bdb1" rel="noopener noreferrer">原文链接</a>）</small>
+> 2.当孩子完成本章的优势调查表后，他的优势就一目了然了。当孩子展现出他们的优势时，一定要及时奖励，并明确地告诉孩子，他具有这种优势。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486265&amp;idx=1&amp;sn=81f4629e8644d63fab05f4922209f269&amp;chksm=a6c767d491b0eec2c2a8a3620f4bd194eed19babfb13ffd038f3b9c6604826cce2aee498bdb1" rel="noopener noreferrer">原文链接</a>，更新于2024-06-09。）</small>

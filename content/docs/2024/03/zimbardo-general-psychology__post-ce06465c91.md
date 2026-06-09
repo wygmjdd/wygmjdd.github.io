@@ -75,4 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486099&idx=
 > 
 > 为自己考虑一个新的社会角色：“在训练中，我会成为一名平凡的英雄。”
 
-**为自己考虑一个新的社会角色：“在训练中，我会成为一名平凡的英雄。”** <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486099&amp;idx=1&amp;sn=33c6482f5280602ca73314fb82baa04e&amp;chksm=a6c7667e91b0ef68b53d5902e92dd8a777f43b2a0ef458f03fafea57d60057900aa832a9d60b" rel="noopener noreferrer">原文链接</a>）</small>
+**为自己考虑一个新的社会角色：“在训练中，我会成为一名平凡的英雄。”** <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486099&amp;idx=1&amp;sn=33c6482f5280602ca73314fb82baa04e&amp;chksm=a6c7667e91b0ef68b53d5902e92dd8a777f43b2a0ef458f03fafea57d60057900aa832a9d60b" rel="noopener noreferrer">原文链接</a>，更新于2024-03-23。）</small>

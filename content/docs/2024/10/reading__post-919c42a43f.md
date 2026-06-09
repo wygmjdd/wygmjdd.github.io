@@ -43,4 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486549&idx=
 
 读完全书，我并没有像聪聪一样，从这本书中收获一种“新生”体验，但我以为，本书值得推荐，正如上面已经说过的，它很适合安静时用心去读，一条条慢慢读。（那些适合自己的，我已做了些摘抄，[在此处](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486544&idx=1&sn=d335fc18cd230d1ebe734145d7031856&chksm=a6c760bd91b0e9ab0ddc3cb7a1e0623e4470c9cf329dac651abbe3d41816c8384986bb1cbcce&scene=21#wechat_redirect)。）
 
-对的，投身于自己热爱的事，不仅是为了追求所谓的“成就”，更是在修炼自己的生命力。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486549&amp;idx=1&amp;sn=16558f4a529a8e74d7396a7db3649567&amp;chksm=a6c760b891b0e9ae741234ad81314cebc05831d7e6d501b13d4c88e8162dbe8eeb2417b4101e" rel="noopener noreferrer">原文链接</a>）</small>
+对的，投身于自己热爱的事，不仅是为了追求所谓的“成就”，更是在修炼自己的生命力。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486549&amp;idx=1&amp;sn=16558f4a529a8e74d7396a7db3649567&amp;chksm=a6c760b891b0e9ae741234ad81314cebc05831d7e6d501b13d4c88e8162dbe8eeb2417b4101e" rel="noopener noreferrer">原文链接</a>，更新于2024-10-27。）</small>

@@ -61,7 +61,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484199&idx=
 
 ![图片](/images/wechat/07d0cc556b85/003.png)
 
-挂面的营养成分 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484199&amp;idx=1&amp;sn=82d234f3b95e0c3c0d33dcb0be4db2f4&amp;chksm=a6c76fca91b0e6dcec7ee242399de85357cd6d7a22a0d566757b0529060764574ded74ca8712" rel="noopener noreferrer">原文链接</a>）</small>
+挂面的营养成分 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484199&amp;idx=1&amp;sn=82d234f3b95e0c3c0d33dcb0be4db2f4&amp;chksm=a6c76fca91b0e6dcec7ee242399de85357cd6d7a22a0d566757b0529060764574ded74ca8712" rel="noopener noreferrer">原文链接</a>，更新于2021-07-25。）</small>
 
   
 

@@ -159,4 +159,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487399&idx=
 
 \--
 
-读完近期的记录，我想自己当今的认知核心，依然是“听从自己内心的声音，然后做真实的自己”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487399&amp;idx=1&amp;sn=69368aa4f5eb4d1b7e8f640ca03b4971&amp;chksm=a6c7634a91b0ea5ce16667125ecde141966b791b8ec701d2fa7acc30070fa06fe11ecd02c7f3" rel="noopener noreferrer">原文链接</a>）</small>
+读完近期的记录，我想自己当今的认知核心，依然是“听从自己内心的声音，然后做真实的自己”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487399&amp;idx=1&amp;sn=69368aa4f5eb4d1b7e8f640ca03b4971&amp;chksm=a6c7634a91b0ea5ce16667125ecde141966b791b8ec701d2fa7acc30070fa06fe11ecd02c7f3" rel="noopener noreferrer">原文链接</a>，更新于2025-11-22。）</small>

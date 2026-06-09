@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486223&idx=
 
 我在《认知觉醒》中收获的第二个触动点是关于日记的，作者说每天的日记，不该是零碎的；它的作用，该是对当日触动点的思考，是对当日发生事情的反思。通过对每日触动点的记录和反思，多出一种主动改变自己的元动力。
 
-我在日记中尝试写触动点好几次。某一天，我再次抓到自己的瓶颈感受，它最终变成本篇输出：我知道自己现在很乱，人生很短，我必须选定且只选定一个方向，去行动。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486223&amp;idx=1&amp;sn=e907692bee4eec1021bd0445ff86a86a&amp;chksm=a6c767e291b0eef44b5175f6408806f7c291f0e076172b58549970366834bd93c97fccc25968" rel="noopener noreferrer">原文链接</a>）</small>
+我在日记中尝试写触动点好几次。某一天，我再次抓到自己的瓶颈感受，它最终变成本篇输出：我知道自己现在很乱，人生很短，我必须选定且只选定一个方向，去行动。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486223&amp;idx=1&amp;sn=e907692bee4eec1021bd0445ff86a86a&amp;chksm=a6c767e291b0eef44b5175f6408806f7c291f0e076172b58549970366834bd93c97fccc25968" rel="noopener noreferrer">原文链接</a>，更新于2024-05-19。）</small>

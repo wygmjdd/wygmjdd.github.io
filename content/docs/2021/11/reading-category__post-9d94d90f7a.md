@@ -79,7 +79,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484398&idx=
 
 我喜欢听他们讲述过去的、现在的故事，我喜欢听他们的未来展望，我喜欢他们给予我的力量。
 
-未来，是美好的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484398&amp;idx=1&amp;sn=a98839660cc68d2bbcd39c00be87a3d6&amp;chksm=a6c76f0391b0e6151785f7e2817b4d00d1d64ebce9206a747f2f5afc0fd3ca082529bb19e66d" rel="noopener noreferrer">原文链接</a>）</small>
+未来，是美好的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484398&amp;idx=1&amp;sn=a98839660cc68d2bbcd39c00be87a3d6&amp;chksm=a6c76f0391b0e6151785f7e2817b4d00d1d64ebce9206a747f2f5afc0fd3ca082529bb19e66d" rel="noopener noreferrer">原文链接</a>，更新于2021-11-07。）</small>
 
   
 

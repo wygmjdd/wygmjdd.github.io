@@ -32,7 +32,7 @@ uncompyle6 simple.pyc > tmp.txt
 
 我是一行简单的指令，我的内里很复杂，我还在等待主人来发掘我的内里。
 
-我是一行简单的指令，就这么简单。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484408&amp;idx=2&amp;sn=d94ee27ea0f034b6acb6b9def60b3bd3&amp;chksm=a6c76f1591b0e603d4dca53d1b62a52d50c06cc4dc55d9f6d1117ed3c2c62d872b7653b82e22" rel="noopener noreferrer">原文链接</a>）</small>
+我是一行简单的指令，就这么简单。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484408&amp;idx=2&amp;sn=d94ee27ea0f034b6acb6b9def60b3bd3&amp;chksm=a6c76f1591b0e603d4dca53d1b62a52d50c06cc4dc55d9f6d1117ed3c2c62d872b7653b82e22" rel="noopener noreferrer">原文链接</a>，更新于2021-11-14。）</small>
 
   
 

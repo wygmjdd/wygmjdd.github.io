@@ -69,7 +69,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484555&idx=
 
   1. 做决定前多对比，货比三家并无错误，对比过程中会对货物的了解更多些；（我听说有些地方，舞台、四大金刚，都是自己分开请的）
 
-  2. 交钱之前，请将所有商谈条款用白纸黑字记录清楚。那种间隔很久的记忆，是不可靠的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484555&amp;idx=1&amp;sn=a93a1d7dab98cf55931addcc2a918e8a&amp;chksm=a6c7686691b0e1700515029b8d9a634bd44934e53b77e91440b3e22da8c8c09c6f3c7d165d9a" rel="noopener noreferrer">原文链接</a>）</small>
+  2. 交钱之前，请将所有商谈条款用白纸黑字记录清楚。那种间隔很久的记忆，是不可靠的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484555&amp;idx=1&amp;sn=a93a1d7dab98cf55931addcc2a918e8a&amp;chksm=a6c7686691b0e1700515029b8d9a634bd44934e53b77e91440b3e22da8c8c09c6f3c7d165d9a" rel="noopener noreferrer">原文链接</a>，更新于2022-02-13。）</small>
 
 
 

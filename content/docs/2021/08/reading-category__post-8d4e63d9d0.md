@@ -36,7 +36,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484213&idx=
 
 书中经常以我们中国流传的谚语进行观点佐证。其中有两个词语，是我记得最清楚的，它们是“**以诚待人** ”、“**换位思考** ”。
 
-如果我要将书中准则真正运用在生活中，如果我想成为一个受欢迎的人，应该以这两个词语作为处世基础，要学会换位思考，并以诚待人。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484213&amp;idx=1&amp;sn=46ddc3d51191cfabf18a8784f3996c44&amp;chksm=a6c76fd891b0e6cee54b8d28e8065cff4f4a6ee10abe5252e5bddde406f388797b97e84fd785" rel="noopener noreferrer">原文链接</a>）</small>
+如果我要将书中准则真正运用在生活中，如果我想成为一个受欢迎的人，应该以这两个词语作为处世基础，要学会换位思考，并以诚待人。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484213&amp;idx=1&amp;sn=46ddc3d51191cfabf18a8784f3996c44&amp;chksm=a6c76fd891b0e6cee54b8d28e8065cff4f4a6ee10abe5252e5bddde406f388797b97e84fd785" rel="noopener noreferrer">原文链接</a>，更新于2021-08-01。）</small>
 
   
 

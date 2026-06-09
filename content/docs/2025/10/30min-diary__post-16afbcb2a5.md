@@ -63,4 +63,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487326&idx=
 
 现在时间是晚上的10点21分，我已经没了写东西心思，于是本篇只到此处。
 
-明儿上班，且认真工作。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487326&amp;idx=1&amp;sn=ed67cf2573181c4db5c6433efcd53550&amp;chksm=a6c763b391b0eaa5de660c2aad506bc4aae5b81367acebf728f4964de497b2d4e8e7f22402c9" rel="noopener noreferrer">原文链接</a>）</small>
+明儿上班，且认真工作。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487326&amp;idx=1&amp;sn=ed67cf2573181c4db5c6433efcd53550&amp;chksm=a6c763b391b0eaa5de660c2aad506bc4aae5b81367acebf728f4964de497b2d4e8e7f22402c9" rel="noopener noreferrer">原文链接</a>，更新于2025-10-08。）</small>

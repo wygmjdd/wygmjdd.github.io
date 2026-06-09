@@ -54,4 +54,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485228&idx=
 
 12月8号起床，“三天三检三不”消失，变成纯纯的绿码配24小时内核酸阴性证明。
 
-我想我，见证了三年疫情结束时的部分景象。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485228&amp;idx=1&amp;sn=93ae9510aaa0eada8d228362a57d89e9&amp;chksm=a6c76bc191b0e2d78357a8f6e55bbdc4bc3a933dfaa58aa0ec85857e80ec28876d68ddc02755" rel="noopener noreferrer">原文链接</a>）</small>
+我想我，见证了三年疫情结束时的部分景象。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485228&amp;idx=1&amp;sn=93ae9510aaa0eada8d228362a57d89e9&amp;chksm=a6c76bc191b0e2d78357a8f6e55bbdc4bc3a933dfaa58aa0ec85857e80ec28876d68ddc02755" rel="noopener noreferrer">原文链接</a>，更新于2022-12-11。）</small>

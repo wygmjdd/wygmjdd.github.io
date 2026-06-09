@@ -77,4 +77,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485965&idx=
 
 时间来到早上的7点35分，我对自己说：“交差吧，交差吧，今天给自己放一天假。”
 
-我想做的太多，或许，我该再做些减法。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485965&amp;idx=1&amp;sn=dbd01bd0f500793405e626407a5dcbc0&amp;chksm=a6c766e091b0eff680996b2fd9eea21a645fc102b49b4b030f899968622162c1048eae0df956" rel="noopener noreferrer">原文链接</a>）</small>
+我想做的太多，或许，我该再做些减法。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485965&amp;idx=1&amp;sn=dbd01bd0f500793405e626407a5dcbc0&amp;chksm=a6c766e091b0eff680996b2fd9eea21a645fc102b49b4b030f899968622162c1048eae0df956" rel="noopener noreferrer">原文链接</a>，更新于2024-01-28。）</small>

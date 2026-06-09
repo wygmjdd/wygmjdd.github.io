@@ -78,4 +78,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486366&idx=
 
 后面三年，我有持续关注重庆的岗位，发现阿里、字节陆续在重庆有了分部，腾讯在重庆有了子公司，这些公司放出来的最多岗位，都是Java后端。偶尔阿妮会对我说：“如果当时你去了杭州，是不是现在回重庆找工作会好找很多？”
 
-拒绝重庆国企之后的大半年，我都不再看外面的机会。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486366&amp;idx=1&amp;sn=d9771ff8a63ff96e9dc9d83759f10951&amp;chksm=a6c7677391b0ee6506249526e9917b8dfefcdf92ee2226b177af052401fb8bd0ba96a0dcdf9e" rel="noopener noreferrer">原文链接</a>）</small>
+拒绝重庆国企之后的大半年，我都不再看外面的机会。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486366&amp;idx=1&amp;sn=d9771ff8a63ff96e9dc9d83759f10951&amp;chksm=a6c7677391b0ee6506249526e9917b8dfefcdf92ee2226b177af052401fb8bd0ba96a0dcdf9e" rel="noopener noreferrer">原文链接</a>，更新于2024-08-04。）</small>

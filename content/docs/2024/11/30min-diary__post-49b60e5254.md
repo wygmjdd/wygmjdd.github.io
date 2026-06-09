@@ -69,4 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486598&idx=
 
 今天睡觉，应该可以在11点左右。只需要右一点。
 
-我没想到今天的日记需要花50分钟。50分钟后的现在，我感觉疲倦好像远离了我。对的，写日记也是一件能带来些“心流”体验的事情。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486598&amp;idx=1&amp;sn=93ca3cc789050e074a593113b89c7be0&amp;chksm=a6c7606b91b0e97daf626a239ce498a4afab85d7c15c288d2888b17f44848fc85407153e1955" rel="noopener noreferrer">原文链接</a>）</small>
+我没想到今天的日记需要花50分钟。50分钟后的现在，我感觉疲倦好像远离了我。对的，写日记也是一件能带来些“心流”体验的事情。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486598&amp;idx=1&amp;sn=93ca3cc789050e074a593113b89c7be0&amp;chksm=a6c7606b91b0e97daf626a239ce498a4afab85d7c15c288d2888b17f44848fc85407153e1955" rel="noopener noreferrer">原文链接</a>，更新于2024-11-06。）</small>

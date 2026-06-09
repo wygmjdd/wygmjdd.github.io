@@ -57,4 +57,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485837&idx=
 
 来自微信公众号的推荐激励，让我对这坚持做些改变：未来看完一本书，如果那本书我很是认可很想推荐，我将把书中那些总结性句子汇总整理为一篇非原创更新，发表但不通知。（“发表不通知”是公众号新的改进，发表能够被关注者看见，但不会提醒关注者。）
 
-最后，再次谢谢您的关注、阅读以及反馈，您的每一次反馈，都是我前行路上的补给。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485837&amp;idx=1&amp;sn=3391a0dcd84711150b6d9403c0c6ef36&amp;chksm=a6c7656091b0ec767ddf80f26ef450fa40a30d76f7c5f6fa13d6aa244ec2e628743ff02e3522" rel="noopener noreferrer">原文链接</a>）</small>
+最后，再次谢谢您的关注、阅读以及反馈，您的每一次反馈，都是我前行路上的补给。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485837&amp;idx=1&amp;sn=3391a0dcd84711150b6d9403c0c6ef36&amp;chksm=a6c7656091b0ec767ddf80f26ef450fa40a30d76f7c5f6fa13d6aa244ec2e628743ff02e3522" rel="noopener noreferrer">原文链接</a>，更新于2023-11-26。）</small>

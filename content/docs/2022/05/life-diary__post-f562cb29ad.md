@@ -49,7 +49,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484754&idx=
 > 帕里帮助米顿，以低于药店许多的价格，挨家挨户将产品卖出。  
 > 帕里带出一个卖姨妈巾的队伍。  
 > 帕里、米顿作为一个团队，制作了新的模式：妇人团队贷款，将钱给到米顿，米顿为她们制造机器并教会妇人团队制作程序，妇人团队卖产品。  
-> 米顿的机器卖到印度各处。米顿出了名，去到纽约演讲。回国路上，米奇给米顿打了电话。米顿离开帕里，回到米奇身旁。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484754&amp;idx=2&amp;sn=45a4bd8628e5daa4b181aefe668d1d81&amp;chksm=a6c769bf91b0e0a9b2bd8b5c3b429a7703f107632ef1c4c50425e85bc9b7b5028e867c7bbb06" rel="noopener noreferrer">原文链接</a>）</small>
+> 米顿的机器卖到印度各处。米顿出了名，去到纽约演讲。回国路上，米奇给米顿打了电话。米顿离开帕里，回到米奇身旁。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484754&amp;idx=2&amp;sn=45a4bd8628e5daa4b181aefe668d1d81&amp;chksm=a6c769bf91b0e0a9b2bd8b5c3b429a7703f107632ef1c4c50425e85bc9b7b5028e867c7bbb06" rel="noopener noreferrer">原文链接</a>，更新于2022-05-08。）</small>
 
   
 

@@ -67,4 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483716&idx=
 
 后来，有站在李哥的角度想一下这个问题。当时李哥他们的模式是接一单吃一段时间，如果接不到单，那就没有收入。可能有一些积累后，就想扩大规模，接更多的单。但扩招后，如果没有新的单，人多起来，积累便会很快耗光。此时就只能退一步处理，裁人或者降工资（或许降工资就是裁人的手段吧）。经历这件事情之后，我对别人的承诺，会选择多想想。
 
-如果我可以给八年前的自己一点指引，那么我会说：“毕业季，当大家都在找工作的时候，请千万千万好好准备找工作，多和同学们交流找工作经历，多拿offer，第一家公司选择大公司更好。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483716&amp;idx=1&amp;sn=6e1140e74e6d9cc935dd878307c62d54&amp;chksm=a6c76da991b0e4bf2a7d233843a8d19892ddd9170300ef8b4e97f5b9ee444b0a2c735cbe0292" rel="noopener noreferrer">原文链接</a>）</small>
+如果我可以给八年前的自己一点指引，那么我会说：“毕业季，当大家都在找工作的时候，请千万千万好好准备找工作，多和同学们交流找工作经历，多拿offer，第一家公司选择大公司更好。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483716&amp;idx=1&amp;sn=6e1140e74e6d9cc935dd878307c62d54&amp;chksm=a6c76da991b0e4bf2a7d233843a8d19892ddd9170300ef8b4e97f5b9ee444b0a2c735cbe0292" rel="noopener noreferrer">原文链接</a>，更新于2020-11-01。）</small>

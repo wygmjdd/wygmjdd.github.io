@@ -69,4 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485355&idx=
 
 回到出租屋，我又感受到那种在两个世界间切换的感觉。仿佛下午与魏少待在一起的时间，是十年前的某段记忆被搬到现在；亦或者，是现在的我们回到了十年前。
 
-有朋自远方来，不亦乐乎？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485355&amp;idx=1&amp;sn=4b70065ae30512b400e721426940c67c&amp;chksm=a6c76b4691b0e25091e9ac435c12f49996fe01c63260737e92eeeaceaa401eadff04b61a6090" rel="noopener noreferrer">原文链接</a>）</small>
+有朋自远方来，不亦乐乎？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485355&amp;idx=1&amp;sn=4b70065ae30512b400e721426940c67c&amp;chksm=a6c76b4691b0e25091e9ac435c12f49996fe01c63260737e92eeeaceaa401eadff04b61a6090" rel="noopener noreferrer">原文链接</a>，更新于2023-02-19。）</small>

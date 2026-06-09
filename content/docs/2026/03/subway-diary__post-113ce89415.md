@@ -155,4 +155,4 @@ source_url: https://mp.weixin.qq.com/s/Nruy8HAPRdOfl1EXOROPQA
 
 最后，对于推荐书籍这件事，我以为最好最好的寻书方法，依然是不停地读书，于读书过程中，你我会发现许许多多、想看看不完的真正符合自己喜好的阅读书目。是的，基于自己五年多的业余读书经验，我推荐的读书理念是：读书只是一个爱好，想读就读不强迫自己也不逼迫别人。
 
-你的选择的第一本书？也遵从自己喜好就好的。 <small>（<a href="https://mp.weixin.qq.com/s/Nruy8HAPRdOfl1EXOROPQA" rel="noopener noreferrer">原文链接</a>）</small>
+你的选择的第一本书？也遵从自己喜好就好的。 <small>（<a href="https://mp.weixin.qq.com/s/Nruy8HAPRdOfl1EXOROPQA" rel="noopener noreferrer">原文链接</a>，更新于2026-03-27。）</small>

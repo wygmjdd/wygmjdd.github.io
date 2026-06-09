@@ -95,7 +95,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484225&idx=
 
   * 如果进行大量处理，使用pyc可节省编译时间；
 
-  * 与py文件执行效果相同，可以藏起来源码。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484225&amp;idx=2&amp;sn=244c95acbdaddf32176b8b5a4630d42d&amp;chksm=a6c76fac91b0e6ba00b2cffce35cb6e8a1ac7da83fa7a607d52b25167fe3a89d8aa9385128ac" rel="noopener noreferrer">原文链接</a>）</small>
+  * 与py文件执行效果相同，可以藏起来源码。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484225&amp;idx=2&amp;sn=244c95acbdaddf32176b8b5a4630d42d&amp;chksm=a6c76fac91b0e6ba00b2cffce35cb6e8a1ac7da83fa7a607d52b25167fe3a89d8aa9385128ac" rel="noopener noreferrer">原文链接</a>，更新于2021-08-08。）</small>
 
 
 

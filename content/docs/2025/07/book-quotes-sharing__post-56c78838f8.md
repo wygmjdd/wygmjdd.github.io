@@ -83,4 +83,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487036&idx=
 
 对的，我以为是可以使用“轻快”二字形容当时感受的，即便“专注于呼吸”时心猿意马甚至烦躁难安，但结束之后的几分钟，我真真感觉整个人轻快、平静许多。
 
-以上，是我近几月以来，尝试冥想小几十次的初体验。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487036&amp;idx=1&amp;sn=a091dee8533b11d0ce5eafae1e910382&amp;chksm=a6c762d191b0ebc70a4f75c795d26981dd3c37eee5b437b4bbe65bf95b976b0ea5e3fe55dffa" rel="noopener noreferrer">原文链接</a>）</small>
+以上，是我近几月以来，尝试冥想小几十次的初体验。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487036&amp;idx=1&amp;sn=a091dee8533b11d0ce5eafae1e910382&amp;chksm=a6c762d191b0ebc70a4f75c795d26981dd3c37eee5b437b4bbe65bf95b976b0ea5e3fe55dffa" rel="noopener noreferrer">原文链接</a>，更新于2025-07-13。）</small>

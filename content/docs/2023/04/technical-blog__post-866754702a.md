@@ -123,4 +123,4 @@ PS：`Activity Bar`的名称可以在哪里找，还请大家指教呀……
 <figcaption>超高的代码屏占比（14寸屏幕）</figcaption>
 </figure>
 
-为追求更快更稳更方便的敲代码体验，持续捣鼓中…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485478&amp;idx=1&amp;sn=1eeba13b452bf483ade4ab7b97e94f9c&amp;chksm=a6c764cb91b0eddd3221fd5b939a03dac0f2ae7414da72973435574d8b85645ee7201078a9b0" rel="noopener noreferrer">原文链接</a>）</small>
+为追求更快更稳更方便的敲代码体验，持续捣鼓中…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485478&amp;idx=1&amp;sn=1eeba13b452bf483ade4ab7b97e94f9c&amp;chksm=a6c764cb91b0eddd3221fd5b939a03dac0f2ae7414da72973435574d8b85645ee7201078a9b0" rel="noopener noreferrer">原文链接</a>，更新于2023-04-04。）</small>

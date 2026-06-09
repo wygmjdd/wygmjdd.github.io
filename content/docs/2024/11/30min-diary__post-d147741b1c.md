@@ -61,4 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486579&idx=
 
 今日份感恩日记只写一条：感谢阿妮，她和我同仇敌忾，鼓励我再去问问再去争取下的同时，也安慰我“有舍有得，世事并不全如己意，这一切都是人生经历。”
 
-对的，我现在感觉已经好多了。或许愤怒、失落在潜意识里面还存在，但记下来即是发泄和放松。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486579&amp;idx=1&amp;sn=fb8dbd2e99d79c1cfff65deb22cde7ae&amp;chksm=a6c7609e91b0e9880777a79a3741f73bb7cb76af741df85ca529955192582735cc4e461d52ee" rel="noopener noreferrer">原文链接</a>）</small>
+对的，我现在感觉已经好多了。或许愤怒、失落在潜意识里面还存在，但记下来即是发泄和放松。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486579&amp;idx=1&amp;sn=fb8dbd2e99d79c1cfff65deb22cde7ae&amp;chksm=a6c7609e91b0e9880777a79a3741f73bb7cb76af741df85ca529955192582735cc4e461d52ee" rel="noopener noreferrer">原文链接</a>，更新于2024-11-02。）</small>

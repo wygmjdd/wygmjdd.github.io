@@ -165,4 +165,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485309&idx=
   1. React的入门教程：https://zh-hans.reactjs.org/tutorial/tutorial.html
   2. 查看JavaScript语言的API：https://developer.mozilla.org/zh-CN/docs/Web/API/File
   3. 查看可使用的组件：https://antdv.com/components/select
-  4. 我碰见的bug：https://github.com/vuejs/core/issues/7070 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485309&amp;idx=1&amp;sn=7867fd064c1e01e072cf3b56052bfa40&amp;chksm=a6c76b9091b0e28638fc8bd1664d0a4e755f9fa3a55bd8811db4b5641289953a8a896bdf58dd" rel="noopener noreferrer">原文链接</a>）</small>
+  4. 我碰见的bug：https://github.com/vuejs/core/issues/7070 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485309&amp;idx=1&amp;sn=7867fd064c1e01e072cf3b56052bfa40&amp;chksm=a6c76b9091b0e28638fc8bd1664d0a4e755f9fa3a55bd8811db4b5641289953a8a896bdf58dd" rel="noopener noreferrer">原文链接</a>，更新于2023-01-29。）</small>

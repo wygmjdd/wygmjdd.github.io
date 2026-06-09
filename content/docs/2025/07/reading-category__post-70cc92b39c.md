@@ -71,4 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487051&idx=
 
 > 坐禅的方法，是先使心灵集中于所观想的对象，使头脑冷静，心灵休息，排除任何现实世界中情感的混杂，以精神上的直觉主宰意志和情意，使于静定澄澈中，获得心灵的平衡，获得较高层次的意志，获得佛家所言“戒、定、慧”三学中的“定”和“慧”。
 
-保持专注，是大师们都认可且愿意持续追求的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487051&amp;idx=1&amp;sn=338d1d2c99fbfa7377c402322b98534d&amp;chksm=a6c762a691b0ebb02d8801a315d22c3d1f714cc332c44516e520b46b235a3d82301a583c3cdd" rel="noopener noreferrer">原文链接</a>）</small>
+保持专注，是大师们都认可且愿意持续追求的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487051&amp;idx=1&amp;sn=338d1d2c99fbfa7377c402322b98534d&amp;chksm=a6c762a691b0ebb02d8801a315d22c3d1f714cc332c44516e520b46b235a3d82301a583c3cdd" rel="noopener noreferrer">原文链接</a>，更新于2025-07-27。）</small>

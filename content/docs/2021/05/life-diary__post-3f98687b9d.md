@@ -75,4 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484027&idx=
 > 
 > 公司待着很爽，人也很熟。
 
-践行宴后，我们在公园走一圈，走到三岔口，即将分开，阿糯最后总结了一句：“同事关系很不错，除了工资以外，其他的都是牵绊。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484027&amp;idx=1&amp;sn=b4dcfda25d1e2014516ef23a8850e9ad&amp;chksm=a6c76e9691b0e780538a7825aeec63027d8977ab4811de474f758c46a60667c5328533cd0901" rel="noopener noreferrer">原文链接</a>）</small>
+践行宴后，我们在公园走一圈，走到三岔口，即将分开，阿糯最后总结了一句：“同事关系很不错，除了工资以外，其他的都是牵绊。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484027&amp;idx=1&amp;sn=b4dcfda25d1e2014516ef23a8850e9ad&amp;chksm=a6c76e9691b0e780538a7825aeec63027d8977ab4811de474f758c46a60667c5328533cd0901" rel="noopener noreferrer">原文链接</a>，更新于2021-05-02。）</small>

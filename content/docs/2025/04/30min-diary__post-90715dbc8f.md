@@ -65,4 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486886&idx=
 
 现在时间已经是晚上的11点25分，我在阳台记下当前的即时感受。记完这一刻，有感觉焦躁少了一些。
 
-果然，风也是散郁良药。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486886&amp;idx=1&amp;sn=e34309cb9e8bc92046f08af04775ad37&amp;chksm=a6c7614b91b0e85d912fbdc34603fdf6e416cf02eac5a3d4a451277d5210c930ea95fd9a8cdc" rel="noopener noreferrer">原文链接</a>）</small>
+果然，风也是散郁良药。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486886&amp;idx=1&amp;sn=e34309cb9e8bc92046f08af04775ad37&amp;chksm=a6c7614b91b0e85d912fbdc34603fdf6e416cf02eac5a3d4a451277d5210c930ea95fd9a8cdc" rel="noopener noreferrer">原文链接</a>，更新于2025-04-11。）</small>

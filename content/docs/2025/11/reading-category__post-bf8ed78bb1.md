@@ -101,4 +101,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487405&idx=
 
 我特别喜欢书中的一句话是：“我相信每一天都有一个我还没有滥用过的、更早更神圣的黎明时刻。”
 
-我想自己，正清醒的活着，我活着的每一刻，都是不滥用的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487405&amp;idx=1&amp;sn=b29454f463aae06415b5ae802f408f0b&amp;chksm=a6c7634091b0ea569ac1f0e97686f24f7ad62ab36ffbe2bc952b849458e7f045801f032e6557" rel="noopener noreferrer">原文链接</a>）</small>
+我想自己，正清醒的活着，我活着的每一刻，都是不滥用的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487405&amp;idx=1&amp;sn=b29454f463aae06415b5ae802f408f0b&amp;chksm=a6c7634091b0ea569ac1f0e97686f24f7ad62ab36ffbe2bc952b849458e7f045801f032e6557" rel="noopener noreferrer">原文链接</a>，更新于2025-11-23。）</small>

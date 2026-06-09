@@ -27,4 +27,4 @@ source_url: https://mp.weixin.qq.com/s/eaUEjbqXv1e2QRU3KBTR2g
 
 《安娜·卡列尼娜》的让我停不下来，是安娜和弗隆斯基拥有未来么？是安娜这个体的未来会怎样呢？
 
-让我停不下来的，是好奇，是对熟悉角色拥有怎样抉择怎样结局的好奇。 <small>（<a href="https://mp.weixin.qq.com/s/eaUEjbqXv1e2QRU3KBTR2g" rel="noopener noreferrer">原文链接</a>）</small>
+让我停不下来的，是好奇，是对熟悉角色拥有怎样抉择怎样结局的好奇。 <small>（<a href="https://mp.weixin.qq.com/s/eaUEjbqXv1e2QRU3KBTR2g" rel="noopener noreferrer">原文链接</a>，更新于2026-04-23。）</small>

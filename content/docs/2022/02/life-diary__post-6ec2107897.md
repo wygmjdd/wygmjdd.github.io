@@ -45,7 +45,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484577&idx=
 
 不知为什么，我似乎就是特别能理解馆长的选择。如果是我，在相同条件下，我肯定也是不会要的。150万啊！如果是我，我真的不会要么？
 
-还有一点是，戏班去大理路上，那种确认目标前行途中的轻松惬意，是我所享受的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484577&amp;idx=3&amp;sn=f90853f222657bd05961312f1a5730e0&amp;chksm=a6c7684c91b0e15a0ffaf6d9dff14dd24aac4a38613928b26c848a542fc5f9606a9446f1c836" rel="noopener noreferrer">原文链接</a>）</small>
+还有一点是，戏班去大理路上，那种确认目标前行途中的轻松惬意，是我所享受的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484577&amp;idx=3&amp;sn=f90853f222657bd05961312f1a5730e0&amp;chksm=a6c7684c91b0e15a0ffaf6d9dff14dd24aac4a38613928b26c848a542fc5f9606a9446f1c836" rel="noopener noreferrer">原文链接</a>，更新于2022-02-20。）</small>
 
   
 

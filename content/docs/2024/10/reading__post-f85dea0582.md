@@ -75,4 +75,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486569&idx=
 > 
 > 来回好几次的“不是我，我没有”后，杰哥用平缓的语调打断我们：“谁删了这个不重要，让我们看看怎么把它找回来吧。”
 
-杰哥当时，便以“成人状态”与我们沟通。我对杰哥的佩服，一直持续到十年之后的现在。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486569&amp;idx=1&amp;sn=a5015a5a3b37aa9500f34f4854310dd2&amp;chksm=a6c7608491b0e992997c3444833d1e7c2e2807a0e8aca7bb541a60e6b022c9b8a1e0f935847d" rel="noopener noreferrer">原文链接</a>）</small>
+杰哥当时，便以“成人状态”与我们沟通。我对杰哥的佩服，一直持续到十年之后的现在。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486569&amp;idx=1&amp;sn=a5015a5a3b37aa9500f34f4854310dd2&amp;chksm=a6c7608491b0e992997c3444833d1e7c2e2807a0e8aca7bb541a60e6b022c9b8a1e0f935847d" rel="noopener noreferrer">原文链接</a>，更新于2024-10-31。）</small>

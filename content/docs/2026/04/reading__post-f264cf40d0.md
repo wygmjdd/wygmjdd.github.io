@@ -149,4 +149,4 @@ source_url: https://mp.weixin.qq.com/s/Ny4WIpFRXocImRYQ3CE15Q
 
 \--
 
-总之是，切莫做损人利己之事。 <small>（<a href="https://mp.weixin.qq.com/s/Ny4WIpFRXocImRYQ3CE15Q" rel="noopener noreferrer">原文链接</a>）</small>
+总之是，切莫做损人利己之事。 <small>（<a href="https://mp.weixin.qq.com/s/Ny4WIpFRXocImRYQ3CE15Q" rel="noopener noreferrer">原文链接</a>，更新于2026-04-08。）</small>

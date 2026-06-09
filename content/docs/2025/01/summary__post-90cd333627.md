@@ -108,4 +108,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486701&idx=
 
 现在时间是周日晚间的10点37分，一个新的巧合在此处发生：我还没用一段话“回忆”的读完书籍，剩下13本，刚好是24年读完书籍的一半。我决定在此处，允许自己偷懒。
 
-剩下的内容，下一篇更新见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486701&amp;idx=1&amp;sn=36300d05181018a5037f596b9b99b46f&amp;chksm=a6c7600091b0e916b975a1f63e75bc5f03164b794185f834a8759ee4dd46beca67bb6873cc7c" rel="noopener noreferrer">原文链接</a>）</small>
+剩下的内容，下一篇更新见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486701&amp;idx=1&amp;sn=36300d05181018a5037f596b9b99b46f&amp;chksm=a6c7600091b0e916b975a1f63e75bc5f03164b794185f834a8759ee4dd46beca67bb6873cc7c" rel="noopener noreferrer">原文链接</a>，更新于2025-01-05。）</small>

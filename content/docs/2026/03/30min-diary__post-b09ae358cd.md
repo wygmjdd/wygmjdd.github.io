@@ -50,4 +50,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487575&idx=
 
 或许我还不能准确表达自己当前的心态，但总之，我在皮埃尔（或者是列夫·托尔斯泰）对生活对自己的那些感触中，有获得专属于我的共鸣。
 
-现在时间是周日晚间的9点56分，本想简单记下《飞驰人生3》观影感受的我，偏题许多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487575&amp;idx=1&amp;sn=77eb5dbbdb5e548c4b572de35dfb2f33&amp;chksm=a6c77cba91b0f5ac1079c888bc2ba0d6a97d15e84028b391617eee5591938e18ad50e2219ad7" rel="noopener noreferrer">原文链接</a>）</small>
+现在时间是周日晚间的9点56分，本想简单记下《飞驰人生3》观影感受的我，偏题许多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487575&amp;idx=1&amp;sn=77eb5dbbdb5e548c4b572de35dfb2f33&amp;chksm=a6c77cba91b0f5ac1079c888bc2ba0d6a97d15e84028b391617eee5591938e18ad50e2219ad7" rel="noopener noreferrer">原文链接</a>，更新于2026-03-01。）</small>

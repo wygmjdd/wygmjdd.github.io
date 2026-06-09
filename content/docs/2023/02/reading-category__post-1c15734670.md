@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485360&idx=
 
 “想了解一个人，看他写的文字就好。
 
-“一切成功，都是通过一点点努力，慢慢攒出来的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485360&amp;idx=1&amp;sn=c4d358bf1278e37843e9de580d70e936&amp;chksm=a6c76b5d91b0e24b14ff369b0b667cd2a3379cadd6680bd084d5296f77e9f2fbe609c773684c" rel="noopener noreferrer">原文链接</a>）</small>
+“一切成功，都是通过一点点努力，慢慢攒出来的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485360&amp;idx=1&amp;sn=c4d358bf1278e37843e9de580d70e936&amp;chksm=a6c76b5d91b0e24b14ff369b0b667cd2a3379cadd6680bd084d5296f77e9f2fbe609c773684c" rel="noopener noreferrer">原文链接</a>，更新于2023-02-20。）</small>

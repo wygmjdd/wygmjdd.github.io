@@ -91,4 +91,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485748&idx=
 <figcaption>刚洗过的板栗</figcaption>
 </figure>
 
-今年国庆，与山重逢。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485748&amp;idx=1&amp;sn=8b27c9f3a347598087ea67a3040bc3d1&amp;chksm=a6c765d991b0eccf39918b20cfe7b72821cefa655ad76f97ed664efb215c485cc61d112facc3" rel="noopener noreferrer">原文链接</a>）</small>
+今年国庆，与山重逢。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485748&amp;idx=1&amp;sn=8b27c9f3a347598087ea67a3040bc3d1&amp;chksm=a6c765d991b0eccf39918b20cfe7b72821cefa655ad76f97ed664efb215c485cc61d112facc3" rel="noopener noreferrer">原文链接</a>，更新于2023-10-08。）</small>

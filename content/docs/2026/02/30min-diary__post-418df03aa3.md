@@ -84,4 +84,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487534&idx=
 
 城墙下，往前走，有摔碗酒。
 
-我并不摔碗，只看看，便这样看过一遍西安。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487534&amp;idx=1&amp;sn=6920da885f2e1afc7bce1bf998e8896e&amp;chksm=a6c77cc391b0f5d59e2b582d9042be74d6bfe20468f414969f5c1967815bd5f125d054a759dd" rel="noopener noreferrer">原文链接</a>）</small>
+我并不摔碗，只看看，便这样看过一遍西安。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487534&amp;idx=1&amp;sn=6920da885f2e1afc7bce1bf998e8896e&amp;chksm=a6c77cc391b0f5d59e2b582d9042be74d6bfe20468f414969f5c1967815bd5f125d054a759dd" rel="noopener noreferrer">原文链接</a>，更新于2026-02-15。）</small>

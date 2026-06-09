@@ -55,7 +55,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484244&idx=
 
 ![图片](/images/wechat/50f46b22ce2b/002.png)
 
-番茄的营养素，维生素含量很是丰富 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484244&amp;idx=1&amp;sn=4bc04244abba3814c0d9314254b4827d&amp;chksm=a6c76fb991b0e6af7df1d4f283ae104252525842b223705ecce852b569f6f49f545b88ac280c" rel="noopener noreferrer">原文链接</a>）</small>
+番茄的营养素，维生素含量很是丰富 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484244&amp;idx=1&amp;sn=4bc04244abba3814c0d9314254b4827d&amp;chksm=a6c76fb991b0e6af7df1d4f283ae104252525842b223705ecce852b569f6f49f545b88ac280c" rel="noopener noreferrer">原文链接</a>，更新于2021-08-22。）</small>
 
   
 

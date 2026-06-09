@@ -103,4 +103,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485294&idx=
 
 本书推荐语，我再借一段作者的话：“读史到最后，是想让我们设身处地地体会到，如果未来你面对这种情况时，你会怎么选，以及选完后能看到结局走向。
 
-“多读些历史，是没错的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485294&amp;idx=1&amp;sn=2414a1d2526766eb18064119c0ef7cc9&amp;chksm=a6c76b8391b0e295ffbdc3225e6358bf357715d2432736dfa34747c20d5669a50773445294e1" rel="noopener noreferrer">原文链接</a>）</small>
+“多读些历史，是没错的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485294&amp;idx=1&amp;sn=2414a1d2526766eb18064119c0ef7cc9&amp;chksm=a6c76b8391b0e295ffbdc3225e6358bf357715d2432736dfa34747c20d5669a50773445294e1" rel="noopener noreferrer">原文链接</a>，更新于2023-01-16。）</small>

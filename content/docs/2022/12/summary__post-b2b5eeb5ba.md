@@ -37,6 +37,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485238&idx=
 
 你看，书看的多些，就能去书里面找相关内容来验证你的想法。流水账不好，但它是你学写作的第一步，且慢走着。
 
-且多读，且多写。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485238&amp;idx=1&amp;sn=2bf889330d51814fd64893cdccd9d979&amp;chksm=a6c76bdb91b0e2cdb2c4971c396f3ae1f76dfb19a40c05408d05f11dead686bf66669a6c1d7c" rel="noopener noreferrer">原文链接</a>）</small>
+且多读，且多写。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485238&amp;idx=1&amp;sn=2bf889330d51814fd64893cdccd9d979&amp;chksm=a6c76bdb91b0e2cdb2c4971c396f3ae1f76dfb19a40c05408d05f11dead686bf66669a6c1d7c" rel="noopener noreferrer">原文链接</a>，更新于2022-12-18。）</small>
 
 ​

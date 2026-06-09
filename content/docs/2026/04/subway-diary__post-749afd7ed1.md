@@ -37,4 +37,4 @@ source_url: https://mp.weixin.qq.com/s/KolgkpJkENrfN0SAJJuPcQ
 
 如何做到真正接受“这世界最大的稳定是它一直在变化”呢？
 
-我想答案是简单的：不停地看书，看各种各样的书，看书同时，不忘记认真真诚地去对待去体验生活。（对的，这段话来自于[沈从文先生](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484979&idx=1&sn=42cd3716c384045d497004a57693fdd6&scene=21#wechat_redirect)，它被我记住并再一次被复述。） <small>（<a href="https://mp.weixin.qq.com/s/KolgkpJkENrfN0SAJJuPcQ" rel="noopener noreferrer">原文链接</a>）</small>
+我想答案是简单的：不停地看书，看各种各样的书，看书同时，不忘记认真真诚地去对待去体验生活。（对的，这段话来自于[沈从文先生](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484979&idx=1&sn=42cd3716c384045d497004a57693fdd6&scene=21#wechat_redirect)，它被我记住并再一次被复述。） <small>（<a href="https://mp.weixin.qq.com/s/KolgkpJkENrfN0SAJJuPcQ" rel="noopener noreferrer">原文链接</a>，更新于2026-04-21。）</small>

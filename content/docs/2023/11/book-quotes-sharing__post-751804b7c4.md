@@ -51,4 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485814&idx=
 > 
 > 明白易懂，用不着解释。这首诗的关键有二：一是要学习，二是要惜寸阴。朱子心目中的“学”，同我们的当然不会完全一样。这个道理也用不着多加解释，只要心里明白就行。至于爱惜光阴，更是易懂。然而真正能实行者，却不多见。
 > 
-> 这就是一个耄耋老人对你们的肺腑之谈。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485814&amp;idx=1&amp;sn=9145070cb2223ebec400e7751ea6bc92&amp;chksm=a6c7659b91b0ec8daf9104d5fab276eeb77217720586c4fffe4eeecc645d33c3af52c4d2e131" rel="noopener noreferrer">原文链接</a>）</small>
+> 这就是一个耄耋老人对你们的肺腑之谈。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485814&amp;idx=1&amp;sn=9145070cb2223ebec400e7751ea6bc92&amp;chksm=a6c7659b91b0ec8daf9104d5fab276eeb77217720586c4fffe4eeecc645d33c3af52c4d2e131" rel="noopener noreferrer">原文链接</a>，更新于2023-11-19。）</small>

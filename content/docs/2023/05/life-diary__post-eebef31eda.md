@@ -69,4 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485548&idx=
 
 上飞机时，我手里提着一个台灯，那是14年跟我从重庆到广州，再到深圳的灯。
 
-现在，它和我一起回了“故乡”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485548&amp;idx=1&amp;sn=8ee975931fa4d9f5326b4c9511a2b648&amp;chksm=a6c7648191b0ed979b8a9f18ac7818cc4ce8efcd1b65add282f6cd9a8da97d4be541c0933dc1" rel="noopener noreferrer">原文链接</a>）</small>
+现在，它和我一起回了“故乡”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485548&amp;idx=1&amp;sn=8ee975931fa4d9f5326b4c9511a2b648&amp;chksm=a6c7648191b0ed979b8a9f18ac7818cc4ce8efcd1b65add282f6cd9a8da97d4be541c0933dc1" rel="noopener noreferrer">原文链接</a>，更新于2023-05-28。）</small>

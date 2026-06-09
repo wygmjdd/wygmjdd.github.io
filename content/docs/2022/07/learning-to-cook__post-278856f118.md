@@ -29,7 +29,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484936&idx=
 
 ![图片](/images/wechat/278856f11816/001.jpg)
 
-成品味道不错，我连吃3盘 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484936&amp;idx=1&amp;sn=dd6d1f3102de29744ee1288e957af3e4&amp;chksm=a6c76ae591b0e3f38ff1b904568512a27ace0c6e50f4a36737ffc3b73efa241e8fe489315b85" rel="noopener noreferrer">原文链接</a>）</small>
+成品味道不错，我连吃3盘 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484936&amp;idx=1&amp;sn=dd6d1f3102de29744ee1288e957af3e4&amp;chksm=a6c76ae591b0e3f38ff1b904568512a27ace0c6e50f4a36737ffc3b73efa241e8fe489315b85" rel="noopener noreferrer">原文链接</a>，更新于2022-07-17。）</small>
 
   
 

@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486081&idx=
 
 云风也看很多书，他将很多的闲暇时间用来看书。云风大大的闲暇时间不多，很多时候，他都专注于执行、验证自己的想法。26岁的云风大大对33岁的我说：“花时间去专注地做自己感兴趣的事吧。”
 
-这句话，我甚至还想对20年前，10年前，甚至5年3年前的自己说：“花时间去专注地做自己感兴趣的事吧。时间，会给你答案的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486081&amp;idx=1&amp;sn=60f1744259510ee6e0d5dfdfe77594b8&amp;chksm=a6c7666c91b0ef7a8828d2de3763f8b30a7f774241894d64d9cbc7b4fa6ad29eed6ea882b51c" rel="noopener noreferrer">原文链接</a>）</small>
+这句话，我甚至还想对20年前，10年前，甚至5年3年前的自己说：“花时间去专注地做自己感兴趣的事吧。时间，会给你答案的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486081&amp;idx=1&amp;sn=60f1744259510ee6e0d5dfdfe77594b8&amp;chksm=a6c7666c91b0ef7a8828d2de3763f8b30a7f774241894d64d9cbc7b4fa6ad29eed6ea882b51c" rel="noopener noreferrer">原文链接</a>，更新于2024-03-10。）</small>

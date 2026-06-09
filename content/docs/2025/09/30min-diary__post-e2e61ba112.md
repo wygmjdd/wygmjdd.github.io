@@ -64,4 +64,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487176&idx=
 
 `王子`，冲！
 
-每天只冲30分钟，不是沉迷，是放松？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487176&amp;idx=1&amp;sn=cadf6108725aa1761b00913e4a96716b&amp;chksm=a6c7622591b0eb33867905d4914b2c13cb675a4705d90e38650936394a74c0fd4127a53f2b08" rel="noopener noreferrer">原文链接</a>）</small>
+每天只冲30分钟，不是沉迷，是放松？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487176&amp;idx=1&amp;sn=cadf6108725aa1761b00913e4a96716b&amp;chksm=a6c7622591b0eb33867905d4914b2c13cb675a4705d90e38650936394a74c0fd4127a53f2b08" rel="noopener noreferrer">原文链接</a>，更新于2025-09-27。）</small>

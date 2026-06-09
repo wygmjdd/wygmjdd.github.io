@@ -31,4 +31,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486328&idx=
 
 写下当时，我以为这结尾还算不错；待时间过去两小时，我的观点发生改变——我认为“切莫言己老”有些莫名其妙。我暂时没有更好的想法，于是只将自己的想法，记在此处。
 
-还是慢慢积攒素材吧，别急。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486328&amp;idx=1&amp;sn=5fdc463ccc24c93c93b3011a2350c889&amp;chksm=a6c7679591b0ee8362aac4a481b038f7d3e791a88f29ff00ab948a9e7904b8b08608c410f8c2" rel="noopener noreferrer">原文链接</a>）</small>
+还是慢慢积攒素材吧，别急。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486328&amp;idx=1&amp;sn=5fdc463ccc24c93c93b3011a2350c889&amp;chksm=a6c7679591b0ee8362aac4a481b038f7d3e791a88f29ff00ab948a9e7904b8b08608c410f8c2" rel="noopener noreferrer">原文链接</a>，更新于2024-07-07。）</small>

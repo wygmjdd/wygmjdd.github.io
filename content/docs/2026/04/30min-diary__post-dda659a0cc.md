@@ -36,4 +36,4 @@ source_url: https://mp.weixin.qq.com/s/fdLJgN9r0J7ICTYZkTbDVQ
 
 我在[25年的年终总结](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487591&idx=1&sn=9a04d43744578c58559b1b26d4eff0bc&scene=21#wechat_redirect)中说流量来源于读者对标题的兴趣与对内容的共鸣，“基督山伯爵有多少钱”似乎验证了这总结的正确：《基督山伯爵》是世界名著，它肯定是被大家熟知的。而伯爵有多少钱？我相信大家都跟我一样好奇，好奇即为感兴趣，而感兴趣便是流量。（当然，“共鸣”这一点，在本篇更新中该是缺乏的。）
 
-以上，今早上班地铁不看书，时间用作本篇记录。 <small>（<a href="https://mp.weixin.qq.com/s/fdLJgN9r0J7ICTYZkTbDVQ" rel="noopener noreferrer">原文链接</a>）</small>
+以上，今早上班地铁不看书，时间用作本篇记录。 <small>（<a href="https://mp.weixin.qq.com/s/fdLJgN9r0J7ICTYZkTbDVQ" rel="noopener noreferrer">原文链接</a>，更新于2026-04-09。）</small>

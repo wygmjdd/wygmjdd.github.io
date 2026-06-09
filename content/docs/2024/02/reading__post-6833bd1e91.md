@@ -37,4 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486045&idx=
 > 
 > 如果你对C++中的template这个关键字的使用有足够的自信，对泛型编程自我感觉良好，那么可以去读一下《**C++设计新思维——泛型编程与设计模式之应用** 》，我保证这本书会让你叹为观止。一本颇有些难度的书哟，阅读之前请做好心理准备。
 > 
-> 如果只是想更加精通C++的标准库，暂时还没有想过研究boost甚至loki的源代码，那我先推荐《**C++标准程序库** 》，这简直是一本C++程序员案头必备的参考手册，一旦使用C++标准库进行开发，迟早你会买上一本的。除此之外，《**Effective STL中文版** 》会和它的前辈Effective C++、More Effective C++一样，让人产生阅读的快乐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486045&amp;idx=1&amp;sn=54322ff4a5351b278c2c4bdbf823510b&amp;chksm=a6c766b091b0efa6095302191ce2f2e4494a6c187e74443dbc1931530c53e5d208940286f1d4" rel="noopener noreferrer">原文链接</a>）</small>
+> 如果只是想更加精通C++的标准库，暂时还没有想过研究boost甚至loki的源代码，那我先推荐《**C++标准程序库** 》，这简直是一本C++程序员案头必备的参考手册，一旦使用C++标准库进行开发，迟早你会买上一本的。除此之外，《**Effective STL中文版** 》会和它的前辈Effective C++、More Effective C++一样，让人产生阅读的快乐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486045&amp;idx=1&amp;sn=54322ff4a5351b278c2c4bdbf823510b&amp;chksm=a6c766b091b0efa6095302191ce2f2e4494a6c187e74443dbc1931530c53e5d208940286f1d4" rel="noopener noreferrer">原文链接</a>，更新于2024-02-28。）</small>

@@ -102,4 +102,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485366&idx=
 
 条件变量，是并发程序设计的原语之一，与它有相同地位的还有“锁”。当然，还有“信号量”……
 
-写到此处，我依然对线程、进程缺乏一个框架性的认识，但至少多了些想法：“两个线程同时执行，你要等我我要等你，让我们给彼此一个条件变量，待会见吧。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485366&amp;idx=1&amp;sn=0c8cca0404bf01d58a92ccc41b5db513&amp;chksm=a6c76b5b91b0e24d7900cf401dc8ece1a0aab0e149e88bfdc412a1cf226ab33c15cd7c92851b" rel="noopener noreferrer">原文链接</a>）</small>
+写到此处，我依然对线程、进程缺乏一个框架性的认识，但至少多了些想法：“两个线程同时执行，你要等我我要等你，让我们给彼此一个条件变量，待会见吧。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485366&amp;idx=1&amp;sn=0c8cca0404bf01d58a92ccc41b5db513&amp;chksm=a6c76b5b91b0e24d7900cf401dc8ece1a0aab0e149e88bfdc412a1cf226ab33c15cd7c92851b" rel="noopener noreferrer">原文链接</a>，更新于2023-02-26。）</small>

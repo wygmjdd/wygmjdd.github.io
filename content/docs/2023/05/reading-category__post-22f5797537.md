@@ -102,4 +102,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485537&idx=
 
 本书的推荐语为：“作为程序员，在我们的编程生涯中，总是会需要修改自己或是他人代码的。如何能够让这些修改能够更容易更自然，可以从两方面着手，一是写出更易懂的代码；二是在写代码之前，想想看系统应该如何拆分。
 
-“系统如何拆分？试试看《架构整洁之道》，书里面是有思路的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485537&amp;idx=1&amp;sn=73d5c93786125a63d91ab3aadcc01b4e&amp;chksm=a6c7648c91b0ed9a90d2070d2cab850956e5d122450ac236c54ed6a3bd4ba7bc7a9ffee0de94" rel="noopener noreferrer">原文链接</a>）</small>
+“系统如何拆分？试试看《架构整洁之道》，书里面是有思路的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485537&amp;idx=1&amp;sn=73d5c93786125a63d91ab3aadcc01b4e&amp;chksm=a6c7648c91b0ed9a90d2070d2cab850956e5d122450ac236c54ed6a3bd4ba7bc7a9ffee0de94" rel="noopener noreferrer">原文链接</a>，更新于2023-05-15。）</small>

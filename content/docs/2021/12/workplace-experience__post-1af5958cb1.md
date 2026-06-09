@@ -39,7 +39,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484472&idx=
 
 那是一个深夜，已经过了12点，我刷到七麦上面的榜单，免费版第一，畅销榜已经有了名字。我从工位站起来，富有激情的，走到我们项目组位置的中间，大声地：“哈哈哈，上畅销榜了。上榜了上榜了！你们快看。”领导与我对视了一眼，留下一个笑容。小黑问我：“瞎激动啥，你没经历过上线么？”这之后，大家开始了一番特闹议论，即便12点，组内依然洋溢着快乐的气氛。接下来的好几天，使用公司网络，是不能在七麦上看数据的。
 
-20年的国庆，游戏上线一年之后，公司旁边的餐馆，大家再为一位同事践行。至此，一起分享过上线喜悦的人，只剩一半。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484472&amp;idx=1&amp;sn=66939230bb9b04f2e9f0f26238f2ddf6&amp;chksm=a6c768d591b0e1c30e1ccf7501f8395512e5ba7eb8b789b150e8d8d0b022e7141842d58c8e9f" rel="noopener noreferrer">原文链接</a>）</small>
+20年的国庆，游戏上线一年之后，公司旁边的餐馆，大家再为一位同事践行。至此，一起分享过上线喜悦的人，只剩一半。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484472&amp;idx=1&amp;sn=66939230bb9b04f2e9f0f26238f2ddf6&amp;chksm=a6c768d591b0e1c30e1ccf7501f8395512e5ba7eb8b789b150e8d8d0b022e7141842d58c8e9f" rel="noopener noreferrer">原文链接</a>，更新于2021-12-26。）</small>
 
   
 

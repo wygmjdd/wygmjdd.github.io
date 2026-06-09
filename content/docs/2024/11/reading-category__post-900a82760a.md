@@ -43,4 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486607&idx=
 
 以上，是我初次尝试理解“神经网络”的结果，也是看完《人工智能核心：神经网络（青少科普版）》后逼自己输出的只浮于表面的读书笔记。
 
-神经网络很难，但并没有难到难以理解。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486607&amp;idx=1&amp;sn=b59c21377a989f3a552e1fb391dd796f&amp;chksm=a6c7606291b0e9749ed5fcdf92bf783d2c4cdc0c4f1b50ebaef95be508628b5c43fa13b1a3ab" rel="noopener noreferrer">原文链接</a>）</small>
+神经网络很难，但并没有难到难以理解。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486607&amp;idx=1&amp;sn=b59c21377a989f3a552e1fb391dd796f&amp;chksm=a6c7606291b0e9749ed5fcdf92bf783d2c4cdc0c4f1b50ebaef95be508628b5c43fa13b1a3ab" rel="noopener noreferrer">原文链接</a>，更新于2024-11-10。）</small>

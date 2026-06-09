@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485116&idx=
 
 我常看见有人在《纵横小说》发帖说书荒求推荐，如若下次见到，我将在帖子下面回复：“强推《大明王朝1566》，本书已经完结，可一饮而尽。看过萧炎的‘莫欺少年穷’之后，试试看海瑞的‘敢为天下先’？”
 
-历史，是迷人的；由历史衍生出来的故事，也是迷人的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485116&amp;idx=1&amp;sn=a9abe7408e25f601a91753e8542c32ec&amp;chksm=a6c76a5191b0e34712c7a0124f603cb87d6b57b7a94d3ed17f3b29173b833259449b02186c77" rel="noopener noreferrer">原文链接</a>）</small>
+历史，是迷人的；由历史衍生出来的故事，也是迷人的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485116&amp;idx=1&amp;sn=a9abe7408e25f601a91753e8542c32ec&amp;chksm=a6c76a5191b0e34712c7a0124f603cb87d6b57b7a94d3ed17f3b29173b833259449b02186c77" rel="noopener noreferrer">原文链接</a>，更新于2022-10-03。）</small>

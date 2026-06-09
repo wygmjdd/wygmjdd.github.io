@@ -65,4 +65,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486218&idx=
 
 想好了就勇敢去做吧，万一方向不对，[人生随时可以重来](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484637&idx=2&sn=333113d87ab3080e4e288f04f2d6808f&chksm=a6c7683091b0e12620c06928af55acf748d650fbde6359586c9412c4685579bfbee075da752f&scene=21#wechat_redirect)。
 
-最后这一段，我也对自己说。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486218&amp;idx=1&amp;sn=dd9a3514ae20408259a7275c28e5d619&amp;chksm=a6c767e791b0eef16692321d285e0afdfa03d0a9b450228783f187f5e69a130beb9913396be2" rel="noopener noreferrer">原文链接</a>）</small>
+最后这一段，我也对自己说。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486218&amp;idx=1&amp;sn=dd9a3514ae20408259a7275c28e5d619&amp;chksm=a6c767e791b0eef16692321d285e0afdfa03d0a9b450228783f187f5e69a130beb9913396be2" rel="noopener noreferrer">原文链接</a>，更新于2024-05-12。）</small>

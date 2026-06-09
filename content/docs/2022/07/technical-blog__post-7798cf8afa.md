@@ -109,7 +109,7 @@ Clipy是一个辅助复制粘贴功能的软件，它能保留历史复制记录
   4. Brew link：https://stackoverflow.com/questions/36155219/psql-command-not-found-mac/36156782
   5. Brew link：https://stackoverflow.com/questions/33268389/what-does-brew-link-do
   6. Clipy版本网址：https://github.com/ian4hu/Clipy/releases
-  7. 公众号排版：https://editor.mdnice.com/ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484899&amp;idx=1&amp;sn=5fa38a62a4fa5a2a7c8f57be409b3fa2&amp;chksm=a6c7690e91b0e01862fb6574588de1dde65e8fb0a224245dc272d58c8492040c185b6c635d88" rel="noopener noreferrer">原文链接</a>）</small>
+  7. 公众号排版：https://editor.mdnice.com/ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484899&amp;idx=1&amp;sn=5fa38a62a4fa5a2a7c8f57be409b3fa2&amp;chksm=a6c7690e91b0e01862fb6574588de1dde65e8fb0a224245dc272d58c8492040c185b6c635d88" rel="noopener noreferrer">原文链接</a>，更新于2022-07-05。）</small>
 
 
 

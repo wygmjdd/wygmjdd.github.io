@@ -63,4 +63,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486256&idx=
 
 回家途中，还未走到十字路口，接到阿妮电话：“没事儿，我就想问下你去哪里了？”
 
-我带一点骄傲答：“我买菜来哒！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486256&amp;idx=1&amp;sn=cea5f7d4da5fd78a4ccaed36f04b440f&amp;chksm=a6c767dd91b0eecbfe4d91852e7a77b7f9ccf26c001229193c79abd7bc4652e3d58c3db2bec7" rel="noopener noreferrer">原文链接</a>）</small>
+我带一点骄傲答：“我买菜来哒！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486256&amp;idx=1&amp;sn=cea5f7d4da5fd78a4ccaed36f04b440f&amp;chksm=a6c767dd91b0eecbfe4d91852e7a77b7f9ccf26c001229193c79abd7bc4652e3d58c3db2bec7" rel="noopener noreferrer">原文链接</a>，更新于2024-06-02。）</small>

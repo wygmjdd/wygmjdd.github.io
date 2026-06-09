@@ -25,7 +25,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484546&idx=
 
 前面一段时间太忙，忙到全无心思记录当时细节。所以“结婚这件事”，只有这一份小小总纲。
 
-祝您新年快乐，万事安康！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484546&amp;idx=1&amp;sn=90e9422a72c4223696ba169b8b7fdf0a&amp;chksm=a6c7686f91b0e1797f64773c4a54b7e25ffb5393a75a2f6160485d57a8c9a659f25a10e65196" rel="noopener noreferrer">原文链接</a>）</small>
+祝您新年快乐，万事安康！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484546&amp;idx=1&amp;sn=90e9422a72c4223696ba169b8b7fdf0a&amp;chksm=a6c7686f91b0e1797f64773c4a54b7e25ffb5393a75a2f6160485d57a8c9a659f25a10e65196" rel="noopener noreferrer">原文链接</a>，更新于2022-02-06。）</small>
 
   
 

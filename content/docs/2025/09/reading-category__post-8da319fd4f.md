@@ -58,4 +58,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487145&idx=
 
 是的，网站上的时钟真的会“动”。
 
-翻完《编码》第二版，我想自己书架，又多出一本很值得收藏的实体纸质书——感兴趣时便再翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487145&amp;idx=1&amp;sn=c4d692dd14230e08cc81c73ce59238f7&amp;chksm=a6c7624491b0eb524e043fa509ae9da2ef7596deae3e3b9b16f4506673e3c4350b377c3c425f" rel="noopener noreferrer">原文链接</a>）</small>
+翻完《编码》第二版，我想自己书架，又多出一本很值得收藏的实体纸质书——感兴趣时便再翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487145&amp;idx=1&amp;sn=c4d692dd14230e08cc81c73ce59238f7&amp;chksm=a6c7624491b0eb524e043fa509ae9da2ef7596deae3e3b9b16f4506673e3c4350b377c3c425f" rel="noopener noreferrer">原文链接</a>，更新于2025-09-07。）</small>

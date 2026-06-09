@@ -59,7 +59,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484725&idx=
 
 过一段时间，他们搬走了。我一直觉得是我请房东将他们撵走的。
 
-我认为我的房东是很不错的，我猜测她也应该认为我还不错。六年多下来，她只在17年涨过一次价，从480到530。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484725&amp;idx=1&amp;sn=8696cde5b9778018524f84ca070dcd95&amp;chksm=a6c769d891b0e0ce87e7f71220def9ec08588b4fa255191c66394726f6d98fdc2875acb03efb" rel="noopener noreferrer">原文链接</a>）</small>
+我认为我的房东是很不错的，我猜测她也应该认为我还不错。六年多下来，她只在17年涨过一次价，从480到530。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484725&amp;idx=1&amp;sn=8696cde5b9778018524f84ca070dcd95&amp;chksm=a6c769d891b0e0ce87e7f71220def9ec08588b4fa255191c66394726f6d98fdc2875acb03efb" rel="noopener noreferrer">原文链接</a>，更新于2022-04-24。）</small>
 
   
 

@@ -43,4 +43,4 @@ source_url: https://mp.weixin.qq.com/s/kOtgCaPoPMIRT-8zi8TUdg
 
 最后，基于阅读时的“昏昏欲睡”，是读完这本书后的一点属于自己的念头：《阅读是安静时的自我觉醒》这类书，最适合在自己有许多阅历时再阅读，那时候才有共鸣，才能知道作者说的是什么。在那之前，读本书的意义仅在于又知道许多新的作家名字，知道许多新的书。
 
-总之是，不停地去读书就对了。 <small>（<a href="https://mp.weixin.qq.com/s/kOtgCaPoPMIRT-8zi8TUdg" rel="noopener noreferrer">原文链接</a>）</small>
+总之是，不停地去读书就对了。 <small>（<a href="https://mp.weixin.qq.com/s/kOtgCaPoPMIRT-8zi8TUdg" rel="noopener noreferrer">原文链接</a>，更新于2026-04-26。）</small>

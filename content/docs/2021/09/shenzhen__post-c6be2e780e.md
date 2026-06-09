@@ -37,7 +37,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484280&idx=
 
 聪聪租这房子之前，我所知道的最贵租房是阿照(前同事)小两口在广州珠江新城租的两房，7000一月。当时只觉得好贵，每月月租仅为530的我，是不敢也不愿去看这种小区房的。心中有些羡慕，也带着一点疑惑——为什么需要租这么贵的房子呢？
 
-一直以来，我理解的租房是：只为在他乡，有一个住的地方。听过聪聪的租房选择后，我才意识到，租房，也可以是为了当下，更好地生活。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484280&amp;idx=1&amp;sn=ca5abd037aa15009c40f8b5d08d05ca8&amp;chksm=a6c76f9591b0e68372ba6930b3f0bd4b009d858fc875ab4f8c313f85fffe4a0820b86a364a67" rel="noopener noreferrer">原文链接</a>）</small>
+一直以来，我理解的租房是：只为在他乡，有一个住的地方。听过聪聪的租房选择后，我才意识到，租房，也可以是为了当下，更好地生活。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484280&amp;idx=1&amp;sn=ca5abd037aa15009c40f8b5d08d05ca8&amp;chksm=a6c76f9591b0e68372ba6930b3f0bd4b009d858fc875ab4f8c313f85fffe4a0820b86a364a67" rel="noopener noreferrer">原文链接</a>，更新于2021-09-12。）</small>
 
   
 

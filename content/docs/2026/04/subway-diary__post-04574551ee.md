@@ -73,4 +73,4 @@ source_url: https://mp.weixin.qq.com/s/2QiexI4AEFPz8Xi7pa5W4w
 
 不卡，则是为“高精力又自由自在”。
 
-最后，坐在沙发完成本篇的我，想一想我们的小群，是再一次内心满满满怀感激的。 <small>（<a href="https://mp.weixin.qq.com/s/2QiexI4AEFPz8Xi7pa5W4w" rel="noopener noreferrer">原文链接</a>）</small>
+最后，坐在沙发完成本篇的我，想一想我们的小群，是再一次内心满满满怀感激的。 <small>（<a href="https://mp.weixin.qq.com/s/2QiexI4AEFPz8Xi7pa5W4w" rel="noopener noreferrer">原文链接</a>，更新于2026-04-22。）</small>

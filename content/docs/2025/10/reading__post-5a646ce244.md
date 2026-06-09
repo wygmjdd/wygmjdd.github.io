@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487335&idx=
 
 秦汉的复述还不开始，只是先有此篇。
 
-《国史大纲》是我[23年读书](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485960&idx=1&sn=35ed68c5cabbc4c08cbaf7933f32e5fe&scene=21#wechat_redirect)年度推荐之一，到今天两年过去，我依然推荐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487335&amp;idx=1&amp;sn=3c214c16ee8cb69658a59ea2025ebb59&amp;chksm=a6c7638a91b0ea9c3e9a307114a911b60cf7ceff33c1e6a225d3ea03616983585e8d456b6580" rel="noopener noreferrer">原文链接</a>）</small>
+《国史大纲》是我[23年读书](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485960&idx=1&sn=35ed68c5cabbc4c08cbaf7933f32e5fe&scene=21#wechat_redirect)年度推荐之一，到今天两年过去，我依然推荐。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487335&amp;idx=1&amp;sn=3c214c16ee8cb69658a59ea2025ebb59&amp;chksm=a6c7638a91b0ea9c3e9a307114a911b60cf7ceff33c1e6a225d3ea03616983585e8d456b6580" rel="noopener noreferrer">原文链接</a>，更新于2025-10-12。）</small>

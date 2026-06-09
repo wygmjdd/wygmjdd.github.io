@@ -96,4 +96,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487611&idx=
 
 我想正是这些气节的延续，到清末到民国才有一位又一位仁人志士站出来带领大家驱除列强还我河山，才有了现今的国泰民安。
 
-读完《崇祯传》，又是21小时读书时长的积攒。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487611&amp;idx=1&amp;sn=70a661842fa3c0e0efb5a7b7ff04b295&amp;chksm=a6c77c9691b0f580b80fa60edd0717e2bdc1d6f33647a4991dce37b23f8d24523ea268ca90c0" rel="noopener noreferrer">原文链接</a>）</small>
+读完《崇祯传》，又是21小时读书时长的积攒。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487611&amp;idx=1&amp;sn=70a661842fa3c0e0efb5a7b7ff04b295&amp;chksm=a6c77c9691b0f580b80fa60edd0717e2bdc1d6f33647a4991dce37b23f8d24523ea268ca90c0" rel="noopener noreferrer">原文链接</a>，更新于2026-03-15。）</small>

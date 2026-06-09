@@ -43,7 +43,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484184&idx=
 
 公司的章程中，校招的同事入职之后会有一位导师。导师会带着熟悉工作环境，导师会布置作业，导师会review代码……
 
-社招，是并没有这一角色的官方安排的。萌哥对我的指导，于我来说，是导师这缺失角色的补足。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484184&amp;idx=1&amp;sn=ee8ada29f02cae7209049a6abb827d80&amp;chksm=a6c76ff591b0e6e316e1417e5a15794e592aa0db357a8175d15ab24ea124e1eda6d828887631" rel="noopener noreferrer">原文链接</a>）</small>
+社招，是并没有这一角色的官方安排的。萌哥对我的指导，于我来说，是导师这缺失角色的补足。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484184&amp;idx=1&amp;sn=ee8ada29f02cae7209049a6abb827d80&amp;chksm=a6c76ff591b0e6e316e1417e5a15794e592aa0db357a8175d15ab24ea124e1eda6d828887631" rel="noopener noreferrer">原文链接</a>，更新于2021-07-18。）</small>
 
   
 

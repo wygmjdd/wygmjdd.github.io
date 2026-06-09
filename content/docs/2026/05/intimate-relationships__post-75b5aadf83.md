@@ -45,4 +45,4 @@ source_url: https://mp.weixin.qq.com/s/I5Xjv-Nw6jVaG76B-a2nUQ
 
 本篇到此结束。
 
-标题问题的答案是：是的，我们总是喜欢别人的夸奖，但当夸奖不切实际时，我们会感到不安。 <small>（<a href="https://mp.weixin.qq.com/s/I5Xjv-Nw6jVaG76B-a2nUQ" rel="noopener noreferrer">原文链接</a>）</small>
+标题问题的答案是：是的，我们总是喜欢别人的夸奖，但当夸奖不切实际时，我们会感到不安。 <small>（<a href="https://mp.weixin.qq.com/s/I5Xjv-Nw6jVaG76B-a2nUQ" rel="noopener noreferrer">原文链接</a>，更新于2026-05-16。）</small>

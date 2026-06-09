@@ -136,4 +136,4 @@ x跟我说他的年薪过了50。
 
 转眼，距离“四个月”已经快两个月，在两个月后，来总结之前，夹杂很主观的那些个情绪，都已经忘在脑后。这最后的结尾，便少些内容。
 
-现在我已经到w公司上班，并且逐渐的找回了自信。但似乎，当我敲下这一小段的时候，心里还是有那么些恍惚；终归，我已经走在现在的我认为正确的路上，这便没有错！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483673&amp;idx=1&amp;sn=208f90f93e78673cc8623dfaf0db43b7&amp;chksm=a6c76df491b0e4e271b9872f9bdc6108ae70a24a4aa11261371dbfa8bb9847b1902781a1f305" rel="noopener noreferrer">原文链接</a>）</small>
+现在我已经到w公司上班，并且逐渐的找回了自信。但似乎，当我敲下这一小段的时候，心里还是有那么些恍惚；终归，我已经走在现在的我认为正确的路上，这便没有错！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483673&amp;idx=1&amp;sn=208f90f93e78673cc8623dfaf0db43b7&amp;chksm=a6c76df491b0e4e271b9872f9bdc6108ae70a24a4aa11261371dbfa8bb9847b1902781a1f305" rel="noopener noreferrer">原文链接</a>，更新于2020-09-14。）</small>

@@ -60,4 +60,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485371&idx=
 
 后来的很多天，我跟着阿林（表姐的儿子，比我小两岁）逛了县城的许多地方，商场、书店、长江边。每次路过我只工作3天的炒菜馆，我都会带一丝羞愧往店里望望：“我应该坚持下去的。”
 
-回家时，除了来时的背包，我还带回两个满满编织袋。袋里的衣服，我最喜欢的，是一件红色毛衣，它陪我念高中，陪我上大学，它与我一起见阿妮。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485371&amp;idx=1&amp;sn=424c37b5ce9e8507f67cefdf552150c2&amp;chksm=a6c76b5691b0e240168cca0225aac1fbcd1c6a4aa3709a00f83e142ec016ce0f5dc4c93318ac" rel="noopener noreferrer">原文链接</a>）</small>
+回家时，除了来时的背包，我还带回两个满满编织袋。袋里的衣服，我最喜欢的，是一件红色毛衣，它陪我念高中，陪我上大学，它与我一起见阿妮。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485371&amp;idx=1&amp;sn=424c37b5ce9e8507f67cefdf552150c2&amp;chksm=a6c76b5691b0e240168cca0225aac1fbcd1c6a4aa3709a00f83e142ec016ce0f5dc4c93318ac" rel="noopener noreferrer">原文链接</a>，更新于2023-03-05。）</small>

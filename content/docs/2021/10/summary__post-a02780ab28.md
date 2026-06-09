@@ -50,7 +50,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484368&idx=
   
 
 
-对了，还有一件重要的事，半年以来，我一共发布了36篇原创，每篇阅读量平均下来差不多能有100多点。我的收入是94块钱，月均15元。再次感谢大家每月请我吃的小面。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484368&amp;idx=1&amp;sn=0bf778ff1013ea6f60ed2ebdeada1362&amp;chksm=a6c76f3d91b0e62b1d69168262655784d5d7c300cc8b87ffffc20ec352fbb39743107ce28e43" rel="noopener noreferrer">原文链接</a>）</small>
+对了，还有一件重要的事，半年以来，我一共发布了36篇原创，每篇阅读量平均下来差不多能有100多点。我的收入是94块钱，月均15元。再次感谢大家每月请我吃的小面。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484368&amp;idx=1&amp;sn=0bf778ff1013ea6f60ed2ebdeada1362&amp;chksm=a6c76f3d91b0e62b1d69168262655784d5d7c300cc8b87ffffc20ec352fbb39743107ce28e43" rel="noopener noreferrer">原文链接</a>，更新于2021-10-17。）</small>
 
   
 

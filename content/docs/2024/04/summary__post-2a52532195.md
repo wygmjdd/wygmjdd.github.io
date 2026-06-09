@@ -63,4 +63,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486139&idx=
 
 3月，坚持背单词[满2000天](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486110&idx=1&sn=29f7f155b109fd9540bee9b2ed404ac5&chksm=a6c7667391b0ef65a4d55352add8e603c25c0856b11534ed1a33a1804a9954a575fa8b6a1481&token=1094200255&lang=zh_CN&scene=21#wechat_redirect)，我以为坚持是没错的，但该辅以些具象化目标。
 
-未完待续…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486139&amp;idx=1&amp;sn=089543ba611fe75836daab362ef75061&amp;chksm=a6c7665691b0ef40cf5d3aa9860fca7df13b582bce22ee46088df48ab0c5a7c4532a38caed9f" rel="noopener noreferrer">原文链接</a>）</small>
+未完待续…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486139&amp;idx=1&amp;sn=089543ba611fe75836daab362ef75061&amp;chksm=a6c7665691b0ef40cf5d3aa9860fca7df13b582bce22ee46088df48ab0c5a7c4532a38caed9f" rel="noopener noreferrer">原文链接</a>，更新于2024-04-20。）</small>

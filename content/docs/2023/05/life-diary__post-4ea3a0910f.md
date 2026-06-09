@@ -69,4 +69,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485542&idx=
 
 我为什么没有存稿呢？我将笔记翻开，一篇篇找，全是半截，全不成样子。
 
-我窝在床上，用很困的脑子，用很快的速度，将当前的状态，记了下来：“周日中午十二点，还没有完成本周更新的我，很困很乱很着急，很想和大白鹅一起打台球。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485542&amp;idx=1&amp;sn=3c5b844c53c0f7d090f6a62ef5fa4877&amp;chksm=a6c7648b91b0ed9de4ac1267c9e25ab3d805e7336fab7d2ec27a819333443f471abd7125efb5" rel="noopener noreferrer">原文链接</a>）</small>
+我窝在床上，用很困的脑子，用很快的速度，将当前的状态，记了下来：“周日中午十二点，还没有完成本周更新的我，很困很乱很着急，很想和大白鹅一起打台球。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485542&amp;idx=1&amp;sn=3c5b844c53c0f7d090f6a62ef5fa4877&amp;chksm=a6c7648b91b0ed9de4ac1267c9e25ab3d805e7336fab7d2ec27a819333443f471abd7125efb5" rel="noopener noreferrer">原文链接</a>，更新于2023-05-21。）</small>

@@ -59,4 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486491&idx=
 
 待时间再往后走一些？我想我会找两本书来帮我理解“股票”“基金”的含义，就像从《[人类简史](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486458&idx=1&sn=5f6d0b5fbe7407980ab4eeda84d2511b&chksm=a6c7671791b0ee01c40edb0bc8e438623ac9af6fac075a4ffbed5ae9baabd56cb74e3516780a&scene=21#wechat_redirect)》中收获“钱”的定义一样；看书同时，拿很少的不会让自己心绪不宁的钱，炒炒股。
 
-祝大家，国庆快乐～ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486491&amp;idx=1&amp;sn=cca43a7c7211f178b7f6d952d2aacd64&amp;chksm=a6c760f691b0e9e08714a22481328c557f76c50e2f6ec0ae07b5102136a15615d81f04a0b5e7" rel="noopener noreferrer">原文链接</a>）</small>
+祝大家，国庆快乐～ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486491&amp;idx=1&amp;sn=cca43a7c7211f178b7f6d952d2aacd64&amp;chksm=a6c760f691b0e9e08714a22481328c557f76c50e2f6ec0ae07b5102136a15615d81f04a0b5e7" rel="noopener noreferrer">原文链接</a>，更新于2024-09-30。）</small>

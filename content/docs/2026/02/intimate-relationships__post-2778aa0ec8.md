@@ -29,4 +29,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487480&idx=
 
 我以为书中所说结论虽然来源于统计学，但就搭讪这件事来说肯定个体属性是强的，比如搭讪者的品性（可能更多取决于[上篇当中已经分析过的外貌](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487475&idx=1&sn=3e9869e453885ecb7633e3b18848e02e&scene=21#wechat_redirect)），被搭讪者当时心情，都是搭讪能否成功的影响因素。
 
-最后，抛去所有其它的可能影响因素，单就初次见面时的开场白而言，如果单身男性想要认识单身女性，直接真诚表明自己来意就好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487480&amp;idx=1&amp;sn=f565973ce9f407fb81743126906d21ea&amp;chksm=a6c7631591b0ea03266777ed63579013cae6c341136b48ad7023e90b0ba6f6dec5f10670dc99" rel="noopener noreferrer">原文链接</a>）</small>
+最后，抛去所有其它的可能影响因素，单就初次见面时的开场白而言，如果单身男性想要认识单身女性，直接真诚表明自己来意就好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487480&amp;idx=1&amp;sn=f565973ce9f407fb81743126906d21ea&amp;chksm=a6c7631591b0ea03266777ed63579013cae6c341136b48ad7023e90b0ba6f6dec5f10670dc99" rel="noopener noreferrer">原文链接</a>，更新于2026-02-01。）</small>

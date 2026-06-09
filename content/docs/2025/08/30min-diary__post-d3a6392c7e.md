@@ -45,4 +45,4 @@ AI可以更厉害一点？路径计算和概率统计，三十年前《赌神》
 
 三胞胎中最厉害的那位，会有怎样的表现呢？
 
-我有一点期待。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487095&amp;idx=1&amp;sn=9241abb4a76c1494ec055808ee9ec35f&amp;chksm=a6c7629a91b0eb8cbc23842a23b557d1f5222486bc04d7c679bca67581b773230388149e4875" rel="noopener noreferrer">原文链接</a>）</small>
+我有一点期待。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487095&amp;idx=1&amp;sn=9241abb4a76c1494ec055808ee9ec35f&amp;chksm=a6c7629a91b0eb8cbc23842a23b557d1f5222486bc04d7c679bca67581b773230388149e4875" rel="noopener noreferrer">原文链接</a>，更新于2025-08-24。）</small>

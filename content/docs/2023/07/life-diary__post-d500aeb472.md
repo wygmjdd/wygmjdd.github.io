@@ -53,4 +53,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485625&idx=
 
 到周六，阿远跑饿了么6天。这6天里，阿远吃过两次盖饭，每次13块（比县城的盖饭贵1块，没有县城的好吃），剩下的饮食，都是小面：“重庆这个高头，莫子都贵啊。那么小的包子，都是块钱一个。只有三两的小面吃得饱，9块钱一碗。”
 
-阿远上重庆一星期，已经瘦了4斤。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485625&amp;idx=1&amp;sn=eb4a3428fa04a1c339c049ad5168f7dd&amp;chksm=a6c7645491b0ed42101ac4104242840d477036eb0cb8ca466110dc0a1e36613cc881eef620fd" rel="noopener noreferrer">原文链接</a>）</small>
+阿远上重庆一星期，已经瘦了4斤。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485625&amp;idx=1&amp;sn=eb4a3428fa04a1c339c049ad5168f7dd&amp;chksm=a6c7645491b0ed42101ac4104242840d477036eb0cb8ca466110dc0a1e36613cc881eef620fd" rel="noopener noreferrer">原文链接</a>，更新于2023-07-09。）</small>

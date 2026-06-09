@@ -46,4 +46,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486781&idx=
 
 我现在困了，要快快睡觉。
 
-今天的英文口语计划，先跳过吧。对的，自然与非自然之间，我其实又生出过新的不那么强烈的愿望：我也想在村里，建一栋属于自己的房子。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486781&amp;idx=1&amp;sn=bda9d3c715c53b4c8e77c198a762effb&amp;chksm=a6c761d091b0e8c6a242128e8475546f74af8e9257f952b4ef8e8bb61c8849f70b641313f6ce" rel="noopener noreferrer">原文链接</a>）</small>
+今天的英文口语计划，先跳过吧。对的，自然与非自然之间，我其实又生出过新的不那么强烈的愿望：我也想在村里，建一栋属于自己的房子。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486781&amp;idx=1&amp;sn=bda9d3c715c53b4c8e77c198a762effb&amp;chksm=a6c761d091b0e8c6a242128e8475546f74af8e9257f952b4ef8e8bb61c8849f70b641313f6ce" rel="noopener noreferrer">原文链接</a>，更新于2025-02-19。）</small>

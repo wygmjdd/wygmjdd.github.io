@@ -33,4 +33,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483658&idx=
 
 于是我在今天，将之前写的内容，全扔到一个新的文件夹下面。接着以此篇为序，重新组织结构，就以名词为题，一篇一篇的写完。
 
-毕竟，可以从三年日记中，寻取认知素材。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483658&amp;idx=1&amp;sn=ff1400eb14b51a13155c2aaa45d2819d&amp;chksm=a6c76de791b0e4f1c87c93dda5f26d4ec374390b4b99b9f3bea4494939ad13e040606b0e2ddf" rel="noopener noreferrer">原文链接</a>）</small>
+毕竟，可以从三年日记中，寻取认知素材。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483658&amp;idx=1&amp;sn=ff1400eb14b51a13155c2aaa45d2819d&amp;chksm=a6c76de791b0e4f1c87c93dda5f26d4ec374390b4b99b9f3bea4494939ad13e040606b0e2ddf" rel="noopener noreferrer">原文链接</a>，更新于2019-06-15。）</small>

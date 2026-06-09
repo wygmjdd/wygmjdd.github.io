@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485819&idx=
 
 > 如果你要分享一个让人难以接受的真相，那就意味着你需要面对这个真相，但同时你也将获得一项回报，那就是自由。真相能把我们从羞愧中解放出来。
 
-> 有时我们渴望别人原谅，只是为了自我满足；我们祈求别人的原谅，只是为了避免要自己原谅自己，因为自我原谅更难做到。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485819&amp;idx=1&amp;sn=250878b3459f96712fce3635d2b8772b&amp;chksm=a6c7659691b0ec8059fe9e937d37e770f820b25db2d8060028e192ecccbcdb80bd0a5e216c0c" rel="noopener noreferrer">原文链接</a>）</small>
+> 有时我们渴望别人原谅，只是为了自我满足；我们祈求别人的原谅，只是为了避免要自己原谅自己，因为自我原谅更难做到。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485819&amp;idx=1&amp;sn=250878b3459f96712fce3635d2b8772b&amp;chksm=a6c7659691b0ec8059fe9e937d37e770f820b25db2d8060028e192ecccbcdb80bd0a5e216c0c" rel="noopener noreferrer">原文链接</a>，更新于2023-11-20。）</small>

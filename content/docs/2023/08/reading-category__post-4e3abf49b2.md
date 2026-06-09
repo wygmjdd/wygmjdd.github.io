@@ -67,4 +67,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485685&idx=
 > 
 > 所以，如果你喜欢怨天尤人，那么你现在就可以开始尝试改变，否则当你变老的时候，你也只能继续在怨怼中度过余生。
 
-改变，从现在开始，别等变老时依然怨天尤人。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485685&amp;idx=1&amp;sn=1a8d59c9d14bc95ad6fdb1915ffab143&amp;chksm=a6c7641891b0ed0e62b7aff00491ae9f58b3831cf43a694656d431955b030d8a11de4c640101" rel="noopener noreferrer">原文链接</a>）</small>
+改变，从现在开始，别等变老时依然怨天尤人。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485685&amp;idx=1&amp;sn=1a8d59c9d14bc95ad6fdb1915ffab143&amp;chksm=a6c7641891b0ed0e62b7aff00491ae9f58b3831cf43a694656d431955b030d8a11de4c640101" rel="noopener noreferrer">原文链接</a>，更新于2023-08-21。）</small>

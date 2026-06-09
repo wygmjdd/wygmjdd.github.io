@@ -103,4 +103,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487166&idx=
 
 “《我曾走在崩溃的边缘》，是我很推荐的一本书，因为俞老师在书中的分享很真诚，许多内容都能给予我启发。
 
-“书中内容不深奥，恰似又一次与长者面对面对话。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487166&amp;idx=1&amp;sn=45fcc533f4dbe9a1d3799a0d85e43d6c&amp;chksm=a6c7625391b0eb4517b6400a25b9bb7efc725860452edb8aeb127ac3b97bf78d5d20bdcf67fb" rel="noopener noreferrer">原文链接</a>）</small>
+“书中内容不深奥，恰似又一次与长者面对面对话。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487166&amp;idx=1&amp;sn=45fcc533f4dbe9a1d3799a0d85e43d6c&amp;chksm=a6c7625391b0eb4517b6400a25b9bb7efc725860452edb8aeb127ac3b97bf78d5d20bdcf67fb" rel="noopener noreferrer">原文链接</a>，更新于2025-09-21。）</small>

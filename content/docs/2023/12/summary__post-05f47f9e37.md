@@ -165,4 +165,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485903&idx=
 
 《纳瓦尔宝典》，类似《沉思录》，都是行事准则汇集而成的书。我从书中收获一种迫切：我一定要有自己的产品。
 
-感谢您读到此处，让我们，明年再见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485903&amp;idx=1&amp;sn=72e94989eb3c66c36c1fd3444ccf212d&amp;chksm=a6c7652291b0ec34d33385c8b7688506781f3198ea7493422ffc7dc1165c2087035be5cfbebf" rel="noopener noreferrer">原文链接</a>）</small>
+感谢您读到此处，让我们，明年再见。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485903&amp;idx=1&amp;sn=72e94989eb3c66c36c1fd3444ccf212d&amp;chksm=a6c7652291b0ec34d33385c8b7688506781f3198ea7493422ffc7dc1165c2087035be5cfbebf" rel="noopener noreferrer">原文链接</a>，更新于2023-12-31。）</small>

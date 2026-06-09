@@ -62,7 +62,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484538&idx=
 
 失误只在一瞬间。可能其他的交通事故也是如此——只在大意的一瞬间。
 
-谨以此篇，警醒自己，开车小心。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484538&amp;idx=1&amp;sn=bf01b36a4aad5e29e0e03bfbec3539a5&amp;chksm=a6c7689791b0e1818d37583b8fdf8ec90e411f0f65bd6186222c5cd078d55745dfaab2494d5a" rel="noopener noreferrer">原文链接</a>）</small>
+谨以此篇，警醒自己，开车小心。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484538&amp;idx=1&amp;sn=bf01b36a4aad5e29e0e03bfbec3539a5&amp;chksm=a6c7689791b0e1818d37583b8fdf8ec90e411f0f65bd6186222c5cd078d55745dfaab2494d5a" rel="noopener noreferrer">原文链接</a>，更新于2022-01-30。）</small>
 
   
 

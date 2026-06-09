@@ -41,4 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485761&idx=
 
 《楚汉双雄》是为西汉开头的故事，是项羽刘邦争雄天下的故事，其中有战神项羽百战百胜后的乌江自刎，有兵仙韩信环环相扣的背水一战……
 
-本书的推荐语为：“想要完整了解秦末汉初刘邦项羽的故事又不想翻史书怎么办？看《楚汉双雄》，书中故事精彩绝伦有理有据，读来全不费力。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485761&amp;idx=1&amp;sn=0419240a74f27ecd336fd98d6300efa7&amp;chksm=a6c765ac91b0ecbab5a966731a44a2c598b8a01472f3f0982b0de0d057b5f3fd30f74e2c9bdf" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语为：“想要完整了解秦末汉初刘邦项羽的故事又不想翻史书怎么办？看《楚汉双雄》，书中故事精彩绝伦有理有据，读来全不费力。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485761&amp;idx=1&amp;sn=0419240a74f27ecd336fd98d6300efa7&amp;chksm=a6c765ac91b0ecbab5a966731a44a2c598b8a01472f3f0982b0de0d057b5f3fd30f74e2c9bdf" rel="noopener noreferrer">原文链接</a>，更新于2023-10-16。）</small>

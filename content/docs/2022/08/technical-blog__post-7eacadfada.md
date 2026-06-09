@@ -139,4 +139,4 @@ B+树是多级索引，与顺序索引的多级并不一样。
 ### 引用链接：
 
   1. B+树的介绍：https://zhuanlan.zhihu.com/p/351240279
-  2. B+树的可视化：https://www.cs.usfca.edu/~galles/visualization/BTree.html <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485013&amp;idx=1&amp;sn=6d00597498bc6da952e90fbda2b255dc&amp;chksm=a6c76ab891b0e3aec82efa3912dabd3365fa95d78385def60eb1e475b0e25b057ec99c41314a" rel="noopener noreferrer">原文链接</a>）</small>
+  2. B+树的可视化：https://www.cs.usfca.edu/~galles/visualization/BTree.html <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485013&amp;idx=1&amp;sn=6d00597498bc6da952e90fbda2b255dc&amp;chksm=a6c76ab891b0e3aec82efa3912dabd3365fa95d78385def60eb1e475b0e25b057ec99c41314a" rel="noopener noreferrer">原文链接</a>，更新于2022-08-08。）</small>

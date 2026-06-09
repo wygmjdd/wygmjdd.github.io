@@ -49,4 +49,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486767&idx=
 
 过年期间，我不做俯卧撑，看书很少，日记不写，甚至连手机都不看。我的时间，除去在自家准备婚宴时的走来走去走来走去之外，剩下大部分都用作聊天。
 
-再剩下的，走在村里路上，仿佛只需要记得走路就好，那时节我的脑子，空白一片。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486767&amp;idx=1&amp;sn=e623ce2df3f74ab3f92459575d9f4486&amp;chksm=a6c761c291b0e8d49d188d188766e213b73b3b4f9b12344fdc2d8553047e5028d87f8f575f42" rel="noopener noreferrer">原文链接</a>）</small>
+再剩下的，走在村里路上，仿佛只需要记得走路就好，那时节我的脑子，空白一片。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486767&amp;idx=1&amp;sn=e623ce2df3f74ab3f92459575d9f4486&amp;chksm=a6c761c291b0e8d49d188d188766e213b73b3b4f9b12344fdc2d8553047e5028d87f8f575f42" rel="noopener noreferrer">原文链接</a>，更新于2025-02-09。）</small>

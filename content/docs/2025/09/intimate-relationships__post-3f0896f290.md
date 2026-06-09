@@ -51,4 +51,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487181&idx=
 
 > 我们并不需要太多的亲密关系；一旦归属需要得到满足，我们建立其他人际关系的内驱力就会减弱（因此人际关系的质量比数量更重要）。归属需要也与我们的伴侣是谁并无太大关系，只要他们能给予我们持久的关爱和接纳，我们的归属需要就能得到满足。因而，即使一段重要的亲密关系终结，我们也往往能找到替代的伴侣（虽然新人与旧爱可能有很大的不同），并且新伴侣也仍然能满足我们的归属需要(Spielmann et al., 2012)。
 
-亲密关系、归属需要，足够就好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487181&amp;idx=1&amp;sn=3bdaea7eb29959d59261d06128d26754&amp;chksm=a6c7622091b0eb3614a3a93ecde8843febcdf7e5230f7f8fe2c86f3aa8cd522c1f5fb77033f4" rel="noopener noreferrer">原文链接</a>）</small>
+亲密关系、归属需要，足够就好。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487181&amp;idx=1&amp;sn=3bdaea7eb29959d59261d06128d26754&amp;chksm=a6c7622091b0eb3614a3a93ecde8843febcdf7e5230f7f8fe2c86f3aa8cd522c1f5fb77033f4" rel="noopener noreferrer">原文链接</a>，更新于2025-09-28。）</small>

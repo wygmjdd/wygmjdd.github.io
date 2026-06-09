@@ -43,4 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485640&idx=
 
 哈利、罗恩和赫敏的友情，我真真的感同身受，这是人生中万万不能缺少的一种情感。我超级超级佩服作者能将友情描述的那么真实那样美好，我会因为三人一起搞定某个任务而欣喜，也会为彼此之间的矛盾而伤心。
 
-本书的推荐语为：“《哈利·波特》，作为整个地球历史上最畅销的小说，我相信这世上每一个小孩是都会喜欢看的。书中有神奇的魔法，有纯真的友谊，有勇敢的冒险，全书剧情连贯冲突紧密。正纠结给孩子送怎样的生日礼物？试试看《哈利·波特》，它是值得拥有的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485640&amp;idx=1&amp;sn=99c2590086f917004941e8d4a864d93c&amp;chksm=a6c7642591b0ed33ab1ce8bfb9005895280774a098e3f270ea8d4262a06a52de8af95a4167d4" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语为：“《哈利·波特》，作为整个地球历史上最畅销的小说，我相信这世上每一个小孩是都会喜欢看的。书中有神奇的魔法，有纯真的友谊，有勇敢的冒险，全书剧情连贯冲突紧密。正纠结给孩子送怎样的生日礼物？试试看《哈利·波特》，它是值得拥有的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485640&amp;idx=1&amp;sn=99c2590086f917004941e8d4a864d93c&amp;chksm=a6c7642591b0ed33ab1ce8bfb9005895280774a098e3f270ea8d4262a06a52de8af95a4167d4" rel="noopener noreferrer">原文链接</a>，更新于2023-07-23。）</small>

@@ -47,4 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486775&idx=
 
 想说就说，还能说得通畅，让大家都能很容易理出整篇文字的主题，是一件需要刻意练习的难事，我还需要许多练习。但我从作者文字中，有收获到一种鼓励：真诚地按照内心想法一鼓作气去写吧，那是属于我的记忆，属于我的小事，这些记录小事的文字，可能就在某个时刻，收获到某位读者的共鸣。
 
-真诚，是不骗人的，它自有独特魅力。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486775&amp;idx=1&amp;sn=8febe91b349f10f51119777f0e4586ae&amp;chksm=a6c761da91b0e8cc94eae67999aba0c0aa528fb7a83e4b602957e7982948fd2bb5a5cef7b9d7" rel="noopener noreferrer">原文链接</a>）</small>
+真诚，是不骗人的，它自有独特魅力。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486775&amp;idx=1&amp;sn=8febe91b349f10f51119777f0e4586ae&amp;chksm=a6c761da91b0e8cc94eae67999aba0c0aa528fb7a83e4b602957e7982948fd2bb5a5cef7b9d7" rel="noopener noreferrer">原文链接</a>，更新于2025-02-16。）</small>

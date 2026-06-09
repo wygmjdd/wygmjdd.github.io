@@ -61,4 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486071&idx=
 
 > 不管你多大，现在，就是你的黄金岁月。美好的事情会带来金色的回忆，糟糕的事情会带来宝贵的教训。
 
-> **人生中只有很少的遗憾，是遗憾自己做了什么。几乎所有的遗憾都是遗憾自己没有做什么。** <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486071&amp;idx=1&amp;sn=4aacbe10662555f68f3fedc27f0a11b8&amp;chksm=a6c7669a91b0ef8cfd64aeebd023166f91441c3dac704e8fe0c180ee22bf44e30218201ceec0" rel="noopener noreferrer">原文链接</a>）</small>
+> **人生中只有很少的遗憾，是遗憾自己做了什么。几乎所有的遗憾都是遗憾自己没有做什么。** <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486071&amp;idx=1&amp;sn=4aacbe10662555f68f3fedc27f0a11b8&amp;chksm=a6c7669a91b0ef8cfd64aeebd023166f91441c3dac704e8fe0c180ee22bf44e30218201ceec0" rel="noopener noreferrer">原文链接</a>，更新于2024-03-04。）</small>

@@ -61,4 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483757&idx=
 
 有什么可以对七年前的我说说呢？似乎没有。当时的我工作认真，努力生活，每天过的无忧无虑。
 
-或许，晚上应该少玩几局三国杀，多看点书、多些锻炼？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483757&amp;idx=1&amp;sn=9ecec6b4e8e6fc01f1f22b087754c57b&amp;chksm=a6c76d8091b0e496869e3175d628439642c6c445bd4c9776b8c30ac48595c18facbee08261ce" rel="noopener noreferrer">原文链接</a>）</small>
+或许，晚上应该少玩几局三国杀，多看点书、多些锻炼？ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483757&amp;idx=1&amp;sn=9ecec6b4e8e6fc01f1f22b087754c57b&amp;chksm=a6c76d8091b0e496869e3175d628439642c6c445bd4c9776b8c30ac48595c18facbee08261ce" rel="noopener noreferrer">原文链接</a>，更新于2020-11-22。）</small>

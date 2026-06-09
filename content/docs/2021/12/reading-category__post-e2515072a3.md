@@ -86,7 +86,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484452&idx=
 
 这个新疗法被医生们宣传，每次去体检（或者不舒服后去看医生），医生们都会将这个疗法传授给我，它就是——**早点睡，保证睡眠充足** ！现在，我对这新疗法认识的更多，将其进行分享。
 
-愿我们，每天都能睡一个好觉，做一个美梦！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484452&amp;idx=1&amp;sn=50c9b4ea653523fa69c6228d89caec7d&amp;chksm=a6c768c991b0e1df0f9657ede03a3884ff0a526ae9d6974eafeff120083c2c121d147a87ce00" rel="noopener noreferrer">原文链接</a>）</small>
+愿我们，每天都能睡一个好觉，做一个美梦！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484452&amp;idx=1&amp;sn=50c9b4ea653523fa69c6228d89caec7d&amp;chksm=a6c768c991b0e1df0f9657ede03a3884ff0a526ae9d6974eafeff120083c2c121d147a87ce00" rel="noopener noreferrer">原文链接</a>，更新于2021-12-12。）</small>
 
   
 

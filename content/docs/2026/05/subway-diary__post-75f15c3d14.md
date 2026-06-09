@@ -56,4 +56,4 @@ source_url: https://mp.weixin.qq.com/s/ZTCRX8DJrHESQ5VsHP2B0g
 
 标题如何起，内容如何优化，我真的真的还不知道，只知道的是，那种太吸眼球而题不对文的标题万万不可取。
 
-总之，先继续写吧，或许日常生活之外，可再多一点对书中内容的浅思考，因为阅读过万那几篇（除去聪聪的经历），都关于读书。 <small>（<a href="https://mp.weixin.qq.com/s/ZTCRX8DJrHESQ5VsHP2B0g" rel="noopener noreferrer">原文链接</a>）</small>
+总之，先继续写吧，或许日常生活之外，可再多一点对书中内容的浅思考，因为阅读过万那几篇（除去聪聪的经历），都关于读书。 <small>（<a href="https://mp.weixin.qq.com/s/ZTCRX8DJrHESQ5VsHP2B0g" rel="noopener noreferrer">原文链接</a>，更新于2026-05-26。）</small>

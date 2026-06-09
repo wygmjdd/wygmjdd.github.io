@@ -62,4 +62,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486156&idx=
   
 
 
-最后，附一张昨天打完球后赶回家炒的三个菜，多关注当下，将时间花在自己可控制事物上，是没错的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486156&amp;idx=1&amp;sn=9c7a1cee51c56ce7142d0f34ac2642f9&amp;chksm=a6c7662191b0ef37e7399e79e5f653a2200cdf870a8a275a43a90c23757422f171896bce6dd6" rel="noopener noreferrer">原文链接</a>）</small>
+最后，附一张昨天打完球后赶回家炒的三个菜，多关注当下，将时间花在自己可控制事物上，是没错的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486156&amp;idx=1&amp;sn=9c7a1cee51c56ce7142d0f34ac2642f9&amp;chksm=a6c7662191b0ef37e7399e79e5f653a2200cdf870a8a275a43a90c23757422f171896bce6dd6" rel="noopener noreferrer">原文链接</a>，更新于2024-04-21。）</small>

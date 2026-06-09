@@ -44,4 +44,4 @@ source_url: https://mp.weixin.qq.com/s/dQr--UKGqlpPxfkDwFTrYQ
 
 乐观主义可这样简单的理解：“我的朋友们啊，都对我挺好”，当我这样想的时候，朋友们将真的对我很好。
 
-本篇整理先到此处，作一个小小总结是：我们的所思所想，将会真真切切影响到我们的关系质量。（对的，上一篇、本篇以及下一篇，都是对书中小节《知觉的力量》的复述。） <small>（<a href="https://mp.weixin.qq.com/s/dQr--UKGqlpPxfkDwFTrYQ" rel="noopener noreferrer">原文链接</a>）</small>
+本篇整理先到此处，作一个小小总结是：我们的所思所想，将会真真切切影响到我们的关系质量。（对的，上一篇、本篇以及下一篇，都是对书中小节《知觉的力量》的复述。） <small>（<a href="https://mp.weixin.qq.com/s/dQr--UKGqlpPxfkDwFTrYQ" rel="noopener noreferrer">原文链接</a>，更新于2026-05-12。）</small>

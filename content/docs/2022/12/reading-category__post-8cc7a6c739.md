@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485244&idx=
 
 是的，我猜看书就是这样：一本书讲一个点，一个点关联另外一个点，于是会找到另一本书；一本一本看，自己对这个点的认知就会慢慢饱满起来。
 
-本书的推荐语是：“想知道过去的官场规则么？想了解过去官吏与百姓的关系么？想知道‘迷信’的作用么？试试看《潜规则》这本书吧，历史是会重复的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485244&amp;idx=1&amp;sn=e7112cedf5f62ece1b277cc076ce5fe2&amp;chksm=a6c76bd191b0e2c73d0de3e2aeb4fec6db69c2556a23ea71689e16b8ddd034c54229f45efeb9" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语是：“想知道过去的官场规则么？想了解过去官吏与百姓的关系么？想知道‘迷信’的作用么？试试看《潜规则》这本书吧，历史是会重复的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485244&amp;idx=1&amp;sn=e7112cedf5f62ece1b277cc076ce5fe2&amp;chksm=a6c76bd191b0e2c73d0de3e2aeb4fec6db69c2556a23ea71689e16b8ddd034c54229f45efeb9" rel="noopener noreferrer">原文链接</a>，更新于2022-12-19。）</small>

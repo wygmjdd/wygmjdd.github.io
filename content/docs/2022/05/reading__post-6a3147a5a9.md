@@ -33,7 +33,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484731&idx=
 
 与阿妮分享最近看书经历，我说我被沈先生的文字感动。阿妮问感动原因，我愣神半天，似乎并不能给予一个准确答复，只说带给我感动的是“文字下的简单、淳朴生活”。
 
-第二天，在《湘行散记》中再见到沈先生想要磨炼成读书人的“小豹子”。他让我想起，我所感动的，是二爹、幺姨们，为生活，跑遍大江南北。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484731&amp;idx=1&amp;sn=13d2ff7be16625e69b8c03a2eb665c99&amp;chksm=a6c769d691b0e0c044b2e43e80bae339ad2d159258273472043a6b24c6d93cd0cebcaed3309f" rel="noopener noreferrer">原文链接</a>）</small>
+第二天，在《湘行散记》中再见到沈先生想要磨炼成读书人的“小豹子”。他让我想起，我所感动的，是二爹、幺姨们，为生活，跑遍大江南北。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484731&amp;idx=1&amp;sn=13d2ff7be16625e69b8c03a2eb665c99&amp;chksm=a6c769d691b0e0c044b2e43e80bae339ad2d159258273472043a6b24c6d93cd0cebcaed3309f" rel="noopener noreferrer">原文链接</a>，更新于2022-05-01。）</small>
 
   
 

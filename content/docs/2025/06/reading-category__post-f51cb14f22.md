@@ -80,4 +80,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486998&idx=
 
 读到先生弃医从文的原因——唤醒国民不再做看客——时，我感到热血沸腾；读《药》时整个人内心很沉重；看到“走的人多了，也便成了路”时很想哭；看《长明灯》时感受到压抑；看《阿Q正传》时很窘迫自己也常常阿Q；读到《阿长与「山海经」》时也生出一种“我也能写出此种文章”的信心；《理水》让我愤怒……
 
-即时感触还有很多，本篇于此打住。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486998&amp;idx=1&amp;sn=d8f07952f1c77324f600f90ea758fcab&amp;chksm=a6c762fb91b0ebed86ec83afa0db6557f6fb6ea87d510e9297a4c02bc2302177737f870d198f" rel="noopener noreferrer">原文链接</a>）</small>
+即时感触还有很多，本篇于此打住。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486998&amp;idx=1&amp;sn=d8f07952f1c77324f600f90ea758fcab&amp;chksm=a6c762fb91b0ebed86ec83afa0db6557f6fb6ea87d510e9297a4c02bc2302177737f870d198f" rel="noopener noreferrer">原文链接</a>，更新于2025-06-17。）</small>

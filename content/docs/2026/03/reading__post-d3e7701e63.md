@@ -47,4 +47,4 @@ source_url: https://mp.weixin.qq.com/s/KxHSy1Uog93HMXzcr9PYcA
 > 
 > “假如我另有需要，”基督山漫不经心地说道，“到时候我们再看吧，不过在法国，我也只打算逗留一年，而一年的花销，想必超不过这个数目……总之，到时候再说吧……先支第一笔吧，劳驾明天给我送去五十万法郎，中午之前我在家，即便外出，我也会给管家留下一张收据。”
 
-这估算，可算作打消了我对伯爵花钱大手大脚的疑虑：原来伯爵，真的很有钱啊！ <small>（<a href="https://mp.weixin.qq.com/s/KxHSy1Uog93HMXzcr9PYcA" rel="noopener noreferrer">原文链接</a>）</small>
+这估算，可算作打消了我对伯爵花钱大手大脚的疑虑：原来伯爵，真的很有钱啊！ <small>（<a href="https://mp.weixin.qq.com/s/KxHSy1Uog93HMXzcr9PYcA" rel="noopener noreferrer">原文链接</a>，更新于2026-03-27。）</small>

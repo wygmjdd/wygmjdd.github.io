@@ -284,4 +284,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 书评，是我对这些即时感悟的汇总以及再思考，我喜欢伊藤比吕美的真实与真诚，我佩服《瓦尔登湖》远离尘嚣的勇气，我借由《十分钟冥想》收获专注与安心。
 
-总之，读书于我，依然是像吃饭睡觉一样是每天都会做的普通事。它，只是一件普通事。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487453&amp;idx=1&amp;sn=a78ba90c2b4126a7774753d5d13ec514&amp;chksm=a6c7633091b0ea26d027df758eedb556d3c35b2d60a82d46405a263f29eb12894fa35753954e" rel="noopener noreferrer">原文链接</a>）</small>
+总之，读书于我，依然是像吃饭睡觉一样是每天都会做的普通事。它，只是一件普通事。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487453&amp;idx=1&amp;sn=a78ba90c2b4126a7774753d5d13ec514&amp;chksm=a6c7633091b0ea26d027df758eedb556d3c35b2d60a82d46405a263f29eb12894fa35753954e" rel="noopener noreferrer">原文链接</a>，更新于2026-01-11。）</small>

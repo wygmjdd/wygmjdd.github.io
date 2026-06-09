@@ -135,4 +135,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486396&idx=
 
 \--
 
-写完这篇两千字日记，时间来到下午三点，已是做饭时间。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486396&amp;idx=1&amp;sn=eba937f3eef4351462c7b783f10fbbd3&amp;chksm=a6c7675191b0ee4794560abec062ca2ee8149967af91c847ca39f047801783d6f5746722d132" rel="noopener noreferrer">原文链接</a>）</small>
+写完这篇两千字日记，时间来到下午三点，已是做饭时间。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486396&amp;idx=1&amp;sn=eba937f3eef4351462c7b783f10fbbd3&amp;chksm=a6c7675191b0ee4794560abec062ca2ee8149967af91c847ca39f047801783d6f5746722d132" rel="noopener noreferrer">原文链接</a>，更新于2024-08-17。）</small>

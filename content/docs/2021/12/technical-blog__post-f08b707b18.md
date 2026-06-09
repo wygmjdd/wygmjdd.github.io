@@ -59,7 +59,7 @@ GitHub上的效果图
 
   3. 在线JSON转义工具：https://c.runoob.com/front-end/53/
 
-  4. 用一年时间如何能掌握 C++ ？：https://www.zhihu.com/question/23933514/answer/26290066 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484466&amp;idx=2&amp;sn=f2b0c9435a7a9a026c7bc9703dcc4c50&amp;chksm=a6c768df91b0e1c90f81bc7631d5038b98efdb7f842ad45e43609b2441fd07d5c794a4d91815" rel="noopener noreferrer">原文链接</a>）</small>
+  4. 用一年时间如何能掌握 C++ ？：https://www.zhihu.com/question/23933514/answer/26290066 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484466&amp;idx=2&amp;sn=f2b0c9435a7a9a026c7bc9703dcc4c50&amp;chksm=a6c768df91b0e1c90f81bc7631d5038b98efdb7f842ad45e43609b2441fd07d5c794a4d91815" rel="noopener noreferrer">原文链接</a>，更新于2021-12-19。）</small>
 
   
 

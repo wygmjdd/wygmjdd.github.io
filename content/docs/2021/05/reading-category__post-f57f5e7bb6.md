@@ -59,7 +59,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484104&idx=
 
 ### 引用链接
 
-  1. 超棒的OpenGL教程**LearnOpenGL** ，https://learnopengl-cn.github.io/# <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484104&amp;idx=1&amp;sn=2c24fabdb50675c2a097b11bf4a3e25e&amp;chksm=a6c76e2591b0e733ab143072be20c0d18c9cc5135a27a908e533d7a4cbc88db39aa517e3edb7" rel="noopener noreferrer">原文链接</a>）</small>
+  1. 超棒的OpenGL教程**LearnOpenGL** ，https://learnopengl-cn.github.io/# <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484104&amp;idx=1&amp;sn=2c24fabdb50675c2a097b11bf4a3e25e&amp;chksm=a6c76e2591b0e733ab143072be20c0d18c9cc5135a27a908e533d7a4cbc88db39aa517e3edb7" rel="noopener noreferrer">原文链接</a>，更新于2021-05-30。）</small>
 
 
 

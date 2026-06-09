@@ -33,4 +33,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485728&idx=
 
 或许像汪曾祺先生一样反反复复读过多遍之后，我的感触能更多些。
 
-本书的推荐语为：“如果想要知道如何描写风景、如何塑造人物个性、如何描写人物对话，读《猎人笔记》吧，书中全是示例。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485728&amp;idx=1&amp;sn=99b1255abe1ea5033864b1a5e4d32fc0&amp;chksm=a6c765cd91b0ecdb6b8a2fb9f55a8caa3a3a30052cb47f50dbe73c4d707b5118287b5721469f" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语为：“如果想要知道如何描写风景、如何塑造人物个性、如何描写人物对话，读《猎人笔记》吧，书中全是示例。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485728&amp;idx=1&amp;sn=99b1255abe1ea5033864b1a5e4d32fc0&amp;chksm=a6c765cd91b0ecdb6b8a2fb9f55a8caa3a3a30052cb47f50dbe73c4d707b5118287b5721469f" rel="noopener noreferrer">原文链接</a>，更新于2023-09-25。）</small>

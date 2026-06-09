@@ -56,4 +56,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487382&idx=
 
 回到书中关于自尊的定义——对自我的评价。我想到的是，虽然自我评价可能受到他人评价很大的影响，但我们自己，其实也是那螺旋当中的一环，只要自己不下坠，只要自己往上行，螺旋是肯定慢慢往上发展的。
 
-我们喜欢自己，便也会被他人喜欢。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487382&amp;idx=1&amp;sn=01e5c1bfc31c8cf214af6c8d557c9cfb&amp;chksm=a6c7637b91b0ea6dfa428e730fc20bfc3c1ddf38edf1db44e620eb0c85b506b3884b2f710e59" rel="noopener noreferrer">原文链接</a>）</small>
+我们喜欢自己，便也会被他人喜欢。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487382&amp;idx=1&amp;sn=01e5c1bfc31c8cf214af6c8d557c9cfb&amp;chksm=a6c7637b91b0ea6dfa428e730fc20bfc3c1ddf38edf1db44e620eb0c85b506b3884b2f710e59" rel="noopener noreferrer">原文链接</a>，更新于2025-11-09。）</small>

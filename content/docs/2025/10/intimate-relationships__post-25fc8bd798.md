@@ -99,4 +99,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487359&idx=
 
 安全型依恋的人遭遇的冲突较少，即使发生冲突也能更好地处理。安全型依恋的人在面对冲突时，其生理反应更温和。与那些高回避亲密或高忧虑被弃的人相比，安全型依恋的人在冲突发生时不易动怒，更为冷静和镇定，更乐观，更有合作精神。他们也能更快地从冲突中恢复过来，搁置异议，回到积极的心态。
 
-总之，安全型依恋的人会更乐观、宽容和友善，他们是更好的伴侣。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487359&amp;idx=1&amp;sn=732b69edc5a142ecffef34e1f28152db&amp;chksm=a6c7639291b0ea84474cd033e9b3ff878df5dc944d29597daf1f1c125bebd387e12f9a5f0ed5" rel="noopener noreferrer">原文链接</a>）</small>
+总之，安全型依恋的人会更乐观、宽容和友善，他们是更好的伴侣。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487359&amp;idx=1&amp;sn=732b69edc5a142ecffef34e1f28152db&amp;chksm=a6c7639291b0ea84474cd033e9b3ff878df5dc944d29597daf1f1c125bebd387e12f9a5f0ed5" rel="noopener noreferrer">原文链接</a>，更新于2025-10-22。）</small>

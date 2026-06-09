@@ -32,7 +32,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484519&idx=
 <figure class="figure-with-caption">
 <img src="/images/wechat/27e63a38f2d5/001.jpg" alt="图片" loading="lazy" decoding="async" />
 <figcaption>《平凡的世界》与拳头 &lt;small&gt;（&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;amp;mid=2247484519&amp;amp;idx=1&amp;amp;sn=9f24f62eebda73c8d9c5cd481f34252e&amp;amp;chksm=a6c7688a91b0e19c261fddb55933b64f099e69c113147d06cb9970e85806b4340a265615d33d&quot; rel=&quot;noopener noreferrer&quot;&gt;原文链接&lt;/a&gt;）&lt;/small&gt;</figcaption>
-</figure>
+</figure> <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484519&amp;idx=1&amp;sn=9f24f62eebda73c8d9c5cd481f34252e&amp;chksm=a6c7688a91b0e19c261fddb55933b64f099e69c113147d06cb9970e85806b4340a265615d33d" rel="noopener noreferrer">原文链接</a>，更新于2022-01-16。）</small>
 
   
 

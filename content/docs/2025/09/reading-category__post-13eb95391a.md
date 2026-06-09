@@ -107,4 +107,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487160&idx=
 
 读书听书时，感悟极多，待真正写读书笔记时，依然感觉内里空空无落笔处，于是摘抄钱穆先生的文字许多。
 
-钱穆先生的文字，真可谓言简意赅，情意均满。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487160&amp;idx=1&amp;sn=0b46be43eab9b02943a9e471f31be86a&amp;chksm=a6c7625591b0eb43c070827f983356f9cc8d52163e73c5d338a7cd5b46107e060ea264f89c8b" rel="noopener noreferrer">原文链接</a>）</small>
+钱穆先生的文字，真可谓言简意赅，情意均满。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487160&amp;idx=1&amp;sn=0b46be43eab9b02943a9e471f31be86a&amp;chksm=a6c7625591b0eb43c070827f983356f9cc8d52163e73c5d338a7cd5b46107e060ea264f89c8b" rel="noopener noreferrer">原文链接</a>，更新于2025-09-14。）</small>

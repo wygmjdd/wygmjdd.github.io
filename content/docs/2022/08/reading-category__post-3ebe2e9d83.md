@@ -55,7 +55,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485023&idx=
 
 都似曾相识。
 
-为此，我在咸鱼上花29元买了本书的实体中文版置于办公桌上，打算碰到依稀概念时，翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485023&amp;idx=1&amp;sn=6c755166648d4b0ce98ace6f5f9f07ba&amp;chksm=a6c76ab291b0e3a431cacd168eca2f68d30ae647c408e67302f6aa6901ef21123ed9e2f1a57c" rel="noopener noreferrer">原文链接</a>）</small>
+为此，我在咸鱼上花29元买了本书的实体中文版置于办公桌上，打算碰到依稀概念时，翻一翻。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485023&amp;idx=1&amp;sn=6c755166648d4b0ce98ace6f5f9f07ba&amp;chksm=a6c76ab291b0e3a431cacd168eca2f68d30ae647c408e67302f6aa6901ef21123ed9e2f1a57c" rel="noopener noreferrer">原文链接</a>，更新于2022-08-15。）</small>
 
   
 

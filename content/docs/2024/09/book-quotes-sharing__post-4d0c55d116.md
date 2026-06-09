@@ -46,4 +46,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486439&idx=
 我已经在好多好多书中看到过类似推荐：做自己想做热爱做的事情，我们会生活的更幸福。  
 
 
-愿我们，都能活出自我。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486439&amp;idx=1&amp;sn=949815dfda59e766da9837468c046afa&amp;chksm=a6c7670a91b0ee1ca320b8c28acbb2204ffec0e51f86603045c8b3aa5b4835b5af03b51ff84e" rel="noopener noreferrer">原文链接</a>）</small>
+愿我们，都能活出自我。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486439&amp;idx=1&amp;sn=949815dfda59e766da9837468c046afa&amp;chksm=a6c7670a91b0ee1ca320b8c28acbb2204ffec0e51f86603045c8b3aa5b4835b5af03b51ff84e" rel="noopener noreferrer">原文链接</a>，更新于2024-09-06。）</small>

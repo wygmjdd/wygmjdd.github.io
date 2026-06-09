@@ -61,4 +61,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485082&idx=
 
 新冠疫情出现之前，我一直走南边二号牌坊去公司上班，于蜿蜒路上感受热闹。疫情开始后，我便只走一号牌坊了。
 
-一号牌坊沿涌路的中间，有一个小坑，我一直避着走，曾避开它不下百次。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485082&amp;idx=1&amp;sn=bf11849e8ac9be2972902570f6bb151a&amp;chksm=a6c76a7791b0e361d0d468ac5113807b6360058e5080d975ed49896fffb65c985e7ec7ffe7dd" rel="noopener noreferrer">原文链接</a>）</small>
+一号牌坊沿涌路的中间，有一个小坑，我一直避着走，曾避开它不下百次。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485082&amp;idx=1&amp;sn=bf11849e8ac9be2972902570f6bb151a&amp;chksm=a6c76a7791b0e361d0d468ac5113807b6360058e5080d975ed49896fffb65c985e7ec7ffe7dd" rel="noopener noreferrer">原文链接</a>，更新于2022-09-18。）</small>

@@ -143,4 +143,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487458&idx=
 
 写本篇到最末，我想起自己过去是喜欢仰望星空的。
 
-每当我仰望星空时，我想最多的，是下一秒将有又一颗流星飞过。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487458&amp;idx=1&amp;sn=ddb0f920f3d2aa46e3c3ad21df9ede13&amp;chksm=a6c7630f91b0ea1902391938a2743e2ac4ea2df103020c5c2c18da994779cf820179ccaf9ccb" rel="noopener noreferrer">原文链接</a>）</small>
+每当我仰望星空时，我想最多的，是下一秒将有又一颗流星飞过。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487458&amp;idx=1&amp;sn=ddb0f920f3d2aa46e3c3ad21df9ede13&amp;chksm=a6c7630f91b0ea1902391938a2743e2ac4ea2df103020c5c2c18da994779cf820179ccaf9ccb" rel="noopener noreferrer">原文链接</a>，更新于2026-01-18。）</small>

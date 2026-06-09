@@ -50,4 +50,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486275&idx=
 
 本书的推荐语为：“保持积极健康心态对我们的事业和成长极为重要，这是大家公认的事实。如何保持积极健康心态，在《真实的幸福》当中可以找到一些办法，比如找到一份可以将之转换为事业的工作，比如反驳自己的悲观。
 
-“条条大路通罗马，找到自己的优势——仁慈、满足、感恩、宽恕、社会智慧、洞察力、正直、幽默、热忱、公平、自我控制、谨慎和谦虚，让它们引导我们走向爱，走向幸福。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486275&amp;idx=1&amp;sn=b9f3fc63413a4ffffb467f60c82ed769&amp;chksm=a6c767ae91b0eeb8791d74d4f12b2d6ce911b7616570ff04fd0e0ff92d8fce25dcf37ad8b994" rel="noopener noreferrer">原文链接</a>）</small>
+“条条大路通罗马，找到自己的优势——仁慈、满足、感恩、宽恕、社会智慧、洞察力、正直、幽默、热忱、公平、自我控制、谨慎和谦虚，让它们引导我们走向爱，走向幸福。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486275&amp;idx=1&amp;sn=b9f3fc63413a4ffffb467f60c82ed769&amp;chksm=a6c767ae91b0eeb8791d74d4f12b2d6ce911b7616570ff04fd0e0ff92d8fce25dcf37ad8b994" rel="noopener noreferrer">原文链接</a>，更新于2024-06-16。）</small>

@@ -41,6 +41,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484927&idx=
 
 > 自子程序发明以来，软件开发领域的所有创新都是在不断尝试从源代码中消灭重复。
 
-**Don't repeat yourself！** <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484927&amp;idx=1&amp;sn=ce02a58b0deb671607175c7e339b1bb9&amp;chksm=a6c7691291b0e00469fb728f870522c758baab6d8754acdc8a4a59e1429e3939c109d5221742" rel="noopener noreferrer">原文链接</a>）</small>
+**Don't repeat yourself！** <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484927&amp;idx=1&amp;sn=ce02a58b0deb671607175c7e339b1bb9&amp;chksm=a6c7691291b0e00469fb728f870522c758baab6d8754acdc8a4a59e1429e3939c109d5221742" rel="noopener noreferrer">原文链接</a>，更新于2022-07-11。）</small>
 
 * * *

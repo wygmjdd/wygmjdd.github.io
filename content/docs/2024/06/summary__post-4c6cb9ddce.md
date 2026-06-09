@@ -50,4 +50,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486270&idx=
 
 开车，也看心情。当情绪乐观时，我会一路超车，很多可超不可超情况都凭感觉超车，彼时，我感觉自己收获心流体验。情绪低落，我只缓缓跟着前车走。
 
-犯错只在一瞬间。开车，请持续集中注意力；集中不了时，请休息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486270&amp;idx=1&amp;sn=860850af1b3dad5a23358ecaae1ab29b&amp;chksm=a6c767d391b0eec58d50aa9d16cbc409e2004f7b27bb627e4b3a9af628a0c572e8d387d4f1cc" rel="noopener noreferrer">原文链接</a>）</small>
+犯错只在一瞬间。开车，请持续集中注意力；集中不了时，请休息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486270&amp;idx=1&amp;sn=860850af1b3dad5a23358ecaae1ab29b&amp;chksm=a6c767d391b0eec58d50aa9d16cbc409e2004f7b27bb627e4b3a9af628a0c572e8d387d4f1cc" rel="noopener noreferrer">原文链接</a>，更新于2024-06-09。）</small>

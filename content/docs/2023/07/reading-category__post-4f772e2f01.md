@@ -38,4 +38,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485620&idx=
 
 到快读完本书时，除了规律作息，我似乎理解到更多一些：“规律作息、健康生活的目的并不是让我们活得更久一些，只是为了让我们生活中的烦恼少些。烦恼少些，便是好的。”
 
-愿我们，都能对自己好一点。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485620&amp;idx=1&amp;sn=ae8f6ae8fbd1f630244479d055f7bd0c&amp;chksm=a6c7645991b0ed4f5faeff8e3592bb7761e018fee6b9022eb574257e8ed92532072f30adf3d7" rel="noopener noreferrer">原文链接</a>）</small>
+愿我们，都能对自己好一点。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485620&amp;idx=1&amp;sn=ae8f6ae8fbd1f630244479d055f7bd0c&amp;chksm=a6c7645991b0ed4f5faeff8e3592bb7761e018fee6b9022eb574257e8ed92532072f30adf3d7" rel="noopener noreferrer">原文链接</a>，更新于2023-07-03。）</small>

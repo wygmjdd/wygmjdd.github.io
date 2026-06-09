@@ -71,4 +71,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486419&idx=
 <figcaption>牛肉肥肠配饱满抄手</figcaption>
 </figure>
 
-开在永康的重庆小面，好吃不腻，我连吃五天。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486419&amp;idx=1&amp;sn=1c6b4158cd88ad5199bf1a32f5f1680e&amp;chksm=a6c7673e91b0ee28a6015b2daabb3333e1132b4cbe500ef45d43fdb75012344720c2739b7821" rel="noopener noreferrer">原文链接</a>）</small>
+开在永康的重庆小面，好吃不腻，我连吃五天。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486419&amp;idx=1&amp;sn=1c6b4158cd88ad5199bf1a32f5f1680e&amp;chksm=a6c7673e91b0ee28a6015b2daabb3333e1132b4cbe500ef45d43fdb75012344720c2739b7821" rel="noopener noreferrer">原文链接</a>，更新于2024-08-25。）</small>

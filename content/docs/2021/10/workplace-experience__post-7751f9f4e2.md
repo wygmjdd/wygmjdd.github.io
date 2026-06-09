@@ -67,7 +67,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484380&idx=
 
 到第三年，我的想法开始改变。我将这房子当做了我的第二个家，我习惯了每次回重庆便直接回家；我接受了阿妮将他卖掉换一套大房子的想法；我认可了我当时的选择。我那时候做的决定，即便欠考量且略显冲动，也是在我认知范围内所做下的。
 
-我就这样一点点的，在实践中成长。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484380&amp;idx=1&amp;sn=b3cb14ea1ce672969cf483ec7c747d4b&amp;chksm=a6c76f3191b0e627b38de31f1957b0cc8481f45dca153b166e47e6758322fb8d858d5ff4ecbb" rel="noopener noreferrer">原文链接</a>）</small>
+我就这样一点点的，在实践中成长。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484380&amp;idx=1&amp;sn=b3cb14ea1ce672969cf483ec7c747d4b&amp;chksm=a6c76f3191b0e627b38de31f1957b0cc8481f45dca153b166e47e6758322fb8d858d5ff4ecbb" rel="noopener noreferrer">原文链接</a>，更新于2021-10-24。）</small>
 
   
 

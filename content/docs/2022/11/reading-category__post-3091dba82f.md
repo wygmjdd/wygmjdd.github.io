@@ -43,4 +43,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485188&idx=
 
 上面一段来自于本书的“尾声”，它引出我的推荐语：“阅读前人的传记，是会给予自己许多启发的。读一读《乔布斯传》，或许能够触发您想到世界的发展方向会是怎样的。
 
-“前人积攒的经验与智慧，是不会全然消散的，它们留在书中，留在产品中。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485188&amp;idx=1&amp;sn=ebbbd8b5f355ce65a89eaf3903229e04&amp;chksm=a6c76be991b0e2ffa060436a17ed51662cb58032a581c4eb5d0414828bf94645a9fbb122be87" rel="noopener noreferrer">原文链接</a>）</small>
+“前人积攒的经验与智慧，是不会全然消散的，它们留在书中，留在产品中。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485188&amp;idx=1&amp;sn=ebbbd8b5f355ce65a89eaf3903229e04&amp;chksm=a6c76be991b0e2ffa060436a17ed51662cb58032a581c4eb5d0414828bf94645a9fbb122be87" rel="noopener noreferrer">原文链接</a>，更新于2022-11-14。）</small>

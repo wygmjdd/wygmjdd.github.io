@@ -71,4 +71,4 @@ source_url: https://mp.weixin.qq.com/s/Seycz45xpwWB8fy4rglf0w
 
 > “我们的所做所为，恰恰就是这样，”涅赫柳多夫暗想，“我们一边生活，一边抱着一种荒唐的信念，认为我们自己就是我们的生活的主人，人生在世就是为了享乐。可是要知道，这显然是荒唐的。要知道，如果我们是被派到这儿来的，那就是出于某一个人的意志，为了达到某一种目的。可是我们却断定，我们生活只是图我们自己的快活。那么事情很清楚，我们会落到坏下场，犹如那些不执行园主的意志的园户落到坏下场一样。主人的意志就表现在那些戒律里。只要人们执行那些戒律，人间就会建立起天堂，人们就会得到他们所能得到的最大幸福。
 
-说不清楚便不说，总之是，我又读完了一本书，而书中剧情给予我的印象，于此时还深刻着。 <small>（<a href="https://mp.weixin.qq.com/s/Seycz45xpwWB8fy4rglf0w" rel="noopener noreferrer">原文链接</a>）</small>
+说不清楚便不说，总之是，我又读完了一本书，而书中剧情给予我的印象，于此时还深刻着。 <small>（<a href="https://mp.weixin.qq.com/s/Seycz45xpwWB8fy4rglf0w" rel="noopener noreferrer">原文链接</a>，更新于2026-03-22。）</small>

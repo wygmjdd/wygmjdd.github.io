@@ -91,4 +91,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486544&idx=
 
 是的，投身于自己热爱的事，不仅是为了追求所谓的“成就”，更是在修炼自己的生命力。
 
-做自己想做的事，是快乐的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486544&amp;idx=1&amp;sn=d335fc18cd230d1ebe734145d7031856&amp;chksm=a6c760bd91b0e9ab0ddc3cb7a1e0623e4470c9cf329dac651abbe3d41816c8384986bb1cbcce" rel="noopener noreferrer">原文链接</a>）</small>
+做自己想做的事，是快乐的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486544&amp;idx=1&amp;sn=d335fc18cd230d1ebe734145d7031856&amp;chksm=a6c760bd91b0e9ab0ddc3cb7a1e0623e4470c9cf329dac651abbe3d41816c8384986bb1cbcce" rel="noopener noreferrer">原文链接</a>，更新于2024-10-26。）</small>

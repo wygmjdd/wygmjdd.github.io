@@ -39,4 +39,4 @@ source_url: https://mp.weixin.qq.com/s/BxHqcmLlauBpAuArf2eyvg
 
 对的，正常作息当中，晚上9点到10点10分，是我的放松时间，当这放松被剥夺之后，第二天的精力便自然少上许多。
 
-以上，是今天上班地铁上的记录，是为我的当下。 <small>（<a href="https://mp.weixin.qq.com/s/BxHqcmLlauBpAuArf2eyvg" rel="noopener noreferrer">原文链接</a>）</small>
+以上，是今天上班地铁上的记录，是为我的当下。 <small>（<a href="https://mp.weixin.qq.com/s/BxHqcmLlauBpAuArf2eyvg" rel="noopener noreferrer">原文链接</a>，更新于2026-05-21。）</small>

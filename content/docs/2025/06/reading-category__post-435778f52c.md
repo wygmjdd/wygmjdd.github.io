@@ -149,4 +149,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486991&idx=
 
 \--
 
-每读完一本书，就该让它留下些印记。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486991&amp;idx=1&amp;sn=a0b97519ba38f0f736ad840693bc8ff1&amp;chksm=a6c762e291b0ebf4ced3a088684f2407f3828cfcef1a8f90d7e21c9c0d5c0b2fa7fca8680efa" rel="noopener noreferrer">原文链接</a>）</small>
+每读完一本书，就该让它留下些印记。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486991&amp;idx=1&amp;sn=a0b97519ba38f0f736ad840693bc8ff1&amp;chksm=a6c762e291b0ebf4ced3a088684f2407f3828cfcef1a8f90d7e21c9c0d5c0b2fa7fca8680efa" rel="noopener noreferrer">原文链接</a>，更新于2025-06-10。）</small>

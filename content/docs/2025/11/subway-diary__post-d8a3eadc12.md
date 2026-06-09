@@ -282,4 +282,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 我们小组，新来一位同事，新来的同事，将和我做相同事情，他是我的学弟，他也看书，他也写东西，他也23年从深圳回来……
 
-我感觉我们可以聊天的内容，很多很多很多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487392&amp;idx=1&amp;sn=beb90d323da3ec27277bc1fcead2bf58&amp;chksm=a6c7634d91b0ea5bd5c13d97341ca69ca0c821cd41cb94e3f57fd5611387395f37b50542e6bb" rel="noopener noreferrer">原文链接</a>）</small>
+我感觉我们可以聊天的内容，很多很多很多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487392&amp;idx=1&amp;sn=beb90d323da3ec27277bc1fcead2bf58&amp;chksm=a6c7634d91b0ea5bd5c13d97341ca69ca0c821cd41cb94e3f57fd5611387395f37b50542e6bb" rel="noopener noreferrer">原文链接</a>，更新于2025-11-15。）</small>

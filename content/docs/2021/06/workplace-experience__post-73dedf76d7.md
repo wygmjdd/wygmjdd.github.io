@@ -72,7 +72,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484118&idx=
 
 为什么只是“应该”呢？因为B组产品在一年多后上线，火爆全网，我在网上看见传言：“听说B组那边一个月的奖金是60个月的工资。”
 
-我相信这传言，也就遗憾，自己错过了许多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484118&amp;idx=1&amp;sn=37e9e41b3ac4fc42c670a638775aa780&amp;chksm=a6c76e3b91b0e72d5d3f605f5da6f72a91386339e2717373d98d2e4629633a2168006982d170" rel="noopener noreferrer">原文链接</a>）</small>
+我相信这传言，也就遗憾，自己错过了许多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484118&amp;idx=1&amp;sn=37e9e41b3ac4fc42c670a638775aa780&amp;chksm=a6c76e3b91b0e72d5d3f605f5da6f72a91386339e2717373d98d2e4629633a2168006982d170" rel="noopener noreferrer">原文链接</a>，更新于2021-06-13。）</small>
 
   
 

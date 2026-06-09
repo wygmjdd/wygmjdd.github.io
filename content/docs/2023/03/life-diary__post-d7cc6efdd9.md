@@ -63,4 +63,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485395&idx=
 
 比如早上躺着看《操作系统导论》变成坐着看；比如下班后先刷半小时的短视频，换成跑着打开电脑继续完善配置，再写上两行日记（《有道云笔记》手机版没有电脑版方便，我只有不得不在手机上查看记忆时才使用手机版，这导致经常漏记许多当时感触）。
 
-以上，我买了一台苹果电脑，正满足的敲下这最后一行。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485395&amp;idx=1&amp;sn=b252e8a0402d58e444f3c5314dc76b94&amp;chksm=a6c76b3e91b0e228fe4b5e39d32f91a68a886c33e517ed0f5c710a2d9d0ac01f22c6187ddfc5" rel="noopener noreferrer">原文链接</a>）</small>
+以上，我买了一台苹果电脑，正满足的敲下这最后一行。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485395&amp;idx=1&amp;sn=b252e8a0402d58e444f3c5314dc76b94&amp;chksm=a6c76b3e91b0e228fe4b5e39d32f91a68a886c33e517ed0f5c710a2d9d0ac01f22c6187ddfc5" rel="noopener noreferrer">原文链接</a>，更新于2023-03-19。）</small>

@@ -54,4 +54,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485332&idx=
 
 “当然，如果您不是科幻迷也并非小说迷。偶尔书荒，也是可以试试看《三体》的，因为《三体》的读者群体，很广大，朋友间聊天，《三体》会给出许多话题：奥巴马曾经催过稿、罗辑的强悍、程心的选择、章北海的伪装……
 
-“或许推荐语应该更直白一些：《三体》真的太太太太太太好看了，我强烈推荐！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485332&amp;idx=1&amp;sn=c9401d0d145734d7857008711895adde&amp;chksm=a6c76b7991b0e26f97448062bb75a904fe3a614447565e31b6f966210d5e83201b1091421a11" rel="noopener noreferrer">原文链接</a>）</small>
+“或许推荐语应该更直白一些：《三体》真的太太太太太太好看了，我强烈推荐！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485332&amp;idx=1&amp;sn=c9401d0d145734d7857008711895adde&amp;chksm=a6c76b7991b0e26f97448062bb75a904fe3a614447565e31b6f966210d5e83201b1091421a11" rel="noopener noreferrer">原文链接</a>，更新于2023-02-13。）</small>

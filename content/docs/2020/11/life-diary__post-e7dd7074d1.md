@@ -259,4 +259,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483746&idx=
 
 接机提前到5.30，6.一刻到达机场。其后，干坐在机场，傻傻等待11.30的飞机。我们整个团分为两个队伍，另外一个队伍的航班是10.登机。有一点奇怪的是，他们的飞机也还有许多空位，为什么我们不可以和他们一趟航班呢？
 
-2.30回到住处，行程结束，回归日常。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483746&amp;idx=1&amp;sn=c1fef4e9c85c8bafe572775b1614cb2a&amp;chksm=a6c76d8f91b0e4998247a1c9dc49bdc463ed8d081f7e23e8aee2a3c2e4f15be00acd561a388f" rel="noopener noreferrer">原文链接</a>）</small>
+2.30回到住处，行程结束，回归日常。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483746&amp;idx=1&amp;sn=c1fef4e9c85c8bafe572775b1614cb2a&amp;chksm=a6c76d8f91b0e4998247a1c9dc49bdc463ed8d081f7e23e8aee2a3c2e4f15be00acd561a388f" rel="noopener noreferrer">原文链接</a>，更新于2020-11-15。）</small>

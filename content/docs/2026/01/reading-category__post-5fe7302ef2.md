@@ -116,4 +116,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487470&idx=
 
 安娜正想着“地铁卧轨自杀的那个女人好像和自己有些关系”，在那一刻，我感受到一种恐惧，我说不清恐惧的来源，那大概是对作者刻意营造的此种宿命感的恐惧：
 
-安娜和伏伦斯基初遇，便已经预示了结局。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487470&amp;idx=1&amp;sn=5580560ad5286d2463ab9841e0afa68f&amp;chksm=a6c7630391b0ea15acce3544deff538ce5e9503648efbf730179fce1f4c61aac884f60216728" rel="noopener noreferrer">原文链接</a>）</small>
+安娜和伏伦斯基初遇，便已经预示了结局。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487470&amp;idx=1&amp;sn=5580560ad5286d2463ab9841e0afa68f&amp;chksm=a6c7630391b0ea15acce3544deff538ce5e9503648efbf730179fce1f4c61aac884f60216728" rel="noopener noreferrer">原文链接</a>，更新于2026-01-25。）</small>

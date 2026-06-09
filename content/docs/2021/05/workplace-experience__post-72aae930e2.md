@@ -86,7 +86,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484070&idx=
 > 
 > 是应该说说工作相关事情的。杰哥有一次跟我说，“雄哥也是说要好好培养你，我们不要做码农，我们要做有思想的程序员。哈哈~”。当时啊，身上一下子散发出了雄浑的热量，好热好热的。当然，从未用脚本编码过的我，还在慢慢的学习中。
 > 
-> 试用期便差不多如此，整段过程中，我的心绪都是略显忐忑的，担心不让我转正。直到斌哥告诉我，可以写一个试用期总结，然后于OA上提转正申请。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484070&amp;idx=1&amp;sn=f2c7c54f082a07c8fd098ef1c71f092c&amp;chksm=a6c76e4b91b0e75d36d422471dbc5ef2457c8308b1dc45c1e95ea430475d591155c621dbe41e" rel="noopener noreferrer">原文链接</a>）</small>
+> 试用期便差不多如此，整段过程中，我的心绪都是略显忐忑的，担心不让我转正。直到斌哥告诉我，可以写一个试用期总结，然后于OA上提转正申请。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484070&amp;idx=1&amp;sn=f2c7c54f082a07c8fd098ef1c71f092c&amp;chksm=a6c76e4b91b0e75d36d422471dbc5ef2457c8308b1dc45c1e95ea430475d591155c621dbe41e" rel="noopener noreferrer">原文链接</a>，更新于2021-05-16。）</small>
 
   
 

@@ -29,7 +29,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484295&idx=
 
 前年与饼干讨论一个问题，他问我，有考虑这个东西底层是怎么实现的么？我有点心虚，因为并未考虑。继续聊下去，饼干跟我说，这是他入职之后的第二件事，导师布置的任务完成，他还被要求思考为什么如此实现、底层是如何设计的。
 
-这场景之后一直萦绕我心头。因为我以前做事，只求将问题解决，问题解决之后，并不多想。我认为这思维方式，是导师制度所实现的一种传承。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484295&amp;idx=1&amp;sn=e5436b54b6b0bb31ea64a6d48bab6e7f&amp;chksm=a6c76f6a91b0e67cd4de58890b577fe9985cec899c767d22c408169161284786a82fd38c3d23" rel="noopener noreferrer">原文链接</a>）</small>
+这场景之后一直萦绕我心头。因为我以前做事，只求将问题解决，问题解决之后，并不多想。我认为这思维方式，是导师制度所实现的一种传承。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484295&amp;idx=1&amp;sn=e5436b54b6b0bb31ea64a6d48bab6e7f&amp;chksm=a6c76f6a91b0e67cd4de58890b577fe9985cec899c767d22c408169161284786a82fd38c3d23" rel="noopener noreferrer">原文链接</a>，更新于2021-09-19。）</small>
 
   
 

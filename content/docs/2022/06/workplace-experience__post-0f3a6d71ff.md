@@ -43,7 +43,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484834&idx=
 
 不换的只一家洗衣店、一家小卖部。洗衣店老板娘既洗衣服，也做裁缝。小卖部，也是24小时营业的。
 
-小卖部再往外走两个门面，是村子的主干道。主干道上，人来人往，昼夜不息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484834&amp;idx=1&amp;sn=9db03ddb8f3c1d5c774ec788f5b5d4a8&amp;chksm=a6c7694f91b0e059c85a082a3b455664ce8234495211b1131a91d27ff71f142b0762cf707942" rel="noopener noreferrer">原文链接</a>）</small>
+小卖部再往外走两个门面，是村子的主干道。主干道上，人来人往，昼夜不息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484834&amp;idx=1&amp;sn=9db03ddb8f3c1d5c774ec788f5b5d4a8&amp;chksm=a6c7694f91b0e059c85a082a3b455664ce8234495211b1131a91d27ff71f142b0762cf707942" rel="noopener noreferrer">原文链接</a>，更新于2022-06-19。）</small>
 
   
 

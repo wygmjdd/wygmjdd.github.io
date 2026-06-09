@@ -54,4 +54,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486729&idx=
 
 “吃得下饭、睡得着觉”，是溥仪先生在《[我的前半生](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485714&idx=1&sn=f70ff6e505a2eeb74af71b277e0637b3&scene=21#wechat_redirect)》当中所说的最好人生状态。
 
-状态恢复不内耗之后，我在第四季度，有主动约几位久不相约的朋友。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486729&amp;idx=1&amp;sn=be797d2b644ae4f853a6f8c03f2e87e2&amp;chksm=a6c761e491b0e8f28d62bf822bc56fd8ad1c3e2c69f06a89f079e9b4db86f2957cecc90b8fd0" rel="noopener noreferrer">原文链接</a>）</small>
+状态恢复不内耗之后，我在第四季度，有主动约几位久不相约的朋友。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486729&amp;idx=1&amp;sn=be797d2b644ae4f853a6f8c03f2e87e2&amp;chksm=a6c761e491b0e8f28d62bf822bc56fd8ad1c3e2c69f06a89f079e9b4db86f2957cecc90b8fd0" rel="noopener noreferrer">原文链接</a>，更新于2025-01-19。）</small>

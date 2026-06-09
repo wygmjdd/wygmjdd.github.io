@@ -65,7 +65,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484254&idx=
 
 到开始更新公众号，将我那许多不成熟的段落展现出来，我追求的是没有错别字与语句通顺，每一篇推送，我都会自己读过至少五遍后再发布。许多花心力准备的更新，于半年后阅读，显得啰嗦。由此，我在以上基础上，还追求着行文简洁。
 
-我喜欢用文字记录下我的感受，现在也为这文字找到了目标——**用文字整理并分享成长经历** 。类似玩《[皇室战争](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484236&idx=1&sn=e92dd8a9bf02d43e19d8f0d35c8bc936&chksm=a6c76fa191b0e6b7c65ac5dd7c3bef39a333159725054b64acabc533b263702ddbb321e43dd7&scene=21#wechat_redirect)》，系统设定终极目标后，再细分许多的小节点，一点点完成，总能将卡等升满。放下游戏，从焦虑中出来，我为自己设定目标与各种小节点。现在，一年这个小节点完成了，目标在前方，未完待续～ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484254&amp;idx=1&amp;sn=7ebc6d817991db4d722e152a0bbf9885&amp;chksm=a6c76fb391b0e6a5364bcf463ddd6630b1d404942a30b4441449be04c7b7f1c6ef416f0c9606" rel="noopener noreferrer">原文链接</a>）</small>
+我喜欢用文字记录下我的感受，现在也为这文字找到了目标——**用文字整理并分享成长经历** 。类似玩《[皇室战争](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484236&idx=1&sn=e92dd8a9bf02d43e19d8f0d35c8bc936&chksm=a6c76fa191b0e6b7c65ac5dd7c3bef39a333159725054b64acabc533b263702ddbb321e43dd7&scene=21#wechat_redirect)》，系统设定终极目标后，再细分许多的小节点，一点点完成，总能将卡等升满。放下游戏，从焦虑中出来，我为自己设定目标与各种小节点。现在，一年这个小节点完成了，目标在前方，未完待续～ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247484254&amp;idx=1&amp;sn=7ebc6d817991db4d722e152a0bbf9885&amp;chksm=a6c76fb391b0e6a5364bcf463ddd6630b1d404942a30b4441449be04c7b7f1c6ef416f0c9606" rel="noopener noreferrer">原文链接</a>，更新于2021-08-29。）</small>
 
   
 

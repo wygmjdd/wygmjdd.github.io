@@ -45,4 +45,4 @@ source_url: https://mp.weixin.qq.com/s/yKeOE4S7TsVkqMgaoQwNeg
 
 除此之外呢？我并未在书中找到更多的触动，我以为卡夫卡对格雷戈尔一家（包括他自己）的记录，是自然真实符合人性的，于是本篇只到此处。
 
-我想，我已将书中内容转交长时记忆，我相信未来某天，当我再听到看到关于《变形记》的内容，记忆将给予我更多可能。 <small>（<a href="https://mp.weixin.qq.com/s/yKeOE4S7TsVkqMgaoQwNeg" rel="noopener noreferrer">原文链接</a>）</small>
+我想，我已将书中内容转交长时记忆，我相信未来某天，当我再听到看到关于《变形记》的内容，记忆将给予我更多可能。 <small>（<a href="https://mp.weixin.qq.com/s/yKeOE4S7TsVkqMgaoQwNeg" rel="noopener noreferrer">原文链接</a>，更新于2026-05-03。）</small>

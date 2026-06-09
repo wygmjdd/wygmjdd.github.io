@@ -60,4 +60,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487071&idx=
 
 “有人问‘人的变化有期限吗’？阿德勒回答说‘的确有期限’。然后他调皮地微笑了一下，又补充道‘直到生命的最后一天’。”
 
-上面一句话，是本书快结束时让我对本书观感产生些改变的一句话：好的，改变永不停止。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487071&amp;idx=1&amp;sn=3d0c48bc4da1dff0a391491be629c097&amp;chksm=a6c762b291b0eba4333b1f4a9a35be991dd4d3a19710bcb54a7b43233c590f9d02048840f3a4" rel="noopener noreferrer">原文链接</a>）</small>
+上面一句话，是本书快结束时让我对本书观感产生些改变的一句话：好的，改变永不停止。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487071&amp;idx=1&amp;sn=3d0c48bc4da1dff0a391491be629c097&amp;chksm=a6c762b291b0eba4333b1f4a9a35be991dd4d3a19710bcb54a7b43233c590f9d02048840f3a4" rel="noopener noreferrer">原文链接</a>，更新于2025-08-10。）</small>

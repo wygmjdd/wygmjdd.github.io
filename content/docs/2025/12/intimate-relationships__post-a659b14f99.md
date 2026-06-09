@@ -59,4 +59,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487429&idx=
 
 这些获取数据的途径当中，需要注意的是数据的准确性。如参与者的自我报告，可能都只记录自己想要被大众看到的内容，那些稍显阴暗的内容会被隐藏起来；如当参与者知道有人在观察，他更可能显得彬彬有礼而不是自然放浪。
 
-总之，研究方法很多，数据来源很多，对亲密关系的研究结论，是不容易得出来的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487429&amp;idx=1&amp;sn=5b227c4ac2b64ad1e60f3e76ae7b7be5&amp;chksm=a6c7632891b0ea3eb34d5f00e28f7620a66d355ce5292b457adf9bc1d0bf40c143529ea40c68" rel="noopener noreferrer">原文链接</a>）</small>
+总之，研究方法很多，数据来源很多，对亲密关系的研究结论，是不容易得出来的。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487429&amp;idx=1&amp;sn=5b227c4ac2b64ad1e60f3e76ae7b7be5&amp;chksm=a6c7632891b0ea3eb34d5f00e28f7620a66d355ce5292b457adf9bc1d0bf40c143529ea40c68" rel="noopener noreferrer">原文链接</a>，更新于2025-12-21。）</small>

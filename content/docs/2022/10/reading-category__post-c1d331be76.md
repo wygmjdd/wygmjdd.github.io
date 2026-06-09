@@ -39,4 +39,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485166&idx=
 
 汪先生过了60岁，是还在继续写作的。书中有几篇文章，是汪先生对自己人生的简要介绍，其中好几段，引用了汪先生自己的作品。如果我先看过《汪曾祺全集》之后再来读本书，可能阅读当时的心领神会，会多许多。
 
-本书的推荐语，很简单：“如果您没有时间读《汪曾祺的写作课》，那就不读。读《受戒》便够了，那是一个很短但极美的故事。美极了！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485166&amp;idx=1&amp;sn=7faab6f6607df9de615134bf46680866&amp;chksm=a6c76a0391b0e31517c953557a703e5cc2d1d197d4782df5e84b82a4fae43a17c73dcb47770a" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语，很简单：“如果您没有时间读《汪曾祺的写作课》，那就不读。读《受戒》便够了，那是一个很短但极美的故事。美极了！” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485166&amp;idx=1&amp;sn=7faab6f6607df9de615134bf46680866&amp;chksm=a6c76a0391b0e31517c953557a703e5cc2d1d197d4782df5e84b82a4fae43a17c73dcb47770a" rel="noopener noreferrer">原文链接</a>，更新于2022-10-31。）</small>

@@ -81,4 +81,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483689&idx=
 
 
 
-肥肠的味道最好，入嘴香滑。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483689&amp;idx=1&amp;sn=c280e23bbc79226e89a164ed0072c862&amp;chksm=a6c76dc491b0e4d2de10add499508481fa0c4542f533ea3796c363a09b7d92374387f4662377" rel="noopener noreferrer">原文链接</a>）</small>
+肥肠的味道最好，入嘴香滑。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483689&amp;idx=1&amp;sn=c280e23bbc79226e89a164ed0072c862&amp;chksm=a6c76dc491b0e4d2de10add499508481fa0c4542f533ea3796c363a09b7d92374387f4662377" rel="noopener noreferrer">原文链接</a>，更新于2020-10-03。）</small>

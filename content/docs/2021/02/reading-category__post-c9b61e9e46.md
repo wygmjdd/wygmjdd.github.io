@@ -101,4 +101,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483913&idx=
 
 > 最好的营养是远离自己，就是说所吃的东西离人类越远越好。从营养上来说，“四条腿（猪、牛、羊）的不如两条腿的（鸡、鸭、鹅），两条腿的不如一条腿的（菌类），一条腿的不如没有腿的（鱼）。”我们是哺乳动物，就去吃卵生动物，吃卵生动物不如去吃鱼类。吃海洋动物，深海比浅海的动物要好。吃动物不如吃植物，吃植物不如吃菌类。
 
-愿大家都吃的营养，身体健康。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483913&amp;idx=1&amp;sn=545b24948cea931dd779196f36309d00&amp;chksm=a6c76ee491b0e7f2e294554ff6bde5ab61facca67ac1cff4e2cb14327da492b83384a69e5ce9" rel="noopener noreferrer">原文链接</a>）</small>
+愿大家都吃的营养，身体健康。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247483913&amp;idx=1&amp;sn=545b24948cea931dd779196f36309d00&amp;chksm=a6c76ee491b0e7f2e294554ff6bde5ab61facca67ac1cff4e2cb14327da492b83384a69e5ce9" rel="noopener noreferrer">原文链接</a>，更新于2021-02-21。）</small>

@@ -41,4 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485527&idx=
 
 > 徐忠说道：“人民永远都需要我们。未来我们队伍的教育整顿和扫黑除恶都会常态化，这份工作可不轻松。罪恶需要掐根断芽，只有日日扫，年年扫，才能让群众生活在幸福安宁中。”
 
-绝对的，这是一份不轻松工作！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485527&amp;idx=1&amp;sn=6f1c4680d1718902df1e8bf053461b61&amp;chksm=a6c764ba91b0edac1ff57aec726c3acaba24518ade2b5774a472bcf9ca5bd3975fb1e4a792a6" rel="noopener noreferrer">原文链接</a>）</small>
+绝对的，这是一份不轻松工作！ <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485527&amp;idx=1&amp;sn=6f1c4680d1718902df1e8bf053461b61&amp;chksm=a6c764ba91b0edac1ff57aec726c3acaba24518ade2b5774a472bcf9ca5bd3975fb1e4a792a6" rel="noopener noreferrer">原文链接</a>，更新于2023-05-08。）</small>

@@ -37,4 +37,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485376&idx=
 
 “《天才假象》告诉你，只要肯努力，用对训练方法，几乎所有人都能拥有好成绩。
 
-“技能无关天赋。请就热爱的事，用心爱下去。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485376&amp;idx=1&amp;sn=73a55563bfc591b9c5fc819eaa607dd4&amp;chksm=a6c76b2d91b0e23b7a40a1ae43a2a7ccf952dc4b1bb186b6c1ed234ef7dfbad856c317ed979d" rel="noopener noreferrer">原文链接</a>）</small>
+“技能无关天赋。请就热爱的事，用心爱下去。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485376&amp;idx=1&amp;sn=73a55563bfc591b9c5fc819eaa607dd4&amp;chksm=a6c76b2d91b0e23b7a40a1ae43a2a7ccf952dc4b1bb186b6c1ed234ef7dfbad856c317ed979d" rel="noopener noreferrer">原文链接</a>，更新于2023-03-06。）</small>

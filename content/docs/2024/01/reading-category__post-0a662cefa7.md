@@ -41,4 +41,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485918&idx=
 
 健康很容易被忽视，我们应该时刻提醒自己健康——不管是身体健康还是心理健康——是生活中最重要的事（而温饱又是健康的前提）。
 
-本书的推荐语为：“想找到行事的座右铭么？试试《纳瓦尔宝典》吧，书中金句很多，能带来启发的金句，也有很多。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485918&amp;idx=1&amp;sn=6e7c2dd44d6e8442e1d9dd5850017899&amp;chksm=a6c7653391b0ec253aec45df705ce60192351ab762992009455c8dae12f7d917b31c411f39e1" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语为：“想找到行事的座右铭么？试试《纳瓦尔宝典》吧，书中金句很多，能带来启发的金句，也有很多。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485918&amp;idx=1&amp;sn=6e7c2dd44d6e8442e1d9dd5850017899&amp;chksm=a6c7653391b0ec253aec45df705ce60192351ab762992009455c8dae12f7d917b31c411f39e1" rel="noopener noreferrer">原文链接</a>，更新于2024-01-07。）</small>

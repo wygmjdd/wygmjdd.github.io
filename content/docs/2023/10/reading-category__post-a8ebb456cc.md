@@ -47,4 +47,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485756&idx=
 
 虚荣心作祟，荣誉感作美。我背单词、看书、写更新是虚荣心作祟么？不是的，是荣誉感作美，是持续的正向激励，是践行“活到老学到老”。
 
-本书的推荐语为：“当心绪有些浮躁时，翻一翻季羡林先生的《要把读书当回事》吧，它能让我们静下心来。静下心来读书，然后光阴变慢。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485756&amp;idx=1&amp;sn=c28ab9ceafd05ac7d5287dc88f783548&amp;chksm=a6c765d191b0ecc726cde7745e1e8e1edc9d2b640e9bd0cba3c0fa9634363f5e466ef6d899c6" rel="noopener noreferrer">原文链接</a>）</small>
+本书的推荐语为：“当心绪有些浮躁时，翻一翻季羡林先生的《要把读书当回事》吧，它能让我们静下心来。静下心来读书，然后光阴变慢。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485756&amp;idx=1&amp;sn=c28ab9ceafd05ac7d5287dc88f783548&amp;chksm=a6c765d191b0ecc726cde7745e1e8e1edc9d2b640e9bd0cba3c0fa9634363f5e466ef6d899c6" rel="noopener noreferrer">原文链接</a>，更新于2023-10-15。）</small>

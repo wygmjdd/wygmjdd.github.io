@@ -73,4 +73,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486434&idx=
 
 今年的总结就到此处，写这篇总结，经历好几次情绪的转折，期待、满足、低沉、感觉自己充满力量以及现在带着愉悦的平静。再一次的，感谢您的关注、阅读以及反馈，四年以来，您的每一次阅读，都是我前行路上的补给。
 
-是的，我绝不投降，因为我正拥有着新的希望。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486434&amp;idx=1&amp;sn=246e90f431c312997e6b729c58fdde34&amp;chksm=a6c7670f91b0ee195c009b38a7b7572aeee6fdbaa7351bf077bdae40038a3ea17a0eccd8894c" rel="noopener noreferrer">原文链接</a>）</small>
+是的，我绝不投降，因为我正拥有着新的希望。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486434&amp;idx=1&amp;sn=246e90f431c312997e6b729c58fdde34&amp;chksm=a6c7670f91b0ee195c009b38a7b7572aeee6fdbaa7351bf077bdae40038a3ea17a0eccd8894c" rel="noopener noreferrer">原文链接</a>，更新于2024-09-01。）</small>

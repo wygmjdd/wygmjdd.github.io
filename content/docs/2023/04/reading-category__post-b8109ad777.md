@@ -35,4 +35,4 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485490&idx=
 
 以上，是本篇读书笔记的全部内容。
 
-愿科比在天堂安息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485490&amp;idx=1&amp;sn=fdb534af597a57a21e1c215cd8dabd66&amp;chksm=a6c764df91b0edc953ddb03ba3a9b047d298c69f8b95617d36c496a7009b6f7693bc9ebbfcb7" rel="noopener noreferrer">原文链接</a>）</small>
+愿科比在天堂安息。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485490&amp;idx=1&amp;sn=fdb534af597a57a21e1c215cd8dabd66&amp;chksm=a6c764df91b0edc953ddb03ba3a9b047d298c69f8b95617d36c496a7009b6f7693bc9ebbfcb7" rel="noopener noreferrer">原文链接</a>，更新于2023-04-10。）</small>
