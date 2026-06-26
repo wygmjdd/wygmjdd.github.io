@@ -2,7 +2,7 @@
 
 import pytest
 
-from slug_from_album import slug_from_album
+from scripts.wechat.slug_from_album import slug_from_album
 
 
 def test_slug_from_album_uses_pinyin_when_slug_is_none():

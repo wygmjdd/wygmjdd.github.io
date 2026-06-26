@@ -16,19 +16,15 @@ from pathlib import Path
 
 import yaml
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-SCRIPTS = REPO_ROOT / "scripts"
+from scripts.wechat.wechat_url_stub import canonical_source_url, stub_filename_for_url
+
+REPO_ROOT = Path(__file__).resolve().parents[3]
 LEGACY_JEKYLL = REPO_ROOT / "_archive" / "legacy-jekyll"
 DATA_DIR = LEGACY_JEKYLL / "_data"
 MANUAL_UPDATE_DIR = LEGACY_JEKYLL / "manual-update"
 MANUAL_YAML = DATA_DIR / "wechat_manual_article_urls.yml"
 POSTS_DIR = LEGACY_JEKYLL / "_posts"
 CATEGORIES_YML = REPO_ROOT / "data" / "categories.yml"
-
-
-def _ensure_scripts_path() -> None:
-    if str(SCRIPTS) not in sys.path:
-        sys.path.insert(0, str(SCRIPTS))
 
 
 def load_allowed_slugs(path: Path) -> set[str]:
@@ -78,9 +74,6 @@ def normalize_manual_urls(raw: dict) -> dict[str, list[str]]:
 
 
 def merge_batch_into_manual(manual: dict[str, list[str]], batch: list[dict]) -> dict[str, list[str]]:
-    _ensure_scripts_path()
-    from wechat_url_stub import canonical_source_url
-
     merged = {slug: list(urls) for slug, urls in manual.items()}
     for item in batch:
         slug = item.get("slug")
@@ -165,10 +158,10 @@ def main() -> None:
     )
 
     py = sys.executable
-    run_step("Step 1/3 stubs", [py, str(SCRIPTS / "migrate.py"), "--stubs-only", "--no-playwright"])
-
-    _ensure_scripts_path()
-    from wechat_url_stub import canonical_source_url, stub_filename_for_url
+    run_step(
+        "Step 1/5 stubs",
+        [py, "-m", "scripts.wechat.migrate", "--stubs-only", "--no-playwright"],
+    )
 
     urls: list[str] = []
     seen: set[str] = set()
@@ -198,22 +191,25 @@ def main() -> None:
             print(f"  {u}", file=sys.stderr, flush=True)
         raise SystemExit(2)
 
-    cmd_re = [py, str(SCRIPTS / "rehydrate_posts.py")]
+    cmd_re = [py, "-m", "scripts.wechat.rehydrate_posts"]
     for p in stub_paths:
         cmd_re.extend(["--file", str(p)])
     if not args.no_skip_existing_rehydrated:
         cmd_re.append("--skip-if-output-exists")
-    run_step("Step 2/3 rehydrate", cmd_re)
+    run_step("Step 2/5 rehydrate", cmd_re)
 
-    run_step("Step 3/5 Hugo docs (full rebuild from _rehydrated_posts)", [py, str(SCRIPTS / "migrate_jekyll_to_hugo_book.py")])
+    run_step(
+        "Step 3/5 Hugo docs (full rebuild from _rehydrated_posts)",
+        [py, "-m", "scripts.wechat.migrate_jekyll_to_hugo_book"],
+    )
 
     run_step(
         "Step 4/5 strip WeChat footer + inline 原文链接",
-        [py, str(SCRIPTS / "normalize_article_footer.py")],
+        [py, "-m", "scripts.wechat.normalize_article_footer"],
     )
     run_step(
         "Step 5/5 image lines → centered <figure> captions",
-        [py, str(SCRIPTS / "postprocess_image_captions.py")],
+        [py, "-m", "scripts.wechat.postprocess_image_captions"],
     )
 
     print("Done.", flush=True)

@@ -9,7 +9,7 @@
 ## 文章与分类
 
 - 正式内容：`content/`（首页为 `content/_index.md`，文章在 `content/docs/`）
-- 分类 slug → 中文名：**`scripts/data/categories.yml`**（迁移脚本读此文件，勿删）
+- 分类 slug → 中文名：**`data/categories.yml`**（Hugo 模板与迁移脚本均读此文件，勿删）
 
 ## Jekyll 时代文件（本地归档）
 
@@ -19,12 +19,15 @@
 - 从归档生成 Hugo 内容：
 
   ```bash
-  python3 scripts/migrate_jekyll_to_hugo_book.py
+  python3 -m scripts.wechat.migrate_jekyll_to_hugo_book
   ```
 
 - 若目录不存在，上述脚本会报错；需先准备好归档目录或设置环境变量 `WYGMJDD_POSTS_DIR` 指向含 `.md` 的目录。
 
 ## 相关脚本
 
-- `scripts/migrate_jekyll_to_hugo_book.py`：归档 → `content/docs/`
-- `scripts/migrate.py` / `scripts/rehydrate_posts.py`：仍读写 `_archive/legacy-jekyll/` 下路径
+所有 `python3 -m scripts.wechat.*` 命令须在**仓库根目录**执行（Python 才能把 `scripts` 解析为包）。`update_manual` 的子进程已固定 `cwd` 为仓库根，从其他目录手跑单步命令时会 `ModuleNotFoundError`。
+
+- `scripts/wechat/migrate_jekyll_to_hugo_book.py`：归档 → `content/docs/`
+- `scripts/wechat/migrate.py` / `scripts/wechat/rehydrate_posts.py`：仍读写 `_archive/legacy-jekyll/` 下路径
+- 完整流水线说明见 `docs/迁移脚本说明.md`

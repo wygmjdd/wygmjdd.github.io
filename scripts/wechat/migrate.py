@@ -12,19 +12,16 @@ import re
 import sys
 from pathlib import Path
 
-# Allow importing other scripts when run from repo root (e.g. python scripts/migrate.py)
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-
 import yaml
 
-from wechat_url_stub import STUB_DATE, STUB_HASH_LEN, canonical_source_url, stub_filename_for_url
+from scripts.wechat.wechat_url_stub import STUB_DATE, STUB_HASH_LEN, canonical_source_url, stub_filename_for_url
 
-# Run from repo root or scripts/; repo root = parent of scripts/ or cwd
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = Path(__file__).resolve().parents[2]
 LEGACY_JEKYLL = REPO_ROOT / "_archive" / "legacy-jekyll"
 DATA_DIR = LEGACY_JEKYLL / "_data"
 POSTS_DIR = LEGACY_JEKYLL / "_posts"
-DONE_FILE = REPO_ROOT / "scripts" / ".migrate_done"
+DONE_FILE = REPO_ROOT / "scripts" / "wechat" / ".migrate_done"
+WECHAT_DIR = REPO_ROOT / "scripts" / "wechat"
 
 
 def load_albums_config() -> list[dict]:
@@ -37,7 +34,7 @@ def load_albums_config() -> list[dict]:
 
 
 def load_manual_urls() -> dict[str, list[str]]:
-    for path in (DATA_DIR / "wechat_manual_article_urls.yml", REPO_ROOT / "scripts" / "manual_article_urls.yml"):
+    for path in (DATA_DIR / "wechat_manual_article_urls.yml", WECHAT_DIR / "manual_article_urls.yml"):
         if path.exists():
             with open(path, encoding="utf-8") as f:
                 return yaml.safe_load(f) or {}
@@ -52,7 +49,7 @@ def get_article_urls_per_album(
     verbose: bool = True,
 ) -> dict[str, list[str]]:
     """Return album_slug -> list of article URLs. Uses parse_album or manual_urls when available."""
-    from slug_from_album import slug_from_album
+    from scripts.wechat.slug_from_album import slug_from_album
 
     def _log(msg: str) -> None:
         if verbose:
@@ -71,7 +68,7 @@ def get_article_urls_per_album(
             continue
         if use_playwright and url:
             try:
-                from parse_album import parse_album
+                from scripts.wechat.parse_album import parse_album
                 result[slug] = parse_album(url, verbose=verbose)
             except Exception as e:
                 print(f"    ERROR parse_album: {e}", file=sys.stderr, flush=True)
@@ -232,7 +229,7 @@ def write_post(article: dict, categories: list[str], dry_run: bool) -> Path | No
 
 
 def update_categories_yml(albums: list[dict]) -> None:
-    from slug_from_album import slug_from_album
+    from scripts.wechat.slug_from_album import slug_from_album
     path = DATA_DIR / "categories.yml"
     existing = {}
     if path.exists():
@@ -271,7 +268,7 @@ def main() -> None:
     print(f"  _posts : {POSTS_DIR}", flush=True)
     print(f"  mode   : {mode_label}{' [DRY-RUN]' if args.dry_run else ''}", flush=True)
     if args.resume and not args.stubs_only:
-        print("  resume : skip URLs already in _posts or scripts/.migrate_done", flush=True)
+        print("  resume : skip URLs already in _posts or scripts/wechat/.migrate_done", flush=True)
     if args.no_playwright:
         print("  note   : --no-playwright (album pages need manual URL YAML or will be empty)", flush=True)
     print("=" * 64, flush=True)
@@ -323,7 +320,7 @@ def main() -> None:
             flush=True,
         )
 
-    from fetch_article import fetch_article
+    from scripts.wechat.fetch_article import fetch_article
 
     pending = [(u, s) for u, s in url_to_slugs.items() if u not in done]
     n_total = len(url_to_slugs)

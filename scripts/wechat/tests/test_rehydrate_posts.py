@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-from rehydrate_posts import dedupe_skipped_log_on_disk, read_front_matter, write_rehydrated_post
+from scripts.wechat.rehydrate_posts import dedupe_skipped_log_on_disk, read_front_matter, write_rehydrated_post
 
 
 def test_read_front_matter_parses_source_url_and_categories(tmp_path: Path):

@@ -1,4 +1,4 @@
-scripts/.migrate_done
+scripts/wechat/.migrate_done
 __pycache__/
 .pytest_cache/
 *.pyc
@@ -10,7 +10,4 @@ __pycache__/
 .DS_Store
 
 # Xiaohongshu card generation (local only)
-output/
-data/reading_inventory.json
-scripts/generate_xhs_cards.py
-scripts/xhs_cards/
+scripts/xhs/

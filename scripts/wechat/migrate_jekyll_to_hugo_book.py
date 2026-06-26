@@ -32,7 +32,7 @@ from typing import Any
 
 import yaml
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 LEGACY_JEKYLL = ROOT / "_archive" / "legacy-jekyll"
 CATEGORIES_FILE = ROOT / "data" / "categories.yml"
 OUT_DOCS = ROOT / "content" / "docs"

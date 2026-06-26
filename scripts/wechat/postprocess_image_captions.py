@@ -10,9 +10,9 @@ and replaces it with a Goldmark-safe HTML block using class ``figure-with-captio
 
 Examples::
 
-    python3 scripts/postprocess_image_captions.py --dry-run
-    python3 scripts/postprocess_image_captions.py
-    python3 scripts/postprocess_image_captions.py content/docs/2026/01
+    python3 -m scripts.wechat.postprocess_image_captions --dry-run
+    python3 -m scripts.wechat.postprocess_image_captions
+    python3 -m scripts.wechat.postprocess_image_captions content/docs/2026/01
 """
 
 from __future__ import annotations
@@ -23,7 +23,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 
 # Whole line: image markdown immediately followed by caption (no blank line).
 _LINE_IMG_CAPTION = re.compile(

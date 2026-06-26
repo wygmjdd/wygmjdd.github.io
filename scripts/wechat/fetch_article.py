@@ -13,7 +13,7 @@ import html2text
 import requests
 from bs4 import BeautifulSoup, Tag
 
-_REPO_ROOT = Path(__file__).resolve().parent.parent
+_REPO_ROOT = Path(__file__).resolve().parents[2]
 _STATIC_IMAGES_WECHAT = _REPO_ROOT / "static" / "images" / "wechat"
 _MIN_IMAGE_BYTES = 256
 _REFERER_WECHAT = "https://mp.weixin.qq.com/"

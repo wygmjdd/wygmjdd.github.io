@@ -16,11 +16,11 @@ from pathlib import Path
 
 import yaml
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = Path(__file__).resolve().parents[2]
 LEGACY_JEKYLL = REPO_ROOT / "_archive" / "legacy-jekyll"
 DEFAULT_POSTS_DIR = LEGACY_JEKYLL / "_posts"
 DEFAULT_OUT_DIR = LEGACY_JEKYLL / "_rehydrated_posts"
-DEFAULT_LOG_PATH = REPO_ROOT / "scripts" / "rehydrate_skipped.yml"
+DEFAULT_LOG_PATH = REPO_ROOT / "scripts" / "wechat" / "rehydrate_skipped.yml"
 
 
 @dataclass(frozen=True)
@@ -218,7 +218,7 @@ def _sleep_seconds(low: float, high: float) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Rehydrate Jekyll posts from source_url into a new output directory.",
-        epilog="Example (test 2 stubs): python scripts/rehydrate_posts.py --file a.md --file b.md",
+        epilog="Example (test 2 stubs): python3 -m scripts.wechat.rehydrate_posts --file a.md --file b.md",
     )
     parser.add_argument(
         "--file",
@@ -239,7 +239,7 @@ def main() -> None:
         type=str,
         default=None,
         metavar="PATH",
-        help="Retry only posts in a skipped YAML log, deduped by canonical source_url (e.g. scripts/rehydrate_skipped.yml).",
+        help="Retry only posts in a skipped YAML log, deduped by canonical source_url (e.g. scripts/wechat/rehydrate_skipped.yml).",
     )
     parser.add_argument(
         "--dedupe-skipped-log-only",
@@ -304,8 +304,7 @@ def main() -> None:
     batch_target = random.randint(max(1, args.batch_min), max(1, args.batch_max))
     processed_in_batch = 0
 
-    sys.path.insert(0, str(Path(__file__).resolve().parent))
-    from fetch_article import fetch_article
+    from scripts.wechat.fetch_article import fetch_article
 
     for idx, post_path in enumerate(post_files, 1):
         try:

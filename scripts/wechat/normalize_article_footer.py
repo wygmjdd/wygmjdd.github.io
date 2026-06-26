@@ -9,9 +9,9 @@ Idempotent: safe to run multiple times. Skips hub pages (list_category), section
 _index.md files, and the homepage content tree outside content/docs if passed.
 
 Usage:
-  python scripts/normalize_article_footer.py
-  python scripts/normalize_article_footer.py --dry-run
-  python scripts/normalize_article_footer.py --root content/docs/2026/03
+  python3 -m scripts.wechat.normalize_article_footer
+  python3 -m scripts.wechat.normalize_article_footer --dry-run
+  python3 -m scripts.wechat.normalize_article_footer --root content/docs/2026/03
 """
 
 from __future__ import annotations
@@ -26,7 +26,7 @@ from typing import Any
 
 import yaml
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_DOCS = ROOT / "content" / "docs"
 
 _INLINE_LINK_RE = re.compile(

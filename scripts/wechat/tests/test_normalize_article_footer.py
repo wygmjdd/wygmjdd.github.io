@@ -1,6 +1,6 @@
 from datetime import date, datetime
 
-from normalize_article_footer import (
+from scripts.wechat.normalize_article_footer import (
     build_source_link_suffix,
     format_date_from_meta,
     normalize_source_link,
