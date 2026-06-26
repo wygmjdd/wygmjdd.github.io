@@ -8,3 +8,9 @@ __pycache__/
 /_vendor/
 /_archive/
 .DS_Store
+
+# Xiaohongshu card generation (local only)
+output/
+data/reading_inventory.json
+scripts/generate_xhs_cards.py
+scripts/xhs_cards/
