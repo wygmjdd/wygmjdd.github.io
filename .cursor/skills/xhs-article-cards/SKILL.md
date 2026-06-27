@@ -23,6 +23,14 @@ pip install -r scripts/requirements.txt
 playwright install chromium
 ```
 
+**Always use the project venv** when running commands (Cursor Agent shells may default to system `python3`):
+
+```bash
+source .venv/bin/activate   # then python3 / pip / playwright work
+# or explicitly:
+.venv/bin/python3 -m scripts.xhs.generate_xhs_cards ...
+```
+
 If Playwright or Python deps are missing, the render command prints install instructions and exits.
 
 **Skill does not need to write `category_title`** — omit it from `manifest.json`; the script reads `primary_category` from the article (or manifest) and resolves the Chinese label from `data/categories.yml`.
@@ -32,7 +40,7 @@ If Playwright or Python deps are missing, the render command prints install inst
 Python render:
 
 ```bash
-python3 -m scripts.xhs.generate_xhs_cards --series article --manifest <path>
+.venv/bin/python3 -m scripts.xhs.generate_xhs_cards --series article --manifest <path>
 ```
 
 ## Workflow
@@ -117,13 +125,13 @@ Write `manifest.json`:
 Determine `cta_theme` by running (or equivalent logic):
 
 ```bash
-python3 -c "from scripts.xhs.xhs_cards.xhs_config import resolve_cta_theme; print(resolve_cta_theme('reading-category'))"
+.venv/bin/python3 -c "from scripts.xhs.xhs_cards.xhs_config import resolve_cta_theme; print(resolve_cta_theme('reading-category'))"
 ```
 
-Run from repo root:
+Run from repo root (with venv activated or use `.venv/bin/python3`):
 
 ```bash
-python3 -m scripts.xhs.generate_xhs_cards \
+.venv/bin/python3 -m scripts.xhs.generate_xhs_cards \
   --series article \
   --manifest scripts/xhs/output/articles/<slug>/manifest.json
 ```
@@ -131,7 +139,7 @@ python3 -m scripts.xhs.generate_xhs_cards \
 Re-render after CSS tweaks (keeps manifest + cover-bg):
 
 ```bash
-python3 -m scripts.xhs.generate_xhs_cards \
+.venv/bin/python3 -m scripts.xhs.generate_xhs_cards \
   --series article \
   --manifest scripts/xhs/output/articles/<slug>/manifest.json \
   --rerender
