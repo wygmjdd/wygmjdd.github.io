@@ -9,8 +9,8 @@ __pycache__/
 /_archive/
 .DS_Store
 
-# Xiaohongshu card generation (local only)
-scripts/xhs/
+# Xiaohongshu generated output (local only)
+scripts/xhs/output/
 
 # Manual batch JSON for update_manual (local only)
 scripts/wechat/update_manual/input/
