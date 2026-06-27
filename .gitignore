@@ -11,3 +11,6 @@ __pycache__/
 
 # Xiaohongshu card generation (local only)
 scripts/xhs/
+
+# Manual batch JSON for update_manual (local only)
+scripts/wechat/update_manual/input/

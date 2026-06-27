@@ -1,4 +1,4 @@
-"""Merge ``manual-update/<batch>.json`` into manual URL YAML, then publish to Hugo.
+"""Merge ``input/<batch>.json`` into manual URL YAML, then publish to Hugo.
 
 ``migrate_jekyll_to_hugo_book.py`` wipes and rebuilds ``content/docs`` from
 ``_rehydrated_posts`` (raw bodies). This module therefore always runs the same
@@ -19,9 +19,10 @@ import yaml
 from scripts.wechat.wechat_url_stub import canonical_source_url, stub_filename_for_url
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
+WECHAT_UPDATE_MANUAL_DIR = Path(__file__).resolve().parent
+INPUT_DIR = WECHAT_UPDATE_MANUAL_DIR / "input"
 LEGACY_JEKYLL = REPO_ROOT / "_archive" / "legacy-jekyll"
 DATA_DIR = LEGACY_JEKYLL / "_data"
-MANUAL_UPDATE_DIR = LEGACY_JEKYLL / "manual-update"
 MANUAL_YAML = DATA_DIR / "wechat_manual_article_urls.yml"
 POSTS_DIR = LEGACY_JEKYLL / "_posts"
 CATEGORIES_YML = REPO_ROOT / "data" / "categories.yml"
@@ -117,12 +118,12 @@ def run_step(label: str, cmd: list[str]) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Merge manual-update/*.json and publish batch to Hugo content/docs.",
+        description="Merge scripts/wechat/update_manual/input/*.json and publish batch to Hugo content/docs.",
     )
     parser.add_argument(
         "batch_id",
         metavar="YYYY-MM-DD",
-        help="Batch id matching _archive/legacy-jekyll/manual-update/<id>.json",
+        help="Batch id matching scripts/wechat/update_manual/input/<id>.json",
     )
     parser.add_argument(
         "--no-skip-existing-rehydrated",
@@ -131,7 +132,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    batch_path = MANUAL_UPDATE_DIR / f"{args.batch_id}.json"
+    batch_path = INPUT_DIR / f"{args.batch_id}.json"
     batch = load_batch_json(batch_path)
 
     allowed = load_allowed_slugs(CATEGORIES_YML)
