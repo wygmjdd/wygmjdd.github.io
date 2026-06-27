@@ -1,21 +1,24 @@
 """Merge ``input/<batch>.json`` into manual URL YAML, then publish to Hugo.
 
-``migrate_jekyll_to_hugo_book.py`` wipes and rebuilds ``content/docs`` from
-``_rehydrated_posts`` (raw bodies). This module therefore always runs the same
-footer and image-caption post-processors used elsewhere so incremental batches
-do not strip 原文/图注 styling from the site.
+Rehydrated batch posts are merged into ``content/docs`` (incremental). Step 3
+aborts if rehydrate produced no usable body. A full wipe/rebuild of
+``content/docs`` is never run from this pipeline.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import os
 import subprocess
 import sys
+import tempfile
+from datetime import datetime
 from pathlib import Path
 
 import yaml
 
+from scripts.wechat.migrate_jekyll_to_hugo_book import parse_frontmatter_markdown
 from scripts.wechat.wechat_url_stub import canonical_source_url, stub_filename_for_url
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
@@ -25,6 +28,7 @@ LEGACY_JEKYLL = REPO_ROOT / "_archive" / "legacy-jekyll"
 DATA_DIR = LEGACY_JEKYLL / "_data"
 MANUAL_YAML = DATA_DIR / "wechat_manual_article_urls.yml"
 POSTS_DIR = LEGACY_JEKYLL / "_posts"
+REHYDRATED_DIR = LEGACY_JEKYLL / "_rehydrated_posts"
 CATEGORIES_YML = REPO_ROOT / "data" / "categories.yml"
 
 
@@ -100,20 +104,69 @@ def load_batch_json(path: Path) -> list[dict]:
         raise FileNotFoundError(f"batch file not found: {path}")
     data = json.loads(path.read_text(encoding="utf-8"))
     if not isinstance(data, list):
-        raise ValueError("batch JSON must be a list of {slug, url} objects")
+        raise ValueError("batch JSON must be a list of {slug, url} objects (title optional)")
     for i, item in enumerate(data):
         if not isinstance(item, dict):
             raise ValueError(f"batch[{i}] must be an object")
     return data
 
 
-def run_step(label: str, cmd: list[str]) -> None:
+def run_step(label: str, cmd: list[str], env: dict[str, str] | None = None) -> None:
     print("=" * 64, flush=True)
     print(f"{label}: {' '.join(cmd)}", flush=True)
     print("=" * 64, flush=True)
-    completed = subprocess.run(cmd, cwd=str(REPO_ROOT))
+    completed = subprocess.run(cmd, cwd=str(REPO_ROOT), env=env)
     if completed.returncode != 0:
         raise SystemExit(completed.returncode)
+
+
+def verify_rehydrated_outputs(stub_paths: list[Path]) -> None:
+    missing: list[str] = []
+    empty: list[str] = []
+    for stub in stub_paths:
+        out = REHYDRATED_DIR / stub.name
+        if not out.is_file():
+            missing.append(stub.name)
+            continue
+        post = parse_frontmatter_markdown(out.read_text(encoding="utf-8"))
+        if not post.content.strip():
+            empty.append(stub.name)
+
+    if not missing and not empty:
+        return
+
+    print(
+        "ERROR: rehydrate did not produce usable content for this batch.",
+        file=sys.stderr,
+        flush=True,
+    )
+    for name in missing:
+        print(f"  missing output: {name}", file=sys.stderr, flush=True)
+    for name in empty:
+        print(f"  empty body: {name}", file=sys.stderr, flush=True)
+    print(
+        "\nInstall Playwright browser, then re-run:\n"
+        "  playwright install chromium\n"
+        "  python3 -m scripts.wechat.update_manual <batch-id>",
+        file=sys.stderr,
+        flush=True,
+    )
+    raise SystemExit(2)
+
+
+def merge_batch_into_hugo(py: str, stub_paths: list[Path]) -> None:
+    with tempfile.TemporaryDirectory(prefix="wygmjdd-batch-") as tmp:
+        tmp_path = Path(tmp)
+        for stub in stub_paths:
+            src = REHYDRATED_DIR / stub.name
+            (tmp_path / stub.name).symlink_to(src.resolve())
+        env = os.environ.copy()
+        env["WYGMJDD_POSTS_DIR"] = str(tmp_path)
+        run_step(
+            "Step 3/5 Hugo docs (merge batch into content/docs)",
+            [py, "-m", "scripts.wechat.migrate_jekyll_to_hugo_book", "--merge"],
+            env=env,
+        )
 
 
 def main() -> None:
@@ -122,8 +175,10 @@ def main() -> None:
     )
     parser.add_argument(
         "batch_id",
+        nargs="?",
+        default=datetime.now().strftime("%Y-%m-%d"),
         metavar="YYYY-MM-DD",
-        help="Batch id matching scripts/wechat/update_manual/input/<id>.json",
+        help="Batch id matching scripts/wechat/update_manual/input/<id>.json (default: today).",
     )
     parser.add_argument(
         "--no-skip-existing-rehydrated",
@@ -199,10 +254,8 @@ def main() -> None:
         cmd_re.append("--skip-if-output-exists")
     run_step("Step 2/5 rehydrate", cmd_re)
 
-    run_step(
-        "Step 3/5 Hugo docs (full rebuild from _rehydrated_posts)",
-        [py, "-m", "scripts.wechat.migrate_jekyll_to_hugo_book"],
-    )
+    verify_rehydrated_outputs(stub_paths)
+    merge_batch_into_hugo(py, stub_paths)
 
     run_step(
         "Step 4/5 strip WeChat footer + inline 原文链接",

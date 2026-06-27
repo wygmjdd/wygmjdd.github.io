@@ -21,6 +21,7 @@ Output layout (newest year/month first via weight):
 
 from __future__ import annotations
 
+import argparse
 import html
 import os
 import re
@@ -140,6 +141,31 @@ def posts_source_dir() -> Path:
     if REHYDRATED_DIR.is_dir() and any(REHYDRATED_DIR.glob("*.md")):
         return REHYDRATED_DIR
     return LEGACY_POSTS_DIR
+
+
+def count_doc_articles(docs_root: Path) -> int:
+    count = 0
+    for path in docs_root.rglob("*.md"):
+        if path.name == "_index.md":
+            continue
+        if "hubs" in path.parts:
+            continue
+        count += 1
+    return count
+
+
+def refuse_destructive_rebuild(posts_dir: Path, source_count: int) -> None:
+    if not OUT_DOCS.is_dir():
+        return
+    existing = count_doc_articles(OUT_DOCS)
+    if existing < 50 or source_count >= 50:
+        return
+    raise SystemExit(
+        f"Refusing full rebuild: source has {source_count} post(s) but "
+        f"{OUT_DOCS.relative_to(ROOT)} already has {existing} article(s). "
+        "For incremental batches use migrate_jekyll_to_hugo_book --merge with "
+        "WYGMJDD_POSTS_DIR pointing at the batch rehydrated files only."
+    )
 
 
 def output_slug_and_revision(filename: str) -> tuple[str, int]:
@@ -284,10 +310,29 @@ def write_toc_hub_pages() -> None:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Migrate Jekyll-style posts into Hugo content/docs.")
+    parser.add_argument(
+        "--merge",
+        action="store_true",
+        help="Write or update only posts from the source dir; do not wipe content/docs.",
+    )
+    args = parser.parse_args()
+
     posts_dir = posts_source_dir()
-    if OUT_DOCS.exists():
-        shutil.rmtree(OUT_DOCS)
-    OUT_DOCS.mkdir(parents=True, exist_ok=True)
+    if not posts_dir.is_dir():
+        raise FileNotFoundError(f"Missing posts directory: {posts_dir}")
+
+    source_files = sorted(posts_dir.glob("*.md"))
+    if not source_files:
+        raise SystemExit(f"No markdown posts found in {posts_dir}")
+
+    if args.merge:
+        OUT_DOCS.mkdir(parents=True, exist_ok=True)
+    else:
+        refuse_destructive_rebuild(posts_dir, len(source_files))
+        if OUT_DOCS.exists():
+            shutil.rmtree(OUT_DOCS)
+        OUT_DOCS.mkdir(parents=True, exist_ok=True)
 
     category_titles = load_category_titles()
     allowed_roots = set(category_titles.keys()) | {FALLBACK_CATEGORY}
@@ -295,10 +340,7 @@ def main() -> None:
     by_source_url: dict[str, CandidateRow] = {}
     by_category_slug: dict[tuple[str, str], CandidateRow] = {}
 
-    if not posts_dir.is_dir():
-        raise FileNotFoundError(f"Missing posts directory: {posts_dir}")
-
-    for path in sorted(posts_dir.glob("*.md")):
+    for path in source_files:
         raw_text = path.read_text(encoding="utf-8")
         post = parse_frontmatter_markdown(raw_text)
 
@@ -377,8 +419,16 @@ def main() -> None:
         seen_years.add(year)
         seen_year_month.add((year, month))
 
-    write_index(OUT_DOCS / "_index.md", "文章", 1)
-    write_toc_hub_pages()
+    if args.merge:
+        root_index = OUT_DOCS / "_index.md"
+        if not root_index.is_file():
+            write_index(root_index, "文章", 1)
+        hubs_dir = OUT_DOCS / "hubs"
+        if not hubs_dir.is_dir() or not any(hubs_dir.glob("*.md")):
+            write_toc_hub_pages()
+    else:
+        write_index(OUT_DOCS / "_index.md", "文章", 1)
+        write_toc_hub_pages()
 
     months_by_year: dict[int, list[int]] = defaultdict(list)
     for y, m in seen_year_month:
@@ -387,9 +437,12 @@ def main() -> None:
         months_by_year[y].sort(reverse=True)
 
     for year in sorted(seen_years, reverse=True):
+        year_index = OUT_DOCS / f"{year:04d}" / "_index.md"
+        if args.merge and year_index.is_file():
+            continue
         year_weight = _YEAR_WEIGHT_BASE - year
         write_index(
-            OUT_DOCS / f"{year:04d}" / "_index.md",
+            year_index,
             f"{year}年",
             year_weight,
             book_collapse=True,
@@ -397,14 +450,18 @@ def main() -> None:
 
     for year in sorted(seen_years, reverse=True):
         for month in months_by_year[year]:
+            month_index = OUT_DOCS / f"{year:04d}" / f"{month:02d}" / "_index.md"
+            if args.merge and month_index.is_file():
+                continue
             month_weight = 100 - month
             write_index(
-                OUT_DOCS / f"{year:04d}" / f"{month:02d}" / "_index.md",
+                month_index,
                 f"{month:02d}月",
                 month_weight,
             )
 
-    print(f"Source: {posts_dir}")
+    mode = "merge" if args.merge else "full rebuild"
+    print(f"Source: {posts_dir} ({mode})")
     print(f"Wrote {len(candidates)} posts under {OUT_DOCS}")
 
 

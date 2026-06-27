@@ -27,10 +27,36 @@ WECHAT_DIR = REPO_ROOT / "scripts" / "wechat"
 def load_albums_config() -> list[dict]:
     config_path = DATA_DIR / "wechat_albums.yml"
     if not config_path.exists():
-        raise FileNotFoundError(f"Config not found: {config_path}")
+        return []
     with open(config_path, encoding="utf-8") as f:
         data = yaml.safe_load(f)
     return data.get("albums", [])
+
+
+def resolve_album_urls(
+    albums: list[dict],
+    manual_urls: dict[str, list[str]],
+    use_playwright: bool,
+    *,
+    verbose: bool = True,
+) -> dict[str, list[str]]:
+    """Merge album config with manual URL lists; manual-only slugs work without wechat_albums.yml."""
+    if albums:
+        album_urls = get_article_urls_per_album(
+            albums,
+            manual_urls,
+            use_playwright,
+            verbose=verbose,
+        )
+    else:
+        album_urls = {}
+
+    for slug, urls in manual_urls.items():
+        if slug not in album_urls:
+            album_urls[slug] = list(urls)
+            if verbose:
+                print(f"[manual only] {slug} — {len(urls)} URL(s)", flush=True)
+    return album_urls
 
 
 def load_manual_urls() -> dict[str, list[str]]:
@@ -274,17 +300,26 @@ def main() -> None:
     print("=" * 64, flush=True)
 
     albums = load_albums_config()
-    print(f"Loaded {len(albums)} album(s) from config.", flush=True)
+    if albums:
+        print(f"Loaded {len(albums)} album(s) from config.", flush=True)
+    else:
+        print("No wechat_albums.yml; using manual URL lists only.", flush=True)
     manual_urls = load_manual_urls()
     if manual_urls:
         print(f"Manual URL overrides loaded for {len(manual_urls)} album slug(s).", flush=True)
 
-    album_urls = get_article_urls_per_album(
+    album_urls = resolve_album_urls(
         albums,
         manual_urls,
         use_playwright=not args.no_playwright,
         verbose=True,
     )
+    if not album_urls:
+        print(
+            "ERROR: no article URLs found. Add wechat_manual_article_urls.yml or wechat_albums.yml.",
+            file=sys.stderr,
+        )
+        raise SystemExit(1)
     url_to_slugs = build_url_to_slugs(album_urls)
     raw_link_total = sum(len(v) for v in album_urls.values())
     print("-" * 64, flush=True)

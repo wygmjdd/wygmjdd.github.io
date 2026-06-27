@@ -1,1 +1,1 @@
-"""CLI package: merge input/*.json and run migrate → rehydrate → Hugo."""
+"""CLI package: merge input/*.json, collect from Chrome, run migrate → rehydrate → Hugo."""
