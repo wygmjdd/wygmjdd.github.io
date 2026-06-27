@@ -1,13 +1,17 @@
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
 import pytest
 
-from scripts.xhs.xhs_cards.article_parser import (
-    detect_embedded_images,
-    parse_body_blocks,
-    strip_body_for_xhs,
+from scripts.xhs.xhs_cards.article_parser import load_manifest, strip_body_for_xhs
+from scripts.xhs.xhs_cards.xhs_config import (
+    SUPPORTED_MANIFEST_VERSION,
+    enrich_manifest_from_article,
+    load_category_titles,
+    resolve_category_title,
+    resolve_cta_theme,
 )
 from scripts.wechat.normalize_article_footer import parse_frontmatter_markdown
 
@@ -32,6 +36,8 @@ def test_strip_body_removes_source_link_footer() -> None:
 
 
 def test_parse_body_blocks_quote_and_paragraphs() -> None:
+    from scripts.xhs.xhs_cards.article_parser import parse_body_blocks
+
     post = parse_frontmatter_markdown(SAMPLE)
     body = strip_body_for_xhs(post.content)
     blocks = parse_body_blocks(body)
@@ -43,6 +49,66 @@ def test_parse_body_blocks_quote_and_paragraphs() -> None:
 
 
 def test_detect_embedded_images() -> None:
+    from scripts.xhs.xhs_cards.article_parser import detect_embedded_images
+
     assert not detect_embedded_images("plain text")
     assert detect_embedded_images("![alt](/images/x.jpg)")
     assert detect_embedded_images('<figure class="figure-with-caption">')
+
+
+def test_load_manifest_rejects_unsupported_version(tmp_path: Path) -> None:
+    path = tmp_path / "manifest.json"
+    path.write_text(json.dumps({"manifest_version": 99}), encoding="utf-8")
+    with pytest.raises(ValueError, match="Unsupported manifest_version"):
+        load_manifest(path)
+
+
+def test_load_manifest_accepts_current_version(tmp_path: Path) -> None:
+    path = tmp_path / "manifest.json"
+    path.write_text(
+        json.dumps({"manifest_version": SUPPORTED_MANIFEST_VERSION, "source": "x.md"}),
+        encoding="utf-8",
+    )
+    data = load_manifest(path)
+    assert data["manifest_version"] == SUPPORTED_MANIFEST_VERSION
+
+
+def test_resolve_cta_theme_from_config() -> None:
+    assert resolve_cta_theme("reading-category") == "reading"
+    assert resolve_cta_theme("subway-diary") == "life"
+    assert resolve_cta_theme("unknown-slug") == "reading"
+
+
+def test_resolve_category_title() -> None:
+    titles = load_category_titles()
+    if "reading-category" in titles:
+        assert resolve_category_title("reading-category") == titles["reading-category"]
+
+
+def test_enrich_manifest_fills_category_title_from_article() -> None:
+    manifest = {"primary_category": "reading-category"}
+    enriched = enrich_manifest_from_article(manifest, {})
+    titles = load_category_titles()
+    if "reading-category" in titles:
+        assert enriched["category_title"] == titles["reading-category"]
+
+
+def test_enrich_manifest_uses_article_metadata_slug() -> None:
+    manifest: dict = {}
+    enriched = enrich_manifest_from_article(
+        manifest,
+        {"primary_category": "reading-category", "title": "特斯拉与外星人"},
+    )
+    assert enriched["primary_category"] == "reading-category"
+    titles = load_category_titles()
+    if "reading-category" in titles:
+        assert enriched["category_title"] == titles["reading-category"]
+
+
+def test_enrich_manifest_keeps_explicit_category_title() -> None:
+    manifest = {
+        "primary_category": "reading-category",
+        "category_title": "自定义标题",
+    }
+    enriched = enrich_manifest_from_article(manifest, {})
+    assert enriched["category_title"] == "自定义标题"

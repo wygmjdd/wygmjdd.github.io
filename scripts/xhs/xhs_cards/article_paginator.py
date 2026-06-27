@@ -30,31 +30,57 @@ def split_sentences(text: str) -> list[str]:
     return sentences
 
 
-def split_block_to_chunks(block: ContentBlock, max_chars: int) -> list[ContentBlock]:
-    if char_count(block.text) <= max_chars:
-        return [block]
+def hard_split_text(text: str, max_chars: int) -> list[str]:
+    stripped = text.strip()
+    if not stripped:
+        return []
+    if char_count(stripped) <= max_chars:
+        return [stripped]
+    parts: list[str] = []
+    start = 0
+    while start < len(stripped):
+        chunk = stripped[start : start + max_chars].strip()
+        if chunk:
+            parts.append(chunk)
+        start += max_chars
+    return parts
 
-    sentences = split_sentences(block.text)
+
+def iter_text_pieces(text: str, max_chars: int) -> list[str]:
+    if char_count(text) <= max_chars:
+        return [text.strip()]
+
+    sentences = split_sentences(text)
     if len(sentences) <= 1:
-        mid = max(1, len(block.text) // 2)
-        return [
-            ContentBlock(block.kind, block.text[:mid].strip()),
-            ContentBlock(block.kind, block.text[mid:].strip()),
-        ]
+        return hard_split_text(text, max_chars)
 
-    chunks: list[ContentBlock] = []
+    pieces: list[str] = []
     current = ""
     for sentence in sentences:
+        if char_count(sentence) > max_chars:
+            if current:
+                pieces.append(current)
+                current = ""
+            pieces.extend(hard_split_text(sentence, max_chars))
+            continue
+
         candidate = f"{current}{sentence}" if current else sentence
         if char_count(candidate) <= max_chars:
             current = candidate
             continue
         if current:
-            chunks.append(ContentBlock(block.kind, current))
+            pieces.append(current)
         current = sentence
+
     if current.strip():
-        chunks.append(ContentBlock(block.kind, current.strip()))
-    return chunks
+        pieces.append(current.strip())
+    return pieces
+
+
+def split_block_to_chunks(block: ContentBlock, max_chars: int) -> list[ContentBlock]:
+    if char_count(block.text) <= max_chars:
+        return [block]
+    return [ContentBlock(block.kind, piece) for piece in iter_text_pieces(block.text, max_chars)]
 
 
 def paginate_blocks(blocks: list[ContentBlock], max_chars: int) -> list[list[ContentBlock]]:

@@ -18,11 +18,25 @@ _DEFAULT_6YEARS_OUTPUT = _XHS_DIR / "output" / "6-years-updating.png"
 _VIEWPORT = {"width": 1080, "height": 1440}
 
 
+_PLAYWRIGHT_INSTALL_HINT = (
+    "Playwright browser not installed. From repo root with venv active:\n"
+    "  pip install -r scripts/requirements.txt\n"
+    "  playwright install chromium"
+)
+
+
 def _launch_browser(playwright: Any) -> Any:
     try:
         return playwright.chromium.launch(headless=True)
-    except Exception:
-        return playwright.chromium.launch(headless=True, channel="chrome")
+    except Exception as first_error:
+        try:
+            return playwright.chromium.launch(headless=True, channel="chrome")
+        except Exception as second_error:
+            message = f"{first_error}\n{second_error}"
+            if "Executable doesn't exist" in message or "playwright install" in message.lower():
+                print(f"ERROR: {_PLAYWRIGHT_INSTALL_HINT}", file=sys.stderr, flush=True)
+                raise SystemExit(1) from second_error
+            raise second_error from first_error
 
 
 def _screenshot_slides(slides: list[tuple[str, str]], output_dir: Path) -> list[Path]:
@@ -31,18 +45,35 @@ def _screenshot_slides(slides: list[tuple[str, str]], output_dir: Path) -> list[
     output_dir.mkdir(parents=True, exist_ok=True)
     written: list[Path] = []
 
-    with sync_playwright() as playwright:
-        browser = _launch_browser(playwright)
-        try:
-            page = browser.new_page(viewport=_VIEWPORT, device_scale_factor=2)
-            page.set_default_timeout(60_000)
-            for filename, slide_html in slides:
-                out_path = output_dir / filename
-                page.set_content(slide_html, wait_until="load")
-                page.screenshot(path=str(out_path), full_page=False, timeout=60_000)
-                written.append(out_path)
-        finally:
-            browser.close()
+    try:
+        with sync_playwright() as playwright:
+            browser = _launch_browser(playwright)
+            try:
+                page = browser.new_page(viewport=_VIEWPORT, device_scale_factor=2)
+                page.set_default_timeout(60_000)
+                for filename, slide_html in slides:
+                    out_path = output_dir / filename
+                    page.set_content(slide_html, wait_until="load")
+                    page.screenshot(path=str(out_path), full_page=False, timeout=60_000)
+                    written.append(out_path)
+            finally:
+                browser.close()
+    except SystemExit:
+        raise
+    except ImportError:
+        print(
+            "ERROR: playwright package not installed. From repo root with venv active:\n"
+            "  pip install -r scripts/requirements.txt",
+            file=sys.stderr,
+            flush=True,
+        )
+        raise SystemExit(1) from None
+    except Exception as exc:
+        message = str(exc)
+        if "Executable doesn't exist" in message:
+            print(f"ERROR: {_PLAYWRIGHT_INSTALL_HINT}", file=sys.stderr, flush=True)
+            raise SystemExit(1) from exc
+        raise
 
     return written
 

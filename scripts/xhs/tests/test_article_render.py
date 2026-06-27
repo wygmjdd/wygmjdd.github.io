@@ -35,14 +35,13 @@ primary_category: reading-category
         "xhs_title": "小红书标题",
         "cover_subtitle": "测试标题",
         "primary_category": "reading-category",
-        "category_title": "阅读书目",
         "cover_bg": "cover-bg.png",
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "cta_line2": "关注理由测试。",
         "nickname": "我要改名叫嘟嘟",
         "bio": "一个用文字分享生活和读书感悟的程序员",
-        "chars_per_slide": 200,
+        "chars_per_slide": 270,
     }
     manifest_path = tmp_path / "manifest.json"
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")

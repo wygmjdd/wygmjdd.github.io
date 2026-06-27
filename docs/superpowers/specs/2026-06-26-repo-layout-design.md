@@ -56,20 +56,24 @@ wygmjdd.github.io/
 │   │   ├── MANUAL_URLS.md
 │   │   ├── rehydrate_skipped.yml   # tracked; failure retry log
 │   │   └── .migrate_done           # runtime state (gitignored)
-│   └── xhs/                        # local-only (gitignored)
+│   └── xhs/                        # tracked in git; generated output gitignored
 │       ├── __init__.py
 │       ├── generate_xhs_cards.py
+│       ├── config.yml
 │       ├── xhs_cards/
 │       │   ├── __init__.py
 │       │   ├── series_a.py
 │       │   ├── series_6years.py
+│       │   ├── article.py          # article series (added 2026-06-27)
 │       │   ├── base.css
 │       │   └── six_years.css
 │       ├── data/
 │       │   └── reading_inventory.json
-│       └── output/
+│       ├── tests/
+│       └── output/                 # gitignored (PNGs only)
 │           ├── 6-years-updating.png
-│           └── series-a/           # flattened from old output/xhs/series-a/
+│           └── series-a/
+├── .cursor/skills/xhs-article-cards/   # Cursor Skill (added 2026-06-27)
 └── _archive/                       # gitignored (unchanged)
 ```
 
@@ -84,10 +88,12 @@ wygmjdd.github.io/
 |------|-------------------|
 | `scripts/wechat/**` | Yes — use `git mv` for tracked files to preserve history |
 | `scripts/requirements.txt` | Yes — stays at `scripts/requirements.txt` |
-| `scripts/xhs/**` | No — entire tree gitignored (same intent as today) |
+| `scripts/xhs/**` (source, tests, `data/`, Skill) | Yes — committed from 2026-06-27 (`640d178` and follow-ups) |
+| `scripts/xhs/output/**` | No — gitignored (generated PNGs) |
+| `.cursor/skills/xhs-article-cards/` | Yes — repo-committed Cursor Skill |
 | Root `update_manual/`, `output/`, `data/reading_inventory.json` | Removed from tree / never committed |
 
-The implementation commit covers **wechat reorg only**. XHS files are moved on disk locally before or after; they do not appear in that commit.
+The initial implementation commit (`f10cdd3`) covered **wechat reorg only**. XHS was moved locally first; **xhs source + Skill were later committed** so a second machine can clone and use the article card pipeline without restoring from backup.
 
 ## CLI commands (from repo root)
 
@@ -131,11 +137,18 @@ No root-level forwarding entry points. `update_manual` subprocess calls use the 
 
 ## `.gitignore` changes
 
-Replace the current tooling block with:
+Initial reorg (2026-06-26):
 
 ```gitignore
 scripts/wechat/.migrate_done
 scripts/xhs/
+```
+
+**Amended 2026-06-27** (xhs article cards): only generated output is ignored:
+
+```gitignore
+scripts/wechat/.migrate_done
+scripts/xhs/output/
 ```
 
 Remove these obsolete entries:
@@ -176,7 +189,7 @@ scripts/xhs_cards/
 - Hugo templates, `hugo.toml`, GitHub Actions workflow (no script paths referenced)
 - Changes to `categories.yml` content
 - Internal logic refactors of migration scripts (beyond path/import/docstring updates)
-- Committing `scripts/xhs/` artifacts or source
+- ~~Committing `scripts/xhs/` artifacts or source~~ — **superseded:** xhs source + Skill are now committed; only `scripts/xhs/output/` stays local
 - Rewriting historical specs under `docs/plans/` or older `docs/superpowers/specs/`
 
 ## Verification
@@ -188,6 +201,18 @@ scripts/xhs_cards/
 5. `git ls-files scripts/` lists only `scripts/__init__.py`, `scripts/requirements.txt`, and `scripts/wechat/**` (no flat `scripts/*.py`).
 6. Hugo build unchanged: `hugo --minify --gc --buildFuture` (optional smoke check).
 7. (Local) `python3 -m scripts.xhs.generate_xhs_cards --help` runs after xhs filesystem move.
+8. `pytest scripts/xhs/tests/ -q` passes; article series: see `docs/superpowers/specs/2026-06-27-xhs-article-cards-design.md`.
+
+## Amendments (2026-06-27)
+
+After the xhs **article cards** feature (`docs/superpowers/specs/2026-06-27-xhs-article-cards-design.md`):
+
+1. **`scripts/xhs/` is tracked in git** — Python package, `config.yml`, `data/reading_inventory.json`, tests.
+2. **Only `scripts/xhs/output/` is gitignored** — generated PNGs and per-article manifests under `output/articles/`.
+3. **`.cursor/skills/xhs-article-cards/`** — committed for cross-machine Cursor use.
+4. **Article series CLI:** `python3 -m scripts.xhs.generate_xhs_cards --series article --manifest <path>`.
+
+Historical sections above that say「xhs 整树 gitignore」describe the **2026-06-26 reorg intent** before this amendment.
 
 ## Migration notes for local machines
 

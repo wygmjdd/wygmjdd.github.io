@@ -12,6 +12,7 @@ _XHS_DIR = _XHS_CARDS_DIR.parent
 REPO_ROOT = _XHS_DIR.parent.parent
 CONFIG_PATH = _XHS_DIR / "config.yml"
 CATEGORIES_PATH = REPO_ROOT / "data" / "categories.yml"
+SUPPORTED_MANIFEST_VERSION = 1
 
 
 def load_xhs_config() -> dict[str, Any]:
@@ -47,3 +48,17 @@ def resolve_cta_theme(primary_category: str, config: dict[str, Any] | None = Non
             return str(theme)
     default = cfg.get("default_cta", "reading")
     return str(default)
+
+
+def enrich_manifest_from_article(manifest: dict[str, Any], article_metadata: dict[str, Any]) -> dict[str, Any]:
+    """Fill primary_category and category_title from Hugo front matter when manifest omits them."""
+    merged = dict(manifest)
+    if not str(merged.get("primary_category") or "").strip():
+        slug_raw = article_metadata.get("primary_category")
+        if slug_raw is not None and str(slug_raw).strip():
+            merged["primary_category"] = str(slug_raw).strip()
+
+    slug = str(merged.get("primary_category") or "").strip()
+    if slug and not str(merged.get("category_title") or "").strip():
+        merged["category_title"] = resolve_category_title(slug)
+    return merged

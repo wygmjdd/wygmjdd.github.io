@@ -198,7 +198,7 @@ Print to user:
 ## Body slide rules
 
 - **Verbatim** paragraphs and blockquotes after footer strip
-- **Pagination:** split at paragraph boundaries; target `chars_per_slide` from config (default **200**). Count includes Chinese characters and punctuation; exclude leading/trailing whitespace on each chunk
+- **Pagination:** split at paragraph boundaries; target `chars_per_slide` from config (default **270**). Count includes Chinese characters and punctuation; exclude leading/trailing whitespace on each chunk
 - **Long paragraph:** if one paragraph exceeds limit, split at sentence boundaries (`。！？；`) before hard-splitting mid-sentence
 - **Blockquotes** (`>` lines): prefer keeping a quote block on one slide; if too long, split at sentence boundaries inside the quote
 - **Slide header (body pages):** Chinese category title from `data/categories.yml` (e.g. `阅读书目`)
@@ -259,7 +259,7 @@ Script does not auto-detect overflow in v1; manual QA on first article is requir
 ```yaml
 nickname: 我要改名叫嘟嘟
 bio: 一个用文字分享生活和读书感悟的程序员
-chars_per_slide: 200
+chars_per_slide: 270
 default_cta: reading
 cta_mapping:
   reading:
@@ -282,7 +282,7 @@ cta_mapping:
 
 Unlisted `primary_category` values fall back to `default_cta`. Skill may set `cta_theme` in manifest regardless.
 
-Category **display titles** are not duplicated here; load from `data/categories.yml` at render time.
+Category **display titles** are resolved at render time from `data/categories.yml` when `category_title` is omitted in manifest (via `primary_category` on the article or manifest).
 
 ## Output layout
 
@@ -330,7 +330,7 @@ Cursor loads project skills from `.cursor/skills/` when the repo is opened. On a
 
 Run: `python3 -m pytest scripts/xhs/tests/ -q` from repo root (with venv).
 
-Manual QA: Skill on `reading-category__post-13f67e2873.md` — verify ~7–9 slides, no clipped text, cover title readable on AI background.
+Manual QA: Skill on `reading-category__post-13f67e2873.md` — verify ~10–12 slides at default 270 chars, no clipped text, cover title readable on AI background.
 
 ## Out of scope (v1)
 

@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import html
-import json
+import sys
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
@@ -15,21 +15,27 @@ from scripts.xhs.xhs_cards.article_parser import (
     resolve_source_path,
 )
 from scripts.xhs.xhs_cards.article_paginator import paginate_blocks
-from scripts.xhs.xhs_cards.xhs_config import load_xhs_config
+from scripts.xhs.xhs_cards.xhs_config import enrich_manifest_from_article, load_xhs_config
 
 _XHS_CARDS_DIR = Path(__file__).resolve().parent
 _CSS_PATH = _XHS_CARDS_DIR / "article.css"
+_BODY_SLIDE_WARN_THRESHOLD = 12
 
 CTA_THEME_LABELS = {
     "reading": "读书感悟",
     "life": "生活分享",
 }
 
+_CSS_BLOCK_CACHE: str | None = None
+
 
 def _css_block() -> str:
-    base = (_XHS_CARDS_DIR / "base.css").read_text(encoding="utf-8")
-    article = _CSS_PATH.read_text(encoding="utf-8")
-    return f"<style>{base}\n{article}</style>"
+    global _CSS_BLOCK_CACHE
+    if _CSS_BLOCK_CACHE is None:
+        base = (_XHS_CARDS_DIR / "base.css").read_text(encoding="utf-8")
+        article = _CSS_PATH.read_text(encoding="utf-8")
+        _CSS_BLOCK_CACHE = f"<style>{base}\n{article}</style>"
+    return _CSS_BLOCK_CACHE
 
 
 def _slide_shell(
@@ -39,8 +45,15 @@ def _slide_shell(
     page: int,
     total: int,
     extra_class: str = "",
+    background_url: str | None = None,
+    footer_left: str | None = None,
 ) -> str:
     slide_class = f"slide {extra_class}".strip()
+    style_attr = ""
+    if background_url:
+        style_attr = f' style="background-image: url(\'{background_url}\');"'
+    if footer_left is None:
+        footer_left = f"@{html.escape(nickname)}"
     return f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -48,11 +61,11 @@ def _slide_shell(
   {_css_block()}
 </head>
 <body>
-  <div class="{slide_class}">
+  <div class="{slide_class}"{style_attr}>
     <div class="slide-header">{html.escape(header)}</div>
     <div class="slide-body">{body}</div>
     <div class="slide-footer">
-      <span>@{html.escape(nickname)}</span>
+      <span>{footer_left}</span>
       <span>{page}/{total}</span>
     </div>
   </div>
@@ -94,11 +107,14 @@ def _render_cover_slide(manifest: dict[str, Any], manifest_dir: Path, page: int,
     <div class="cover-title">{html.escape(xhs_title)}</div>
     <div class="cover-subtitle">{html.escape(cover_subtitle)}</div>
     """
-    shell = _slide_shell(category_title, body, nickname, page, total, extra_class="slide-cover")
-    return shell.replace(
-        '<div class="slide slide-cover">',
-        f'<div class="slide slide-cover" style="background-image: url(\'{_file_url(bg_path)}\');">',
-        1,
+    return _slide_shell(
+        category_title,
+        body,
+        nickname,
+        page,
+        total,
+        extra_class="slide-cover",
+        background_url=_file_url(bg_path),
     )
 
 
@@ -117,7 +133,15 @@ def _render_end_slide(manifest: dict[str, Any], page: int, total: int) -> str:
     <div class="end-handle">@{html.escape(nickname)}</div>
     <div class="end-bio">{html.escape(bio)}</div>
     """
-    return _slide_shell(theme_label, body, nickname, page, total, extra_class="slide-end")
+    return _slide_shell(
+        theme_label,
+        body,
+        nickname,
+        page,
+        total,
+        extra_class="slide-end",
+        footer_left="",
+    )
 
 
 def render_article_slides(manifest_path: Path) -> tuple[list[tuple[str, str]], Path]:
@@ -132,11 +156,20 @@ def render_article_slides(manifest_path: Path) -> tuple[list[tuple[str, str]], P
         raise FileNotFoundError(f"Article source missing: {source_path}")
 
     article = parse_article_file(source_path)
+    manifest = enrich_manifest_from_article(manifest, article.metadata)
     if not article.blocks:
         raise ValueError(f"No content blocks after parsing: {source_path}")
 
-    max_chars = int(manifest.get("chars_per_slide", 200))
+    max_chars = int(manifest.get("chars_per_slide", 270))
     body_pages = paginate_blocks(article.blocks, max_chars)
+    if len(body_pages) > _BODY_SLIDE_WARN_THRESHOLD:
+        print(
+            f"Warning: {len(body_pages)} body slides (>{_BODY_SLIDE_WARN_THRESHOLD}); "
+            f"consider raising chars_per_slide in manifest (current {max_chars}).",
+            file=sys.stderr,
+            flush=True,
+        )
+
     total = 1 + len(body_pages) + 1
 
     header = str(manifest.get("category_title") or manifest.get("primary_category") or "")
@@ -153,8 +186,3 @@ def render_article_slides(manifest_path: Path) -> tuple[list[tuple[str, str]], P
     end_page = total
     slides.append((f"{end_page:02d}-end.png", _render_end_slide(manifest, end_page, total)))
     return slides, manifest_dir
-
-
-def write_manifest(path: Path, data: dict[str, Any]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

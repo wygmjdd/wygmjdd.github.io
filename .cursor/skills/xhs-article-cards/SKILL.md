@@ -15,8 +15,25 @@ Turn a Hugo article (`content/docs/.../*.md`) into an ordered PNG series for Xia
 
 ## Prerequisites
 
-- Repo root with venv: `pip install -r scripts/requirements.txt` && `playwright install chromium`
-- Python render: `python3 -m scripts.xhs.generate_xhs_cards --series article --manifest <path>`
+**One-time setup on each machine** (clone repo → open in Cursor):
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r scripts/requirements.txt
+playwright install chromium
+```
+
+If Playwright or Python deps are missing, the render command prints install instructions and exits.
+
+**Skill does not need to write `category_title`** — omit it from `manifest.json`; the script reads `primary_category` from the article (or manifest) and resolves the Chinese label from `data/categories.yml`.
+
+**Per article you still need:** user picks a title, AI cover (`cover-bg.png`), and CTA lines in manifest.
+
+Python render:
+
+```bash
+python3 -m scripts.xhs.generate_xhs_cards --series article --manifest <path>
+```
 
 ## Workflow
 
@@ -59,7 +76,7 @@ scripts/xhs/output/articles/{slug}/cover-bg.png
 | `reading` | 读书感悟 | reading-category, reading, book-quotes-sharing, zimbardo-general-psychology, summary |
 | `life` | 生活分享 | life-diary, subway-diary, 30min-diary, learning-to-cook, marriage, intimate-relationships, shenzhen, workplace-experience, technical-blog |
 
-Default from `primary_category` via `scripts/xhs/config.yml`; override if content clearly fits the other theme.
+Default from `primary_category` via `scripts/xhs/config.yml` and `resolve_cta_theme()`; override if content clearly fits the other theme.
 
 **Two sentences** (article-specific, not generic slogans):
 
@@ -85,18 +102,25 @@ Write `manifest.json`:
   "xhs_title": "<user chosen>",
   "cover_subtitle": "<original title or short hook, ≤20 chars preferred>",
   "primary_category": "reading-category",
-  "category_title": "阅读书目",
   "cover_bg": "cover-bg.png",
   "cta_theme": "reading",
   "cta_line1": "……",
   "cta_line2": "……",
   "nickname": "我要改名叫嘟嘟",
   "bio": "一个用文字分享生活和读书感悟的程序员",
-  "chars_per_slide": 200
+  "chars_per_slide": 270
 }
 ```
 
-`source` is repo-relative. Run from repo root:
+`source` is repo-relative. Default `chars_per_slide` is **270** (see `scripts/xhs/config.yml`). If the rendered body exceeds **12 slides**, raise `chars_per_slide` in the manifest or warn the user before upload.
+
+Determine `cta_theme` by running (or equivalent logic):
+
+```bash
+python3 -c "from scripts.xhs.xhs_cards.xhs_config import resolve_cta_theme; print(resolve_cta_theme('reading-category'))"
+```
+
+Run from repo root:
 
 ```bash
 python3 -m scripts.xhs.generate_xhs_cards \

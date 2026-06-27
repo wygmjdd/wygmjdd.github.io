@@ -12,6 +12,7 @@ from scripts.wechat.normalize_article_footer import (
     strip_cta_html,
     strip_trailing_promo_lines,
 )
+from scripts.xhs.xhs_cards.xhs_config import REPO_ROOT, SUPPORTED_MANIFEST_VERSION
 
 _INLINE_LINK_RE = re.compile(
     r' <small>（<a href="([^"]+)" rel="noopener noreferrer">原文链接</a>'
@@ -19,8 +20,6 @@ _INLINE_LINK_RE = re.compile(
 )
 _IMAGE_MARKDOWN_RE = re.compile(r"!\[[^\]]*\]\([^)]+\)")
 _FIGURE_HTML_RE = re.compile(r"<figure\b", re.IGNORECASE)
-
-REPO_ROOT = Path(__file__).resolve().parents[3]
 
 
 @dataclass(frozen=True)
@@ -98,17 +97,18 @@ def parse_article_file(path: Path) -> ParsedArticle:
     )
 
 
-def parse_article_metadata_only(path: Path) -> dict[str, Any]:
-    raw = path.read_text(encoding="utf-8")
-    return parse_frontmatter_markdown(raw).metadata
-
-
 def load_manifest(path: Path) -> dict[str, Any]:
     import json
 
     data = json.loads(path.read_text(encoding="utf-8"))
     if not isinstance(data, dict):
         raise ValueError(f"manifest must be a JSON object: {path}")
+    version = data.get("manifest_version", 1)
+    if version != SUPPORTED_MANIFEST_VERSION:
+        raise ValueError(
+            f"Unsupported manifest_version {version!r} in {path}; "
+            f"expected {SUPPORTED_MANIFEST_VERSION}"
+        )
     return data
 
 
@@ -116,7 +116,7 @@ def merge_manifest_defaults(manifest: dict[str, Any], config: dict[str, Any]) ->
     merged = dict(manifest)
     merged.setdefault("nickname", config.get("nickname", ""))
     merged.setdefault("bio", config.get("bio", ""))
-    merged.setdefault("chars_per_slide", config.get("chars_per_slide", 200))
+    merged.setdefault("chars_per_slide", config.get("chars_per_slide", 270))
     return merged
 
 
