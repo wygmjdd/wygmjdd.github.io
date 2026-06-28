@@ -27,15 +27,17 @@ Use Chromium as the source of truth for pagination. Python still parses article 
 
 The stable path is:
 
-1. Parse markdown into `ContentBlock`s with `kind`, `text`, and `source_id`.
-2. Expand content into candidate text units.
-3. Greedily add units to the current page.
-4. After each addition, render the page in Chromium and check whether `.article-body-text` overflows.
-5. If it fits, keep it.
-6. If it overflows, revert the last addition, open a new page, and continue.
-7. If a single unit cannot fit on an empty page, split it more finely.
-8. After pagination, run a small semantic cleanup for page endings, validating every move with Chromium.
-9. Render final body slide HTML from the browser-measured pages.
+1. Parse markdown into `ContentBlock`s with `kind` and `text`.
+2. Assign stable pagination `source_id`s to the original block stream.
+3. Expand content into candidate text units while preserving those `source_id`s.
+4. Greedily add units to the current page.
+5. After each addition, render the page in Chromium and check whether `.article-body-text` overflows.
+6. If it fits, keep it.
+7. If a whole block overflows the current non-empty page, try placing its leading sentence or clause on the current page before opening a new page.
+8. If no natural leading piece fits, revert the last addition, open a new page, and continue.
+9. If a single unit cannot fit on an empty page, split it more finely.
+10. After pagination, run a small semantic cleanup for page endings, validating every move with Chromium.
+11. Render final body slide HTML from the browser-measured pages.
 
 ## Scope
 
@@ -74,6 +76,8 @@ def paginate_blocks_with_browser(
 ```
 
 The function owns one Playwright Chromium page for the full pagination run. This avoids launching a browser for each probe while still using real rendering for every fit decision.
+
+The parser currently returns `ContentBlock`s with the default `source_id=0`. The browser paginator must normalize the input before splitting by assigning each original block a stable, sequential `source_id`. Every derived sentence, clause, or character chunk inherits the `source_id` of its original block. This keeps paragraph continuation and same-source merging local to pagination, without making the parser responsible for pagination identity.
 
 ### Rendering probe
 
@@ -119,7 +123,9 @@ For each unit:
 - Try appending it to the current page.
 - If Chromium says it fits, keep it.
 - If Chromium says it overflows:
-  - If the current page has content, start a new page and retry the unit.
+  - If the current page has content and the unit can be split naturally, try the leading sentence, then leading clause, then bounded leading chunk on the current page.
+  - If a leading piece fits, keep that piece on the current page and retry the remainder.
+  - If no leading piece fits, start a new page and retry the unit.
   - If the current page is empty, split the unit into smaller units and retry.
 
 This makes overflow prevention deterministic and removes the need for a separate peel-after-render pass in normal cases.
@@ -169,7 +175,7 @@ The old estimate-based modules may remain temporarily for existing tests or fall
 
 Add focused tests around the browser paginator:
 
-- Text completeness: joining all output blocks equals the cleaned source body text.
+- Text completeness: joining all output blocks equals the parser-normalized source stream, not the raw cleaned markdown body. The expected text should be `"".join(block.text for block in article.blocks)`, because the parser strips quote markers, removes blank paragraph separators, and normalizes block boundaries before pagination.
 - No clipping: every rendered body slide has no `.article-body-text` overflow in Chromium.
 - Continuation indentation: a page that continues the same paragraph renders the first paragraph with `article-p-continue`.
 - Page ending quality: non-final pages do not end with dangling flow punctuation when the next page continues the same source paragraph.
