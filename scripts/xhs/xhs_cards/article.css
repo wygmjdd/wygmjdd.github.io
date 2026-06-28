@@ -11,7 +11,9 @@
   --accent-soft: rgba(166, 90, 58, 0.14);
   --rule: rgba(42, 38, 34, 0.1);
   --shadow-warm: rgba(120, 86, 58, 0.1);
-  --quote-bar: rgba(166, 90, 58, 0.72);
+  --quote-surface: rgba(166, 90, 58, 0.075);
+  --quote-rule: rgba(166, 90, 58, 0.34);
+  --quote-ink: #332c27;
   --radius-frame: 20px;
   --radius-card: 16px;
 }
@@ -120,18 +122,31 @@
 }
 
 .article-quote {
-  padding: 4px 0 4px 24px;
+  position: relative;
+  padding: 12px 12px 12px 30px;
   margin: 0;
-  background: transparent;
-  border-left: 3px solid var(--quote-bar);
-  border-radius: 0;
+  background: var(--quote-surface);
+  border: 1px solid rgba(166, 90, 58, 0.12);
+  border-left: 0;
+  border-radius: 14px;
   font-family: "Songti SC", "STSong", "Noto Serif SC", serif;
-  font-size: 31px;
-  line-height: 1.84;
-  color: var(--ink-primary);
+  font-size: 29px;
+  line-height: 1.78;
+  color: var(--quote-ink);
   letter-spacing: 0.01em;
   white-space: pre-wrap;
   -webkit-font-smoothing: antialiased;
+}
+
+.article-quote::before {
+  content: "";
+  position: absolute;
+  left: 14px;
+  top: 16px;
+  bottom: 16px;
+  width: 3px;
+  border-radius: 999px;
+  background: var(--quote-rule);
 }
 
 /* --- Cover slide --- */

@@ -95,6 +95,7 @@ def test_load_manifest_accepts_current_version(tmp_path: Path) -> None:
 
 def test_resolve_cta_theme_from_config() -> None:
     assert resolve_cta_theme("reading-category") == "reading"
+    assert resolve_cta_theme("summary") == "summary"
     assert resolve_cta_theme("subway-diary") == "life"
     assert resolve_cta_theme("unknown-slug") == "reading"
 

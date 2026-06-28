@@ -86,6 +86,79 @@ def test_render_article_slides_cover_body_end(manifest_dir: Path) -> None:
     assert '<div class="slide-footer' not in end_html
 
 
+def test_summary_article_label_overrides_stale_reading_theme(tmp_path: Path) -> None:
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 2025年终总结（下），认识自己后的依然做自己\n"
+        "primary_category: summary\n"
+        "---\n"
+        "正文内容。\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "summary-article",
+        "original_title": "2025年终总结（下），认识自己后的依然做自己",
+        "xhs_title": "在我之外，还有一个安静看着我的我",
+        "primary_category": "summary",
+        "cta_theme": "reading",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    slides, _ = render_article_slides(manifest_path)
+
+    cover_html = slides[0][1]
+    end_html = slides[-1][1]
+    assert '<div class="cover-kicker">年度总结</div>' in cover_html
+    assert '<div class="end-theme">年度总结</div>' in end_html
+    assert '<div class="cover-kicker">读书感悟</div>' not in cover_html
+    assert '<div class="end-theme">读书感悟</div>' not in end_html
+
+
+def test_summary_article_allows_explicit_cta_label(tmp_path: Path) -> None:
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 2024年读完书籍（下）\n"
+        "primary_category: summary\n"
+        "---\n"
+        "正文内容。\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "summary-reading-list",
+        "original_title": "2024年读完书籍（下）",
+        "xhs_title": "这些书留在了这一年里",
+        "primary_category": "summary",
+        "cta_theme": "summary",
+        "cta_label": "读书感悟",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    slides, _ = render_article_slides(manifest_path)
+
+    cover_html = slides[0][1]
+    end_html = slides[-1][1]
+    assert '<div class="cover-kicker">读书感悟</div>' in cover_html
+    assert '<div class="end-theme">读书感悟</div>' in end_html
+    assert '<div class="cover-kicker">年度总结</div>' not in cover_html
+    assert '<div class="end-theme">年度总结</div>' not in end_html
+
+
 def test_cover_css_keeps_title_thumbnail_readable() -> None:
     css = _CSS_PATH.read_text(encoding="utf-8")
 
@@ -94,6 +167,29 @@ def test_cover_css_keeps_title_thumbnail_readable() -> None:
     assert "font-size: 86px;" in css
     assert "background: transparent;" in css
     assert "min-height: 780px;" in css
+
+
+def test_quote_css_uses_editorial_note_treatment() -> None:
+    css = _CSS_PATH.read_text(encoding="utf-8")
+
+    assert ".article-quote::before" in css
+    assert "background: var(--quote-surface);" in css
+    assert "border-left: 0;" in css
+    assert "font-size: 29px;" in css
+
+
+def test_quote_layout_estimate_matches_quote_css() -> None:
+    from scripts.xhs.xhs_cards.article_layout import (
+        QUOTE_FONT,
+        QUOTE_LINE_HEIGHT,
+        QUOTE_PADDING_HORIZONTAL,
+        QUOTE_PADDING_VERTICAL,
+    )
+
+    assert QUOTE_FONT == 29
+    assert QUOTE_LINE_HEIGHT == 1.78
+    assert QUOTE_PADDING_VERTICAL == 24
+    assert QUOTE_PADDING_HORIZONTAL == 42
 
 
 def test_prepare_cover_ai_from_legacy_cover_bg(tmp_path: Path) -> None:

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
 from scripts.xhs.xhs_cards.article_layout import AVAILABLE_TEXT_HEIGHT, EFFECTIVE_TEXT_HEIGHT, page_content_height
@@ -328,14 +329,29 @@ def test_summary_slides_06_07_fill_with_playwright() -> None:
             browser.close()
 
 
-def test_rendered_summary_body_slides_do_not_clip_text_area() -> None:
+def test_rendered_summary_body_slides_do_not_clip_text_area(tmp_path: Path) -> None:
     from scripts.xhs.xhs_cards.article import render_article_slides
     from scripts.xhs.xhs_cards.article_browser_paginator import _BODY_FITS_JS
 
-    manifest_path = Path(
-        "scripts/xhs/output/articles/"
-        "2025-nian-zhong-zong-jie-xia-ren-shi-zi-ji-hou-de-yi-ran-zuo-zi-ji/"
-        "manifest.json"
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(
+        json.dumps(
+            {
+                "manifest_version": 1,
+                "source": "content/docs/2026/03/summary__post-5e8573cff7.md",
+                "slug": "summary-render-fit",
+                "original_title": "2025年终总结（下），认识自己后的依然做自己",
+                "xhs_title": "在我之外，还有一个安静看着我的我",
+                "primary_category": "summary",
+                "cta_theme": "reading",
+                "cta_line1": "情绪生起时，在我之外又生出一个我，安静看着——那一刻，内心就能平静下来。",
+                "nickname": "我要改名叫嘟嘟",
+                "bio": "一个用文字分享生活和读书感悟的程序员",
+                "chars_per_slide": 340,
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
     )
     slides, _ = render_article_slides(manifest_path)
     body_slides = [

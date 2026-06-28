@@ -8,6 +8,7 @@ cta_mapping:
     - reading
     - book-quotes-sharing
     - zimbardo-general-psychology
+  summary:
     - summary
   life:
     - life-diary

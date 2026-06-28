@@ -30,8 +30,10 @@ COVER_OUTPUT_FILENAME = "01-cover.png"
 
 CTA_THEME_LABELS = {
     "reading": "读书感悟",
+    "summary": "总结复盘",
     "life": "生活分享",
 }
+_ANNUAL_SUMMARY_KEYWORDS = ("年终", "年度", "年底", "年末")
 
 _CSS_BLOCK_CACHE: str | None = None
 
@@ -205,11 +207,28 @@ def sync_cover_deliverables(manifest_dir: Path) -> None:
     shutil.copy2(cover_out, manifest_dir / COVER_BG_FILENAME)
 
 
+def _resolve_cta_theme_label(manifest: dict[str, Any]) -> str:
+    explicit_label = str(manifest.get("cta_label") or "").strip()
+    if explicit_label:
+        return explicit_label
+
+    primary_category = str(manifest.get("primary_category") or "").strip()
+    if primary_category == "summary":
+        title_text = "".join(
+            str(manifest.get(key) or "") for key in ("original_title", "xhs_title", "series_title")
+        )
+        if any(keyword in title_text for keyword in _ANNUAL_SUMMARY_KEYWORDS):
+            return "年度总结"
+        return CTA_THEME_LABELS["summary"]
+
+    theme = str(manifest.get("cta_theme") or "reading").strip() or "reading"
+    return CTA_THEME_LABELS.get(theme, theme)
+
+
 def _render_cover_slide(manifest: dict[str, Any], manifest_dir: Path) -> str:
     ai_path = prepare_cover_ai(manifest_dir, manifest)
     xhs_title = str(manifest.get("xhs_title") or "")
-    theme = str(manifest.get("cta_theme") or "reading")
-    theme_label = CTA_THEME_LABELS.get(theme, theme)
+    theme_label = _resolve_cta_theme_label(manifest)
 
     body = f"""
     <div class="cover-title-card glass-card">
@@ -225,8 +244,7 @@ def _render_cover_slide(manifest: dict[str, Any], manifest_dir: Path) -> str:
 
 
 def _render_end_slide(manifest: dict[str, Any]) -> str:
-    theme = str(manifest.get("cta_theme") or "reading")
-    theme_label = CTA_THEME_LABELS.get(theme, theme)
+    theme_label = _resolve_cta_theme_label(manifest)
     line1 = str(manifest.get("cta_line1") or "")
     nickname = str(manifest.get("nickname") or "")
     bio = str(manifest.get("bio") or "")

@@ -17,9 +17,10 @@ CONTENT_WIDTH = 1080 - 36 * 2 - 36 * 2
 
 PARAGRAPH_FONT = 33
 PARAGRAPH_LINE_HEIGHT = 1.86
-QUOTE_FONT = 31
-QUOTE_LINE_HEIGHT = 1.84
-QUOTE_PADDING_VERTICAL = 8
+QUOTE_FONT = 29
+QUOTE_LINE_HEIGHT = 1.78
+QUOTE_PADDING_VERTICAL = 24
+QUOTE_PADDING_HORIZONTAL = 42
 BLOCK_GAP = 28
 DEFAULT_SPLIT_CHARS = 340
 
@@ -44,11 +45,11 @@ def _chars_per_line(font_size: int, content_width: int = CONTENT_WIDTH) -> int:
     return max(1, int(content_width / font_size))
 
 
-def _line_count(text: str, font_size: int) -> int:
+def _line_count(text: str, font_size: int, content_width: int = CONTENT_WIDTH) -> int:
     stripped = text.strip()
     if not stripped:
         return 0
-    chars_per_line = _chars_per_line(font_size)
+    chars_per_line = _chars_per_line(font_size, content_width)
     return max(1, (len(stripped) + chars_per_line - 1) // chars_per_line)
 
 
@@ -57,12 +58,14 @@ def estimate_block_height(block: ContentBlock) -> float:
         font_size = QUOTE_FONT
         line_height = QUOTE_LINE_HEIGHT
         padding = QUOTE_PADDING_VERTICAL
+        content_width = CONTENT_WIDTH - QUOTE_PADDING_HORIZONTAL
     else:
         font_size = PARAGRAPH_FONT
         line_height = PARAGRAPH_LINE_HEIGHT
         padding = 0.0
+        content_width = CONTENT_WIDTH
 
-    lines = _line_count(block.text, font_size)
+    lines = _line_count(block.text, font_size, content_width)
     return lines * font_size * line_height + padding
 
 

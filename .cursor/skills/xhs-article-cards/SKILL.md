@@ -72,7 +72,7 @@ Current article series uses a **warm paper / editorial** look (not glass-on-grad
 
 - Body: single full-height paper card; series title in serif + hairline rule.
 - Paragraphs: PingFang sans, ~33px, relaxed line-height.
-- Quotes: Songti serif, **left accent bar only** (no blue box).
+- Quotes: Songti serif editorial note block, with a quiet paper tint and short bookmark line (not a blue box, not a full-height web blockquote bar).
 - Cover: default paper-style typography cover; optional `cover-ai.png` can add a quiet mood background. Renderer adds an oversized title layer optimized for profile-grid legibility. Avoid visible white title cards unless a specific cover needs that rescue. `01-cover.png` is the deliverable; `cover-bg.png` auto-syncs to match.
 - End slide: theme label + `cta_line1` + @nickname + bio in the card body (no second CTA line).
 - **Footer policy:** cover and end have **no slide footer**. Body slides only show **`{n}/{body_total}`** (right-aligned page number, no @nickname watermark).
@@ -155,10 +155,13 @@ If another article already uses the same pinyin folder for a **different** sourc
 
 | Value | Label | Categories |
 |-------|-------|------------|
-| `reading` | 读书感悟 | reading-category, reading, book-quotes-sharing, zimbardo-general-psychology, summary |
+| `reading` | 读书感悟 | reading-category, reading, book-quotes-sharing, zimbardo-general-psychology |
+| `summary` | 年度总结 / 总结复盘 | summary |
 | `life` | 生活分享 | life-diary, subway-diary, 30min-diary, learning-to-cook, marriage, intimate-relationships, shenzhen, workplace-experience, technical-blog |
 
 Default from `primary_category` via `scripts/xhs/config.yml` and `resolve_cta_theme()`; override if content clearly fits the other theme.
+For `primary_category: summary`, the renderer treats title keywords like「年终」「年度」「年底」「年末」as `年度总结`; other summaries use `总结复盘`.
+If a summary article should intentionally show a different label (for example a yearly reading list that should say「读书感悟」), set `cta_label` to the exact display text. Do not rely on a stale `cta_theme: reading` in old manifests as the override signal.
 
 **One sentence** (article-specific, not generic slogans):
 
@@ -184,6 +187,7 @@ Write `manifest.json`:
   "xhs_title": "<user chosen>",
   "primary_category": "reading-category",
   "cta_theme": "reading",
+  "cta_label": "<optional exact label override>",
   "cta_line1": "……",
   "nickname": "我要改名叫嘟嘟",
   "bio": "一个用文字分享生活和读书感悟的程序员",
@@ -194,6 +198,7 @@ Write `manifest.json`:
 - `output_dir` — folder name under `output/articles/` (pinyin of `original_title`)
 - `source_slug` — markdown filename stem (for traceability only)
 - `cover_ai` — optional; omit for the default paper-style typography cover, set to `"cover-ai.png"` only when you generated a background
+- `cta_label` — optional exact display override for cover/end theme label; omit in normal cases
 - Do **not** set `cover_subtitle`, `category_title`, or `cta_line2` — unused by current renderer
 
 `source` is repo-relative. Pagination fills each slide by **Chromium-measured rendered fit** with **book-style sentence flow**. `chars_per_slide` (default **340**) is kept for manifest compatibility and oversized-block splitting; it is not the primary page-break driver.
