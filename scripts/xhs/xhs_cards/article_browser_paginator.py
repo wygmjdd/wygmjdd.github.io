@@ -268,9 +268,6 @@ def _cleanup_page_endings(
         for index in range(len(cleaned) - 1):
             page = cleaned[index]
             next_page = cleaned[index + 1]
-            if not _tail_is_bad(page, next_page):
-                continue
-
             pulled = _pull_prefix_from_next(
                 page,
                 next_page,
@@ -282,6 +279,9 @@ def _cleanup_page_endings(
             if pulled is not None:
                 cleaned[index], cleaned[index + 1] = pulled
                 changed = True
+                continue
+
+            if not _tail_is_bad(page, next_page):
                 continue
 
             remainder, moved = _peel_trailing_piece(page[-1])

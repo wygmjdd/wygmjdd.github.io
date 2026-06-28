@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+from pathlib import Path
+
 from scripts.xhs.xhs_cards.article import _render_body_page
-from scripts.xhs.xhs_cards.article_parser import ContentBlock
+from scripts.xhs.xhs_cards.article_parser import ContentBlock, parse_article_file
 from scripts.xhs.xhs_cards.article_browser_paginator import (
     _BODY_FITS_JS,
     paginate_blocks_with_browser,
@@ -101,3 +103,16 @@ def test_browser_paginator_final_pages_do_not_overflow() -> None:
                 assert browser_page.evaluate(_BODY_FITS_JS), f"body page {index + 1} overflowed"
         finally:
             browser.close()
+
+
+def test_browser_paginator_backfills_renderable_prefix_on_underfilled_page() -> None:
+    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+
+    pages = paginate_blocks_with_browser(article.blocks, _render_probe, max_chars=340)
+
+    page_texts = ["".join(block.text for block in page) for page in pages]
+    assert not any(text.startswith("（关于游戏充钱") for text in page_texts[1:])
+    assert any(
+        text.endswith("（关于游戏充钱甚至为——不只是我——沉迷花钱这件事")
+        for text in page_texts[:-1]
+    )
