@@ -1,7 +1,10 @@
-# Example: Tesla reading article
+# Example walk-through (one article)
+
+This file illustrates the Skill workflow end-to-end. **The scripts treat every article the same** — nothing here is special-cased in code.
 
 **Article:** `content/docs/2026/06/reading-category__post-13f67e2873.md`  
-**Slug:** `reading-category__post-13f67e2873`
+**Output dir (this run):** `reading-category__post-13f67e2873` — legacy slug folder from an early run. **New articles** should use hyphenated pinyin of `original_title` (see `SKILL.md` → `resolve_article_output_dir`), e.g. `te-si-la-yu-wai-xing-ren`.
+**Source slug:** `reading-category__post-13f67e2873` (markdown filename stem; traceability only)
 
 ## Sample title candidates
 
@@ -32,7 +35,8 @@
 ## Sample CTA (reading theme)
 
 - **cta_line1:** 读完《特斯拉自传》，我对《外星人访谈录》里「现在-成为者」的着迷，祛魅不少。
-- **cta_line2:** 如果你也容易被「厉害到不像人」的故事吸住，我会继续把读书时的惊讶和笔记写下来。
+
+Reference output (after full pipeline): `scripts/xhs/output/articles/reading-category__post-13f67e2873/` — 7 PNGs for this article (page count is not a global target).
 
 ## Sample cover prompt
 

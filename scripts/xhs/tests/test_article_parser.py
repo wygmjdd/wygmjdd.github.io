@@ -35,6 +35,26 @@ def test_strip_body_removes_source_link_footer() -> None:
     assert "正文第二段" in body
 
 
+def test_strip_inline_markdown_links() -> None:
+    from scripts.xhs.xhs_cards.article_parser import strip_inline_markdown_links
+
+    text = "除去前面的[工作](https://example.com/a)与[读书](https://example.com/b)之外。"
+    assert strip_inline_markdown_links(text) == "除去前面的工作与读书之外。"
+
+
+def test_strip_body_removes_inline_markdown_links() -> None:
+    post = parse_frontmatter_markdown(
+        """---
+title: t
+---
+除去前面的[工作](https://example.com/a)之外。
+"""
+    )
+    body = strip_body_for_xhs(post.content)
+    assert body == "除去前面的工作之外。"
+    assert "](http" not in body
+
+
 def test_parse_body_blocks_quote_and_paragraphs() -> None:
     from scripts.xhs.xhs_cards.article_parser import parse_body_blocks
 

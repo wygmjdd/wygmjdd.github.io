@@ -42,7 +42,7 @@ Keep **`scripts/xhs/output/`** gitignored.
 | Body slides | **Verbatim** article text; strip Hugo「原文链接，更新于…」footer only |
 | Closing slide | Extra page; **follow XHS only**, no公众号 |
 | CTA theme | Two directions: **读书感悟** / **生活分享**, mapped from `primary_category` (Skill may override) |
-| CTA copy | **Two article-specific sentences** (共鸣句 + 关注理由), not generic slogans |
+| CTA copy | **One article-specific共鸣句** (`cta_line1`); fixed @nickname + bio on end slide |
 | Interaction | **Full Cursor workflow**: user points at `.md`, Skill orchestrates end-to-end |
 | Re-render | **`manifest.json`** on disk; script supports `--rerender` without re-running LLM |
 | Skill location | **Committed in this repo** (`.cursor/skills/`) for use on a second machine |
@@ -75,10 +75,10 @@ flowchart LR
   B --> C[Skill: 3 titles + 引流 rationale]
   C --> D[User picks title]
   D --> E[Skill: cover image prompt + GenerateImage]
-  E --> F[Skill: CTA theme + 2 contextual lines]
+  E --> F[Skill: CTA theme + cta_line1]
   F --> G[Skill: write manifest.json + post-caption.md]
   G --> H["python3 -m scripts.xhs.generate_xhs_cards --series article"]
-  H --> I["output/articles/{slug}/*.png"]
+  H --> I["output/articles/{output_dir}/*.png"]
 ```
 
 ### Components
@@ -90,8 +90,8 @@ flowchart LR
 | Article module | `scripts/xhs/xhs_cards/article.py` | Parse md, paginate, render HTML slides |
 | Styles | `scripts/xhs/xhs_cards/article.css` | Body + cover overlay + end slide (extends `base.css`) |
 | Config | `scripts/xhs/config.yml` | nickname, bio, chars-per-slide, CTA category mapping |
-| Category titles | `data/categories.yml` | Hugo source of truth for Chinese category names (cover chip, slide header) |
-| Manifest | `scripts/xhs/output/articles/{slug}/manifest.json` | Single source of truth for one generation run |
+| Category titles | `data/categories.yml` | Optional context for CTA theme; **not** shown on body slide header |
+| Manifest | `scripts/xhs/output/articles/{output_dir}/manifest.json` | Single source of truth for one generation run |
 | Tests | `scripts/xhs/tests/test_article_*.py` | Paginator + HTML snapshot (no Playwright in CI) |
 
 ## Skill workflow
@@ -107,7 +107,7 @@ flowchart LR
 ### Step 1 — Read article
 
 - Parse YAML frontmatter: `title`, `date`, `primary_category`, optional `source_url`
-- Resolve **category display title** from `data/categories.yml` by `primary_category` slug
+- Resolve `cta_theme` from `primary_category` (category label from `data/categories.yml` is optional context only — **not** rendered on slides)
 - Read body; strip trailing inline footer using the same patterns as `scripts/wechat/normalize_article_footer.py` (`<small>（<a …>原文链接</a>…）</small>`, promo `↓↓↓` lines, `article-follow-cta` divs)
 - **v1 text-only:** if body contains `<figure>` or `![](` image markdown, **warn** the user that images are omitted on slides; do not fail silently
 
@@ -124,7 +124,7 @@ Wait for user to pick (e.g.「用第 2 个」). Do not proceed without an explic
 ### Step 3 — Cover background
 
 - Skill writes an image prompt: fresh, soft, reading/life mood matching article; **no readable text in image**; leave negative space for title overlay (upper half)
-- Call `GenerateImage`; move/copy the result into the output dir as `cover-bg.png` (must exist before Step 5; re-use this file on `--rerender`)
+- Call `GenerateImage`; move/copy the result into the output dir as `cover-ai.png` (must exist before Step 5; re-use this file on `--rerender`)
 
 ### Step 4 — CTA theme and copy
 
@@ -140,39 +140,37 @@ Wait for user to pick (e.g.「用第 2 个」). Do not proceed without an explic
 
 **Closing slide copy (article-specific):**
 
-| Line | Purpose | Rules |
-|------|---------|-------|
-| **Line 1 — 共鸣句** | Echo a feeling, question, or insight from *this* post | May paraphrase; must reference concrete details (book, scene, emotion). No generic「如果这篇对你有启发」. |
-| **Line 2 — 关注理由** | Natural bridge to following | Describe what *similar* content follows; soft CTA. Do not use「关注我，持续分享…」as the whole sentence. |
+| Field | Purpose | Rules |
+|-------|---------|-------|
+| **`cta_line1` — 共鸣句** | Echo a feeling, question, or insight from *this* post | May paraphrase; must reference concrete details (book, scene, emotion). No generic「如果这篇对你有启发」. Do not hint at following/subscribing. |
 
 **Fixed on end slide (always rendered by script):**
 
 - `@我要改名叫嘟嘟`
 - `一个用文字分享生活和读书感悟的程序员`
 
-**Examples (读书感悟 / Tesla article):**
+**Example (读书感悟 — see `examples.md` for full walk-through):**
 
-- Line 1: 「读完《特斯拉自传》，我对《外星人访谈录》里『现在-成为者』的着迷，祛魅不少。」
-- Line 2: 「如果你也容易被『厉害到不像人』的故事吸住，我会继续把读书时的惊讶和笔记写下来。」
+- `cta_line1`: 「读完《特斯拉自传》，我对《外星人访谈录》里『现在-成为者』的着迷，祛魅不少。」
 
-**Examples (生活分享 / subway-diary):**
+**Example (生活分享 / subway-diary):**
 
-- Line 1: 「今天地铁上又发生了一件小事，不写下来明天可能就忘了。」
-- Line 2: 「我喜欢把这些真实的日常片段留住——如果你也想看一个程序员的生活切面，欢迎留下来。」
+- `cta_line1`: 「今天地铁上又发生了一件小事，不写下来明天可能就忘了。」
 
 ### Step 5 — Write manifest and render
 
-1. Create `scripts/xhs/output/articles/{slug}/` where `{slug}` = markdown filename stem (e.g. `reading-category__post-13f67e2873`)
-2. Write `manifest.json` (schema below)
-3. Run from repo root:
+1. Compute `{output_dir}` = hyphenated pinyin of `original_title` via `resolve_article_output_dir()` (on title collision across different sources, append post id suffix)
+2. Create `scripts/xhs/output/articles/{output_dir}/`
+3. Write `manifest.json` (schema below)
+4. Run from repo root:
 
 ```bash
 python3 -m scripts.xhs.generate_xhs_cards \
   --series article \
-  --manifest scripts/xhs/output/articles/<slug>/manifest.json
+  --manifest scripts/xhs/output/articles/<output_dir>/manifest.json
 ```
 
-**`--rerender`:** re-read `manifest.json` and `source` article; regenerate PNGs only. Do not call `GenerateImage`. Fail if `cover-bg.png` is missing.
+**`--rerender`:** re-read `manifest.json` and `source` article; regenerate PNGs only. Do not call `GenerateImage`. Fail if `cover-ai.png` is missing in the manifest directory (legacy `cover-bg.png` is still accepted as input).
 
 ### Step 6 — Deliverables
 
@@ -186,7 +184,7 @@ Skill writes `post-caption.md` in the output dir:
 {1–2 sentence hook, no external links}
 
 # 话题标签
-#读书 #读书笔记 #特斯拉 …
+#读书 #读书笔记 …
 ```
 
 Print to user:
@@ -198,35 +196,37 @@ Print to user:
 ## Body slide rules
 
 - **Verbatim** paragraphs and blockquotes after footer strip
-- **Pagination:** split at paragraph boundaries; target `chars_per_slide` from config (default **270**). Count includes Chinese characters and punctuation; exclude leading/trailing whitespace on each chunk
-- **Long paragraph:** if one paragraph exceeds limit, split at sentence boundaries (`。！？；`) before hard-splitting mid-sentence
-- **Blockquotes** (`>` lines): prefer keeping a quote block on one slide; if too long, split at sentence boundaries inside the quote
-- **Slide header (body pages):** Chinese category title from `data/categories.yml` (e.g. `阅读书目`)
-- **Footer on every slide:** `@我要改名叫嘟嘟` + `{page}/{total}` where **total = cover + body pages + end slide**
+- **Pagination:** height-estimated greedy fill with book-style sentence flow (`article_paginator.py`). Original markdown paragraph boundaries are preserved via `source_id` — do not merge distinct paragraphs on one slide.
+- **Long paragraph / quote:** split at sentence boundaries (paren-aware); `chars_per_slide` in manifest only triggers hard-split of a single oversized block (default **340**)
+- **Last body slide** may be sparse; do not peel content from earlier slides just to fill it
+- **Slide header (body pages):** `xhs_title` from manifest (not category chip)
+- **Footer on body slides only:** `{page}/{body_total}` right-aligned; **no** `@nickname` watermark. Cover and end have **no** slide footer.
 - **No** WeChat URLs or「原文链接」on any slide
 
 ### Overflow safety
 
-After HTML layout, Playwright screenshot must not clip text. If a page overflows in manual QA:
+`article_overflow.py` runs Playwright on each body slide HTML before PNG export:
 
-1. Lower effective chars for that article via manifest override `chars_per_slide`, or
-2. Adjust `article.css` font size (global fix)
+1. If `.slide-body` does not overflow → no change
+2. If overflow → peel trailing sentence/block to the next slide (minimal fix)
+3. Re-merge adjacent blocks with the same `source_id` on each page (one quote box per source quote)
 
-Script does not auto-detect overflow in v1; manual QA on first article is required.
+Manual QA still recommended on the first article in a new environment: confirm no text clips the bottom border and quotes on the same slide are not visually split.
+
+If systematic clipping persists across articles, adjust `article_layout.py` constants to match `article.css`, not `chars_per_slide`.
 
 ## Slide sequence and naming
 
-| Order | Filename | Content | Page footer |
-|-------|----------|---------|-------------|
-| 1 | `01-cover.png` | AI `cover-bg.png` + overlay: XHS title, `cover_subtitle`, category chip | `1/{total}` |
-| 2 … N−1 | `02.png`, `03.png`, … | Body pages (zero-padded) | `2/{total}` … |
-| N | `{NN}-end.png` | CTA lines + @nickname + bio | `{total}/{total}` |
+| Order | Filename | Content | Slide footer |
+|-------|----------|---------|--------------|
+| 1 | `01-cover.png` | AI `cover-ai.png` + overlay: `xhs_title` only | none |
+| 2 … N−1 | `02.png`, `03.png`, … | Body pages (zero-padded) | `{1}/{body}` … `{body}/{body}` |
+| N | `{NN}-end.png` | `cta_line1` + @nickname + bio (in card body) | none |
 
 **Cover overlay fields** (from manifest):
 
-- `xhs_title` — main large title
-- `cover_subtitle` — Skill chooses: original `title`, or one short hook sentence (≤ 20 chars preferred)
-- `category_title` — Chinese label from `data/categories.yml`
+- `xhs_title` — main large title (Songti on frosted card)
+- Input image: `cover-ai.png` (manifest field `cover_ai`); `cover-bg.png` is auto-synced output copy of `01-cover.png`
 
 ## Manifest schema
 
@@ -234,32 +234,32 @@ Script does not auto-detect overflow in v1; manual QA on first article is requir
 {
   "manifest_version": 1,
   "source": "content/docs/2026/06/reading-category__post-13f67e2873.md",
-  "slug": "reading-category__post-13f67e2873",
+  "output_dir": "te-si-la-yu-wai-xing-ren",
+  "source_slug": "reading-category__post-13f67e2873",
   "original_title": "特斯拉与外星人",
   "xhs_title": "读《特斯拉自传》后，我对外星人祛魅了",
-  "cover_subtitle": "特斯拉与外星人",
   "primary_category": "reading-category",
-  "category_title": "阅读书目",
-  "cover_bg": "cover-bg.png",
+  "cover_ai": "cover-ai.png",
   "cta_theme": "reading",
   "cta_line1": "……",
-  "cta_line2": "……",
   "nickname": "我要改名叫嘟嘟",
   "bio": "一个用文字分享生活和读书感悟的程序员",
-  "chars_per_slide": 200
+  "chars_per_slide": 340
 }
 ```
 
-- Paths (`source`, `cover_bg`) are **repo-relative** for `source`; **manifest-dir-relative** for `cover_bg`
+- Paths (`source`) are **repo-relative**; `cover_ai` is **manifest-dir-relative**
 - Script resolves repo root from `scripts/xhs/` (e.g. `Path(__file__).resolve().parents[2]`) and joins `source`
 - `nickname`, `bio`, and `chars_per_slide` in manifest **override** `config.yml`; omit them to use config defaults
+- Do **not** set `cover_subtitle`, `category_title`, or `cta_line2` — unused by current renderer
+- Body slide header uses **`xhs_title`**, not category label from `data/categories.yml`
 
 ## Config (`scripts/xhs/config.yml`)
 
 ```yaml
 nickname: 我要改名叫嘟嘟
 bio: 一个用文字分享生活和读书感悟的程序员
-chars_per_slide: 270
+chars_per_slide: 340
 default_cta: reading
 cta_mapping:
   reading:
@@ -282,21 +282,24 @@ cta_mapping:
 
 Unlisted `primary_category` values fall back to `default_cta`. Skill may set `cta_theme` in manifest regardless.
 
-Category **display titles** are resolved at render time from `data/categories.yml` when `category_title` is omitted in manifest (via `primary_category` on the article or manifest).
-
 ## Output layout
 
+Canonical new-article layout (pinyin folder name):
+
 ```
-scripts/xhs/output/articles/reading-category__post-13f67e2873/
+scripts/xhs/output/articles/te-si-la-yu-wai-xing-ren/
   manifest.json
-  cover-bg.png          # AI input; kept for --rerender
-  post-caption.md       # Skill-written; not used by script
+  cover-ai.png          # AI input (Skill writes before render)
+  cover-bg.png          # auto-synced copy of 01-cover.png after render
+  post-caption.md
   01-cover.png
-  02.png
-  03.png
-  …
-  08-end.png
+  02.png …              # body slides (count varies by article)
+  {NN}-end.png
 ```
+
+Folder name = hyphenated **pinyin of `original_title`** (not the Hugo filename). On title collision across different sources, append post id: `te-si-la-yu-wai-xing-ren-13f67e2873`.
+
+Legacy runs may use the markdown filename stem as the folder name (e.g. `reading-category__post-13f67e2873/`); the renderer only requires `manifest.json` to live in the output directory — it does not enforce the folder naming convention.
 
 `scripts/xhs/output/` remains gitignored.
 
@@ -316,21 +319,22 @@ Cursor loads project skills from `.cursor/skills/` when the repo is opened. On a
 |-----------|----------|
 | Missing article path | Skill stops with clear error |
 | User has not picked title | Do not render |
-| `cover-bg.png` missing at render time | Script error with path |
+| `cover-ai.png` missing at render time | Script error with path |
 | Playwright / browser missing | Script exits with `playwright install chromium` hint |
 | Body empty after strip | Skill stops |
 | `--rerender` without manifest | Script error |
-| Unknown `primary_category` slug | Use slug as fallback chip text; log warning |
+| Unknown `primary_category` slug | Fall back to `default_cta` in config |
 
 ## Testing
 
-- `test_article_parser.py` — frontmatter, footer strip, blockquote blocks
-- `test_article_paginator.py` — paragraph/sentence splits, char limits, quote integrity
+- `test_article_parser.py` — frontmatter, footer strip, blockquote blocks, `source_id`
+- `test_article_paginator.py` — height pagination, paragraph boundaries, quote merge, sparse tail
 - `test_article_render.py` — HTML contains expected chunks; cover/end slide markers
+- `article_overflow.py` — Playwright overflow peel (integration via full render)
 
 Run: `python3 -m pytest scripts/xhs/tests/ -q` from repo root (with venv).
 
-Manual QA: Skill on `reading-category__post-13f67e2873.md` — verify ~10–12 slides at default 270 chars, no clipped text, cover title readable on AI background.
+Manual QA: run Skill on any long article (see `examples.md` for a sample path) — verify no clipped text at slide bottom border and quotes on the same slide are not visually split. Page count varies by article length.
 
 ## Out of scope (v1)
 
@@ -340,7 +344,7 @@ Manual QA: Skill on `reading-category__post-13f67e2873.md` — verify ~10–12 s
 - Multiple visual themes per category
 - AI-generated body slide backgrounds
 - Batch processing many articles in one command
-- Auto overflow detection / dynamic font scaling
+- Dynamic font scaling per slide
 
 ## Implementation order
 
@@ -350,16 +354,16 @@ Manual QA: Skill on `reading-category__post-13f67e2873.md` — verify ~10–12 s
 3. Extend `generate_xhs_cards.py` — add `--series article` alongside existing `a` / `6years` (unchanged)
 4. Tests
 5. `.cursor/skills/xhs-article-cards/SKILL.md` (+ `examples.md`)
-6. Manual run on Tesla article; iterate `article.css` if needed
+6. Manual run on a sample article (`examples.md`); iterate `article.css` if needed
 
 ## Self-review checklist
 
 - [x] No TBD sections
 - [x] `.gitignore` conflict documented with fix (step 0)
 - [x] Skill committed in repo (`.cursor/skills/`)
-- [x] CTA: two article-specific sentences + fixed @nickname/bio
+- [x] CTA: one article-specific `cta_line1` + fixed @nickname/bio
 - [x] No公众号引流 on slides or caption
-- [x] Manifest fields complete (subtitle, category, chars override)
+- [x] Manifest fields complete (cover_ai, output_dir, chars override)
 - [x] Slide header, page numbering, filename convention explicit
 - [x] `--rerender` behavior defined
 - [x] Prerequisites (venv, playwright) documented

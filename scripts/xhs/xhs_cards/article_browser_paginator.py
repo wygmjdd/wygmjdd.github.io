@@ -14,15 +14,34 @@ from scripts.xhs.xhs_cards.article_paginator import (
 
 _VIEWPORT: Any = {"width": 1080, "height": 1440}
 _FLOW_END_PUNCT = "，,、；;：:"
+_CLOSING_PUNCT = "。！？!?）)]》」』”’"
 _MIN_FRAGMENT_CHARS = 8
 _CHAR_CHUNK = 28
 _MAX_CLEANUP_PASSES = 3
+_FIT_TOLERANCE_PX = 2
 
-_BODY_FITS_JS = """() => {
+_BODY_FITS_JS = f"""() => {{
     const textArea = document.querySelector('.slide-article .article-body-text');
-    if (!textArea) return false;
-    return textArea.scrollHeight <= textArea.clientHeight + 1;
-}"""
+    const body = document.querySelector('.slide-article .slide-body');
+    if (!textArea || !body) return false;
+
+    const blocks = Array.from(textArea.children);
+    if (blocks.length === 0) return true;
+
+    const bodyRect = body.getBoundingClientRect();
+    const bodyStyle = getComputedStyle(body);
+    const paddingTop = parseFloat(bodyStyle.paddingTop) || 0;
+    const paddingBottom = parseFloat(bodyStyle.paddingBottom) || 0;
+    const safeTop = bodyRect.top + paddingTop;
+    const safeBottom = bodyRect.bottom - paddingBottom;
+    const firstRect = blocks[0].getBoundingClientRect();
+    const lastRect = blocks[blocks.length - 1].getBoundingClientRect();
+
+    return (
+        firstRect.top >= safeTop - {_FIT_TOLERANCE_PX}
+        && lastRect.bottom <= safeBottom + {_FIT_TOLERANCE_PX}
+    );
+}}"""
 
 _CHROMIUM_INSTALL_HINT = (
     "Article browser pagination requires Playwright Chromium. "
@@ -237,7 +256,10 @@ def _pull_prefix_from_next(
     text = first.text
     best: tuple[list[ContentBlock], list[ContentBlock]] | None = None
     max_end = min(len(text), _CHAR_CHUNK)
-    for end in range(1, max_end + 1):
+    for raw_end in range(1, max_end + 1):
+        end = raw_end
+        while end < len(text) and text[end] in _CLOSING_PUNCT:
+            end += 1
         prefix_text = text[:end]
         if not prefix_text or prefix_text[-1] in _FLOW_END_PUNCT:
             continue

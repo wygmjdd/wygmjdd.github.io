@@ -113,6 +113,25 @@ def test_browser_paginator_backfills_renderable_prefix_on_underfilled_page() -> 
     page_texts = ["".join(block.text for block in page) for page in pages]
     assert not any(text.startswith("（关于游戏充钱") for text in page_texts[1:])
     assert any(
-        text.endswith("（关于游戏充钱甚至为——不只是我——沉迷花钱这件事")
+        "（关于游戏充钱甚至为——不只是我——沉迷花钱这件事" in text
         for text in page_texts[:-1]
     )
+
+
+def test_browser_paginator_backfills_one_line_prefix_at_near_pixel_boundary() -> None:
+    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+
+    pages = paginate_blocks_with_browser(article.blocks, _render_probe, max_chars=340)
+
+    assert len(pages) >= 3
+    assert pages[1][-1].source_id == 10
+    assert pages[1][-1].text.startswith("我想依然是")
+
+
+def test_browser_paginator_does_not_leave_punctuation_at_page_start_after_backfill() -> None:
+    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+
+    pages = paginate_blocks_with_browser(article.blocks, _render_probe, max_chars=340)
+
+    page_texts = ["".join(block.text for block in page) for page in pages]
+    assert not any(text.startswith("。") for text in page_texts[1:])

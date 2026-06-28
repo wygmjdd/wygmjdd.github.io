@@ -1,6 +1,142 @@
 /* Article series — companion to base.css (both inlined by article.py) */
 
+/* --- Reading-diary palette (warm paper, restrained accent) --- */
+:root {
+  --paper-bg: #f3ede4;
+  --paper-surface: #fffcf7;
+  --ink-primary: #2a2622;
+  --ink-body: #3d3832;
+  --ink-muted: #8a8178;
+  --accent: #a65a3a;
+  --accent-soft: rgba(166, 90, 58, 0.14);
+  --rule: rgba(42, 38, 34, 0.1);
+  --shadow-warm: rgba(120, 86, 58, 0.1);
+  --quote-bar: rgba(166, 90, 58, 0.72);
+  --radius-frame: 20px;
+  --radius-card: 16px;
+}
+
+/* Cover + end: light paper card, not heavy glass */
+.glass-card {
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-card);
+  background: rgba(255, 252, 247, 0.92);
+  box-shadow: 0 12px 40px var(--shadow-warm);
+}
+
+/* --- Shared slide shell --- */
+.slide.slide-article,
+.slide.slide-cover,
+.slide.slide-end {
+  padding: 32px 36px 56px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.slide-article .slide-footer {
+  position: absolute;
+  left: 36px;
+  right: 36px;
+  bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 22px;
+  color: var(--ink-muted);
+  letter-spacing: 0.02em;
+  z-index: 2;
+}
+
+/* --- Body slides --- */
+.slide.slide-article {
+  background: var(--paper-bg);
+}
+
+.slide-article .slide-header {
+  display: none;
+}
+
+.slide-article .slide-body,
+.slide-cover .slide-body,
+.slide-end .slide-body {
+  padding-bottom: 0;
+}
+
+.slide-article .slide-body {
+  flex: 1 1 auto;
+  width: 100%;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 36px 28px;
+  margin-bottom: 0;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-frame);
+  background: var(--paper-surface);
+  box-shadow: 0 10px 32px var(--shadow-warm);
+  position: relative;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.slide-article .frame-header {
+  flex: 0 0 auto;
+  font-family: "Songti SC", "STSong", "Noto Serif SC", serif;
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: 600;
+  color: var(--ink-muted);
+  letter-spacing: 0.01em;
+  margin-bottom: 22px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.article-body-text {
+  flex: 0 1 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  justify-content: flex-start;
+  min-height: 0;
+}
+
+.article-p {
+  font-size: 33px;
+  line-height: 1.86;
+  color: var(--ink-body);
+  letter-spacing: 0.015em;
+  white-space: pre-wrap;
+  -webkit-font-smoothing: antialiased;
+}
+
+.article-p-start {
+  text-indent: 2em;
+}
+
+.article-p-continue {
+  text-indent: 0;
+}
+
+.article-quote {
+  padding: 4px 0 4px 24px;
+  margin: 0;
+  background: transparent;
+  border-left: 3px solid var(--quote-bar);
+  border-radius: 0;
+  font-family: "Songti SC", "STSong", "Noto Serif SC", serif;
+  font-size: 31px;
+  line-height: 1.84;
+  color: var(--ink-primary);
+  letter-spacing: 0.01em;
+  white-space: pre-wrap;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Cover slide --- */
 .slide-cover {
+  background-color: var(--paper-bg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -12,98 +148,104 @@
   inset: 0;
   background: linear-gradient(
     180deg,
-    rgba(250, 247, 242, 0.72) 0%,
-    rgba(250, 247, 242, 0.88) 45%,
-    rgba(250, 247, 242, 0.96) 100%
+    rgba(255, 252, 247, 0.72) 0%,
+    rgba(255, 252, 247, 0.48) 42%,
+    rgba(243, 237, 228, 0.82) 100%
   );
   z-index: 0;
 }
 
-.slide-cover .slide-body,
-.slide-cover .slide-header,
-.slide-cover .slide-footer {
-  position: relative;
-  z-index: 1;
+.slide-cover .slide-header {
+  display: none;
 }
 
-.cover-chip {
-  display: inline-block;
-  margin-bottom: 32px;
-  padding: 10px 20px;
-  border-radius: 999px;
-  background: rgba(196, 92, 74, 0.12);
-  color: #c45c4a;
-  font-size: 26px;
-  letter-spacing: 0.06em;
+.slide-cover .slide-body {
+  position: relative;
+  z-index: 1;
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 0;
+  padding-bottom: 0;
+}
+
+.cover-title-card {
+  width: 100%;
+  padding: 44px 40px;
+}
+
+.cover-title-card.glass-card {
+  border-radius: var(--radius-card);
 }
 
 .cover-title {
   font-family: "Songti SC", "STSong", "Noto Serif SC", serif;
-  font-size: 68px;
-  line-height: 1.18;
+  font-size: 58px;
+  line-height: 1.28;
   font-weight: 700;
-  color: #1f1f1f;
-  margin-bottom: 28px;
+  color: var(--ink-primary);
+  letter-spacing: 0.01em;
 }
 
-.cover-subtitle {
-  font-size: 34px;
-  line-height: 1.5;
-  color: #5c5348;
+/* --- End slide --- */
+.slide.slide-end {
+  background: var(--paper-bg);
 }
 
-.article-body-text {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 28px;
-}
-
-.article-p {
-  font-size: 34px;
-  line-height: 1.65;
-  color: #4a433c;
-  white-space: pre-wrap;
-}
-
-.article-quote {
-  padding: 32px 36px;
-  background: #fff;
-  border-left: 6px solid #c45c4a;
-  border-radius: 12px;
-  font-size: 32px;
-  line-height: 1.6;
-  color: #4a433c;
-  white-space: pre-wrap;
+.slide-end .slide-header {
+  display: none;
 }
 
 .slide-end .slide-body {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  gap: 36px;
+  min-height: 0;
+  padding: 48px 40px 40px;
+  margin-bottom: 0;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-frame);
+  background: var(--paper-surface);
+  box-shadow: 0 10px 32px var(--shadow-warm);
+}
+
+.slide-end .slide-frame-end {
+  padding: 0;
 }
 
 .end-theme {
-  align-self: flex-start;
-  font-size: 24px;
-  color: #c45c4a;
-  letter-spacing: 0.08em;
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: 0.06em;
+  margin-bottom: 24px;
 }
 
 .end-line {
-  font-size: 36px;
-  line-height: 1.6;
-  color: #4a433c;
+  font-family: "Songti SC", "STSong", "Noto Serif SC", serif;
+  font-size: 34px;
+  line-height: 1.86;
+  color: var(--ink-body);
+  letter-spacing: 0.01em;
+  max-width: 920px;
 }
 
 .end-handle {
-  margin-top: 24px;
-  font-size: 40px;
+  margin-top: 36px;
+  padding-top: 28px;
+  border-top: 1px solid var(--rule);
+  font-size: 36px;
   font-weight: 700;
-  color: #1f1f1f;
+  color: var(--ink-primary);
+  letter-spacing: 0.01em;
 }
 
 .end-bio {
-  font-size: 30px;
-  line-height: 1.5;
-  color: #6b635a;
+  margin-top: 10px;
+  font-size: 28px;
+  line-height: 1.55;
+  color: var(--ink-muted);
+  letter-spacing: 0.01em;
 }

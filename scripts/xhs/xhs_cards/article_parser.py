@@ -18,6 +18,7 @@ _INLINE_LINK_RE = re.compile(
     r' <small>（<a href="([^"]+)" rel="noopener noreferrer">原文链接</a>'
     r"(?:，更新于\d{4}-\d{2}-\d{2}。)?）</small>"
 )
+_INLINE_MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\((?:[^()\\]|\\.|[^()])*?\)")
 _IMAGE_MARKDOWN_RE = re.compile(r"!\[[^\]]*\]\([^)]+\)")
 _FIGURE_HTML_RE = re.compile(r"<figure\b", re.IGNORECASE)
 
@@ -26,6 +27,7 @@ _FIGURE_HTML_RE = re.compile(r"<figure\b", re.IGNORECASE)
 class ContentBlock:
     kind: Literal["paragraph", "quote"]
     text: str
+    source_id: int = 0
 
 
 @dataclass
@@ -36,10 +38,16 @@ class ParsedArticle:
     has_embedded_images: bool
 
 
+def strip_inline_markdown_links(text: str) -> str:
+    """Replace [anchor](url) with anchor text only."""
+    return _INLINE_MARKDOWN_LINK_RE.sub(r"\1", text)
+
+
 def strip_body_for_xhs(body: str) -> str:
     text = strip_cta_html(body)
     text = _INLINE_LINK_RE.sub("", text)
     text = strip_trailing_promo_lines(text)
+    text = strip_inline_markdown_links(text)
     return text.strip()
 
 
@@ -116,7 +124,7 @@ def merge_manifest_defaults(manifest: dict[str, Any], config: dict[str, Any]) ->
     merged = dict(manifest)
     merged.setdefault("nickname", config.get("nickname", ""))
     merged.setdefault("bio", config.get("bio", ""))
-    merged.setdefault("chars_per_slide", config.get("chars_per_slide", 270))
+    merged.setdefault("chars_per_slide", config.get("chars_per_slide", 340))
     return merged
 
 

@@ -8,7 +8,13 @@ import sys
 from pathlib import Path
 from typing import Any
 
-from scripts.xhs.xhs_cards.article import render_article_slides
+from scripts.xhs.xhs_cards.article import (
+    COVER_AI_FILENAME,
+    COVER_BG_FILENAME,
+    render_article_slides,
+    sync_cover_deliverables,
+)
+from scripts.xhs.xhs_cards.article_qa import audit_article_manifest, format_issues
 from scripts.xhs.xhs_cards.series_6years import render_6years_infographic_html
 from scripts.xhs.xhs_cards.series_a import render_series_a_slides
 
@@ -98,7 +104,14 @@ def _screenshot_infographic(slide_html: str, output_path: Path) -> Path:
     return output_path
 
 
-def _run_article_series(manifest_path: Path, rerender: bool) -> None:
+def _prune_stale_slide_images(output_dir: Path, keep: set[str]) -> None:
+    preserve = keep | {COVER_AI_FILENAME, COVER_BG_FILENAME}
+    for path in output_dir.glob("*.png"):
+        if path.name not in preserve:
+            path.unlink()
+
+
+def _run_article_series(manifest_path: Path, rerender: bool, *, run_qa: bool) -> None:
     manifest_path = manifest_path.resolve()
     if not manifest_path.is_file():
         raise SystemExit(f"Manifest not found: {manifest_path}")
@@ -108,9 +121,18 @@ def _run_article_series(manifest_path: Path, rerender: bool) -> None:
 
     slides, output_dir = render_article_slides(manifest_path)
     paths = _screenshot_slides(slides, output_dir)
+    _prune_stale_slide_images(output_dir, {path.name for path in paths})
+    sync_cover_deliverables(output_dir)
     print(f"Generated {len(paths)} images in {output_dir}")
     for path in paths:
         print(f"  {path.name}")
+    print("  cover-bg.png (same as 01-cover.png — final cover for upload)")
+
+    if run_qa:
+        issues = audit_article_manifest(manifest_path, include_render=True)
+        print(format_issues(issues), flush=True)
+        if any(issue.severity == "error" for issue in issues):
+            raise SystemExit(1)
 
 
 def main() -> None:
@@ -136,7 +158,12 @@ def main() -> None:
     parser.add_argument(
         "--rerender",
         action="store_true",
-        help="Regenerate PNGs from existing manifest and cover-bg.png (article series only)",
+        help="Regenerate PNGs from existing manifest and cover-ai.png (article series only)",
+    )
+    parser.add_argument(
+        "--qa",
+        action="store_true",
+        help="Run QA checks after article render (article series only)",
     )
     args = parser.parse_args()
 
@@ -144,7 +171,7 @@ def main() -> None:
         if args.manifest is None:
             print("ERROR: --series article requires --manifest", file=sys.stderr)
             raise SystemExit(2)
-        _run_article_series(args.manifest, args.rerender)
+        _run_article_series(args.manifest, args.rerender, run_qa=args.qa)
         return
 
     if args.series == "a":
