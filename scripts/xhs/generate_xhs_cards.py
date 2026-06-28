@@ -158,7 +158,7 @@ def main() -> None:
     parser.add_argument(
         "--rerender",
         action="store_true",
-        help="Regenerate PNGs from existing manifest and cover-ai.png (article series only)",
+        help="Regenerate PNGs from an existing article manifest",
     )
     parser.add_argument(
         "--qa",

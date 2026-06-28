@@ -165,29 +165,36 @@ def _image_data_url(path: Path) -> str:
     return f"data:{mime};base64,{encoded}"
 
 
-def prepare_cover_ai(manifest_dir: Path, manifest: dict[str, Any]) -> Path:
-    """Ensure cover-ai.png exists (archive legacy cover-bg if needed)."""
+def prepare_cover_ai(manifest_dir: Path, manifest: dict[str, Any]) -> Path | None:
+    """Return optional cover background path, copying legacy cover-bg when present."""
     ai_path = manifest_dir / COVER_AI_FILENAME
     if ai_path.is_file():
         return ai_path
 
+    declared_background = False
     for key in ("cover_ai", "cover_bg"):
         name = manifest.get(key)
         if not isinstance(name, str) or not name.strip():
             continue
+        declared_background = True
         legacy = manifest_dir / name.strip()
         if legacy.is_file() and legacy.resolve() != ai_path.resolve():
             shutil.copy2(legacy, ai_path)
             return ai_path
+        if legacy.is_file():
+            return legacy
 
     fallback = manifest_dir / COVER_BG_FILENAME
     if fallback.is_file():
         shutil.copy2(fallback, ai_path)
         return ai_path
 
-    raise FileNotFoundError(
-        f"Cover AI image missing. Expected {ai_path} or a legacy cover-bg.png in {manifest_dir}"
-    )
+    if declared_background:
+        raise FileNotFoundError(
+            f"Declared cover background missing. Expected {ai_path} or the manifest cover path in {manifest_dir}"
+        )
+
+    return None
 
 
 def sync_cover_deliverables(manifest_dir: Path) -> None:
@@ -201,16 +208,19 @@ def sync_cover_deliverables(manifest_dir: Path) -> None:
 def _render_cover_slide(manifest: dict[str, Any], manifest_dir: Path) -> str:
     ai_path = prepare_cover_ai(manifest_dir, manifest)
     xhs_title = str(manifest.get("xhs_title") or "")
+    theme = str(manifest.get("cta_theme") or "reading")
+    theme_label = CTA_THEME_LABELS.get(theme, theme)
 
     body = f"""
     <div class="cover-title-card glass-card">
+      <div class="cover-kicker">{html.escape(theme_label)}</div>
       <div class="cover-title">{html.escape(xhs_title)}</div>
     </div>
     """
     return _slide_shell(
         body,
         extra_class="slide-cover",
-        background_url=_image_data_url(ai_path),
+        background_url=_image_data_url(ai_path) if ai_path else None,
     )
 
 
@@ -245,8 +255,6 @@ def render_article_slides(manifest_path: Path) -> tuple[list[tuple[str, str]], P
     manifest = enrich_manifest_from_article(manifest, article.metadata)
     if not article.blocks:
         raise ValueError(f"No content blocks after parsing: {source_path}")
-
-    prepare_cover_ai(manifest_dir, manifest)
 
     max_chars = int(manifest.get("chars_per_slide", 340))
 

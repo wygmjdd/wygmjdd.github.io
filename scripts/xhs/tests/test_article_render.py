@@ -9,6 +9,7 @@ from scripts.xhs.xhs_cards.article import (
     COVER_AI_FILENAME,
     COVER_BG_FILENAME,
     COVER_OUTPUT_FILENAME,
+    _CSS_PATH,
     prepare_cover_ai,
     render_article_slides,
     sync_cover_deliverables,
@@ -85,6 +86,16 @@ def test_render_article_slides_cover_body_end(manifest_dir: Path) -> None:
     assert '<div class="slide-footer' not in end_html
 
 
+def test_cover_css_keeps_title_thumbnail_readable() -> None:
+    css = _CSS_PATH.read_text(encoding="utf-8")
+
+    assert ".cover-title-card" in css
+    assert ".cover-kicker" in css
+    assert "font-size: 86px;" in css
+    assert "background: transparent;" in css
+    assert "min-height: 780px;" in css
+
+
 def test_prepare_cover_ai_from_legacy_cover_bg(tmp_path: Path) -> None:
     legacy = tmp_path / COVER_BG_FILENAME
     legacy.write_bytes(b"\x89PNG\r\n\x1a\n")
@@ -94,6 +105,70 @@ def test_prepare_cover_ai_from_legacy_cover_bg(tmp_path: Path) -> None:
 
     assert ai_path == tmp_path / COVER_AI_FILENAME
     assert ai_path.is_file()
+
+
+def test_render_article_slides_uses_default_cover_without_cover_ai(tmp_path: Path) -> None:
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 无底图测试\n"
+        "primary_category: summary\n"
+        "---\n"
+        "正文内容。\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "default-cover",
+        "original_title": "无底图测试",
+        "xhs_title": "没有 AI 底图也能生成文字封面",
+        "primary_category": "summary",
+        "cta_theme": "reading",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    slides, _ = render_article_slides(manifest_path)
+
+    cover_html = slides[0][1]
+    assert "没有 AI 底图也能生成文字封面" in cover_html
+    assert "background-image" not in cover_html
+
+
+def test_render_article_slides_errors_when_declared_cover_ai_is_missing(tmp_path: Path) -> None:
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 缺失底图测试\n"
+        "primary_category: summary\n"
+        "---\n"
+        "正文内容。\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "missing-cover",
+        "original_title": "缺失底图测试",
+        "xhs_title": "声明了底图就不能静默丢失",
+        "primary_category": "summary",
+        "cover_ai": COVER_AI_FILENAME,
+        "cta_theme": "reading",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    with pytest.raises(FileNotFoundError, match="Declared cover background missing"):
+        render_article_slides(manifest_path)
 
 
 def test_sync_cover_deliverables_copies_rendered_cover(tmp_path: Path) -> None:

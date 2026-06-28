@@ -40,7 +40,7 @@ Reference output (after full pipeline): `scripts/xhs/output/articles/reading-cat
 
 ## Sample cover prompt
 
-Soft warm watercolor background, subtle paper texture, gentle light from upper left, abstract books and soft glow (no text, no faces), minimalist fresh mood, plenty of empty space in upper half for Chinese title overlay, 3:4 vertical composition.
+Soft warm paper texture, gentle reading-room light, sparse abstract book edges near the margins, low-contrast background, no readable text, no faces, no logos, no detailed object in the center or lower half, broad clean area for a large Chinese typography layer, 3:4 vertical composition.
 
 ## Sample post-caption.md
 

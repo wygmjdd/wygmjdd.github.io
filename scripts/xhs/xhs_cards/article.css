@@ -148,10 +148,20 @@
   inset: 0;
   background: linear-gradient(
     180deg,
-    rgba(255, 252, 247, 0.72) 0%,
-    rgba(255, 252, 247, 0.48) 42%,
-    rgba(243, 237, 228, 0.82) 100%
+    rgba(255, 252, 247, 0.9) 0%,
+    rgba(255, 252, 247, 0.74) 38%,
+    rgba(243, 237, 228, 0.9) 100%
   );
+  z-index: 0;
+}
+
+.slide-cover::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, rgba(255, 252, 247, 0.72) 0%, rgba(255, 252, 247, 0.3) 62%, rgba(255, 252, 247, 0.08) 100%),
+    linear-gradient(180deg, rgba(255, 252, 247, 0) 0%, rgba(255, 252, 247, 0.78) 58%, rgba(243, 237, 228, 0.76) 100%);
   z-index: 0;
 }
 
@@ -164,28 +174,52 @@
   z-index: 1;
   flex: 1 1 auto;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: stretch;
+  justify-content: flex-end;
   min-height: 0;
   padding-bottom: 0;
 }
 
 .cover-title-card {
   width: 100%;
-  padding: 44px 40px;
+  min-height: 780px;
+  padding: 48px 54px 54px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .cover-title-card.glass-card {
-  border-radius: var(--radius-card);
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.cover-kicker {
+  width: fit-content;
+  margin-bottom: 30px;
+  padding: 9px 17px 8px;
+  border: 1px solid rgba(166, 90, 58, 0.26);
+  border-radius: 999px;
+  background: rgba(255, 252, 247, 0.56);
+  font-size: 26px;
+  line-height: 1.2;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 0.08em;
 }
 
 .cover-title {
   font-family: "Songti SC", "STSong", "Noto Serif SC", serif;
-  font-size: 58px;
-  line-height: 1.28;
+  font-size: 86px;
+  line-height: 1.14;
   font-weight: 700;
   color: var(--ink-primary);
-  letter-spacing: 0.01em;
+  letter-spacing: 0;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+  text-shadow: 0 2px 18px rgba(255, 252, 247, 0.82);
 }
 
 /* --- End slide --- */
