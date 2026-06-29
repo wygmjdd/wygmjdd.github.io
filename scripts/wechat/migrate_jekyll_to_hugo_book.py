@@ -16,7 +16,7 @@ Output layout (newest year/month first via weight):
       hubs/{slug}.md   # hub pages per data/categories.yml (bookHidden)
       {YYYY}/_index.md
       {YYYY}/{MM}/_index.md
-      {YYYY}/{MM}/{category}__{slug}.md
+      {YYYY}/{MM}/{YYYY-MM-DD}-{title-prefix-pinyin}-{category}.md
 """
 
 from __future__ import annotations
@@ -32,6 +32,7 @@ from pathlib import Path
 from typing import Any
 
 import yaml
+from pypinyin import lazy_pinyin
 
 ROOT = Path(__file__).resolve().parents[2]
 LEGACY_JEKYLL = ROOT / "_archive" / "legacy-jekyll"
@@ -58,6 +59,7 @@ DATE_FILENAME_RE = re.compile(
 )
 POST_NUM_RE = re.compile(r"post-(\d+)", re.IGNORECASE)
 STEM_WITH_DATE_PREFIX_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(.+)$")
+WECHAT_HASH_RE = re.compile(r"post-([a-f0-9]{8,12})", re.IGNORECASE)
 
 
 def canonical_source_url(url: str) -> str:
@@ -269,6 +271,87 @@ def title_for_post(post: MarkdownPost, slug: str) -> str:
     return slug.replace("-", " ").strip() or "无标题"
 
 
+def title_prefix_to_pinyin(title: str, limit: int = 5) -> str:
+    chars: list[str] = []
+    for char in title.strip():
+        if char.isspace() or not char.isalnum():
+            continue
+        chars.append(char)
+        if len(chars) >= limit:
+            break
+
+    prefix = "".join(chars) or "untitled"
+    parts: list[str] = []
+    for part in lazy_pinyin(prefix):
+        cleaned = re.sub(r"[^a-zA-Z0-9]+", "-", part).strip("-").lower()
+        if cleaned:
+            parts.append(cleaned)
+    return "-".join(parts) or "untitled"
+
+
+def hugo_doc_filename(date_iso: str, title: str, category: str) -> str:
+    title_slug = title_prefix_to_pinyin(title)
+    category_slug = re.sub(r"[^a-zA-Z0-9-]+", "-", category.strip()).strip("-").lower()
+    if not category_slug:
+        category_slug = FALLBACK_CATEGORY
+    return f"{date_iso}-{title_slug}-{category_slug}.md"
+
+
+def legacy_hash_suffix(src_name: str) -> str:
+    stem = Path(src_name).stem
+    match = WECHAT_HASH_RE.search(stem)
+    if match:
+        return match.group(1)
+    date_match = STEM_WITH_DATE_PREFIX_RE.match(stem)
+    if date_match:
+        stem = date_match.group(2)
+    return re.sub(r"[^a-zA-Z0-9-]+", "-", stem).strip("-") or "post"
+
+
+def frontmatter_source_url(path: Path) -> str | None:
+    try:
+        post = parse_frontmatter_markdown(path.read_text(encoding="utf-8"))
+    except OSError:
+        return None
+    source_url = post.get("source_url")
+    if isinstance(source_url, str) and source_url.strip():
+        return canonical_source_url(source_url)
+    return None
+
+
+def resolve_doc_output_path(
+    month_dir: Path,
+    *,
+    desired_filename: str,
+    source_url: str | None,
+    src_name: str,
+) -> Path:
+    desired_path = month_dir / desired_filename
+    if not source_url:
+        if not desired_path.exists():
+            return desired_path
+        return desired_path.with_name(f"{desired_path.stem}-{legacy_hash_suffix(src_name)}.md")
+
+    canonical = canonical_source_url(source_url)
+    same_source_paths: list[Path] = []
+    for existing in month_dir.glob("*.md"):
+        if existing.name == "_index.md":
+            continue
+        if frontmatter_source_url(existing) != canonical:
+            continue
+        same_source_paths.append(existing)
+
+    if same_source_paths:
+        for existing in same_source_paths:
+            if existing != desired_path:
+                existing.unlink()
+        return desired_path
+
+    if not desired_path.exists():
+        return desired_path
+    return desired_path.with_name(f"{desired_path.stem}-{legacy_hash_suffix(src_name)}.md")
+
+
 def dump_post_md(meta: dict[str, Any], body: str) -> str:
     header = yaml.safe_dump(meta, allow_unicode=True, sort_keys=False).rstrip()
     text = f"---\n{header}\n---\n"
@@ -401,7 +484,6 @@ def main() -> None:
         else:
             source_url = source_url.strip()
 
-        file_slug = f"{category}__{out_slug}".replace("/", "-")
         meta = {
             "title": title,
             "date": date_iso,
@@ -412,8 +494,14 @@ def main() -> None:
             meta["source_url"] = source_url
 
         new_body = dump_post_md(meta, post.content)
-        out_path = OUT_DOCS / f"{year:04d}" / f"{month:02d}" / f"{file_slug}.md"
-        out_path.parent.mkdir(parents=True, exist_ok=True)
+        month_dir = OUT_DOCS / f"{year:04d}" / f"{month:02d}"
+        month_dir.mkdir(parents=True, exist_ok=True)
+        out_path = resolve_doc_output_path(
+            month_dir,
+            desired_filename=hugo_doc_filename(date_iso, title, category),
+            source_url=source_url,
+            src_name=src_name,
+        )
         out_path.write_text(new_body, encoding="utf-8")
 
         seen_years.add(year)

@@ -1,13 +1,14 @@
 from __future__ import annotations
 
-from pathlib import Path
-
+from scripts.xhs.tests.article_fixtures import article_path_by_title
 from scripts.xhs.xhs_cards.article import _render_body_page
 from scripts.xhs.xhs_cards.article_parser import ContentBlock, parse_article_file
 from scripts.xhs.xhs_cards.article_browser_paginator import (
     _BODY_FITS_JS,
     paginate_blocks_with_browser,
 )
+
+SUMMARY_ARTICLE = article_path_by_title("2025年终总结（下），认识自己后的依然做自己")
 
 
 def _continues(all_pages: list[list[ContentBlock]], page_index: int, blocks: list[ContentBlock]) -> bool:
@@ -106,7 +107,7 @@ def test_browser_paginator_final_pages_do_not_overflow() -> None:
 
 
 def test_browser_paginator_backfills_renderable_prefix_on_underfilled_page() -> None:
-    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+    article = parse_article_file(SUMMARY_ARTICLE)
 
     pages = paginate_blocks_with_browser(article.blocks, _render_probe, max_chars=340)
 
@@ -119,7 +120,7 @@ def test_browser_paginator_backfills_renderable_prefix_on_underfilled_page() -> 
 
 
 def test_browser_paginator_backfills_one_line_prefix_at_near_pixel_boundary() -> None:
-    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+    article = parse_article_file(SUMMARY_ARTICLE)
 
     pages = paginate_blocks_with_browser(article.blocks, _render_probe, max_chars=340)
 
@@ -129,7 +130,7 @@ def test_browser_paginator_backfills_one_line_prefix_at_near_pixel_boundary() ->
 
 
 def test_browser_paginator_does_not_leave_punctuation_at_page_start_after_backfill() -> None:
-    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+    article = parse_article_file(SUMMARY_ARTICLE)
 
     pages = paginate_blocks_with_browser(article.blocks, _render_probe, max_chars=340)
 

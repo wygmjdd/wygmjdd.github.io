@@ -1,8 +1,8 @@
 from __future__ import annotations
 
 import json
-from pathlib import Path
 
+from scripts.xhs.tests.article_fixtures import article_path_by_title
 from scripts.xhs.xhs_cards.article_layout import AVAILABLE_TEXT_HEIGHT, EFFECTIVE_TEXT_HEIGHT, page_content_height
 from scripts.xhs.xhs_cards.article_parser import ContentBlock, parse_article_file
 from scripts.xhs.xhs_cards.article_paginator import (
@@ -14,6 +14,9 @@ from scripts.xhs.xhs_cards.article_paginator import (
     split_clauses,
     split_sentences,
 )
+
+ALIEN_ARTICLE = article_path_by_title("特斯拉与外星人")
+SUMMARY_ARTICLE = article_path_by_title("2025年终总结（下），认识自己后的依然做自己")
 
 
 def test_split_sentences() -> None:
@@ -37,7 +40,7 @@ def test_split_clauses_respects_parentheses() -> None:
 
 
 def test_paginate_no_lone_closing_paren() -> None:
-    article = parse_article_file(Path("content/docs/2026/06/reading-category__post-13f67e2873.md"))
+    article = parse_article_file(ALIEN_ARTICLE)
     pages = paginate_blocks(article.blocks, max_chars=340)
     for page in pages:
         for block in page:
@@ -98,7 +101,7 @@ def test_paragraph_can_continue_on_next_slide() -> None:
 
 
 def test_paginate_fills_first_slide_before_starting_second() -> None:
-    article = parse_article_file(Path("content/docs/2026/06/reading-category__post-13f67e2873.md"))
+    article = parse_article_file(ALIEN_ARTICLE)
     pages = paginate_blocks(article.blocks, max_chars=340)
     first_page = pages[0]
     first_page_text = "".join(block.text for block in first_page)
@@ -111,7 +114,7 @@ def test_paginate_fills_first_slide_before_starting_second() -> None:
 
 
 def test_paginate_keeps_orphan_lead_with_following_quote() -> None:
-    article = parse_article_file(Path("content/docs/2026/06/reading-category__post-13f67e2873.md"))
+    article = parse_article_file(ALIEN_ARTICLE)
     pages = paginate_blocks(article.blocks, max_chars=340)
     for page in pages:
         for index, block in enumerate(page):
@@ -123,7 +126,7 @@ def test_paginate_keeps_orphan_lead_with_following_quote() -> None:
 
 
 def test_paginate_preserves_original_paragraph_boundaries() -> None:
-    article = parse_article_file(Path("content/docs/2026/06/reading-category__post-13f67e2873.md"))
+    article = parse_article_file(ALIEN_ARTICLE)
     pages = paginate_blocks(article.blocks, max_chars=340)
     first_page = pages[0]
     paragraph_blocks = [block for block in first_page if block.kind == "paragraph"]
@@ -148,7 +151,7 @@ def test_merge_adjacent_same_source_quotes() -> None:
 
 
 def test_paginate_keeps_full_quote_before_sparse_tail() -> None:
-    article = parse_article_file(Path("content/docs/2026/06/reading-category__post-13f67e2873.md"))
+    article = parse_article_file(ALIEN_ARTICLE)
     pages = paginate_blocks(article.blocks, max_chars=340)
     quote_pages = [
         index
@@ -170,7 +173,7 @@ def test_paginate_summary_mid_pages_book_fill() -> None:
     )
     from scripts.xhs.xhs_cards.article_paginator import balance_body_pages
 
-    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+    article = parse_article_file(SUMMARY_ARTICLE)
     pages = paginate_blocks(article.blocks, max_chars=340)
     pages = balance_body_pages(pages)
 
@@ -217,7 +220,7 @@ def test_same_paragraph_sentences_stay_together_after_job_change() -> None:
     )
     from scripts.xhs.xhs_cards.article_paginator import balance_body_pages
 
-    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+    article = parse_article_file(SUMMARY_ARTICLE)
     pages = paginate_blocks(article.blocks, max_chars=340)
     pages = balance_body_pages(pages)
 
@@ -274,7 +277,7 @@ def test_summary_slides_06_07_fill_with_playwright() -> None:
     )
     from scripts.xhs.xhs_cards.article_paginator import balance_body_pages
 
-    article = parse_article_file(Path("content/docs/2026/03/summary__post-5e8573cff7.md"))
+    article = parse_article_file(SUMMARY_ARTICLE)
     pages = paginate_blocks(article.blocks, max_chars=340)
     pages = balance_body_pages(pages)
 
@@ -338,7 +341,7 @@ def test_rendered_summary_body_slides_do_not_clip_text_area(tmp_path: Path) -> N
         json.dumps(
             {
                 "manifest_version": 1,
-                "source": "content/docs/2026/03/summary__post-5e8573cff7.md",
+                "source": str(SUMMARY_ARTICLE),
                 "slug": "summary-render-fit",
                 "original_title": "2025年终总结（下），认识自己后的依然做自己",
                 "xhs_title": "在我之外，还有一个安静看着我的我",
