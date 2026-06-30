@@ -21,18 +21,23 @@ Turn a Hugo article (`content/docs/.../*.md`) into an ordered PNG series for Xia
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r scripts/requirements.txt
-playwright install chromium
+PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
+  .venv/bin/python -m playwright install chromium
 ```
 
-**Always use the project venv** when running commands (Cursor Agent shells may default to system `python3`):
+**Always use the project venv and project Playwright browser cache** when running commands.
+Cursor Agent shells may default to system `python3`, and Cursor can set `PLAYWRIGHT_BROWSERS_PATH`
+to a temporary sandbox cache. Override it explicitly so Playwright uses the durable browser install
+under `.venv/playwright-browsers`:
 
 ```bash
-source .venv/bin/activate   # then python3 / pip / playwright work
-# or explicitly:
+export PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers"
 .venv/bin/python -m scripts.xhs.generate_xhs_cards ...
 ```
 
-If Playwright or Python deps are missing, the render command prints install instructions and exits.
+If Playwright reports Chromium missing, first check whether `PLAYWRIGHT_BROWSERS_PATH` points to a
+Cursor temp directory. Do not run bare `playwright install chromium`; install with the explicit
+project cache command above.
 
 **Body slide header** uses `xhs_title` as the series title (not category label like「阅读书目」). Omit `category_title` from manifest.
 
@@ -82,6 +87,7 @@ After `--rerender`, spot-check body slides for clipped text at the bottom border
 Python render:
 
 ```bash
+PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 .venv/bin/python -m scripts.xhs.generate_xhs_cards --series article --manifest <path>
 ```
 
@@ -212,6 +218,7 @@ Determine `cta_theme` by running (or equivalent logic):
 Run from repo root (with venv activated or use `.venv/bin/python`):
 
 ```bash
+PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 .venv/bin/python -m scripts.xhs.generate_xhs_cards \
   --series article \
   --manifest scripts/xhs/output/articles/<output_dir>/manifest.json
@@ -220,6 +227,7 @@ Run from repo root (with venv activated or use `.venv/bin/python`):
 Re-render after CSS or pagination tweaks (keeps manifest + optional cover-ai):
 
 ```bash
+PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 .venv/bin/python -m scripts.xhs.generate_xhs_cards \
   --series article \
   --manifest scripts/xhs/output/articles/<output_dir>/manifest.json \
@@ -256,6 +264,7 @@ Tell the user:
 After the first render, **always** run QA and fix until acceptable (max **3** repair rounds):
 
 ```bash
+PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 .venv/bin/python -m scripts.xhs.xhs_cards.article_qa \
   --manifest scripts/xhs/output/articles/<output_dir>/manifest.json
 ```
@@ -263,6 +272,7 @@ After the first render, **always** run QA and fix until acceptable (max **3** re
 Or combine with render:
 
 ```bash
+PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 .venv/bin/python -m scripts.xhs.generate_xhs_cards \
   --series article \
   --manifest scripts/xhs/output/articles/<output_dir>/manifest.json \
@@ -306,6 +316,7 @@ Exit codes: `0` pass, `1` errors, `2` warnings only. `2` can be acceptable after
 Run tests after pagination/CSS changes:
 
 ```bash
+PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 .venv/bin/python -m pytest scripts/xhs/tests/test_article_browser_paginator.py scripts/xhs/tests/test_article_render.py -q
 ```
 
