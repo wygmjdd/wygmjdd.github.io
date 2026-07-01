@@ -18,7 +18,7 @@ from scripts.xhs.xhs_cards.article_parser import (
 )
 from scripts.xhs.xhs_cards.article_browser_paginator import paginate_blocks_with_browser
 from scripts.xhs.xhs_cards.article_paginator import _merge_adjacent_blocks
-from scripts.xhs.xhs_cards.xhs_config import enrich_manifest_from_article, load_xhs_config
+from scripts.xhs.xhs_cards.xhs_config import REPO_ROOT, enrich_manifest_from_article, load_xhs_config
 
 _XHS_CARDS_DIR = Path(__file__).resolve().parent
 _CSS_PATH = _XHS_CARDS_DIR / "article.css"
@@ -159,6 +159,62 @@ def _render_body_page(
     )
 
 
+def _resolve_article_image_path(src: str, source_path: Path) -> Path:
+    clean_src = src.strip()
+    if not clean_src:
+        raise ValueError("Article image block missing src")
+
+    path = Path(clean_src)
+    if path.is_absolute() and path.is_file():
+        return path
+
+    candidates: list[Path] = []
+    if clean_src.startswith("/"):
+        candidates.append(REPO_ROOT / "static" / clean_src.lstrip("/"))
+    else:
+        candidates.append(source_path.parent / clean_src)
+        candidates.append(REPO_ROOT / clean_src)
+        candidates.append(REPO_ROOT / "static" / clean_src)
+
+    for candidate in candidates:
+        if candidate.is_file():
+            return candidate
+
+    resolved = candidates[0] if candidates else path
+    raise FileNotFoundError(f"Article image missing: {clean_src} (resolved to {resolved})")
+
+
+def _render_image_page(
+    block: ContentBlock,
+    source_path: Path,
+    page: int,
+    total: int,
+    nickname: str,
+) -> str:
+    image_path = _resolve_article_image_path(block.image_src, source_path)
+    caption = block.text.strip()
+    alt = block.image_alt.strip() or caption or "文章配图"
+    caption_html = (
+        f'<div class="article-photo-caption">{html.escape(caption)}</div>' if caption else ""
+    )
+    body = f"""
+    <div class="article-photo-card">
+      <div class="article-photo-media">
+        <img class="article-photo-img" src="{_image_data_url(image_path)}" alt="{html.escape(alt)}" />
+      </div>
+      {caption_html}
+    </div>
+    """
+    return _slide_shell(
+        body,
+        extra_class="slide-article slide-photo",
+        nickname=nickname,
+        page=page,
+        total=total,
+        show_page_footer=True,
+    )
+
+
 def _image_data_url(path: Path) -> str:
     suffix = path.suffix.lower()
     mime = {
@@ -169,6 +225,22 @@ def _image_data_url(path: Path) -> str:
     }.get(suffix, "image/png")
     encoded = base64.b64encode(path.read_bytes()).decode("ascii")
     return f"data:{mime};base64,{encoded}"
+
+
+def _iter_block_segments(blocks: list[ContentBlock]) -> list[tuple[str, list[ContentBlock] | ContentBlock]]:
+    segments: list[tuple[str, list[ContentBlock] | ContentBlock]] = []
+    text_blocks: list[ContentBlock] = []
+    for block in blocks:
+        if block.kind == "image":
+            if text_blocks:
+                segments.append(("text", text_blocks))
+                text_blocks = []
+            segments.append(("image", block))
+            continue
+        text_blocks.append(block)
+    if text_blocks:
+        segments.append(("text", text_blocks))
+    return segments
 
 
 def _matches_rendered_cover(candidate: Path, manifest_dir: Path) -> bool:
@@ -306,7 +378,7 @@ def render_article_slides(manifest_path: Path) -> tuple[list[tuple[str, str]], P
         )
 
     def _render_probe_page(blocks: list, probe_total: int, page_index: int = 0, all_pages: list | None = None) -> str:
-        pages_snapshot = all_pages if all_pages is not None else body_pages
+        pages_snapshot = all_pages if all_pages is not None else [blocks]
         continues = _page_continues_from_previous(pages_snapshot, page_index, blocks)
         return _render_body_page(
             header,
@@ -317,39 +389,63 @@ def render_article_slides(manifest_path: Path) -> tuple[list[tuple[str, str]], P
             continues_paragraph=continues,
         )
 
-    body_pages = paginate_blocks_with_browser(
-        article.blocks,
-        _render_probe_page,
-        max_chars=max_chars,
-    )
-    body_pages = [_merge_adjacent_blocks(page) for page in body_pages if page]
+    body_slides: list[tuple[str, list[ContentBlock] | ContentBlock]] = []
+    for segment_kind, segment in _iter_block_segments(article.blocks):
+        if segment_kind == "image":
+            body_slides.append((segment_kind, segment))
+            continue
 
-    if len(body_pages) > _BODY_SLIDE_WARN_THRESHOLD:
+        text_segment = segment
+        assert isinstance(text_segment, list)
+        body_pages = paginate_blocks_with_browser(
+            text_segment,
+            _render_probe_page,
+            max_chars=max_chars,
+        )
+        body_pages = [_merge_adjacent_blocks(page) for page in body_pages if page]
+        for page in body_pages:
+            body_slides.append(("text", page))
+
+    if len(body_slides) > _BODY_SLIDE_WARN_THRESHOLD:
         print(
-            f"Warning: {len(body_pages)} body slides (>{_BODY_SLIDE_WARN_THRESHOLD}); "
+            f"Warning: {len(body_slides)} body slides (>{_BODY_SLIDE_WARN_THRESHOLD}); "
             f"consider raising chars_per_slide in manifest (current {max_chars}).",
             file=sys.stderr,
             flush=True,
         )
 
-    body_total = len(body_pages)
+    body_total = len(body_slides)
 
     slides: list[tuple[str, str]] = []
     slides.append((COVER_OUTPUT_FILENAME, _render_cover_slide(manifest, manifest_dir)))
 
-    for index, blocks in enumerate(body_pages, start=1):
+    previous_text_page: list[ContentBlock] | None = None
+    for index, (slide_kind, slide_content) in enumerate(body_slides, start=1):
         filename = f"{index + 1:02d}.png"
+        if slide_kind == "image":
+            assert isinstance(slide_content, ContentBlock)
+            html_doc = _render_image_page(
+                slide_content,
+                source_path,
+                index,
+                body_total,
+                nickname,
+            )
+            slides.append((filename, html_doc))
+            previous_text_page = None
+            continue
+
+        blocks = slide_content
+        assert isinstance(blocks, list)
         continues_paragraph = False
-        if index > 1:
-            previous_page = body_pages[index - 2]
-            if previous_page and blocks:
-                previous_last = previous_page[-1]
-                first_block = blocks[0]
-                continues_paragraph = (
-                    previous_last.kind == "paragraph"
-                    and first_block.kind == "paragraph"
-                    and previous_last.source_id == first_block.source_id
-                )
+        if previous_text_page and blocks:
+            previous_last = previous_text_page[-1]
+            first_block = blocks[0]
+            continues_paragraph = (
+                previous_last.kind == "paragraph"
+                and first_block.kind == "paragraph"
+                and previous_last.source_id == first_block.source_id
+            )
         html_doc = _render_body_page(
             header,
             blocks,
@@ -359,6 +455,7 @@ def render_article_slides(manifest_path: Path) -> tuple[list[tuple[str, str]], P
             continues_paragraph=continues_paragraph,
         )
         slides.append((filename, html_doc))
+        previous_text_page = blocks
 
     end_page_num = body_total + 2
     slides.append((f"{end_page_num:02d}-end.png", _render_end_slide(manifest)))

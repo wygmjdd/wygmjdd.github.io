@@ -38,22 +38,39 @@ class QAIssue:
 
 
 def _pagination_issues(blocks: list, max_chars: int) -> list[QAIssue]:
-    pages = paginate_blocks(blocks, max_chars)
     issues: list[QAIssue] = []
-    for index, page in enumerate(pages):
-        height = page_content_height(page)
-        ratio = height / AVAILABLE_TEXT_HEIGHT if AVAILABLE_TEXT_HEIGHT else 0.0
-        is_last = index == len(pages) - 1
-        min_ratio = _MIN_TAIL_PAGE_FILL if is_last else _MIN_MID_PAGE_FILL
-        if ratio < min_ratio:
-            issues.append(
-                QAIssue(
-                    "warning",
-                    "sparse_page",
-                    f"Estimated fill for body slide {index + 1} is {ratio:.0%} "
-                    f"(target ≥ {min_ratio:.0%}).",
+    text_segment: list = []
+    slide_offset = 0
+
+    def audit_text_segment(segment: list, offset: int) -> int:
+        if not segment:
+            return offset
+        pages = paginate_blocks(segment, max_chars)
+        for index, page in enumerate(pages):
+            height = page_content_height(page)
+            ratio = height / AVAILABLE_TEXT_HEIGHT if AVAILABLE_TEXT_HEIGHT else 0.0
+            is_last = index == len(pages) - 1
+            min_ratio = _MIN_TAIL_PAGE_FILL if is_last else _MIN_MID_PAGE_FILL
+            if ratio < min_ratio:
+                issues.append(
+                    QAIssue(
+                        "warning",
+                        "sparse_page",
+                        f"Estimated fill for body slide {offset + index + 1} is {ratio:.0%} "
+                        f"(target ≥ {min_ratio:.0%}).",
+                    )
                 )
-            )
+        return offset + len(pages)
+
+    for block in blocks:
+        if block.kind == "image":
+            slide_offset = audit_text_segment(text_segment, slide_offset)
+            text_segment = []
+            slide_offset += 1
+            continue
+        text_segment.append(block)
+
+    audit_text_segment(text_segment, slide_offset)
     return issues
 
 
@@ -104,6 +121,19 @@ def _render_issues(manifest_path: Path) -> list[QAIssue]:
                 page = browser.new_page(viewport=_VIEWPORT)
                 for slide_index, (name, html) in enumerate(body_slides):
                     page.set_content(html, wait_until="load")
+                    is_photo_slide = bool(page.locator(".article-photo-card").count())
+                    has_text_body = bool(page.locator(".article-body-text").count())
+                    if is_photo_slide and not has_text_body:
+                        continue
+                    if not has_text_body:
+                        issues.append(
+                            QAIssue(
+                                "error",
+                                "missing_body_text",
+                                f"{name}: body slide has neither article text nor photo content.",
+                            )
+                        )
+                        continue
                     if page.evaluate(_BODY_OVERFLOW_JS):
                         issues.append(
                             QAIssue(

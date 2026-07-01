@@ -42,6 +42,16 @@ def test_strip_inline_markdown_links() -> None:
     assert strip_inline_markdown_links(text) == "除去前面的工作与读书之外。"
 
 
+def test_strip_inline_markdown_links_preserves_images() -> None:
+    from scripts.xhs.xhs_cards.article_parser import strip_inline_markdown_links
+
+    text = "前文。\n\n![山坡](/images/wechat/a.jpg)\n\n[原文](https://example.com)"
+    stripped = strip_inline_markdown_links(text)
+    assert "![山坡](/images/wechat/a.jpg)" in stripped
+    assert "原文" in stripped
+    assert "](https://example.com)" not in stripped
+
+
 def test_strip_body_removes_inline_markdown_links() -> None:
     post = parse_frontmatter_markdown(
         """---
@@ -66,6 +76,45 @@ def test_parse_body_blocks_quote_and_paragraphs() -> None:
     assert blocks[1].kind == "quote"
     assert blocks[1].text == "引用内容在这里。"
     assert blocks[2].kind == "paragraph"
+
+
+def test_parse_body_blocks_turns_figure_into_image_block() -> None:
+    from scripts.xhs.xhs_cards.article_parser import parse_body_blocks
+
+    body = """第一段内容。
+
+<figure class="figure-with-caption">
+<img src="/images/wechat/208ad8111a9a/001.jpg" alt="阿江和母亲" loading="lazy" />
+<figcaption>阿江、母亲</figcaption>
+</figure>
+
+第二段内容。"""
+
+    blocks = parse_body_blocks(body)
+
+    assert [block.kind for block in blocks] == ["paragraph", "image", "paragraph"]
+    assert blocks[1].text == "阿江、母亲"
+    assert blocks[1].image_src == "/images/wechat/208ad8111a9a/001.jpg"
+    assert blocks[1].image_alt == "阿江和母亲"
+    assert "<figure" not in blocks[0].text
+    assert "<figure" not in blocks[2].text
+
+
+def test_parse_body_blocks_turns_markdown_image_into_image_block() -> None:
+    from scripts.xhs.xhs_cards.article_parser import parse_body_blocks
+
+    body = """第一段内容。
+
+![山坡上的洋芋](/images/wechat/208ad8111a9a/002.jpg)
+
+第二段内容。"""
+
+    blocks = parse_body_blocks(body)
+
+    assert [block.kind for block in blocks] == ["paragraph", "image", "paragraph"]
+    assert blocks[1].text == "山坡上的洋芋"
+    assert blocks[1].image_src == "/images/wechat/208ad8111a9a/002.jpg"
+    assert blocks[1].image_alt == "山坡上的洋芋"
 
 
 def test_detect_embedded_images() -> None:
