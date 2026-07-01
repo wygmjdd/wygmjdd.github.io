@@ -25,6 +25,7 @@ _CSS_PATH = _XHS_CARDS_DIR / "article.css"
 _BODY_SLIDE_WARN_THRESHOLD = 12
 
 COVER_AI_FILENAME = "cover-ai.png"
+COVER_BASE_FILENAME = "cover-base.png"
 COVER_BG_FILENAME = "cover-bg.png"
 COVER_OUTPUT_FILENAME = "01-cover.png"
 
@@ -167,44 +168,44 @@ def _image_data_url(path: Path) -> str:
     return f"data:{mime};base64,{encoded}"
 
 
-def prepare_cover_ai(manifest_dir: Path, manifest: dict[str, Any]) -> Path | None:
-    """Return optional cover background path, copying legacy cover-bg when present."""
-    ai_path = manifest_dir / COVER_AI_FILENAME
-    if ai_path.is_file():
-        return ai_path
+def _matches_rendered_cover(candidate: Path, manifest_dir: Path) -> bool:
+    rendered_cover = manifest_dir / COVER_OUTPUT_FILENAME
+    if not rendered_cover.is_file():
+        return False
+    return candidate.read_bytes() == rendered_cover.read_bytes()
+
+
+def prepare_cover_base(manifest_dir: Path, manifest: dict[str, Any]) -> Path | None:
+    """Return the optional cover base image used behind the rendered title."""
+    base_path = manifest_dir / COVER_BASE_FILENAME
+    if base_path.is_file() and not _matches_rendered_cover(base_path, manifest_dir):
+        return base_path
 
     declared_background = False
-    for key in ("cover_ai", "cover_bg"):
+    skipped_rendered_cover_copy = False
+    for key in ("cover_base", "cover_ai", "cover_bg"):
         name = manifest.get(key)
         if not isinstance(name, str) or not name.strip():
             continue
         declared_background = True
-        legacy = manifest_dir / name.strip()
-        if legacy.is_file() and legacy.resolve() != ai_path.resolve():
-            shutil.copy2(legacy, ai_path)
-            return ai_path
-        if legacy.is_file():
-            return legacy
+        candidate = manifest_dir / name.strip()
+        if not candidate.is_file():
+            continue
+        if _matches_rendered_cover(candidate, manifest_dir):
+            skipped_rendered_cover_copy = True
+            continue
+        if candidate.resolve() != base_path.resolve():
+            shutil.copy2(candidate, base_path)
+            return base_path
+        if candidate.is_file():
+            return candidate
 
-    fallback = manifest_dir / COVER_BG_FILENAME
-    if fallback.is_file():
-        shutil.copy2(fallback, ai_path)
-        return ai_path
-
-    if declared_background:
+    if declared_background and not skipped_rendered_cover_copy:
         raise FileNotFoundError(
-            f"Declared cover background missing. Expected {ai_path} or the manifest cover path in {manifest_dir}"
+            f"Declared cover base missing. Expected {base_path} or the manifest cover path in {manifest_dir}"
         )
 
     return None
-
-
-def sync_cover_deliverables(manifest_dir: Path) -> None:
-    """After render, 01-cover.png and cover-bg.png are the same final cover."""
-    cover_out = manifest_dir / COVER_OUTPUT_FILENAME
-    if not cover_out.is_file():
-        return
-    shutil.copy2(cover_out, manifest_dir / COVER_BG_FILENAME)
 
 
 def _resolve_cta_theme_label(manifest: dict[str, Any]) -> str:
@@ -226,7 +227,7 @@ def _resolve_cta_theme_label(manifest: dict[str, Any]) -> str:
 
 
 def _render_cover_slide(manifest: dict[str, Any], manifest_dir: Path) -> str:
-    ai_path = prepare_cover_ai(manifest_dir, manifest)
+    base_path = prepare_cover_base(manifest_dir, manifest)
     xhs_title = str(manifest.get("xhs_title") or "")
     theme_label = _resolve_cta_theme_label(manifest)
 
@@ -239,7 +240,7 @@ def _render_cover_slide(manifest: dict[str, Any], manifest_dir: Path) -> str:
     return _slide_shell(
         body,
         extra_class="slide-cover",
-        background_url=_image_data_url(ai_path) if ai_path else None,
+        background_url=_image_data_url(base_path) if base_path else None,
     )
 
 

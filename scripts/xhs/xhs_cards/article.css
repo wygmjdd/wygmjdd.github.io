@@ -197,11 +197,15 @@
 
 .cover-title-card {
   width: 100%;
+  max-width: 980px;
   min-height: 780px;
-  padding: 48px 54px 54px;
+  margin: 0 auto;
+  padding: 48px 24px 54px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   justify-content: center;
+  text-align: left;
 }
 
 .cover-title-card.glass-card {
@@ -226,6 +230,7 @@
 }
 
 .cover-title {
+  max-width: 980px;
   font-family: "Songti SC", "STSong", "Noto Serif SC", serif;
   font-size: 86px;
   line-height: 1.14;
@@ -233,7 +238,7 @@
   color: var(--ink-primary);
   letter-spacing: 0;
   overflow-wrap: anywhere;
-  text-wrap: balance;
+  text-wrap: pretty;
   text-shadow: 0 2px 18px rgba(255, 252, 247, 0.82);
 }
 

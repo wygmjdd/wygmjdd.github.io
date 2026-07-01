@@ -78,7 +78,7 @@ Current article series uses a **warm paper / editorial** look (not glass-on-grad
 - Body: single full-height paper card; series title in serif + hairline rule.
 - Paragraphs: PingFang sans, ~33px, relaxed line-height.
 - Quotes: Songti serif editorial note block, with a quiet paper tint and short bookmark line (not a blue box, not a full-height web blockquote bar).
-- Cover: default paper-style typography cover; optional `cover-ai.png` can add a quiet mood background. Renderer adds an oversized title layer optimized for profile-grid legibility. Avoid visible white title cards unless a specific cover needs that rescue. `01-cover.png` is the deliverable; `cover-bg.png` auto-syncs to match.
+- Cover: default paper-style typography cover; optional `cover-base.png` can add a quiet mood background. Renderer adds an oversized title layer optimized for profile-grid legibility. Avoid visible white title cards unless a specific cover needs that rescue. `01-cover.png` is the deliverable.
 - End slide: theme label + `cta_line1` + @nickname + bio in the card body (no second CTA line).
 - **Footer policy:** cover and end have **no slide footer**. Body slides only show **`{n}/{body_total}`** (right-aligned page number, no @nickname watermark).
 
@@ -113,9 +113,9 @@ Present **3 candidates**. For each:
 
 ### 3. Cover background
 
-Default: **skip AI cover generation**. The renderer will create a paper-style typography cover with no `cover-ai.png`.
+Default: **skip AI cover generation**. The renderer will create a paper-style typography cover with no `cover-base.png`.
 
-Only generate `cover-ai.png` when the article has a strong visual scene that helps recognition (travel, cooking, city life, object/place-specific posts). For reading notes, summaries, and reflective essays, prefer the default text cover.
+Only generate `cover-base.png` when the article has a strong visual scene that helps recognition (travel, cooking, city life, object/place-specific posts). For reading notes, summaries, and reflective essays, prefer the default text cover.
 
 If generating one, write an image prompt: fresh, soft, reading/life mood; **no readable text**; no faces or important subject details under the future title layer. Treat the AI image as background material, not the information layer.
 
@@ -129,12 +129,12 @@ The rendered cover uses large typography over a soft readability scrim. Prompt t
 If you generated a background, call **GenerateImage**, then **move/copy** the file to:
 
 ```
-scripts/xhs/output/articles/{output_dir}/cover-ai.png
+scripts/xhs/output/articles/{output_dir}/cover-base.png
 ```
 
-The render step composites the title and writes **`01-cover.png`**. After render, **`cover-bg.png` is auto-synced to match `01-cover.png`** — upload `01-cover.png` only; no manual compositing.
+The render step composites the title and writes **`01-cover.png`**. Upload `01-cover.png` only; no manual compositing.
 
-If a background exists, use filename **`cover-ai.png`** in the manifest (`cover_ai` field). If no background exists, omit `cover_ai`. Legacy `cover-bg.png`-only folders are still accepted as input but the canonical optional AI input is `cover-ai.png`.
+If a background exists, use filename **`cover-base.png`** in the manifest (`cover_base` field). If no background exists, omit `cover_base`. Legacy manifests that explicitly declare `cover_ai` or `cover_bg` are still accepted, but new work should not create or rely on `cover-ai.png` / `cover-bg.png`.
 
 `{output_dir}` = **hyphenated pinyin of `original_title`** (文章原标题，不是 markdown 文件名).
 
@@ -203,7 +203,7 @@ Write `manifest.json`:
 
 - `output_dir` — folder name under `output/articles/` (pinyin of `original_title`)
 - `source_slug` — markdown filename stem (for traceability only)
-- `cover_ai` — optional; omit for the default paper-style typography cover, set to `"cover-ai.png"` only when you generated a background
+- `cover_base` — optional; omit for the default paper-style typography cover, set to `"cover-base.png"` only when you generated a background
 - `cta_label` — optional exact display override for cover/end theme label; omit in normal cases
 - Do **not** set `cover_subtitle`, `category_title`, or `cta_line2` — unused by current renderer
 
@@ -224,7 +224,7 @@ PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
   --manifest scripts/xhs/output/articles/<output_dir>/manifest.json
 ```
 
-Re-render after CSS or pagination tweaks (keeps manifest + optional cover-ai):
+Re-render after CSS or pagination tweaks (keeps manifest + optional cover-base):
 
 ```bash
 PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
@@ -254,7 +254,7 @@ Write `post-caption.md` in the same output dir:
 Tell the user:
 
 - Output folder path
-- Upload images **in filename order** (`01-cover.png` … `NN-end.png`); `cover-bg.png` mirrors `01-cover.png` for convenience
+- Upload images **in filename order** (`01-cover.png` … `NN-end.png`); do not upload or expect `cover-ai.png` / `cover-bg.png`
 - Use chosen title as the XHS note title
 - Path to `post-caption.md`
 - Body slide count **varies by article length** — see `examples.md` for a full walk-through sample (not a fixed page target)
@@ -284,7 +284,7 @@ PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 | Check | What to look for | Typical fix |
 |-------|------------------|-------------|
 | Cover / end footer | **No** `@nickname` or page number on cover or end | `article.py` `_slide_shell(show_page_footer=False)` |
-| Cover thumbnail | `01-cover.png` title is readable when viewed around 240-300px wide in a profile grid; background must not compete with the title layer | `article.css` cover styles or regenerate quieter `cover-ai.png` |
+| Cover thumbnail | `01-cover.png` title is readable when viewed around 240-300px wide in a profile grid; background must not compete with the title layer | `article.css` cover styles or regenerate quieter `cover-base.png` |
 | Body links | No `[文字](url)` or `<a href` in slide text — anchor text only | `article_parser.strip_inline_markdown_links` |
 | Body footer | `@nickname` bottom-left + `1/N` … `N/N` bottom-right (N = body page count only) | `article.py` body footer, `article.css` |
 | Page fill | Body slides mostly full; only the **last** body slide may be sparse. A small QA underfill warning is acceptable after visual review when the next line would overflow. | `article_browser_paginator.py` |

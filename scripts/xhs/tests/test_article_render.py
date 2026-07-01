@@ -7,12 +7,12 @@ import pytest
 
 from scripts.xhs.xhs_cards.article import (
     COVER_AI_FILENAME,
+    COVER_BASE_FILENAME,
     COVER_BG_FILENAME,
     COVER_OUTPUT_FILENAME,
     _CSS_PATH,
-    prepare_cover_ai,
+    prepare_cover_base,
     render_article_slides,
-    sync_cover_deliverables,
 )
 
 
@@ -32,8 +32,8 @@ primary_category: reading-category
 """,
         encoding="utf-8",
     )
-    cover_ai = tmp_path / COVER_AI_FILENAME
-    cover_ai.write_bytes(b"\x89PNG\r\n\x1a\n")
+    cover_base = tmp_path / COVER_BASE_FILENAME
+    cover_base.write_bytes(b"\x89PNG\r\n\x1a\n")
 
     manifest = {
         "manifest_version": 1,
@@ -42,7 +42,7 @@ primary_category: reading-category
         "original_title": "测试标题",
         "xhs_title": "小红书标题",
         "primary_category": "reading-category",
-        "cover_ai": COVER_AI_FILENAME,
+        "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "cta_line2": "关注理由测试。",
@@ -167,6 +167,11 @@ def test_cover_css_keeps_title_thumbnail_readable() -> None:
     assert "font-size: 86px;" in css
     assert "background: transparent;" in css
     assert "min-height: 780px;" in css
+    assert "align-items: flex-start;" in css
+    assert "text-align: left;" in css
+    assert "max-width: 980px;" in css
+    assert "text-wrap: pretty;" in css
+    assert "text-wrap: balance;" not in css
 
 
 def test_quote_css_uses_editorial_note_treatment() -> None:
@@ -192,15 +197,72 @@ def test_quote_layout_estimate_matches_quote_css() -> None:
     assert QUOTE_PADDING_HORIZONTAL == 42
 
 
-def test_prepare_cover_ai_from_legacy_cover_bg(tmp_path: Path) -> None:
-    legacy = tmp_path / COVER_BG_FILENAME
-    legacy.write_bytes(b"\x89PNG\r\n\x1a\n")
-    manifest = {"cover_bg": COVER_BG_FILENAME}
+def test_prepare_cover_base_uses_canonical_cover_base(tmp_path: Path) -> None:
+    cover_base = tmp_path / COVER_BASE_FILENAME
+    cover_base.write_bytes(b"\x89PNG\r\n\x1a\n")
+    manifest = {"cover_base": COVER_BASE_FILENAME}
 
-    ai_path = prepare_cover_ai(tmp_path, manifest)
+    base_path = prepare_cover_base(tmp_path, manifest)
 
-    assert ai_path == tmp_path / COVER_AI_FILENAME
-    assert ai_path.is_file()
+    assert base_path == cover_base
+
+
+def test_prepare_cover_base_ignores_canonical_cover_base_when_it_matches_rendered_cover(tmp_path: Path) -> None:
+    cover_base = tmp_path / COVER_BASE_FILENAME
+    rendered_cover = tmp_path / COVER_OUTPUT_FILENAME
+    cover_base.write_bytes(b"rendered-cover")
+    rendered_cover.write_bytes(b"rendered-cover")
+    manifest = {"cover_base": COVER_BASE_FILENAME}
+
+    base_path = prepare_cover_base(tmp_path, manifest)
+
+    assert base_path is None
+
+
+def test_prepare_cover_base_still_errors_for_missing_declared_legacy_when_base_is_rendered_cover(
+    tmp_path: Path,
+) -> None:
+    cover_base = tmp_path / COVER_BASE_FILENAME
+    rendered_cover = tmp_path / COVER_OUTPUT_FILENAME
+    cover_base.write_bytes(b"rendered-cover")
+    rendered_cover.write_bytes(b"rendered-cover")
+    manifest = {"cover_ai": COVER_AI_FILENAME}
+
+    with pytest.raises(FileNotFoundError, match="Declared cover base missing"):
+        prepare_cover_base(tmp_path, manifest)
+
+
+def test_prepare_cover_base_ignores_final_cover_bg_alias(tmp_path: Path) -> None:
+    final_cover_alias = tmp_path / COVER_BG_FILENAME
+    final_cover_alias.write_bytes(b"rendered-cover")
+    manifest: dict[str, str] = {}
+
+    base_path = prepare_cover_base(tmp_path, manifest)
+
+    assert base_path is None
+
+
+def test_prepare_cover_base_accepts_declared_legacy_cover_ai(tmp_path: Path) -> None:
+    legacy_ai = tmp_path / COVER_AI_FILENAME
+    legacy_ai.write_bytes(b"\x89PNG\r\n\x1a\n")
+    manifest = {"cover_ai": COVER_AI_FILENAME}
+
+    base_path = prepare_cover_base(tmp_path, manifest)
+
+    assert base_path == tmp_path / COVER_BASE_FILENAME
+    assert base_path.read_bytes() == legacy_ai.read_bytes()
+
+
+def test_prepare_cover_base_ignores_legacy_cover_ai_when_it_matches_rendered_cover(tmp_path: Path) -> None:
+    legacy_ai = tmp_path / COVER_AI_FILENAME
+    rendered_cover = tmp_path / COVER_OUTPUT_FILENAME
+    legacy_ai.write_bytes(b"rendered-cover")
+    rendered_cover.write_bytes(b"rendered-cover")
+    manifest = {"cover_ai": COVER_AI_FILENAME}
+
+    base_path = prepare_cover_base(tmp_path, manifest)
+
+    assert base_path is None
 
 
 def test_render_article_slides_uses_default_cover_without_cover_ai(tmp_path: Path) -> None:
@@ -236,7 +298,7 @@ def test_render_article_slides_uses_default_cover_without_cover_ai(tmp_path: Pat
     assert "background-image" not in cover_html
 
 
-def test_render_article_slides_errors_when_declared_cover_ai_is_missing(tmp_path: Path) -> None:
+def test_render_article_slides_errors_when_declared_cover_base_is_missing(tmp_path: Path) -> None:
     article_path = tmp_path / "article.md"
     article_path.write_text(
         "---\n"
@@ -253,7 +315,7 @@ def test_render_article_slides_errors_when_declared_cover_ai_is_missing(tmp_path
         "original_title": "缺失底图测试",
         "xhs_title": "声明了底图就不能静默丢失",
         "primary_category": "summary",
-        "cover_ai": COVER_AI_FILENAME,
+        "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "nickname": "我要改名叫嘟嘟",
@@ -263,19 +325,31 @@ def test_render_article_slides_errors_when_declared_cover_ai_is_missing(tmp_path
     manifest_path = tmp_path / "manifest.json"
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
 
-    with pytest.raises(FileNotFoundError, match="Declared cover background missing"):
+    with pytest.raises(FileNotFoundError, match="Declared cover base missing"):
         render_article_slides(manifest_path)
 
 
-def test_sync_cover_deliverables_copies_rendered_cover(tmp_path: Path) -> None:
-    cover_out = tmp_path / COVER_OUTPUT_FILENAME
-    cover_out.write_bytes(b"rendered-cover")
+def test_prune_article_render_keeps_ordered_slides_and_cover_base_only(tmp_path: Path) -> None:
+    from scripts.xhs.generate_xhs_cards import _prune_stale_slide_images
+
+    cover_base = tmp_path / COVER_BASE_FILENAME
+    cover_base.write_bytes(b"base")
+    legacy_ai = tmp_path / COVER_AI_FILENAME
+    legacy_ai.write_bytes(b"legacy-ai")
     bg_path = tmp_path / COVER_BG_FILENAME
-    bg_path.write_bytes(b"old-bg")
+    bg_path.write_bytes(b"legacy-bg")
+    keep_cover = tmp_path / COVER_OUTPUT_FILENAME
+    keep_cover.write_bytes(b"cover")
+    keep_body = tmp_path / "02.png"
+    keep_body.write_bytes(b"body")
 
-    sync_cover_deliverables(tmp_path)
+    _prune_stale_slide_images(tmp_path, {COVER_OUTPUT_FILENAME, "02.png"})
 
-    assert bg_path.read_bytes() == b"rendered-cover"
+    assert cover_base.is_file()
+    assert keep_cover.is_file()
+    assert keep_body.is_file()
+    assert not legacy_ai.exists()
+    assert not bg_path.exists()
 
 
 def test_render_article_slides_uses_browser_paginator(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
@@ -291,8 +365,8 @@ def test_render_article_slides_uses_browser_paginator(tmp_path: Path, monkeypatc
         "原始正文不应该直接进入 body。\n",
         encoding="utf-8",
     )
-    cover_ai = tmp_path / COVER_AI_FILENAME
-    cover_ai.write_bytes(b"\x89PNG\r\n\x1a\n")
+    cover_base = tmp_path / COVER_BASE_FILENAME
+    cover_base.write_bytes(b"\x89PNG\r\n\x1a\n")
     manifest = {
         "manifest_version": 1,
         "source": str(article_path),
@@ -300,7 +374,7 @@ def test_render_article_slides_uses_browser_paginator(tmp_path: Path, monkeypatc
         "original_title": "分页路径测试",
         "xhs_title": "浏览器分页路径测试",
         "primary_category": "summary",
-        "cover_ai": COVER_AI_FILENAME,
+        "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "nickname": "我要改名叫嘟嘟",
@@ -340,8 +414,8 @@ def test_render_article_slides_continues_long_paragraph_without_indent(tmp_path:
         f"{sentence * 48}\n",
         encoding="utf-8",
     )
-    cover_ai = tmp_path / COVER_AI_FILENAME
-    cover_ai.write_bytes(b"\x89PNG\r\n\x1a\n")
+    cover_base = tmp_path / COVER_BASE_FILENAME
+    cover_base.write_bytes(b"\x89PNG\r\n\x1a\n")
     manifest = {
         "manifest_version": 1,
         "source": str(article_path),
@@ -349,7 +423,7 @@ def test_render_article_slides_continues_long_paragraph_without_indent(tmp_path:
         "original_title": "长段落测试",
         "xhs_title": "在我之外，还有一个安静看着我的我",
         "primary_category": "summary",
-        "cover_ai": COVER_AI_FILENAME,
+        "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "nickname": "我要改名叫嘟嘟",
@@ -381,8 +455,8 @@ def test_render_article_slides_browser_paginated_body_does_not_overflow(tmp_path
         f"{sentence * 44}\n",
         encoding="utf-8",
     )
-    cover_ai = tmp_path / COVER_AI_FILENAME
-    cover_ai.write_bytes(b"\x89PNG\r\n\x1a\n")
+    cover_base = tmp_path / COVER_BASE_FILENAME
+    cover_base.write_bytes(b"\x89PNG\r\n\x1a\n")
     manifest = {
         "manifest_version": 1,
         "source": str(article_path),
@@ -390,7 +464,7 @@ def test_render_article_slides_browser_paginated_body_does_not_overflow(tmp_path
         "original_title": "裁切测试",
         "xhs_title": "在我之外，还有一个安静看着我的我",
         "primary_category": "summary",
-        "cover_ai": COVER_AI_FILENAME,
+        "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "nickname": "我要改名叫嘟嘟",
