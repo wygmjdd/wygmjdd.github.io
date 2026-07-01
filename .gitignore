@@ -14,3 +14,5 @@ scripts/xhs/output/
 
 # Manual batch JSON for update_manual (local only)
 scripts/wechat/update_manual/input/
+
+.codegraph/
