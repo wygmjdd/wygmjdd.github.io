@@ -9,8 +9,8 @@ Create a YAML file (e.g. `_archive/legacy-jekyll/_data/wechat_manual_article_url
 Example:
 
 ```yaml
-# Key = slug from wechat_albums.yml (e.g. 30min-diary, summary, reading-category)
-30min-diary:
+# Key = category slug from data/categories.yml (e.g. 30-fen-zhong-ri-ji, zong-jie, yue-du-shu-mu)
+30-fen-zhong-ri-ji:
   - "https://mp.weixin.qq.com/s?__biz=..."
   - "https://mp.weixin.qq.com/s?__biz=..."
 summary:

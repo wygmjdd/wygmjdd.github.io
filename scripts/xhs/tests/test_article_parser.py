@@ -17,7 +17,7 @@ from scripts.wechat.normalize_article_footer import parse_frontmatter_markdown
 
 SAMPLE = """---
 title: 特斯拉与外星人
-primary_category: reading-category
+primary_category: yue-du-shu-mu
 ---
 正文第一段。
 
@@ -94,41 +94,41 @@ def test_load_manifest_accepts_current_version(tmp_path: Path) -> None:
 
 
 def test_resolve_cta_theme_from_config() -> None:
-    assert resolve_cta_theme("reading-category") == "reading"
-    assert resolve_cta_theme("summary") == "summary"
-    assert resolve_cta_theme("subway-diary") == "life"
+    assert resolve_cta_theme("yue-du-shu-mu") == "reading"
+    assert resolve_cta_theme("zong-jie") == "summary"
+    assert resolve_cta_theme("di-tie-ri-ji") == "life"
     assert resolve_cta_theme("unknown-slug") == "reading"
 
 
 def test_resolve_category_title() -> None:
     titles = load_category_titles()
-    if "reading-category" in titles:
-        assert resolve_category_title("reading-category") == titles["reading-category"]
+    if "yue-du-shu-mu" in titles:
+        assert resolve_category_title("yue-du-shu-mu") == titles["yue-du-shu-mu"]
 
 
 def test_enrich_manifest_fills_category_title_from_article() -> None:
-    manifest = {"primary_category": "reading-category"}
+    manifest = {"primary_category": "yue-du-shu-mu"}
     enriched = enrich_manifest_from_article(manifest, {})
     titles = load_category_titles()
-    if "reading-category" in titles:
-        assert enriched["category_title"] == titles["reading-category"]
+    if "yue-du-shu-mu" in titles:
+        assert enriched["category_title"] == titles["yue-du-shu-mu"]
 
 
 def test_enrich_manifest_uses_article_metadata_slug() -> None:
     manifest: dict = {}
     enriched = enrich_manifest_from_article(
         manifest,
-        {"primary_category": "reading-category", "title": "特斯拉与外星人"},
+        {"primary_category": "yue-du-shu-mu", "title": "特斯拉与外星人"},
     )
-    assert enriched["primary_category"] == "reading-category"
+    assert enriched["primary_category"] == "yue-du-shu-mu"
     titles = load_category_titles()
-    if "reading-category" in titles:
-        assert enriched["category_title"] == titles["reading-category"]
+    if "yue-du-shu-mu" in titles:
+        assert enriched["category_title"] == titles["yue-du-shu-mu"]
 
 
 def test_enrich_manifest_keeps_explicit_category_title() -> None:
     manifest = {
-        "primary_category": "reading-category",
+        "primary_category": "yue-du-shu-mu",
         "category_title": "自定义标题",
     }
     enriched = enrich_manifest_from_article(manifest, {})

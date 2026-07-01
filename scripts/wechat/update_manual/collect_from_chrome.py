@@ -215,8 +215,8 @@ def main() -> None:
     )
     parser.add_argument(
         "--default-slug",
-        default="subway-diary",
-        help="Category slug for every collected URL (default: subway-diary).",
+        default="di-tie-ri-ji",
+        help="Category slug for every collected URL (default: di-tie-ri-ji).",
     )
     parser.add_argument(
         "--channel",

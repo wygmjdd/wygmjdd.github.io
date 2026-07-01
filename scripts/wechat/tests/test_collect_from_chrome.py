@@ -45,8 +45,8 @@ def test_batch_entry_includes_title_slug_url():
         title="测试标题",
         visited_at=datetime.now(timezone.utc),
     )
-    assert batch_entry(article, slug="subway-diary") == {
+    assert batch_entry(article, slug="di-tie-ri-ji") == {
         "title": "测试标题",
-        "slug": "subway-diary",
+        "slug": "di-tie-ri-ji",
         "url": "https://mp.weixin.qq.com/s/abc",
     }

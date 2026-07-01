@@ -32,7 +32,8 @@ from pathlib import Path
 from typing import Any
 
 import yaml
-from pypinyin import lazy_pinyin
+
+from scripts.wechat.slug_utils import pinyin_slug
 
 ROOT = Path(__file__).resolve().parents[2]
 LEGACY_JEKYLL = ROOT / "_archive" / "legacy-jekyll"
@@ -42,8 +43,22 @@ REHYDRATED_DIR = LEGACY_JEKYLL / "_rehydrated_posts"
 LEGACY_POSTS_DIR = LEGACY_JEKYLL / "_posts"
 
 CATEGORY_ALIASES: dict[str, str] = {
-    "yuedushumu": "reading-category",
-    "year-end-summary": "summary",
+    "30min-diary": "30-fen-zhong-ri-ji",
+    "book-quotes-sharing": "shu-zhong-jin-ju-fen-xiang",
+    "intimate-relationships": "qin-mi-guan-xi",
+    "learning-to-cook": "xue-zuo-cai",
+    "life-diary": "sheng-huo-ri-ji",
+    "marriage": "jie-hun-zhe-jian-shi",
+    "reading": "du-shu",
+    "reading-category": "yue-du-shu-mu",
+    "shenzhen": "shen-zhen",
+    "subway-diary": "di-tie-ri-ji",
+    "summary": "zong-jie",
+    "technical-blog": "ji-shu-bo-ke",
+    "workplace-experience": "zhi-chang-jing-li",
+    "year-end-summary": "zong-jie",
+    "yuedushumu": "yue-du-shu-mu",
+    "zimbardo-general-psychology": "jin-ba-duo-pu-tong-xin-li-xue",
 }
 
 FALLBACK_CATEGORY = "uncategorized"
@@ -271,22 +286,8 @@ def title_for_post(post: MarkdownPost, slug: str) -> str:
     return slug.replace("-", " ").strip() or "无标题"
 
 
-def title_prefix_to_pinyin(title: str, limit: int = 5) -> str:
-    chars: list[str] = []
-    for char in title.strip():
-        if char.isspace() or not char.isalnum():
-            continue
-        chars.append(char)
-        if len(chars) >= limit:
-            break
-
-    prefix = "".join(chars) or "untitled"
-    parts: list[str] = []
-    for part in lazy_pinyin(prefix):
-        cleaned = re.sub(r"[^a-zA-Z0-9]+", "-", part).strip("-").lower()
-        if cleaned:
-            parts.append(cleaned)
-    return "-".join(parts) or "untitled"
+def title_prefix_to_pinyin(title: str, limit: int = 8) -> str:
+    return pinyin_slug(title, max_chars=limit)
 
 
 def hugo_doc_filename(date_iso: str, title: str, category: str) -> str:
@@ -294,7 +295,7 @@ def hugo_doc_filename(date_iso: str, title: str, category: str) -> str:
     category_slug = re.sub(r"[^a-zA-Z0-9-]+", "-", category.strip()).strip("-").lower()
     if not category_slug:
         category_slug = FALLBACK_CATEGORY
-    return f"{date_iso}-{title_slug}-{category_slug}.md"
+    return f"{date_iso}-{category_slug}-{title_slug}.md"
 
 
 def legacy_hash_suffix(src_name: str) -> str:

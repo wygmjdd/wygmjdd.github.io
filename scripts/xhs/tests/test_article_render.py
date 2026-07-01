@@ -11,6 +11,7 @@ from scripts.xhs.xhs_cards.article import (
     COVER_BG_FILENAME,
     COVER_OUTPUT_FILENAME,
     _CSS_PATH,
+    _resolve_cta_theme_label,
     prepare_cover_base,
     render_article_slides,
 )
@@ -22,7 +23,7 @@ def manifest_dir(tmp_path: Path) -> Path:
     article_path.write_text(
         """---
 title: 测试标题
-primary_category: reading-category
+primary_category: yue-du-shu-mu
 ---
 第一段内容。
 
@@ -41,7 +42,7 @@ primary_category: reading-category
         "slug": "test-article",
         "original_title": "测试标题",
         "xhs_title": "小红书标题",
-        "primary_category": "reading-category",
+        "primary_category": "yue-du-shu-mu",
         "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
@@ -91,7 +92,7 @@ def test_summary_article_label_overrides_stale_reading_theme(tmp_path: Path) -> 
     article_path.write_text(
         "---\n"
         "title: 2025年终总结（下），认识自己后的依然做自己\n"
-        "primary_category: summary\n"
+        "primary_category: zong-jie\n"
         "---\n"
         "正文内容。\n",
         encoding="utf-8",
@@ -102,7 +103,7 @@ def test_summary_article_label_overrides_stale_reading_theme(tmp_path: Path) -> 
         "slug": "summary-article",
         "original_title": "2025年终总结（下），认识自己后的依然做自己",
         "xhs_title": "在我之外，还有一个安静看着我的我",
-        "primary_category": "summary",
+        "primary_category": "zong-jie",
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "nickname": "我要改名叫嘟嘟",
@@ -122,12 +123,22 @@ def test_summary_article_label_overrides_stale_reading_theme(tmp_path: Path) -> 
     assert '<div class="end-theme">读书感悟</div>' not in end_html
 
 
+def test_legacy_summary_category_label_overrides_stale_reading_theme() -> None:
+    manifest = {
+        "original_title": "2025年终总结（下），认识自己后的依然做自己",
+        "primary_category": "summary",
+        "cta_theme": "reading",
+    }
+
+    assert _resolve_cta_theme_label(manifest) == "年度总结"
+
+
 def test_summary_article_allows_explicit_cta_label(tmp_path: Path) -> None:
     article_path = tmp_path / "article.md"
     article_path.write_text(
         "---\n"
         "title: 2024年读完书籍（下）\n"
-        "primary_category: summary\n"
+        "primary_category: zong-jie\n"
         "---\n"
         "正文内容。\n",
         encoding="utf-8",
@@ -138,7 +149,7 @@ def test_summary_article_allows_explicit_cta_label(tmp_path: Path) -> None:
         "slug": "summary-reading-list",
         "original_title": "2024年读完书籍（下）",
         "xhs_title": "这些书留在了这一年里",
-        "primary_category": "summary",
+        "primary_category": "zong-jie",
         "cta_theme": "summary",
         "cta_label": "读书感悟",
         "cta_line1": "共鸣句测试。",
@@ -201,7 +212,7 @@ def test_cover_render_assigns_title_scale_class_for_thumbnail_readability(
     article_path.write_text(
         "---\n"
         "title: 标题长度测试\n"
-        "primary_category: reading-category\n"
+        "primary_category: yue-du-shu-mu\n"
         "---\n"
         "正文内容。\n",
         encoding="utf-8",
@@ -212,7 +223,7 @@ def test_cover_render_assigns_title_scale_class_for_thumbnail_readability(
         "slug": "title-scale",
         "original_title": "标题长度测试",
         "xhs_title": title,
-        "primary_category": "reading-category",
+        "primary_category": "yue-du-shu-mu",
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "nickname": "我要改名叫嘟嘟",
@@ -302,6 +313,7 @@ def test_prepare_cover_base_accepts_declared_legacy_cover_ai(tmp_path: Path) -> 
 
     base_path = prepare_cover_base(tmp_path, manifest)
 
+    assert base_path is not None
     assert base_path == tmp_path / COVER_BASE_FILENAME
     assert base_path.read_bytes() == legacy_ai.read_bytes()
 
@@ -323,7 +335,7 @@ def test_render_article_slides_uses_default_cover_without_cover_ai(tmp_path: Pat
     article_path.write_text(
         "---\n"
         "title: 无底图测试\n"
-        "primary_category: summary\n"
+        "primary_category: zong-jie\n"
         "---\n"
         "正文内容。\n",
         encoding="utf-8",
@@ -334,7 +346,7 @@ def test_render_article_slides_uses_default_cover_without_cover_ai(tmp_path: Pat
         "slug": "default-cover",
         "original_title": "无底图测试",
         "xhs_title": "没有 AI 底图也能生成文字封面",
-        "primary_category": "summary",
+        "primary_category": "zong-jie",
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
         "nickname": "我要改名叫嘟嘟",
@@ -356,7 +368,7 @@ def test_render_article_slides_errors_when_declared_cover_base_is_missing(tmp_pa
     article_path.write_text(
         "---\n"
         "title: 缺失底图测试\n"
-        "primary_category: summary\n"
+        "primary_category: zong-jie\n"
         "---\n"
         "正文内容。\n",
         encoding="utf-8",
@@ -367,7 +379,7 @@ def test_render_article_slides_errors_when_declared_cover_base_is_missing(tmp_pa
         "slug": "missing-cover",
         "original_title": "缺失底图测试",
         "xhs_title": "声明了底图就不能静默丢失",
-        "primary_category": "summary",
+        "primary_category": "zong-jie",
         "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
@@ -413,7 +425,7 @@ def test_render_article_slides_uses_browser_paginator(tmp_path: Path, monkeypatc
     article_path.write_text(
         "---\n"
         "title: 分页路径测试\n"
-        "primary_category: summary\n"
+        "primary_category: zong-jie\n"
         "---\n"
         "原始正文不应该直接进入 body。\n",
         encoding="utf-8",
@@ -426,7 +438,7 @@ def test_render_article_slides_uses_browser_paginator(tmp_path: Path, monkeypatc
         "slug": "browser-path",
         "original_title": "分页路径测试",
         "xhs_title": "浏览器分页路径测试",
-        "primary_category": "summary",
+        "primary_category": "zong-jie",
         "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
@@ -462,7 +474,7 @@ def test_render_article_slides_continues_long_paragraph_without_indent(tmp_path:
     article_path.write_text(
         "---\n"
         "title: 长段落测试\n"
-        "primary_category: summary\n"
+        "primary_category: zong-jie\n"
         "---\n"
         f"{sentence * 48}\n",
         encoding="utf-8",
@@ -475,7 +487,7 @@ def test_render_article_slides_continues_long_paragraph_without_indent(tmp_path:
         "slug": "long-paragraph",
         "original_title": "长段落测试",
         "xhs_title": "在我之外，还有一个安静看着我的我",
-        "primary_category": "summary",
+        "primary_category": "zong-jie",
         "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",
@@ -503,7 +515,7 @@ def test_render_article_slides_browser_paginated_body_does_not_overflow(tmp_path
     article_path.write_text(
         "---\n"
         "title: 裁切测试\n"
-        "primary_category: summary\n"
+        "primary_category: zong-jie\n"
         "---\n"
         f"{sentence * 44}\n",
         encoding="utf-8",
@@ -516,7 +528,7 @@ def test_render_article_slides_browser_paginated_body_does_not_overflow(tmp_path
         "slug": "overflow-check",
         "original_title": "裁切测试",
         "xhs_title": "在我之外，还有一个安静看着我的我",
-        "primary_category": "summary",
+        "primary_category": "zong-jie",
         "cover_base": COVER_BASE_FILENAME,
         "cta_theme": "reading",
         "cta_line1": "共鸣句测试。",

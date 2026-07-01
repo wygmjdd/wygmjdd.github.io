@@ -4,19 +4,19 @@ chars_per_slide: 340
 default_cta: reading
 cta_mapping:
   reading:
-    - reading-category
-    - reading
-    - book-quotes-sharing
-    - zimbardo-general-psychology
+    - yue-du-shu-mu
+    - du-shu
+    - shu-zhong-jin-ju-fen-xiang
+    - jin-ba-duo-pu-tong-xin-li-xue
   summary:
-    - summary
+    - zong-jie
   life:
-    - life-diary
-    - subway-diary
-    - 30min-diary
-    - learning-to-cook
-    - marriage
-    - intimate-relationships
-    - shenzhen
-    - workplace-experience
-    - technical-blog
+    - sheng-huo-ri-ji
+    - di-tie-ri-ji
+    - 30-fen-zhong-ri-ji
+    - xue-zuo-cai
+    - jie-hun-zhe-jian-shi
+    - qin-mi-guan-xi
+    - shen-zhen
+    - zhi-chang-jing-li
+    - ji-shu-bo-ke

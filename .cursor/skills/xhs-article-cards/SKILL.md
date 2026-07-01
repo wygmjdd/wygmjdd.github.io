@@ -96,7 +96,7 @@ PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 
 ### 1. Read the article
 
-- Path from user (e.g. `content/docs/2026/06/reading-category__post-13f67e2873.md`)
+- Path from user (e.g. `content/docs/2026/06/2026-06-26-yue-du-shu-mu-te-si-la-yu-wai-xing-ren.md`)
 - Parse frontmatter: `title`, `primary_category`, `date`
 - Resolve `cta_theme` from `primary_category` (category label from `data/categories.yml` is optional context only — **not** shown on body slides)
 - Strip trailing「原文链接」footer (same as WeChat normalize patterns)
@@ -149,7 +149,7 @@ from pathlib import Path
 from scripts.xhs.xhs_cards.article_output_dir import resolve_article_output_dir
 print(resolve_article_output_dir(
     '特斯拉与外星人',
-    Path('content/docs/2026/06/reading-category__post-13f67e2873.md'),
+    Path('content/docs/2026/06/2026-06-26-yue-du-shu-mu-te-si-la-yu-wai-xing-ren.md'),
 ))
 "
 ```
@@ -162,12 +162,12 @@ If another article already uses the same pinyin folder for a **different** sourc
 
 | Value | Label | Categories |
 |-------|-------|------------|
-| `reading` | 读书感悟 | reading-category, reading, book-quotes-sharing, zimbardo-general-psychology |
-| `summary` | 年度总结 / 总结复盘 | summary |
-| `life` | 生活分享 | life-diary, subway-diary, 30min-diary, learning-to-cook, marriage, intimate-relationships, shenzhen, workplace-experience, technical-blog |
+| `reading` | 读书感悟 | yue-du-shu-mu, du-shu, shu-zhong-jin-ju-fen-xiang, jin-ba-duo-pu-tong-xin-li-xue |
+| `summary` | 年度总结 / 总结复盘 | zong-jie |
+| `life` | 生活分享 | sheng-huo-ri-ji, di-tie-ri-ji, 30-fen-zhong-ri-ji, xue-zuo-cai, jie-hun-zhe-jian-shi, qin-mi-guan-xi, shen-zhen, zhi-chang-jing-li, ji-shu-bo-ke |
 
 Default from `primary_category` via `scripts/xhs/config.yml` and `resolve_cta_theme()`; override if content clearly fits the other theme.
-For `primary_category: summary`, the renderer treats title keywords like「年终」「年度」「年底」「年末」as `年度总结`; other summaries use `总结复盘`.
+For `primary_category: zong-jie`, the renderer treats title keywords like「年终」「年度」「年底」「年末」as `年度总结`; other summaries use `总结复盘`.
 If a summary article should intentionally show a different label (for example a yearly reading list that should say「读书感悟」), set `cta_label` to the exact display text. Do not rely on a stale `cta_theme: reading` in old manifests as the override signal.
 
 **One sentence** (article-specific, not generic slogans):
@@ -187,12 +187,12 @@ Write `manifest.json`:
 ```json
 {
   "manifest_version": 1,
-  "source": "content/docs/2026/06/reading-category__post-13f67e2873.md",
+  "source": "content/docs/2026/06/2026-06-26-yue-du-shu-mu-te-si-la-yu-wai-xing-ren.md",
   "output_dir": "te-si-la-yu-wai-xing-ren",
-  "source_slug": "reading-category__post-13f67e2873",
+  "source_slug": "2026-06-26-yue-du-shu-mu-te-si-la-yu-wai-xing-ren",
   "original_title": "特斯拉与外星人",
   "xhs_title": "<user chosen>",
-  "primary_category": "reading-category",
+  "primary_category": "yue-du-shu-mu",
   "cta_theme": "reading",
   "cta_label": "<optional exact label override>",
   "cta_line1": "……",
@@ -213,7 +213,7 @@ Write `manifest.json`:
 Determine `cta_theme` by running (or equivalent logic):
 
 ```bash
-.venv/bin/python -c "from scripts.xhs.xhs_cards.xhs_config import resolve_cta_theme; print(resolve_cta_theme('reading-category'))"
+.venv/bin/python -c "from scripts.xhs.xhs_cards.xhs_config import resolve_cta_theme; print(resolve_cta_theme('yue-du-shu-mu'))"
 ```
 
 Run from repo root (with venv activated or use `.venv/bin/python`):

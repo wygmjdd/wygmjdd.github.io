@@ -345,7 +345,7 @@ def test_rendered_summary_body_slides_do_not_clip_text_area(tmp_path: Path) -> N
                 "slug": "summary-render-fit",
                 "original_title": "2025年终总结（下），认识自己后的依然做自己",
                 "xhs_title": "在我之外，还有一个安静看着我的我",
-                "primary_category": "summary",
+                "primary_category": "zong-jie",
                 "cta_theme": "reading",
                 "cta_line1": "情绪生起时，在我之外又生出一个我，安静看着——那一刻，内心就能平静下来。",
                 "nickname": "我要改名叫嘟嘟",

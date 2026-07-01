@@ -35,6 +35,9 @@ CTA_THEME_LABELS = {
     "life": "生活分享",
 }
 _ANNUAL_SUMMARY_KEYWORDS = ("年终", "年度", "年底", "年末")
+_CATEGORY_ALIASES = {
+    "summary": "zong-jie",
+}
 
 _CSS_BLOCK_CACHE: str | None = None
 
@@ -214,7 +217,8 @@ def _resolve_cta_theme_label(manifest: dict[str, Any]) -> str:
         return explicit_label
 
     primary_category = str(manifest.get("primary_category") or "").strip()
-    if primary_category == "summary":
+    primary_category = _CATEGORY_ALIASES.get(primary_category, primary_category)
+    if primary_category == "zong-jie":
         title_text = "".join(
             str(manifest.get(key) or "") for key in ("original_title", "xhs_title", "series_title")
         )

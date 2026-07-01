@@ -13,9 +13,9 @@ def test_hugo_doc_filename_uses_date_title_prefix_and_category() -> None:
         hugo_doc_filename(
             date_iso="2026-06-22",
             title="端午小记，什么都不做的三天",
-            category="subway-diary",
+            category="di-tie-ri-ji",
         )
-        == "2026-06-22-duan-wu-xiao-ji-shen-subway-diary.md"
+        == "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu.md"
     )
 
 
@@ -24,9 +24,20 @@ def test_hugo_doc_filename_keeps_short_titles_short() -> None:
         hugo_doc_filename(
             date_iso="2026-06-22",
             title="端午小记",
-            category="subway-diary",
+            category="di-tie-ri-ji",
         )
-        == "2026-06-22-duan-wu-xiao-ji-subway-diary.md"
+        == "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji.md"
+    )
+
+
+def test_hugo_doc_filename_truncates_long_titles_to_eight_chars() -> None:
+    assert (
+        hugo_doc_filename(
+            date_iso="2026-06-28",
+            title="得知邻居家孩子高考成绩被屏蔽，我对《了凡四训》的理解更深了一点",
+            category="30-fen-zhong-ri-ji",
+        )
+        == "2026-06-28-30-fen-zhong-ri-ji-de-zhi-lin-ju-jia-hai-zi-gao.md"
     )
 
 
@@ -42,7 +53,7 @@ def test_merge_moves_existing_source_url_to_readable_filename(
     posts.mkdir()
     (docs / "2026" / "06").mkdir(parents=True)
     categories.write_text(
-        "- slug: subway-diary\n"
+        "- slug: di-tie-ri-ji\n"
         "  title: 地铁日记\n",
         encoding="utf-8",
     )
@@ -78,7 +89,7 @@ def test_merge_moves_existing_source_url_to_readable_filename(
 
     mod.main()
 
-    new_doc = docs / "2026" / "06" / "2026-06-22-duan-wu-xiao-ji-shen-subway-diary.md"
+    new_doc = docs / "2026" / "06" / "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu.md"
     assert new_doc.is_file()
     assert "New body" in new_doc.read_text(encoding="utf-8")
     assert not old_doc.exists()
@@ -97,12 +108,12 @@ def test_merge_removes_stale_same_source_file_when_readable_file_exists(
     month_dir = docs / "2026" / "06"
     month_dir.mkdir(parents=True)
     categories.write_text(
-        "- slug: subway-diary\n"
+        "- slug: di-tie-ri-ji\n"
         "  title: 地铁日记\n",
         encoding="utf-8",
     )
     source_url = "https://mp.weixin.qq.com/s/ex1x2IfLUMwt3mLDU2CTQA"
-    new_doc = month_dir / "2026-06-22-duan-wu-xiao-ji-shen-subway-diary.md"
+    new_doc = month_dir / "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu.md"
     stale_doc = month_dir / "subway-diary__post-b055ab191a.md"
     for path, body in ((new_doc, "Existing body"), (stale_doc, "Stale body")):
         path.write_text(
@@ -151,7 +162,7 @@ def test_merge_keeps_distinct_posts_when_readable_names_collide_without_source_u
     categories = tmp_path / "categories.yml"
     posts.mkdir()
     categories.write_text(
-        "- slug: subway-diary\n"
+        "- slug: di-tie-ri-ji\n"
         "  title: 地铁日记\n",
         encoding="utf-8",
     )
@@ -180,8 +191,8 @@ def test_merge_keeps_distinct_posts_when_readable_names_collide_without_source_u
 
     month_files = sorted((docs / "2026" / "06").glob("2026-06-22-*.md"))
     assert [path.name for path in month_files] == [
-        "2026-06-22-duan-wu-xiao-ji-shen-subway-diary-post-two.md",
-        "2026-06-22-duan-wu-xiao-ji-shen-subway-diary.md",
+        "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu-post-two.md",
+        "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu.md",
     ]
     assert "First body" in month_files[1].read_text(encoding="utf-8")
     assert "Second body" in month_files[0].read_text(encoding="utf-8")

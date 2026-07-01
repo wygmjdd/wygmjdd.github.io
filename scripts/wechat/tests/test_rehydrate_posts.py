@@ -43,14 +43,14 @@ def test_write_rehydrated_post_keeps_categories_and_source_url(tmp_path: Path):
         out_dir=out_dir,
         original_filename="2033-07-01-post-2.md",
         article=article,
-        categories=["30min-diary"],
+        categories=["30-fen-zhong-ri-ji"],
         source_url="https://mp.weixin.qq.com/s?x=1",
     )
     text = out_path.read_text(encoding="utf-8")
     assert text.startswith("---")
     fm_text = text.split("---", 2)[1]
     fm = yaml.safe_load(fm_text)
-    assert fm["categories"] == ["30min-diary"]
+    assert fm["categories"] == ["30-fen-zhong-ri-ji"]
     assert fm["source_url"] == "https://mp.weixin.qq.com/s?x=1"
     assert fm["title"] == "New Title"
     assert fm["date"] == "2024-03-01"

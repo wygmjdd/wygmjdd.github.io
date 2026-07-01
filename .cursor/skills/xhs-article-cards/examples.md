@@ -2,9 +2,9 @@
 
 This file illustrates the Skill workflow end-to-end. **The scripts treat every article the same** — nothing here is special-cased in code.
 
-**Article:** `content/docs/2026/06/reading-category__post-13f67e2873.md`  
-**Output dir (this run):** `reading-category__post-13f67e2873` — legacy slug folder from an early run. **New articles** should use hyphenated pinyin of `original_title` (see `SKILL.md` → `resolve_article_output_dir`), e.g. `te-si-la-yu-wai-xing-ren`.
-**Source slug:** `reading-category__post-13f67e2873` (markdown filename stem; traceability only)
+**Article:** `content/docs/2026/06/2026-06-26-yue-du-shu-mu-te-si-la-yu-wai-xing-ren.md`  
+**Output dir:** `te-si-la-yu-wai-xing-ren` — hyphenated pinyin of `original_title` (see `SKILL.md` → `resolve_article_output_dir`).
+**Source slug:** `2026-06-26-yue-du-shu-mu-te-si-la-yu-wai-xing-ren` (markdown filename stem; traceability only)
 
 ## Sample title candidates
 
@@ -36,7 +36,7 @@ This file illustrates the Skill workflow end-to-end. **The scripts treat every a
 
 - **cta_line1:** 读完《特斯拉自传》，我对《外星人访谈录》里「现在-成为者」的着迷，祛魅不少。
 
-Reference output (after full pipeline): `scripts/xhs/output/articles/reading-category__post-13f67e2873/` — 7 PNGs for this article (page count is not a global target).
+Reference output (after full pipeline): `scripts/xhs/output/articles/te-si-la-yu-wai-xing-ren/` — PNG count depends on rendered pagination.
 
 ## Sample cover prompt
 

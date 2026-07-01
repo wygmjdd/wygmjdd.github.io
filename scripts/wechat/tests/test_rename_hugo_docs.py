@@ -26,7 +26,7 @@ def test_dry_run_reports_renames_without_changing_files(tmp_path: Path) -> None:
         old_doc,
         title="端午小记，什么都不做的三天",
         date="2026-06-22",
-        category="subway-diary",
+        category="di-tie-ri-ji",
     )
 
     result = rename_hugo_docs(docs, apply=False)
@@ -34,7 +34,7 @@ def test_dry_run_reports_renames_without_changing_files(tmp_path: Path) -> None:
     assert result == RenameResult(renamed=1, unchanged=0, skipped=0, collisions=0)
     assert old_doc.exists()
     assert not (
-        docs / "2026" / "06" / "2026-06-22-duan-wu-xiao-ji-shen-subway-diary.md"
+        docs / "2026" / "06" / "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu.md"
     ).exists()
 
 
@@ -45,14 +45,14 @@ def test_apply_renames_article_docs_and_preserves_content(tmp_path: Path) -> Non
         old_doc,
         title="端午小记，什么都不做的三天",
         date="2026-06-22",
-        category="subway-diary",
+        category="di-tie-ri-ji",
         body="Original body",
     )
     before = old_doc.read_text(encoding="utf-8")
 
     result = rename_hugo_docs(docs, apply=True)
 
-    new_doc = docs / "2026" / "06" / "2026-06-22-duan-wu-xiao-ji-shen-subway-diary.md"
+    new_doc = docs / "2026" / "06" / "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu.md"
     assert result == RenameResult(renamed=1, unchanged=0, skipped=0, collisions=0)
     assert not old_doc.exists()
     assert new_doc.read_text(encoding="utf-8") == before
@@ -64,20 +64,20 @@ def test_rename_skips_indexes_and_hub_pages(tmp_path: Path) -> None:
         docs / "2026" / "06" / "_index.md",
         title="六月",
         date="2026-06-01",
-        category="summary",
+        category="zong-jie",
     )
     write_doc(
-        docs / "hubs" / "summary.md",
+        docs / "hubs" / "zong-jie.md",
         title="总结",
         date="2026-06-01",
-        category="summary",
+        category="zong-jie",
     )
 
     result = rename_hugo_docs(docs, apply=True)
 
     assert result == RenameResult(renamed=0, unchanged=0, skipped=2, collisions=0)
     assert (docs / "2026" / "06" / "_index.md").exists()
-    assert (docs / "hubs" / "summary.md").exists()
+    assert (docs / "hubs" / "zong-jie.md").exists()
 
 
 def test_collision_appends_legacy_stem_suffix(tmp_path: Path) -> None:
@@ -89,7 +89,7 @@ def test_collision_appends_legacy_stem_suffix(tmp_path: Path) -> None:
             path,
             title="端午小记，什么都不做的三天",
             date="2026-06-22",
-            category="subway-diary",
+            category="di-tie-ri-ji",
             body=body,
         )
 
@@ -98,8 +98,8 @@ def test_collision_appends_legacy_stem_suffix(tmp_path: Path) -> None:
     assert result == RenameResult(renamed=2, unchanged=0, skipped=0, collisions=1)
     names = sorted(path.name for path in (docs / "2026" / "06").glob("*.md"))
     assert names == [
-        "2026-06-22-duan-wu-xiao-ji-shen-subway-diary-cafebabe00.md",
-        "2026-06-22-duan-wu-xiao-ji-shen-subway-diary.md",
+        "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu-cafebabe00.md",
+        "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu.md",
     ]
 
 
@@ -112,7 +112,7 @@ def test_collision_suffix_files_are_stable_on_second_run(tmp_path: Path) -> None
             path,
             title="端午小记，什么都不做的三天",
             date="2026-06-22",
-            category="subway-diary",
+            category="di-tie-ri-ji",
         )
 
     rename_hugo_docs(docs, apply=True)
@@ -130,7 +130,7 @@ def test_dry_run_counts_future_collisions(tmp_path: Path) -> None:
             path,
             title="端午小记，什么都不做的三天",
             date="2026-06-22",
-            category="subway-diary",
+            category="di-tie-ri-ji",
         )
 
     result = rename_hugo_docs(docs, apply=False)
@@ -142,12 +142,12 @@ def test_dry_run_counts_future_collisions(tmp_path: Path) -> None:
 
 def test_already_readable_files_are_unchanged(tmp_path: Path) -> None:
     docs = tmp_path / "content" / "docs"
-    doc = docs / "2026" / "06" / "2026-06-22-duan-wu-xiao-ji-shen-subway-diary.md"
+    doc = docs / "2026" / "06" / "2026-06-22-di-tie-ri-ji-duan-wu-xiao-ji-shen-me-dou-bu.md"
     write_doc(
         doc,
         title="端午小记，什么都不做的三天",
         date="2026-06-22",
-        category="subway-diary",
+        category="di-tie-ri-ji",
     )
 
     result = rename_hugo_docs(docs, apply=True)
