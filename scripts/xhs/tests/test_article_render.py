@@ -215,6 +215,70 @@ def test_article_render_qa_skips_original_image_slides(tmp_path: Path) -> None:
     assert not [issue for issue in issues if issue.severity == "error"]
 
 
+def test_article_estimate_qa_ignores_original_image_blocks(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    from scripts.xhs.xhs_cards import article_qa as qa_module
+
+    image_dir = tmp_path / "images"
+    image_dir.mkdir()
+    photo_path = image_dir / "potato.png"
+    photo_path.write_bytes(
+        b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x00\x01\x00\x00\x00\x01"
+        b"\x08\x06\x00\x00\x00\x1f\x15\xc4\x89\x00\x00\x00\rIDATx\x9cc\xf8\xff"
+        b"\xff?\x00\x05\xfe\x02\xfeA\xe2&\x9b\x00\x00\x00\x00IEND\xaeB`\x82"
+    )
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 图文估算 QA 测试\n"
+        "primary_category: 30min-diary\n"
+        "---\n"
+        f"{'第一段内容。' * 80}\n\n"
+        f"![洋芋照片]({photo_path})\n\n"
+        f"{'第二段内容。' * 80}\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "image-estimate-qa",
+        "original_title": "图文估算 QA 测试",
+        "xhs_title": "估算 QA 不应该把照片当正文",
+        "primary_category": "30min-diary",
+        "cta_theme": "life",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    def fake_paginate(blocks: list, max_chars: int) -> list:
+        assert max_chars == 120
+        assert all(block.kind != "image" for block in blocks)
+        return []
+
+    monkeypatch.setattr(qa_module, "paginate_blocks", fake_paginate)
+
+    issues = qa_module.audit_article_manifest(manifest_path, include_render=False)
+
+    assert issues == []
+
+
+def test_photo_caption_css_keeps_caption_attached_to_image() -> None:
+    css = _CSS_PATH.read_text(encoding="utf-8")
+    media_rule = css.split(".article-photo-media {", 1)[1].split("}", 1)[0]
+
+    assert ".article-photo-card" in css
+    assert "align-items: center;" in css
+    assert "flex: 0 1 auto;" in media_rule
+    assert "gap: 8px;" in css
+    assert "margin-top: 0;" in css
+
+
 def test_summary_article_label_overrides_stale_reading_theme(tmp_path: Path) -> None:
     article_path = tmp_path / "article.md"
     article_path.write_text(
