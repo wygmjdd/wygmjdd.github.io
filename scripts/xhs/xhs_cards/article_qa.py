@@ -104,6 +104,19 @@ def _render_issues(manifest_path: Path) -> list[QAIssue]:
                 page = browser.new_page(viewport=_VIEWPORT)
                 for slide_index, (name, html) in enumerate(body_slides):
                     page.set_content(html, wait_until="load")
+                    is_photo_slide = bool(page.locator(".article-photo-card").count())
+                    has_text_body = bool(page.locator(".article-body-text").count())
+                    if is_photo_slide and not has_text_body:
+                        continue
+                    if not has_text_body:
+                        issues.append(
+                            QAIssue(
+                                "error",
+                                "missing_body_text",
+                                f"{name}: body slide has neither article text nor photo content.",
+                            )
+                        )
+                        continue
                     if page.evaluate(_BODY_OVERFLOW_JS):
                         issues.append(
                             QAIssue(

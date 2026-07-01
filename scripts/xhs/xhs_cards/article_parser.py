@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any, Literal
 
@@ -18,16 +19,21 @@ _INLINE_LINK_RE = re.compile(
     r' <small>（<a href="([^"]+)" rel="noopener noreferrer">原文链接</a>'
     r"(?:，更新于\d{4}-\d{2}-\d{2}。)?）</small>"
 )
-_INLINE_MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\((?:[^()\\]|\\.|[^()])*?\)")
+_INLINE_MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\]]+)\]\((?:[^()\\]|\\.|[^()])*?\)")
 _IMAGE_MARKDOWN_RE = re.compile(r"!\[[^\]]*\]\([^)]+\)")
+_IMAGE_MARKDOWN_BLOCK_RE = re.compile(
+    r'^!\[([^\]]*)\]\((\S+?)(?:\s+["\'][^"\']*["\'])?\)$'
+)
 _FIGURE_HTML_RE = re.compile(r"<figure\b", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
 class ContentBlock:
-    kind: Literal["paragraph", "quote"]
+    kind: Literal["paragraph", "quote", "image"]
     text: str
     source_id: int = 0
+    image_src: str = ""
+    image_alt: str = ""
 
 
 @dataclass
@@ -55,6 +61,67 @@ def detect_embedded_images(body: str) -> bool:
     return bool(_IMAGE_MARKDOWN_RE.search(body) or _FIGURE_HTML_RE.search(body))
 
 
+class _FigureImageParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.image_src = ""
+        self.image_alt = ""
+        self._in_caption = False
+        self._caption_parts: list[str] = []
+
+    @property
+    def caption(self) -> str:
+        return "".join(self._caption_parts).strip()
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        normalized = tag.lower()
+        if normalized == "img" and not self.image_src:
+            attr_map = {key.lower(): value or "" for key, value in attrs}
+            self.image_src = attr_map.get("src", "").strip()
+            self.image_alt = attr_map.get("alt", "").strip()
+        elif normalized == "figcaption":
+            self._in_caption = True
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.lower() == "figcaption":
+            self._in_caption = False
+
+    def handle_data(self, data: str) -> None:
+        if self._in_caption:
+            self._caption_parts.append(data)
+
+
+def _parse_figure_block(markup: str) -> ContentBlock | None:
+    parser = _FigureImageParser()
+    parser.feed(markup)
+    if not parser.image_src:
+        return None
+    caption = parser.caption or parser.image_alt
+    return ContentBlock(
+        "image",
+        caption,
+        image_src=parser.image_src,
+        image_alt=parser.image_alt,
+    )
+
+
+def _parse_markdown_image_line(line: str) -> ContentBlock | None:
+    match = _IMAGE_MARKDOWN_BLOCK_RE.match(line.strip())
+    if not match:
+        return None
+    alt, src = match.groups()
+    alt = alt.strip()
+    return ContentBlock("image", alt, image_src=src.strip(), image_alt=alt)
+
+
+def _starts_special_block(stripped: str) -> bool:
+    return (
+        stripped.startswith(">")
+        or stripped.lower().startswith("<figure")
+        or _parse_markdown_image_line(stripped) is not None
+    )
+
+
 def parse_body_blocks(body: str) -> list[ContentBlock]:
     blocks: list[ContentBlock] = []
     lines = body.splitlines()
@@ -79,18 +146,36 @@ def parse_body_blocks(body: str) -> list[ContentBlock]:
                     break
             blocks.append(ContentBlock("quote", "\n".join(quote_lines).strip()))
             continue
+        markdown_image = _parse_markdown_image_line(stripped)
+        if markdown_image is not None:
+            blocks.append(markdown_image)
+            index += 1
+            continue
+        if stripped.lower().startswith("<figure"):
+            figure_lines: list[str] = []
+            while index < len(lines):
+                current = lines[index]
+                figure_lines.append(current)
+                index += 1
+                if "</figure>" in current.lower():
+                    break
+            figure_block = _parse_figure_block("\n".join(figure_lines))
+            if figure_block is not None:
+                blocks.append(figure_block)
+            continue
 
         paragraph_lines: list[str] = []
         while index < len(lines):
             current = lines[index]
-            if not current.strip():
+            current_stripped = current.strip()
+            if not current_stripped:
                 break
-            if current.strip().startswith(">"):
+            if _starts_special_block(current_stripped):
                 break
             paragraph_lines.append(current)
             index += 1
         blocks.append(ContentBlock("paragraph", "\n".join(paragraph_lines).strip()))
-    return [block for block in blocks if block.text]
+    return [block for block in blocks if block.text or block.kind == "image"]
 
 
 def parse_article_file(path: Path) -> ParsedArticle:

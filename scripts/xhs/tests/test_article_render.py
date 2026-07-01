@@ -86,6 +86,135 @@ def test_render_article_slides_cover_body_end(manifest_dir: Path) -> None:
     assert '<div class="slide-footer' not in end_html
 
 
+def test_render_article_slides_inserts_original_image_slide(tmp_path: Path) -> None:
+    image_dir = tmp_path / "images"
+    image_dir.mkdir()
+    photo_path = image_dir / "potato.png"
+    photo_path.write_bytes(
+        b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x00\x01\x00\x00\x00\x01"
+        b"\x08\x06\x00\x00\x00\x1f\x15\xc4\x89\x00\x00\x00\rIDATx\x9cc\xf8\xff"
+        b"\xff?\x00\x05\xfe\x02\xfeA\xe2&\x9b\x00\x00\x00\x00IEND\xaeB`\x82"
+    )
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 图文混排测试\n"
+        "primary_category: 30min-diary\n"
+        "---\n"
+        "第一段内容。\n\n"
+        "<figure class=\"figure-with-caption\">\n"
+        f"<img src=\"{photo_path}\" alt=\"洋芋照片\" loading=\"lazy\" />\n"
+        "<figcaption>一小时前刚挖出的洋芋</figcaption>\n"
+        "</figure>\n\n"
+        "第二段内容。\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "image-article",
+        "original_title": "图文混排测试",
+        "xhs_title": "山坡上的洋芋和人",
+        "primary_category": "30min-diary",
+        "cta_theme": "life",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    slides, _ = render_article_slides(manifest_path)
+
+    filenames = [name for name, _ in slides]
+    assert filenames == [COVER_OUTPUT_FILENAME, "02.png", "03.png", "04.png", "05-end.png"]
+    assert "第一段内容。" in slides[1][1]
+    assert "第二段内容。" in slides[3][1]
+
+    photo_html = slides[2][1]
+    assert 'class="slide slide-article slide-photo"' in photo_html
+    assert 'class="article-photo-img"' in photo_html
+    assert 'alt="洋芋照片"' in photo_html
+    assert "data:image/png;base64," in photo_html
+    assert "一小时前刚挖出的洋芋" in photo_html
+    assert '<span class="footer-page">2/3</span>' in photo_html
+
+
+def test_render_article_slides_errors_when_original_image_is_missing(tmp_path: Path) -> None:
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 缺图测试\n"
+        "primary_category: 30min-diary\n"
+        "---\n"
+        "第一段内容。\n\n"
+        "![缺失照片](missing.jpg)\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "missing-image",
+        "original_title": "缺图测试",
+        "xhs_title": "缺图应该明确失败",
+        "primary_category": "30min-diary",
+        "cta_theme": "life",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    with pytest.raises(FileNotFoundError, match="Article image missing"):
+        render_article_slides(manifest_path)
+
+
+def test_article_render_qa_skips_original_image_slides(tmp_path: Path) -> None:
+    from scripts.xhs.xhs_cards.article_qa import audit_article_manifest
+
+    image_dir = tmp_path / "images"
+    image_dir.mkdir()
+    photo_path = image_dir / "potato.png"
+    photo_path.write_bytes(
+        b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x00\x01\x00\x00\x00\x01"
+        b"\x08\x06\x00\x00\x00\x1f\x15\xc4\x89\x00\x00\x00\rIDATx\x9cc\xf8\xff"
+        b"\xff?\x00\x05\xfe\x02\xfeA\xe2&\x9b\x00\x00\x00\x00IEND\xaeB`\x82"
+    )
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 图文 QA 测试\n"
+        "primary_category: 30min-diary\n"
+        "---\n"
+        "第一段内容。\n\n"
+        f"![洋芋照片]({photo_path})\n\n"
+        "第二段内容。\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "image-qa",
+        "original_title": "图文 QA 测试",
+        "xhs_title": "图片页不应该被正文 QA 误判",
+        "primary_category": "30min-diary",
+        "cta_theme": "life",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    issues = audit_article_manifest(manifest_path, include_render=True)
+
+    assert not [issue for issue in issues if issue.severity == "error"]
+
+
 def test_summary_article_label_overrides_stale_reading_theme(tmp_path: Path) -> None:
     article_path = tmp_path / "article.md"
     article_path.write_text(
