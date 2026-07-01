@@ -226,15 +226,25 @@ def _resolve_cta_theme_label(manifest: dict[str, Any]) -> str:
     return CTA_THEME_LABELS.get(theme, theme)
 
 
+def _cover_title_scale_class(title: str) -> str:
+    compact_length = len("".join(title.split()))
+    if compact_length <= 12:
+        return "cover-title-short"
+    if compact_length <= 24:
+        return "cover-title-medium"
+    return "cover-title-long"
+
+
 def _render_cover_slide(manifest: dict[str, Any], manifest_dir: Path) -> str:
     base_path = prepare_cover_base(manifest_dir, manifest)
     xhs_title = str(manifest.get("xhs_title") or "")
     theme_label = _resolve_cta_theme_label(manifest)
+    title_scale_class = _cover_title_scale_class(xhs_title)
 
     body = f"""
     <div class="cover-title-card glass-card">
       <div class="cover-kicker">{html.escape(theme_label)}</div>
-      <div class="cover-title">{html.escape(xhs_title)}</div>
+      <div class="cover-title {title_scale_class}">{html.escape(xhs_title)}</div>
     </div>
     """
     return _slide_shell(

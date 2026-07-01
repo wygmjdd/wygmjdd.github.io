@@ -164,14 +164,67 @@ def test_cover_css_keeps_title_thumbnail_readable() -> None:
 
     assert ".cover-title-card" in css
     assert ".cover-kicker" in css
-    assert "font-size: 86px;" in css
+    assert "justify-content: flex-start;" in css
+    assert "padding: 70px 24px 54px;" in css
     assert "background: transparent;" in css
-    assert "min-height: 780px;" in css
+    assert "min-height: 900px;" in css
     assert "align-items: flex-start;" in css
     assert "text-align: left;" in css
     assert "max-width: 980px;" in css
+    assert ".cover-kicker::before" in css
+    assert "border: 0;" in css
+    assert "padding: 0;" in css
+    assert ".cover-title-short" in css
+    assert ".cover-title-medium" in css
+    assert ".cover-title-long" in css
+    assert "font-size: 108px;" in css
+    assert "font-size: 96px;" in css
+    assert "font-size: 74px;" in css
     assert "text-wrap: pretty;" in css
     assert "text-wrap: balance;" not in css
+
+
+@pytest.mark.parametrize(
+    ("title", "expected_class"),
+    [
+        ("短标题", "cover-title-short"),
+        ("一本让我相信又怀疑的外星人书", "cover-title-medium"),
+        ("得知邻居家孩子高考成绩被屏蔽，我对了凡四训的理解更深了一点", "cover-title-long"),
+    ],
+)
+def test_cover_render_assigns_title_scale_class_for_thumbnail_readability(
+    tmp_path: Path,
+    title: str,
+    expected_class: str,
+) -> None:
+    article_path = tmp_path / "article.md"
+    article_path.write_text(
+        "---\n"
+        "title: 标题长度测试\n"
+        "primary_category: reading-category\n"
+        "---\n"
+        "正文内容。\n",
+        encoding="utf-8",
+    )
+    manifest = {
+        "manifest_version": 1,
+        "source": str(article_path),
+        "slug": "title-scale",
+        "original_title": "标题长度测试",
+        "xhs_title": title,
+        "primary_category": "reading-category",
+        "cta_theme": "reading",
+        "cta_line1": "共鸣句测试。",
+        "nickname": "我要改名叫嘟嘟",
+        "bio": "一个用文字分享生活和读书感悟的程序员",
+        "chars_per_slide": 120,
+    }
+    manifest_path = tmp_path / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+
+    slides, _ = render_article_slides(manifest_path)
+
+    assert f'class="cover-title {expected_class}"' in slides[0][1]
 
 
 def test_quote_css_uses_editorial_note_treatment() -> None:

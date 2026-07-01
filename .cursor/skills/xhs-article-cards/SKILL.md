@@ -79,6 +79,7 @@ Current article series uses a **warm paper / editorial** look (not glass-on-grad
 - Paragraphs: PingFang sans, ~33px, relaxed line-height.
 - Quotes: Songti serif editorial note block, with a quiet paper tint and short bookmark line (not a blue box, not a full-height web blockquote bar).
 - Cover: default paper-style typography cover; optional `cover-base.png` can add a quiet mood background. Renderer adds an oversized title layer optimized for profile-grid legibility. Avoid visible white title cards unless a specific cover needs that rescue. `01-cover.png` is the deliverable.
+- Cover thumbnail rule: judge the cover at **240-300px wide in a two-column XHS profile grid**, not only as a full 1080x1440 image. The title block should sit around the visual middle, not sink into the lower third; the category label is an editorial marker, not a pill button.
 - End slide: theme label + `cta_line1` + @nickname + bio in the card body (no second CTA line).
 - **Footer policy:** cover and end have **no slide footer**. Body slides only show **`{n}/{body_total}`** (right-aligned page number, no @nickname watermark).
 
@@ -284,7 +285,7 @@ PLAYWRIGHT_BROWSERS_PATH="$PWD/.venv/playwright-browsers" \
 | Check | What to look for | Typical fix |
 |-------|------------------|-------------|
 | Cover / end footer | **No** `@nickname` or page number on cover or end | `article.py` `_slide_shell(show_page_footer=False)` |
-| Cover thumbnail | `01-cover.png` title is readable when viewed around 240-300px wide in a profile grid; background must not compete with the title layer | `article.css` cover styles or regenerate quieter `cover-base.png` |
+| Cover thumbnail | `01-cover.png` title is readable around 240-300px wide in a two-column profile grid; title block is near the visual middle, not buried in the lower third; category label reads as a marker, not a button | `article.css` cover title scale / vertical placement, or regenerate quieter `cover-base.png` |
 | Body links | No `[文字](url)` or `<a href` in slide text — anchor text only | `article_parser.strip_inline_markdown_links` |
 | Body footer | `@nickname` bottom-left + `1/N` … `N/N` bottom-right (N = body page count only) | `article.py` body footer, `article.css` |
 | Page fill | Body slides mostly full; only the **last** body slide may be sparse. A small QA underfill warning is acceptable after visual review when the next line would overflow. | `article_browser_paginator.py` |
