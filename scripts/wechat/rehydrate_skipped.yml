@@ -46,3 +46,24 @@
     \  - waiting for locator(\"#js_content\") to be visible\n    - waiting for\" https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HAdFv2mj5Zl6AnDSss3AdYqMnBNTKPpYBfaDnIcq&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247485376%26i…\"\
     \ navigation to finish...\n    - navigated to \"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HAdFv2mj5Zl6AnDSss3AdYqMnBNTKPpYBfaDnIcq&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczOTMzMA%3D%3D%26mid%3D2247485376%26i…\"\
     \n. Install Playwright browsers: pip install playwright && playwright install"
+- path: /Users/ljj/learn/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-01-01-post-ec7b70d15c.md
+  source_url: https://mp.weixin.qq.com/s/RJ84ZMELfviRfz6uAQTbXQ
+  reason: 'fetch_error: WeChat page needs JavaScript to render content. Request with
+    browser failed: BrowserType.launch: Executable doesn''t exist at /var/folders/b5/gd9lnqdd4lbfjwshzhh8svqr0000gn/T/cursor-sandbox-cache/a73c885d4da99fdeb19beebd06351a80/playwright/chromium_headless_shell-1223/chrome-headless-shell-mac-arm64/chrome-headless-shell
+
+    ╔════════════════════════════════════════════════════════════╗
+
+    ║ Looks like Playwright was just installed or updated.       ║
+
+    ║ Please run the following command to download new browsers: ║
+
+    ║                                                            ║
+
+    ║     playwright install                                     ║
+
+    ║                                                            ║
+
+    ║ <3 Playwright Team                                         ║
+
+    ╚════════════════════════════════════════════════════════════╝. Install Playwright
+    browsers: pip install playwright && playwright install'
