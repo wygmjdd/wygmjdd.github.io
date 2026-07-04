@@ -1,0 +1,28 @@
+# Stable defaults for markdown-to-image (RedNote / 小红书 slides).
+# Manifests and PNGs always go under output_root/<article-slug>/.
+output_root: static/red-images
+
+nickname: 我要改名叫嘟嘟
+bio: 一个用文字分享生活和读书感悟的程序员
+chars_per_slide: 340
+default_cta: reading
+cta_mapping:
+  reading:
+    - yue-du-shu-mu
+    - du-shu
+    - shu-zhong-jin-ju-fen-xiang
+    - jin-ba-duo-pu-tong-xin-li-xue
+  summary:
+    - summary
+    - zong-jie
+  life:
+    - life
+    - sheng-huo-ri-ji
+    - di-tie-ri-ji
+    - 30-fen-zhong-ri-ji
+    - xue-zuo-cai
+    - jie-hun-zhe-jian-shi
+    - qin-mi-guan-xi
+    - shen-zhen
+    - zhi-chang-jing-li
+    - ji-shu-bo-ke
