@@ -12,6 +12,10 @@ __pycache__/
 # Xiaohongshu generated output (local only)
 scripts/xhs/output/
 
+# RedNote/markdown-to-image generated output (local only)
+static/red-images/*
+!static/red-images/.gitkeep
+
 # Manual batch JSON for update_manual (local only)
 scripts/wechat/update_manual/input/
 
