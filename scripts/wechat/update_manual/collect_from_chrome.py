@@ -95,7 +95,7 @@ def load_existing_source_urls(docs_dir: Path) -> set[str]:
         for line in text[3:end].splitlines():
             stripped = line.strip()
             if stripped.startswith("source_url:"):
-                val = stripped.split(":", 1)[1].strip().strip('"\'')
+                val = stripped.split(":", 1)[1].strip().strip("\"'")
                 if val:
                     existing.add(normalize_collect_url(val))
                 break
@@ -252,9 +252,13 @@ def main() -> None:
         print("ERROR: --days must be >= 1", file=sys.stderr)
         raise SystemExit(2)
 
-    history_path = Path(args.history_path).expanduser() if args.history_path else chrome_history_path(
-        args.channel,
-        args.profile,
+    history_path = (
+        Path(args.history_path).expanduser()
+        if args.history_path
+        else chrome_history_path(
+            args.channel,
+            args.profile,
+        )
     )
     existing = load_existing_source_urls(DOCS_DIR)
     biz = args.biz.strip() or None

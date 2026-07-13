@@ -67,3 +67,18 @@
 
     ╚════════════════════════════════════════════════════════════╝. Install Playwright
     browsers: pip install playwright && playwright install'
+- path: /Users/ljj/learn/me/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-01-01-post-f689e0619c.md
+  source_url: https://mp.weixin.qq.com/s/GrPu_GYDmTL3yF7Ljzgc0w
+  reason: 'fetch_error: WeChat page needs JavaScript to render content. Request with
+    browser failed: No module named ''playwright''. Install Playwright browsers: pip
+    install playwright && playwright install'
+- path: /Users/ljj/learn/me/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-01-01-post-f689e0619c.md
+  source_url: https://mp.weixin.qq.com/s/GrPu_GYDmTL3yF7Ljzgc0w
+  reason: 'fetch_error: WeChat page needs JavaScript to render content. Request with
+    browser failed: No module named ''playwright''. Install Playwright browsers: pip
+    install playwright && playwright install'
+- path: /Users/ljj/learn/me/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-01-01-post-f689e0619c.md
+  source_url: https://mp.weixin.qq.com/s/GrPu_GYDmTL3yF7Ljzgc0w
+  reason: 'fetch_error: WeChat page needs JavaScript to render content. Request with
+    browser failed: No module named ''playwright''. Install Playwright browsers: pip
+    install playwright && playwright install'
