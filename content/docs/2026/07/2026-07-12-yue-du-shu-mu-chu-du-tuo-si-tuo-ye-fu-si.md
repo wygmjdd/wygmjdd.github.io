@@ -2,7 +2,7 @@
 title: 初读陀思妥耶夫斯基：《罪与罚》
 date: '2026-07-12'
 weight: 272000006
-primary_category: di-tie-ri-ji
+primary_category: yue-du-shu-mu
 source_url: https://mp.weixin.qq.com/s/jTLXc5wV2UgkAIiyRN_eXw
 ---
 听完《[堂吉诃德](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487907&idx=1&sn=a387443e0a053b68170ac0a31b834c2f&scene=21#wechat_redirect)》，我将自己阅读世界名著的方向转回俄国，因为在整理《[复活](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487623&idx=1&sn=b5a58d2edac56c35e7fce0a1aa1aa2e5&scene=21#wechat_redirect)》读书笔记在查一些相关资料时，我总看到这样一个长长名字—陀思妥耶夫斯基。这是一位与列夫·托尔斯泰齐名的作家，他们年龄相仿活在同一个时代、同一座城市，他们互相知道但无深交，他们作品的选题、文风均截然不同。

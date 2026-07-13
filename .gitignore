@@ -13,9 +13,11 @@ __pycache__/
 scripts/xhs/output/
 
 # RedNote/markdown-to-image generated output (local only)
+# Layout: static/{red,x}-images/YYYY/MM/<article-stem>/
 static/red-images/*
 !static/red-images/.gitkeep
 static/x-images/*
+!static/x-images/.gitkeep
 
 # Manual batch JSON for update_manual (local only)
 scripts/wechat/update_manual/input/
