@@ -5,8 +5,8 @@
   Category labels and order: data/categories.yml (list of slug / title).
 */}}
 {{ with site.Data.categories }}
-<div class="book-toc-custom" style="margin-bottom: 1rem;">
-  <p class="book-toc-title" style="margin: 0 0 0.5rem; font-weight: 600;">文章分类</p>
+<div class="book-toc-custom">
+  <p class="book-toc-title">文章分类</p>
   <ul>
     {{ range . }}
       {{ $catPages := where site.RegularPages "Params.primary_category" .slug }}

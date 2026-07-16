@@ -1,0 +1,61 @@
+{{ define "main" }}
+  {{- $visiblePages := where .RegularPages "Params.bookHidden" "ne" true -}}
+  {{- $visiblePagesRecursive := where .RegularPagesRecursive "Params.bookHidden" "ne" true -}}
+  {{- $visibleSections := where .Sections "Params.bookHidden" "ne" true -}}
+  {{- $isDocsSection := eq .Section "docs" -}}
+  {{- $contentPath := "" -}}
+  {{- with .File }}{{- $contentPath = .Path -}}{{- end -}}
+  {{- $isMonthPath := gt (len (findRE `^docs/[0-9]{4}/[0-9]{2}/_index\.md$` $contentPath)) 0 -}}
+  {{- $isYearPath := gt (len (findRE `^docs/[0-9]{4}/_index\.md$` $contentPath)) 0 -}}
+  {{- $isDocsRoot := and $isDocsSection (eq $contentPath "docs/_index.md") -}}
+  {{- $isMonthArchive := and $isDocsSection $isMonthPath -}}
+  {{- $isYearArchive := and $isDocsSection $isYearPath -}}
+
+  <article class="markdown book-article">
+    <header class="markdown-inner">
+      {{ if $isMonthArchive }}
+        <p class="archive-eyebrow">月度归档</p>
+        <h1>{{ .Date.Format "2006年01月" }}</h1>
+      {{ else }}
+        <h1>{{ partial "docs/title" . }}</h1>
+      {{ end }}
+    </header>
+    <div class="markdown-inner">
+      {{- .Content -}}
+
+      {{ if $isDocsRoot }}
+        <p class="archive-lede">共写了 {{ len $visiblePagesRecursive }} 篇文章。</p>
+        <ul class="archive-year-list">
+          {{ range $visibleSections.ByWeight }}
+            {{- $sectionPages := where .RegularPagesRecursive "Params.bookHidden" "ne" true -}}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <small>{{ len $sectionPages }} 篇</small>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else if $isMonthArchive }}
+        <p class="archive-lede">这个月写了 {{ len $visiblePages }} 篇文章。</p>
+        <ul class="archive-post-list">
+          {{ range sort $visiblePages "Date" "desc" }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <small>{{ .Date.Format "2006-01-02" }}</small>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else if $isYearArchive }}
+        <p class="archive-lede">这一年写了 {{ len $visiblePagesRecursive }} 篇文章。</p>
+        <ul class="archive-month-list">
+          {{ range $visibleSections.ByWeight }}
+            {{- $sectionPages := where .RegularPagesRecursive "Params.bookHidden" "ne" true -}}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <small>{{ len $sectionPages }} 篇</small>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}

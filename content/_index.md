@@ -47,6 +47,8 @@ title: 首页
 
 于是**我要改名叫嘟嘟**，正在**用文字分享生活**。
 
+{{< writing-stamp >}}
+
 <figure class="figure-with-caption">
 <img src="/images/code.png" alt="一个用文字分享生活的程序员。" loading="lazy" decoding="async" />
 <figcaption>欢迎关注：一个用文字分享生活的程序员</figcaption>

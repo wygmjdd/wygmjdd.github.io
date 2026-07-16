@@ -1,0 +1,139 @@
+{{- $counts := newScratch -}}
+{{- $months := slice -}}
+{{- $totalPosts := 0 -}}
+
+{{- range site.RegularPages -}}
+  {{- if and (eq .Section "docs") (not (.Param "bookHidden")) (ge .Date.Year 1900) -}}
+    {{- $year := .Date.Year -}}
+    {{- $month := int (.Date.Format "1") -}}
+    {{- $key := printf "%04d-%02d" $year $month -}}
+    {{- $current := or ($counts.Get $key) 0 -}}
+
+    {{- if not ($counts.Get $key) -}}{{- $months = $months | append $key -}}{{- end -}}
+    {{- $counts.Set $key (add $current 1) -}}
+    {{- $totalPosts = add $totalPosts 1 -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt $totalPosts 0 -}}
+  {{- $activeMonths := sort ($months | uniq) -}}
+  {{- $activeMonthCount := len $activeMonths -}}
+  {{- $trackWidth := div (mul (float $activeMonthCount) 100.0) 12.0 -}}
+  {{- $itemWidth := div 100.0 (float $activeMonthCount) -}}
+  {{- $maxCount := 1 -}}
+
+  {{- range $activeMonths -}}
+    {{- $count := $counts.Get . -}}
+    {{- if gt $count $maxCount -}}{{- $maxCount = $count -}}{{- end -}}
+  {{- end -}}
+
+  <section class="writing-stamp" aria-label="按月份浏览写作时间线">
+    <span class="writing-stamp__title">写作轨迹</span>
+    <div class="writing-stamp__viewport" data-writing-timeline tabindex="0">
+      <div
+        class="writing-stamp__track"
+        style="{{ printf "width: %.6f%%; --stamp-item: %.6f%%;" $trackWidth $itemWidth | safeCSS }}"
+      >
+        {{- range $key := $activeMonths -}}
+          {{- $parts := split $key "-" -}}
+          {{- $year := int (index $parts 0) -}}
+          {{- $month := int (replaceRE "^0" "" (index $parts 1)) -}}
+          {{- $count := $counts.Get $key -}}
+          {{- $size := add 7.0 (div (mul (float $count) 10.0) (float $maxCount)) -}}
+          {{- $strength := add 0.42 (div (mul (float $count) 0.5) (float $maxCount)) -}}
+          {{- $label := printf "%d 年 %d 月，更新 %d 篇" $year $month $count -}}
+          <a
+            class="writing-stamp__month"
+            href="{{ printf "/docs/%04d/%02d/" $year $month | relLangURL }}"
+            aria-label="{{ $label }}"
+            data-writing-label="{{ $label }}"
+            style="{{ printf "--dot-size: %.2fpx; --dot-strength: %.2f;" $size $strength | safeCSS }}"
+          >
+            <span class="writing-stamp__dot"></span>
+          </a>
+        {{- end -}}
+      </div>
+    </div>
+    <span class="writing-stamp__tooltip" data-writing-tooltip aria-hidden="true"></span>
+  </section>
+
+  <script>
+    (() => {
+      const root = document.currentScript.previousElementSibling;
+      const viewport = root && root.querySelector("[data-writing-timeline]");
+      const tooltip = root && root.querySelector("[data-writing-tooltip]");
+      if (!viewport || !tooltip) return;
+
+      let activeMonth = null;
+      let hoveredMonth = null;
+      let focusedMonth = null;
+
+      const clamp = (value, min, max) => Math.min(Math.max(value, min), max);
+
+      const hideTooltip = () => {
+        activeMonth = null;
+        root.classList.remove("is-inspecting");
+        tooltip.classList.remove("is-visible");
+        tooltip.textContent = "";
+      };
+
+      const showTooltip = month => {
+        activeMonth = month;
+        root.classList.add("is-inspecting");
+        tooltip.textContent =
+          month.dataset.writingLabel ||
+          month.getAttribute("aria-label") ||
+          "";
+        const rootRect = root.getBoundingClientRect();
+        const monthRect = month.getBoundingClientRect();
+        const tooltipRect = tooltip.getBoundingClientRect();
+        const half = tooltipRect.width / 2;
+        const center = monthRect.left + monthRect.width / 2 - rootRect.left;
+        const left = clamp(center, half + 6, rootRect.width - half - 6);
+
+        tooltip.style.setProperty("--tooltip-left", `${left}px`);
+        tooltip.classList.add("is-visible");
+      };
+
+      const renderTooltip = () => {
+        const month = hoveredMonth || focusedMonth;
+        if (month) {
+          showTooltip(month);
+        } else {
+          hideTooltip();
+        }
+      };
+
+      requestAnimationFrame(() => {
+        viewport.scrollLeft = viewport.scrollWidth - viewport.clientWidth;
+      });
+
+      root.querySelectorAll(".writing-stamp__month").forEach(month => {
+        month.addEventListener("pointerenter", () => {
+          hoveredMonth = month;
+          renderTooltip();
+        });
+        month.addEventListener("pointerleave", () => {
+          if (hoveredMonth === month) hoveredMonth = null;
+          renderTooltip();
+        });
+        month.addEventListener("focus", () => {
+          focusedMonth = month;
+          renderTooltip();
+        });
+        month.addEventListener("blur", () => {
+          if (focusedMonth === month) focusedMonth = null;
+          renderTooltip();
+        });
+      });
+
+      viewport.addEventListener("scroll", () => {
+        if (activeMonth) showTooltip(activeMonth);
+      }, { passive: true });
+
+      window.addEventListener("resize", () => {
+        if (activeMonth) showTooltip(activeMonth);
+      });
+    })();
+  </script>
+{{- end -}}

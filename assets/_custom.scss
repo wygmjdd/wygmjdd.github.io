@@ -202,3 +202,223 @@
 .book-article .hub-year-heading:first-of-type {
   margin-top: 1.35rem;
 }
+
+/* Archive list pages for docs sections. */
+.book-article .archive-eyebrow {
+  margin: 0 0 0.3rem;
+  color: var(--gray-500);
+  font-size: var(--font-size-smaller);
+  line-height: 1.4;
+}
+
+.book-article .archive-lede {
+  margin-top: 0;
+  color: var(--gray-500);
+}
+
+.book-article .archive-post-list,
+.book-article .archive-month-list,
+.book-article .archive-year-list {
+  padding-left: 1.2rem;
+}
+
+.book-article .archive-post-list li,
+.book-article .archive-month-list li,
+.book-article .archive-year-list li {
+  margin: 0.45rem 0;
+}
+
+.book-article .archive-post-list small,
+.book-article .archive-month-list small,
+.book-article .archive-year-list small {
+  margin-left: 0.35rem;
+  color: var(--gray-500);
+  white-space: nowrap;
+}
+
+.book-toc-custom {
+  margin-bottom: 1rem;
+}
+
+.book-toc-custom .book-toc-title {
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+/* Home page: quiet writing timeline before the follow image. */
+.book-article .writing-stamp {
+  --stamp-ink: #1f2933;
+  --stamp-muted: var(--gray-500);
+  --stamp-line: rgba(47, 111, 97, 0.38);
+  --stamp-arrow: rgba(47, 111, 97, 0.82);
+  --stamp-grape: 47, 111, 97;
+  --stamp-peak: #c76032;
+  --stamp-line-top: 2.65rem;
+
+  position: relative;
+  width: 100%;
+  margin: 1.2rem 0 1.05rem;
+}
+
+.book-article .writing-stamp::before {
+  content: "";
+  position: absolute;
+  inset-inline: 0 0.52rem;
+  top: var(--stamp-line-top);
+  height: 1.5px;
+  background: var(--stamp-line);
+}
+
+.book-article .writing-stamp::after {
+  content: "";
+  position: absolute;
+  top: calc(var(--stamp-line-top) - 0.3rem);
+  right: 0;
+  width: 0;
+  height: 0;
+  border-top: 0.3rem solid transparent;
+  border-bottom: 0.3rem solid transparent;
+  border-left: 0.56rem solid var(--stamp-arrow);
+  pointer-events: none;
+}
+
+.book-article .writing-stamp__title {
+  position: absolute;
+  top: 0.08rem;
+  left: 0;
+  z-index: 2;
+  color: var(--stamp-muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.25;
+  transition: opacity 140ms ease, transform 140ms ease;
+}
+
+.book-article .writing-stamp.is-inspecting .writing-stamp__title {
+  opacity: 0;
+  transform: translateY(-0.16rem);
+}
+
+.book-article .writing-stamp__viewport {
+  position: relative;
+  z-index: 1;
+  overflow-x: auto;
+  overflow-y: hidden;
+  width: 100%;
+  padding: 1.6rem 0 0.85rem;
+  scrollbar-width: none;
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+}
+
+.book-article .writing-stamp__viewport::-webkit-scrollbar {
+  display: none;
+}
+
+.book-article .writing-stamp__track {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.book-article .writing-stamp__month {
+  position: relative;
+  flex: 0 0 var(--stamp-item);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--stamp-item);
+  height: 2.1rem;
+  border-radius: 999px;
+  text-decoration: none;
+  scroll-snap-align: center;
+}
+
+.book-article .writing-stamp__dot {
+  display: block;
+  width: var(--dot-size);
+  height: var(--dot-size);
+  border-radius: 999px;
+  background: unquote("rgb(var(--stamp-grape))");
+  opacity: var(--dot-strength);
+  box-shadow:
+    inset 0 0 0 1px rgba(var(--stamp-grape), 0.62),
+    0 1px 2px rgba(31, 41, 51, 0.08);
+  transition:
+    background 160ms ease,
+    box-shadow 160ms ease,
+    opacity 160ms ease,
+    transform 160ms ease;
+}
+
+.book-article .writing-stamp__tooltip {
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: var(--tooltip-left, 50%);
+  padding: 0.22rem 0.45rem;
+  color: var(--stamp-ink);
+  font-size: 0.72rem;
+  line-height: 1.25;
+  white-space: nowrap;
+  background: var(--body-background);
+  border: 1px solid rgba(78, 93, 107, 0.18);
+  border-radius: 999px;
+  box-shadow: 0 0.28rem 0.8rem rgba(31, 41, 51, 0.12);
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+  transform: translate(-50%, 0.25rem);
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease;
+}
+
+.book-article .writing-stamp__month:hover .writing-stamp__dot,
+.book-article .writing-stamp__month:focus-visible .writing-stamp__dot {
+  background: var(--stamp-peak);
+  opacity: 1 !important;
+  box-shadow: 0 0 0 3px rgba(199, 96, 50, 0.16);
+  transform: scale(1.18);
+}
+
+.book-article .writing-stamp__tooltip.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translate(-50%, 0);
+}
+
+.book-article .writing-stamp__month:focus-visible {
+  outline: 2px solid rgba(47, 111, 97, 0.42);
+  outline-offset: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .book-article .writing-stamp {
+    --stamp-ink: #e5eee9;
+    --stamp-line: rgba(131, 199, 174, 0.38);
+    --stamp-arrow: rgba(131, 199, 174, 0.84);
+    --stamp-grape: 131, 199, 174;
+    --stamp-peak: #f0a06b;
+  }
+
+  .book-article .writing-stamp__tooltip {
+    border-color: rgba(206, 221, 214, 0.22);
+    box-shadow: 0 0.28rem 0.8rem rgba(0, 0, 0, 0.35);
+  }
+}
+
+@media screen and (max-width: $mobile-breakpoint) {
+  .book-article .writing-stamp__title,
+  .book-article .writing-stamp__tooltip {
+    font-size: 0.68rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .book-article .writing-stamp__title,
+  .book-article .writing-stamp__dot,
+  .book-article .writing-stamp__tooltip {
+    transition: none;
+  }
+}
