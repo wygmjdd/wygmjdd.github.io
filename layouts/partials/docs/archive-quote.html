@@ -1,0 +1,8 @@
+<figure class="archive-quote">
+  <blockquote cite="{{ .source_path | relURL }}">
+    <p>{{ .text }}</p>
+  </blockquote>
+  <figcaption>
+    {{ with .credit }}<span class="archive-quote__credit">{{ . }}</span><span aria-hidden="true"> · </span>{{ end }}<a href="{{ .source_path | relURL }}">摘自「{{ .source_title }}」</a>
+  </figcaption>
+</figure>
