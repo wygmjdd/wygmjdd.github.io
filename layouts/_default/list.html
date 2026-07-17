@@ -24,8 +24,14 @@
   {{- $currentYearQuote := false -}}
   {{- $previousYear := false -}}
   {{- $nextYear := false -}}
+  {{- $currentMonthCharacterCount := 0 -}}
+  {{- $currentYearCharacterCount := 0 -}}
 
   {{- if $isMonthArchive -}}
+    {{- range $visiblePages -}}
+      {{- $characterCount := partialCached "docs/visible-character-count" . .RelPermalink -}}
+      {{- $currentMonthCharacterCount = add $currentMonthCharacterCount $characterCount -}}
+    {{- end -}}
     {{- $currentMonthParts := index $monthPathMatches 0 -}}
     {{- $currentMonthYear = index $currentMonthParts 1 -}}
     {{- $currentMonthNumber = index $currentMonthParts 2 -}}
@@ -61,6 +67,10 @@
   {{- end -}}
 
   {{- if $isYearArchive -}}
+    {{- range $visiblePagesRecursive -}}
+      {{- $characterCount := partialCached "docs/visible-character-count" . .RelPermalink -}}
+      {{- $currentYearCharacterCount = add $currentYearCharacterCount $characterCount -}}
+    {{- end -}}
     {{- $currentYearParts := index $yearPathMatches 0 -}}
     {{- $currentYearNumber = index $currentYearParts 1 -}}
     {{- $currentYearPrefix := printf "%s-" $currentYearNumber -}}
@@ -97,12 +107,22 @@
   <article class="markdown book-article">
     <header class="markdown-inner">
       {{ if $isMonthArchive }}
-        <p class="archive-eyebrow">月度归档</p>
+        <div class="archive-eyebrow-row">
+          <p class="archive-eyebrow">月度归档</p>
+          <p class="writing-stat">
+            本月写下 <span class="writing-stat__value">{{ lang.FormatNumber 0 $currentMonthCharacterCount }}</span> 字
+          </p>
+        </div>
         <h1 class="archive-title">
           {{- $currentMonthYear }}年{{ $currentMonthNumber }}月<span class="archive-title__count">（{{ len $visiblePages }}）</span>
         </h1>
       {{ else if $isYearArchive }}
-        <p class="archive-eyebrow">年度归档</p>
+        <div class="archive-eyebrow-row">
+          <p class="archive-eyebrow">年度归档</p>
+          <p class="writing-stat">
+            全年写下 <span class="writing-stat__value">{{ lang.FormatNumber 0 $currentYearCharacterCount }}</span> 字
+          </p>
+        </div>
         <h1 class="archive-title">
           {{- $currentYearNumber }}年<span class="archive-title__count">（{{ len $visiblePagesRecursive }}）</span>
         </h1>

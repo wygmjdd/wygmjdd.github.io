@@ -1,6 +1,7 @@
 {{- $counts := newScratch -}}
 {{- $months := slice -}}
 {{- $totalPosts := 0 -}}
+{{- $totalCharacters := 0 -}}
 
 {{- range site.RegularPages -}}
   {{- if and (eq .Section "docs") (not (.Param "bookHidden")) (ge .Date.Year 1900) -}}
@@ -12,6 +13,8 @@
     {{- if not ($counts.Get $key) -}}{{- $months = $months | append $key -}}{{- end -}}
     {{- $counts.Set $key (add $current 1) -}}
     {{- $totalPosts = add $totalPosts 1 -}}
+    {{- $characterCount := partialCached "docs/visible-character-count" . .RelPermalink -}}
+    {{- $totalCharacters = add $totalCharacters $characterCount -}}
   {{- end -}}
 {{- end -}}
 
@@ -28,7 +31,12 @@
   {{- end -}}
 
   <section class="writing-stamp" aria-label="按月份浏览写作时间线">
-    <span class="writing-stamp__title">写作轨迹</span>
+    <div class="writing-stamp__meta">
+      <span class="writing-stamp__title">写作轨迹</span>
+      <span class="writing-stat">
+        累计写下 <span class="writing-stat__value">{{ lang.FormatNumber 0 $totalCharacters }}</span> 字
+      </span>
+    </div>
     <div class="writing-stamp__viewport" data-writing-timeline tabindex="0">
       <div
         class="writing-stamp__track"

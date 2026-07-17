@@ -257,11 +257,41 @@ body[dir="rtl"] .book-menu-filetree input.toggle:checked + .book-menu-section-ro
 }
 
 /* Archive list pages for docs sections. */
+.book-article .archive-eyebrow-row {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 0.3rem;
+}
+
 .book-article .archive-eyebrow {
-  margin: 0 0 0.3rem;
+  margin: 0;
   color: var(--gray-500);
   font-size: var(--font-size-smaller);
   line-height: 1.4;
+}
+
+.book-article .writing-stat {
+  --writing-stat-value: #5f6873;
+
+  margin: 0;
+  color: var(--gray-500);
+  font-size: var(--font-size-smaller);
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+.book-article .writing-stat__value {
+  color: var(--writing-stat-value);
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+}
+
+@media (prefers-color-scheme: dark) {
+  .book-article .writing-stat {
+    --writing-stat-value: #c4cad3;
+  }
 }
 
 .book-article .archive-lede {
@@ -598,19 +628,32 @@ body[dir="rtl"] .book-menu-filetree input.toggle:checked + .book-menu-section-ro
   pointer-events: none;
 }
 
-.book-article .writing-stamp__title {
+.book-article .writing-stamp__meta {
   position: absolute;
   top: 0.08rem;
+  right: 0;
   left: 0;
   z-index: 2;
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+  justify-content: space-between;
+  transition: opacity 140ms ease, transform 140ms ease;
+}
+
+.book-article .writing-stamp__title {
   color: var(--stamp-muted);
   font-size: 0.72rem;
   font-weight: 600;
   line-height: 1.25;
-  transition: opacity 140ms ease, transform 140ms ease;
 }
 
-.book-article .writing-stamp.is-inspecting .writing-stamp__title {
+.book-article .writing-stamp .writing-stat {
+  font-size: 0.72rem;
+  line-height: 1.25;
+}
+
+.book-article .writing-stamp.is-inspecting .writing-stamp__meta {
   opacity: 0;
   transform: translateY(-0.16rem);
 }
@@ -755,6 +798,7 @@ body[dir="rtl"] .book-menu-filetree input.toggle:checked + .book-menu-section-ro
   }
 
   .book-article .writing-stamp__title,
+  .book-article .writing-stamp .writing-stat,
   .book-article .writing-stamp__tooltip {
     font-size: 0.68rem;
   }
@@ -762,7 +806,7 @@ body[dir="rtl"] .book-menu-filetree input.toggle:checked + .book-menu-section-ro
 
 @media (prefers-reduced-motion: reduce) {
   .book-article .archive-month-nav__arrow,
-  .book-article .writing-stamp__title,
+  .book-article .writing-stamp__meta,
   .book-article .writing-stamp__dot,
   .book-article .writing-stamp__tooltip {
     transition: none;
