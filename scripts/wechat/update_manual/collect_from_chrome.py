@@ -9,16 +9,26 @@ import shutil
 import sqlite3
 import sys
 import tempfile
-from dataclasses import dataclass
+from collections.abc import Callable, Iterable
+from dataclasses import dataclass, replace
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+import yaml
+
+from scripts.wechat.article_metadata import (
+    ArticlePageMetadata,
+    extract_article_key_from_url,
+    fetch_article_metadata,
+)
 from scripts.wechat.wechat_url_stub import canonical_source_url
 
 _UPDATE_MANUAL_DIR = Path(__file__).resolve().parent
 REPO_ROOT = _UPDATE_MANUAL_DIR.parents[2]
 DOCS_DIR = REPO_ROOT / "content" / "docs"
 INPUT_DIR = _UPDATE_MANUAL_DIR / "input"
+CATEGORIES_YML = REPO_ROOT / "data" / "categories.yml"
+ARTICLE_KEYS_YML = REPO_ROOT / "data" / "wechat_article_keys.yml"
 
 CHROME_EPOCH = datetime(1601, 1, 1, tzinfo=timezone.utc)
 
@@ -39,6 +49,9 @@ class CollectedArticle:
     url: str
     title: str
     visited_at: datetime
+    category_title: str | None = None
+    category_slug: str | None = None
+    article_key: str | None = None
 
 
 def chrome_history_path(channel: str, profile: str) -> Path:
@@ -68,6 +81,53 @@ def normalize_history_title(title: str | None) -> str:
     return cleaned
 
 
+def normalize_category_title(title: str) -> str:
+    return "".join(str(title).split()).casefold()
+
+
+def load_category_title_slugs(path: Path) -> dict[str, str]:
+    if not path.is_file():
+        return {}
+
+    data = yaml.safe_load(path.read_text(encoding="utf-8"))
+    result: dict[str, str] = {}
+    if not isinstance(data, list):
+        return result
+    for row in data:
+        if not isinstance(row, dict):
+            continue
+        title = str(row.get("title") or "").strip()
+        slug = str(row.get("slug") or "").strip()
+        if title and slug:
+            result[normalize_category_title(title)] = slug
+    return result
+
+
+def detect_article_category(
+    article: CollectedArticle,
+    category_title_slugs: dict[str, str],
+    *,
+    fetch_metadata: Callable[[str], ArticlePageMetadata] = fetch_article_metadata,
+    include_category: bool = True,
+) -> CollectedArticle:
+    if not include_category and article.article_key:
+        return replace(article, category_title=None, category_slug=None)
+
+    metadata = fetch_metadata(article.url)
+    category_title = metadata.album_title if include_category else None
+    category_slug = (
+        category_title_slugs.get(normalize_category_title(category_title))
+        if category_title
+        else None
+    )
+    return replace(
+        article,
+        category_title=category_title,
+        category_slug=category_slug,
+        article_key=article.article_key or metadata.article_key,
+    )
+
+
 def is_wechat_article_url(url: str) -> bool:
     return bool(WECHAT_ARTICLE_RE.match(normalize_collect_url(url)))
 
@@ -81,25 +141,94 @@ def is_collectable_wechat_url(url: str) -> bool:
     return True
 
 
+def _load_front_matter(path: Path) -> dict:
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---"):
+        return {}
+    lines = text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return {}
+    try:
+        end = next(index for index, line in enumerate(lines[1:], 1) if line.strip() == "---")
+    except StopIteration:
+        return {}
+    data = yaml.safe_load("\n".join(lines[1:end]))
+    return data if isinstance(data, dict) else {}
+
+
 def load_existing_source_urls(docs_dir: Path) -> set[str]:
     existing: set[str] = set()
     if not docs_dir.is_dir():
         return existing
     for path in docs_dir.rglob("*.md"):
-        text = path.read_text(encoding="utf-8")
-        if not text.startswith("---"):
-            continue
-        end = text.find("---", 3)
-        if end < 0:
-            continue
-        for line in text[3:end].splitlines():
-            stripped = line.strip()
-            if stripped.startswith("source_url:"):
-                val = stripped.split(":", 1)[1].strip().strip("\"'")
-                if val:
-                    existing.add(normalize_collect_url(val))
-                break
+        source_url = _load_front_matter(path).get("source_url")
+        if isinstance(source_url, str) and source_url.strip():
+            existing.add(normalize_collect_url(source_url))
     return existing
+
+
+def article_keys_from_urls(urls: Iterable[str]) -> set[str]:
+    return {
+        key
+        for url in urls
+        if (key := extract_article_key_from_url(url))
+    }
+
+
+def load_article_key_cache(path: Path) -> dict[str, str]:
+    if not path.is_file():
+        return {}
+    data = yaml.safe_load(path.read_text(encoding="utf-8"))
+    if not isinstance(data, dict):
+        return {}
+
+    cache: dict[str, str] = {}
+    for raw_url, raw_key in data.items():
+        url = normalize_collect_url(str(raw_url))
+        key = str(raw_key).strip()
+        if url and key.count("|") == 3 and all(part.strip() for part in key.split("|")):
+            cache[url] = key
+    return cache
+
+
+def update_article_key_cache(path: Path, articles: Iterable[CollectedArticle]) -> int:
+    cache = load_article_key_cache(path)
+    changed = 0
+    for article in articles:
+        if not article.article_key or extract_article_key_from_url(article.url):
+            continue
+        url = normalize_collect_url(article.url)
+        if cache.get(url) == article.article_key:
+            continue
+        cache[url] = article.article_key
+        changed += 1
+
+    if changed:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(
+            yaml.safe_dump(cache, allow_unicode=True, sort_keys=True),
+            encoding="utf-8",
+        )
+    return changed
+
+
+def load_existing_article_keys(
+    docs_dir: Path,
+    *,
+    cache_path: Path = ARTICLE_KEYS_YML,
+    article_key_cache: dict[str, str] | None = None,
+    source_urls: set[str] | None = None,
+) -> set[str]:
+    if source_urls is None:
+        source_urls = load_existing_source_urls(docs_dir)
+    keys = article_keys_from_urls(source_urls)
+    cache = (
+        article_key_cache
+        if article_key_cache is not None
+        else load_article_key_cache(cache_path)
+    )
+    keys.update(cache[url] for url in source_urls if url in cache)
+    return keys
 
 
 def query_wechat_articles(history_path: Path, *, days: int, biz: str | None) -> list[CollectedArticle]:
@@ -156,21 +285,54 @@ def collect_new_articles(
     days: int,
     biz: str | None,
     existing: set[str],
+    existing_keys: set[str] | None = None,
+    article_key_cache: dict[str, str] | None = None,
 ) -> list[CollectedArticle]:
+    known_keys = existing_keys or set()
+    cached_keys = article_key_cache or {}
     seen: set[str] = set()
+    seen_keys: set[str] = set()
     articles: list[CollectedArticle] = []
     for article in query_wechat_articles(history_path, days=days, biz=biz):
+        article_key = (
+            extract_article_key_from_url(article.url)
+            or cached_keys.get(article.url)
+        )
         if article.url in seen or article.url in existing:
             continue
+        if article_key and (article_key in known_keys or article_key in seen_keys):
+            continue
         seen.add(article.url)
+        if article_key:
+            seen_keys.add(article_key)
+            article = replace(article, article_key=article_key)
         articles.append(article)
     return articles
+
+
+def deduplicate_detected_articles(
+    articles: list[CollectedArticle],
+    *,
+    existing_keys: set[str],
+) -> tuple[list[CollectedArticle], list[CollectedArticle]]:
+    kept: list[CollectedArticle] = []
+    skipped: list[CollectedArticle] = []
+    seen_keys: set[str] = set()
+    for article in articles:
+        key = article.article_key
+        if key and (key in existing_keys or key in seen_keys):
+            skipped.append(article)
+            continue
+        if key:
+            seen_keys.add(key)
+        kept.append(article)
+    return kept, skipped
 
 
 def batch_entry(article: CollectedArticle, *, slug: str) -> dict[str, str]:
     entry = {
         "title": article.title,
-        "slug": slug,
+        "slug": article.category_slug or slug,
         "url": article.url,
     }
     return entry
@@ -216,7 +378,12 @@ def main() -> None:
     parser.add_argument(
         "--default-slug",
         default="di-tie-ri-ji",
-        help="Category slug for every collected URL (default: di-tie-ri-ji).",
+        help="Fallback category slug when the WeChat collection cannot be detected.",
+    )
+    parser.add_argument(
+        "--no-detect-category",
+        action="store_true",
+        help="Skip WeChat collection detection and use --default-slug for every article.",
     )
     parser.add_argument(
         "--channel",
@@ -261,11 +428,22 @@ def main() -> None:
         )
     )
     existing = load_existing_source_urls(DOCS_DIR)
+    article_key_cache = load_article_key_cache(ARTICLE_KEYS_YML)
+    existing_keys = load_existing_article_keys(
+        DOCS_DIR,
+        article_key_cache=article_key_cache,
+        source_urls=existing,
+    )
+    category_title_slugs = load_category_title_slugs(CATEGORIES_YML)
     biz = args.biz.strip() or None
 
     print(f"Chrome history: {history_path}", flush=True)
     print(f"Lookback      : {args.days} day(s)", flush=True)
-    print(f"Slug          : {args.default_slug}", flush=True)
+    print(f"Fallback slug : {args.default_slug}", flush=True)
+    print(
+        f"Auto category : {'off' if args.no_detect_category else 'on'}",
+        flush=True,
+    )
     print(f"Already in site: {len(existing)} source_url(s) in {DOCS_DIR}", flush=True)
 
     try:
@@ -274,6 +452,8 @@ def main() -> None:
             days=args.days,
             biz=biz,
             existing=existing,
+            existing_keys=existing_keys,
+            article_key_cache=article_key_cache,
         )
     except FileNotFoundError as exc:
         print(f"ERROR: {exc}", file=sys.stderr)
@@ -283,10 +463,65 @@ def main() -> None:
         print("No new WeChat article URLs found in Chrome history.", flush=True)
         return
 
+    detected_articles: list[CollectedArticle] = []
+    for article in new_articles:
+        try:
+            article = detect_article_category(
+                article,
+                category_title_slugs,
+                include_category=not args.no_detect_category,
+            )
+        except Exception as exc:
+            if not article.article_key:
+                print(
+                    f"[warn] article metadata lookup failed for {article.url}: {exc}; "
+                    "skipping until a stable identity can be read",
+                    file=sys.stderr,
+                    flush=True,
+                )
+                continue
+            print(
+                f"[warn] article metadata lookup failed for {article.url}: {exc}; "
+                f"using {args.default_slug!r}",
+                file=sys.stderr,
+                flush=True,
+            )
+        detected_articles.append(article)
+    new_articles, skipped_articles = deduplicate_detected_articles(
+        detected_articles,
+        existing_keys=existing_keys,
+    )
+    if not args.dry_run:
+        cached_count = update_article_key_cache(ARTICLE_KEYS_YML, detected_articles)
+        if cached_count:
+            print(
+                f"Cached identity for {cached_count} short article URL(s) in "
+                f"{ARTICLE_KEYS_YML.relative_to(REPO_ROOT)}.",
+                flush=True,
+            )
+    for article in skipped_articles:
+        print(
+            f"[skip] already collected article identity: {article.title or article.url}",
+            flush=True,
+        )
+
+    if not new_articles:
+        print("No new WeChat articles remain after identity checks.", flush=True)
+        return
+
     print(f"New URLs      : {len(new_articles)}", flush=True)
     for article in new_articles:
         title_part = f"{article.title} — " if article.title else ""
-        print(f"  {title_part}{article.url}", flush=True)
+        if article.category_slug:
+            category_part = f" [{article.category_title} -> {article.category_slug}]"
+        elif article.category_title:
+            category_part = (
+                f" [unknown collection {article.category_title!r}; "
+                f"fallback -> {args.default_slug}]"
+            )
+        else:
+            category_part = f" [fallback -> {args.default_slug}]"
+        print(f"  {title_part}{article.url}{category_part}", flush=True)
 
     out_path = write_batch_json(
         args.batch_id,
@@ -298,7 +533,7 @@ def main() -> None:
         print(f"(dry-run; would write {out_path.relative_to(REPO_ROOT)})", flush=True)
     else:
         print(f"Wrote {out_path.relative_to(REPO_ROOT)}", flush=True)
-        print("Review titles and edit slug per entry if needed, then run:", flush=True)
+        print("Review titles and any fallback slug, then run:", flush=True)
         print(f"  python3 -m scripts.wechat.update_manual {args.batch_id}", flush=True)
 
 

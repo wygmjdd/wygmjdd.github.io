@@ -13,14 +13,14 @@ import html2text
 import requests
 from bs4 import BeautifulSoup, Tag
 
+from scripts.wechat.article_metadata import (
+    CHROME_UA as _CHROME_UA,
+    REFERER_WECHAT as _REFERER_WECHAT,
+)
+
 _REPO_ROOT = Path(__file__).resolve().parents[2]
 _STATIC_IMAGES_WECHAT = _REPO_ROOT / "static" / "images" / "wechat"
 _MIN_IMAGE_BYTES = 256
-_REFERER_WECHAT = "https://mp.weixin.qq.com/"
-_CHROME_UA = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-)
 
 
 def _fetch_html_playwright(url: str, timeout_ms: int = 30000) -> str:
@@ -45,11 +45,18 @@ def fetch_article(url: str, download_images: bool = True) -> dict:
 
 
 def _get_html(url: str) -> str:
-    resp = requests.get(url, timeout=30)
+    resp = requests.get(
+        url,
+        headers={
+            "User-Agent": _CHROME_UA,
+            "Referer": _REFERER_WECHAT,
+        },
+        timeout=30,
+    )
     resp.raise_for_status()
     html_text = resp.text
     soup = BeautifulSoup(html_text, "html.parser")
-    if _extract_body(soup) or _extract_title(soup):
+    if _extract_body(soup) or soup.find("meta", property="og:title"):
         return html_text
     print(
         "    [fetch_article] HTML from requests has no #js_content/title — "

@@ -2,8 +2,10 @@
 title: 我觉得，詹姆斯会去热火
 date: '2026-07-19'
 weight: 271930078
-primary_category: di-tie-ri-ji
+primary_category: 30-fen-zhong-ri-ji
 source_url: https://mp.weixin.qq.com/s/3gXV0-7hE9gMhPC2Im4qgw
+aliases:
+  - /docs/2026/07/2026-07-19-di-tie-ri-ji-wo-jue-de-zhan-mu-si-hui-qu/
 ---
 昨晚，三个帅约了一场江边散步，在嘉华大桥下面有过这样一场对话。（三个帅指的是我们高中同学三个，在身体还不曾有过小毛病那几年，篮球让我们每周都和在一起，为此，我写过一篇《[篮球，给予我快乐](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486125&idx=1&sn=c9d4f756f09f02419c67620227fd5f74&scene=21#wechat_redirect)》；其后打球频次降低，又记一篇《[纽带，不止篮球](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487078&idx=1&sn=64c9984ef52891bf8a0b1564fc7264ba&scene=21#wechat_redirect)》。）
 
