@@ -299,7 +299,11 @@ def _extract_date(soup: BeautifulSoup):
     if chinese_date:
         return chinese_date
     script_text = " ".join(s.get_text() for s in soup.find_all("script") if s.get_text())
-    match = re.search(r'"(\d{10})"', script_text)
+    match = re.search(
+        r"\b(?:publish_time|create_time|ct)\b\s*[:=]\s*[\"'](\d{10})[\"']",
+        script_text,
+        re.IGNORECASE,
+    )
     if match:
         try:
             ts = int(match.group(1))

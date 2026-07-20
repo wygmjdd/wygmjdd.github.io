@@ -10,6 +10,7 @@ from scripts.wechat.article_metadata import (
     fetch_article_metadata,
 )
 from scripts.wechat.fetch_article import (
+    _extract_date,
     _get_html,
     _img_real_url,
     _parse_chinese_date,
@@ -215,6 +216,24 @@ def test_parse_chinese_date():
     assert _parse_chinese_date("2026年2月27日 09:15") == "2026-02-27"
     assert _parse_chinese_date("2024年12月1日") == "2024-12-01"
     assert _parse_chinese_date("no date here") is None
+
+
+def test_extract_date_ignores_unlabelled_ten_digit_article_id():
+    soup = BeautifulSoup(
+        '<script>window.articleData = { mid: "2247488053" };</script>',
+        "html.parser",
+    )
+
+    assert _extract_date(soup) != "2041-03-21"
+
+
+def test_extract_date_accepts_named_script_timestamp():
+    soup = BeautifulSoup(
+        '<script>window.articleData = { create_time: "1709251200" };</script>',
+        "html.parser",
+    )
+
+    assert _extract_date(soup) == "2024-03-01"
 
 
 def test_img_real_url_prefers_data_src_over_placeholder_src():
