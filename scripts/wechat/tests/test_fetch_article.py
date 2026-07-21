@@ -229,11 +229,31 @@ def test_extract_date_ignores_unlabelled_ten_digit_article_id():
 
 def test_extract_date_accepts_named_script_timestamp():
     soup = BeautifulSoup(
-        '<script>window.articleData = { create_time: "1709251200" };</script>',
+        '<script>window.articleData = { "create_time": "1709251200" };</script>',
         "html.parser",
     )
 
     assert _extract_date(soup) == "2024-03-01"
+
+
+def test_extract_date_rejects_future_metadata():
+    soup = BeautifulSoup(
+        '<meta name="publish_time" content="2041-03-21 12:00:00" />',
+        "html.parser",
+    )
+
+    with pytest.raises(ValueError, match="future dates are not allowed"):
+        _extract_date(soup)
+
+
+def test_extract_date_rejects_future_named_script_timestamp():
+    soup = BeautifulSoup(
+        '<script>window.articleData = { create_time: "2247488053" };</script>',
+        "html.parser",
+    )
+
+    with pytest.raises(ValueError, match="future dates are not allowed"):
+        _extract_date(soup)
 
 
 def test_img_real_url_prefers_data_src_over_placeholder_src():

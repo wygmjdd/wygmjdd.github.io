@@ -1,11 +1,16 @@
 from __future__ import annotations
 
 import sys
+from datetime import date
 from pathlib import Path
 
 import pytest
 
-from scripts.wechat.migrate_jekyll_to_hugo_book import hugo_doc_filename
+from scripts.wechat.migrate_jekyll_to_hugo_book import (
+    MarkdownPost,
+    hugo_doc_filename,
+    parse_date,
+)
 
 
 def test_hugo_doc_filename_uses_date_title_prefix_and_category() -> None:
@@ -39,6 +44,65 @@ def test_hugo_doc_filename_truncates_long_titles_to_eight_chars() -> None:
         )
         == "2026-06-28-30-fen-zhong-ri-ji-de-zhi-lin-ju-jia-hai-zi-gao.md"
     )
+
+
+def test_parse_date_rejects_future_front_matter_date() -> None:
+    post = MarkdownPost({"date": "2041-03-21"}, "Body")
+
+    with pytest.raises(ValueError, match="future dates are not allowed"):
+        parse_date(post, "post.md", today=date(2026, 7, 21))
+
+
+def test_parse_date_rejects_invalid_calendar_date() -> None:
+    post = MarkdownPost({"date": "2026-02-30"}, "Body")
+
+    with pytest.raises(ValueError, match="expected a real YYYY-MM-DD date"):
+        parse_date(post, "post.md", today=date(2026, 7, 21))
+
+
+def test_parse_date_rejects_implausibly_old_date() -> None:
+    post = MarkdownPost({"date": "1970-01-01"}, "Body")
+
+    with pytest.raises(ValueError, match="dates before 2000-01-01 are not allowed"):
+        parse_date(post, "post.md", today=date(2026, 7, 21))
+
+
+def test_merge_rejects_future_date_before_creating_year_directory(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    import scripts.wechat.migrate_jekyll_to_hugo_book as mod
+
+    posts = tmp_path / "posts"
+    docs = tmp_path / "content" / "docs"
+    categories = tmp_path / "categories.yml"
+    posts.mkdir()
+    categories.write_text(
+        "- slug: zong-jie\n"
+        "  title: 总结\n",
+        encoding="utf-8",
+    )
+    (posts / "2033-01-01-post-future.md").write_text(
+        "---\n"
+        "title: Future article\n"
+        "date: '2041-03-21'\n"
+        "categories:\n"
+        "  - zong-jie\n"
+        "---\n\n"
+        "Body\n",
+        encoding="utf-8",
+    )
+
+    monkeypatch.setattr(mod, "ROOT", tmp_path)
+    monkeypatch.setattr(mod, "OUT_DOCS", docs)
+    monkeypatch.setattr(mod, "CATEGORIES_FILE", categories)
+    monkeypatch.setenv("WYGMJDD_POSTS_DIR", str(posts))
+    monkeypatch.setattr(sys, "argv", ["migrate_jekyll_to_hugo_book", "--merge"])
+
+    with pytest.raises(ValueError, match="future dates are not allowed"):
+        mod.main()
+
+    assert not (docs / "2041").exists()
 
 
 def test_merge_moves_existing_source_url_to_readable_filename(

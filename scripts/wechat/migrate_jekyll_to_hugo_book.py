@@ -33,6 +33,7 @@ from typing import Any
 
 import yaml
 
+from scripts.wechat.article_date import validate_article_date
 from scripts.wechat.slug_utils import pinyin_slug
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -247,16 +248,36 @@ def pick_root_category(categories: Any, allowed: set[str]) -> str:
     return FALLBACK_CATEGORY
 
 
-def parse_date(post: MarkdownPost, filename: str) -> tuple[int, int, int]:
+def parse_date(
+    post: MarkdownPost,
+    filename: str,
+    *,
+    today: date | None = None,
+) -> tuple[int, int, int]:
     date_val = post.get("date")
     if isinstance(date_val, str):
         match = re.match(r"^(\d{4})-(\d{2})-(\d{2})", date_val.strip())
         if match:
-            return int(match.group(1)), int(match.group(2)), int(match.group(3))
+            candidate = "-".join(match.groups())
+            parsed = validate_article_date(
+                candidate,
+                source=f"front matter in {filename}",
+                today=today,
+            )
+            return parsed.year, parsed.month, parsed.day
     match = DATE_FILENAME_RE.match(filename)
     if match:
-        return int(match.group("y")), int(match.group("m")), int(match.group("d"))
-    return 1970, 1, 1
+        candidate = f'{match.group("y")}-{match.group("m")}-{match.group("d")}'
+        parsed = validate_article_date(
+            candidate,
+            source=f"filename {filename}",
+            today=today,
+        )
+        return parsed.year, parsed.month, parsed.day
+    raise ValueError(
+        f"Missing valid article date in {filename}; expected YYYY-MM-DD in front "
+        "matter or the filename. Refusing to generate content."
+    )
 
 
 def slug_from_filename(name: str) -> str:

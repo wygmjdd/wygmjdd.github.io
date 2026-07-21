@@ -13,6 +13,11 @@ import html2text
 import requests
 from bs4 import BeautifulSoup, Tag
 
+from scripts.wechat.article_date import (
+    CHINA_TIMEZONE,
+    current_china_date,
+    validate_article_date,
+)
 from scripts.wechat.article_metadata import (
     CHROME_UA as _CHROME_UA,
     REFERER_WECHAT as _REFERER_WECHAT,
@@ -290,27 +295,40 @@ def _extract_date(soup: BeautifulSoup):
         raw = meta["content"].strip()
         for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%Y/%m/%d"):
             try:
-                return datetime.strptime(raw[:19], fmt).strftime("%Y-%m-%d")
+                candidate = datetime.strptime(raw[:19], fmt).strftime("%Y-%m-%d")
             except ValueError:
                 continue
+            return validate_article_date(
+                candidate,
+                source="publish_time metadata",
+            ).isoformat()
     visible = soup.get_text(separator=" ", strip=False)
     head_and_meta = visible[:3000]
     chinese_date = _parse_chinese_date(head_and_meta)
     if chinese_date:
-        return chinese_date
+        return validate_article_date(
+            chinese_date,
+            source="visible article text",
+        ).isoformat()
     script_text = " ".join(s.get_text() for s in soup.find_all("script") if s.get_text())
     match = re.search(
-        r"\b(?:publish_time|create_time|ct)\b\s*[:=]\s*[\"'](\d{10})[\"']",
+        r"(?<![\w])[\"']?(?:publish_time|create_time|ct)[\"']?(?![\w])"
+        r"\s*[:=]\s*[\"'](\d{10})[\"']",
         script_text,
         re.IGNORECASE,
     )
     if match:
         try:
             ts = int(match.group(1))
-            return datetime.utcfromtimestamp(ts).strftime("%Y-%m-%d")
         except (ValueError, OSError):
             pass
-    return datetime.utcnow().strftime("%Y-%m-%d")
+        else:
+            candidate = datetime.fromtimestamp(ts, CHINA_TIMEZONE).date().isoformat()
+            return validate_article_date(
+                candidate,
+                source="named script timestamp",
+            ).isoformat()
+    return current_china_date().isoformat()
 
 
 def _extract_body(soup: BeautifulSoup) -> str:
