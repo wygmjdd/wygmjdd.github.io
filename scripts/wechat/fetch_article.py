@@ -20,12 +20,19 @@ from scripts.wechat.article_date import (
 )
 from scripts.wechat.article_metadata import (
     CHROME_UA as _CHROME_UA,
+)
+from scripts.wechat.article_metadata import (
     REFERER_WECHAT as _REFERER_WECHAT,
 )
 
 _REPO_ROOT = Path(__file__).resolve().parents[2]
 _STATIC_IMAGES_WECHAT = _REPO_ROOT / "static" / "images" / "wechat"
 _MIN_IMAGE_BYTES = 256
+_FONT_WEIGHT_DECLARATION_RE = re.compile(
+    r"(?:^|;)\s*font-weight\s*:\s*([^;]+)",
+    re.IGNORECASE,
+)
+_IMPORTANT_RE = re.compile(r"\s*!important\s*$", re.IGNORECASE)
 
 
 def _fetch_html_playwright(url: str, timeout_ms: int = 30000) -> str:
@@ -338,10 +345,48 @@ def _extract_body(soup: BeautifulSoup) -> str:
     return ""
 
 
+def _has_bold_font_weight(style: str) -> bool:
+    """Return whether the effective inline font-weight declaration is bold."""
+    selected: str | None = None
+    selected_is_important = False
+    for match in _FONT_WEIGHT_DECLARATION_RE.finditer(style):
+        raw_value = match.group(1).strip()
+        is_important = bool(_IMPORTANT_RE.search(raw_value))
+        value = _IMPORTANT_RE.sub("", raw_value).strip().lower()
+        if selected is None or is_important or not selected_is_important:
+            selected = value
+            selected_is_important = is_important
+
+    if selected in {"bold", "bolder"}:
+        return True
+    if selected and re.fullmatch(r"\d+(?:\.\d+)?", selected):
+        return float(selected) >= 600
+    return False
+
+
+def _semanticize_inline_bold(html_fragment: str) -> str:
+    """Convert WeChat's CSS-only bold text into semantic <strong> markup."""
+    soup = BeautifulSoup(html_fragment, "html.parser")
+    for tag in soup.find_all(style=True):
+        style = tag.get("style")
+        if not isinstance(style, str) or not _has_bold_font_weight(style):
+            continue
+        if tag.name in {"b", "strong"} or tag.find_parent(["b", "strong"]):
+            continue
+
+        strong = soup.new_tag("strong")
+        for child in list(tag.contents):
+            strong.append(child.extract())
+        for nested in strong.find_all(["b", "strong"]):
+            nested.unwrap()
+        tag.append(strong)
+    return str(soup)
+
+
 def _html_to_markdown(html_fragment: str) -> str:
     if not html_fragment:
         return ""
     h = html2text.HTML2Text()
     h.ignore_links = False
     h.body_width = 0
-    return h.handle(html_fragment).strip()
+    return h.handle(_semanticize_inline_bold(html_fragment)).strip()

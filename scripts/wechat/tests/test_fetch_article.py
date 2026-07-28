@@ -12,6 +12,7 @@ from scripts.wechat.article_metadata import (
 from scripts.wechat.fetch_article import (
     _extract_date,
     _get_html,
+    _html_to_markdown,
     _img_real_url,
     _parse_chinese_date,
     fetch_article,
@@ -75,6 +76,50 @@ def test_fetch_article_extracts_title_and_content(monkeypatch):
     assert result["title"] == "Test Article Title"
     assert "First paragraph" in result["body_md"]
     assert "Second" in result["body_md"] and "paragraph" in result["body_md"]
+
+
+@pytest.mark.parametrize(
+    "style",
+    [
+        "font-weight: bold;",
+        "font-weight: bolder",
+        "font-weight: 600",
+        "font-weight: 750 !important;",
+        "font-weight: 700 !important; font-weight: 400;",
+    ],
+)
+def test_html_to_markdown_preserves_inline_css_bold(style):
+    body_md = _html_to_markdown(
+        f'<p>前文<span style="{style}">重点内容</span>后文</p>'
+    )
+
+    assert "**重点内容**" in body_md
+
+
+@pytest.mark.parametrize(
+    "style",
+    [
+        "font-weight: normal;",
+        "font-weight: 500",
+        "font-weight: bold; font-weight: 400;",
+        "font-weight: 700; font-weight: 400 !important;",
+    ],
+)
+def test_html_to_markdown_does_not_bold_normal_inline_weight(style):
+    body_md = _html_to_markdown(
+        f'<p>前文<span style="{style}">普通内容</span>后文</p>'
+    )
+
+    assert "**普通内容**" not in body_md
+
+
+def test_html_to_markdown_does_not_duplicate_semantic_bold():
+    body_md = _html_to_markdown(
+        '<p><strong><span style="font-weight: 700">重点内容</span></strong></p>'
+    )
+
+    assert body_md.count("**") == 2
+    assert "**重点内容**" in body_md
 
 
 def test_extract_album_title_from_wechat_page_data():
