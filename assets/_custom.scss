@@ -164,12 +164,77 @@ body[dir="rtl"] .book-menu-filetree input.toggle:checked + .book-menu-section-ro
 }
 
 /*
+ * Article quotations: regular Markdown blockquotes are rendered by hugo-book
+ * as a bare .book-hint. Keep named hint variants (note, warning, etc.) intact.
+ */
+.book-article > .markdown-inner > blockquote.book-hint {
+  &:not(.note):not(.tip):not(.important):not(.warning):not(.caution):not(.default):not(.info):not(.success):not(.danger) {
+    position: relative;
+    margin: 1.6rem 0;
+    padding: 1rem 1.25rem 1rem 2.55rem;
+    border: 0;
+    border-inline-start: 3px solid var(--color-link);
+    border-radius: 0 2px 2px 0;
+    color: #2f3944;
+    background: rgba(0, 85, 187, 0.045);
+
+    &::before {
+      content: "\201C";
+      position: absolute;
+      inset-inline-start: 0.8rem;
+      top: 0.48rem;
+      color: var(--color-link);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      line-height: 1;
+      opacity: 0.52;
+      pointer-events: none;
+      user-select: none;
+    }
+
+    p {
+      line-height: 1.72;
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .book-article > .markdown-inner > blockquote.book-hint {
+    &:not(.note):not(.tip):not(.important):not(.warning):not(.caution):not(.default):not(.info):not(.success):not(.danger) {
+      color: #d6dce5;
+      border-inline-start-color: #6ba7dc;
+      background: rgba(107, 167, 220, 0.09);
+
+      &::before {
+        color: #8cbbe4;
+        opacity: 0.62;
+      }
+    }
+  }
+}
+
+/*
  * Mobile: the header row uses flex + justify-between. Long <h3> titles can
  * overlap the right-hand <label for="toc-control"> because flex items default
  * to min-width: auto, so the title does not shrink and paints over the icon.
  * Raising z-index on the labels and forcing min-width: 0 on h3 fixes taps.
  */
 @media screen and (max-width: $mobile-breakpoint) {
+  .book-article > .markdown-inner > blockquote.book-hint {
+    &:not(.note):not(.tip):not(.important):not(.warning):not(.caution):not(.default):not(.info):not(.success):not(.danger) {
+      margin: 1.35rem 0;
+      padding: 0.85rem 0.9rem 0.85rem 2rem;
+      border-inline-start-width: 2px;
+
+      &::before {
+        inset-inline-start: 0.58rem;
+        top: 0.4rem;
+        font-size: 1.5rem;
+      }
+    }
+  }
+
   .book-header > .flex {
     position: relative;
     z-index: 2;
