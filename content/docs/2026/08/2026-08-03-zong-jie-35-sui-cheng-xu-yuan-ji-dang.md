@@ -77,6 +77,4 @@ source_url: https://mp.weixin.qq.com/s/oJrdTT2g7A9-KLDRXBXjoQ
 
 最后，当然是为挣工资啦，加班到 9 点有 18 块钱，18 乘以 10，就是 180，100 天就到 1800，比我半年的睡后收入高多了呀。
 
-当我加班时，我在追求什么？
-
-我追求的，是获取收入的同时，内心的依然清明。 <small>（<a href="https://mp.weixin.qq.com/s/oJrdTT2g7A9-KLDRXBXjoQ" rel="noopener noreferrer">原文链接</a>，更新于2026-08-03。）</small>
+当我加班时，我在追求什么？我追求的，是获取收入的同时，内心的依然清明。 <small>（<a href="https://mp.weixin.qq.com/s/oJrdTT2g7A9-KLDRXBXjoQ" rel="noopener noreferrer">原文链接</a>，更新于2026-08-03。）</small>
