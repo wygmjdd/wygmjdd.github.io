@@ -2,7 +2,7 @@
 title: 读《信念：人生每一步都算数》，一步、一步、又一步……
 date: '2024-12-01'
 weight: 277880005
-primary_category: du-shu
+primary_category: yue-du-shu-mu
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486648&idx=1&sn=6238949c117142af0fbc9802feaec982&chksm=a6c7605591b0e943c70f29e29da29582e38f8f3fb56184146c6eb7ab2ca6da0fb8b5823481ea
 ---
 我不太记得自己是怎么发现《信念：人生每一步都算数》这本书的，总之，就在今年的8月9月，我一天看一点，花6小时看完了这本16万字的小书。

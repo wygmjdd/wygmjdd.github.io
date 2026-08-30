@@ -2,7 +2,7 @@
 title: 读《和另一个自己谈谈心》
 date: '2024-10-27'
 weight: 278230919
-primary_category: du-shu
+primary_category: yue-du-shu-mu
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486549&idx=1&sn=16558f4a529a8e74d7396a7db3649567&chksm=a6c760b891b0e9ae741234ad81314cebc05831d7e6d501b13d4c88e8162dbe8eeb2417b4101e
 ---
 三年以前，或许是和聪聪第一次在深圳散步，我们走在一条宽阔人行道上，道路两旁的树很大，大到遮蔽绝大部分阳光，大到仿佛听不见隔壁马路声响。

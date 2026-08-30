@@ -2,7 +2,7 @@
 title: 单单读完一本书，便让我感受到骄傲与满足
 date: '2024-06-30'
 weight: 279420030
-primary_category: du-shu
+primary_category: yue-du-shu-mu
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486309&idx=1&sn=33ddac022bfd1fc6c51a3c4f9715011e&chksm=a6c7678891b0ee9e58af615abd92f3ea2f686a8b612b1ba1254c0677d446997dd8f5e8c1bbe0
 ---
 去年4月的一天，窗外阳光明媚，不远处的海天相接，给予我旷达感受。
