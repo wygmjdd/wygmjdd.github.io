@@ -82,3 +82,9 @@
   reason: 'fetch_error: WeChat page needs JavaScript to render content. Request with
     browser failed: No module named ''playwright''. Install Playwright browsers: pip
     install playwright && playwright install'
+- path: /Users/ljj/learn/me/wygmjdd.github.io/_archive/legacy-jekyll/_posts/2033-01-01-post-fb4e42f897.md
+  source_url: https://mp.weixin.qq.com/s/llwtM6aQQyw1OxjRsYUDuw
+  reason: 'fetch_error: HTTPSConnectionPool(host=''mp.weixin.qq.com'', port=443):
+    Max retries exceeded with url: /s/llwtM6aQQyw1OxjRsYUDuw (Caused by ConnectTimeoutError(<HTTPSConnection(host=''mp.weixin.qq.com'',
+    port=443) at 0x1070925d0>, ''Connection to mp.weixin.qq.com timed out. (connect
+    timeout=30)''))'
