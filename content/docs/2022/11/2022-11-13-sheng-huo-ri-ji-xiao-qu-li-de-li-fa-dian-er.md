@@ -1,7 +1,7 @@
 ---
 title: 小区里的理发店（二）
 date: '2022-11-13'
-weight: 285451926
+weight: 285371926
 primary_category: sheng-huo-ri-ji
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485183&idx=1&sn=5827ef8a5a6a59d9cbff1cfc44a5d45f&chksm=a6c76a1291b0e3047df1b8ef03355cdddf920a71d61704ae2346722b50d0b524f3cba77873a6
 ---

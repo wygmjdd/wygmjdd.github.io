@@ -1,7 +1,7 @@
 ---
 title: 使用VS Code一年，捣鼓笔记
 date: '2023-04-04'
-weight: 1150704702
+weight: 283954702
 primary_category: ji-shu-bo-ke
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485478&idx=1&sn=1eeba13b452bf483ade4ab7b97e94f9c&chksm=a6c764cb91b0eddd3221fd5b939a03dac0f2ae7414da72973435574d8b85645ee7201078a9b0
 ---

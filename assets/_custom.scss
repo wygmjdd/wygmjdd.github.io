@@ -2,6 +2,8 @@
   Site-specific overrides for hugo-book (imported from theme book.scss).
 */
 
+@import "home";
+
 .book-brand {
   margin-bottom: $padding-8;
 }
@@ -12,6 +14,27 @@
   font-weight: var(--body-font-weight);
   line-height: 1.45;
   color: var(--gray-500);
+}
+
+.book-skip-link {
+  position: fixed;
+  top: 0.5rem;
+  left: 0.5rem;
+  z-index: 200;
+  padding: 0.55rem 0.75rem;
+  color: var(--body-font-color);
+  background: var(--body-background);
+  border: 2px solid var(--color-link);
+  border-radius: var(--border-radius);
+  transform: translateY(calc(-100% - 1rem));
+}
+
+.book-skip-link:focus {
+  transform: translateY(0);
+}
+
+body.book-drawer-open {
+  overflow: hidden;
 }
 
 /* Match sidebar subtitle scale; was --font-size-smallest and felt too small in the TOC column. */
@@ -240,11 +263,23 @@ body[dir="rtl"] .book-menu-filetree input.toggle:checked + .book-menu-section-ro
     z-index: 2;
   }
 
-  .book-header > .flex h3 {
+  .book-header > .flex .book-header-title {
     flex: 1 1 auto;
     min-width: 0;
     position: relative;
     z-index: 0;
+    margin: 0 0.75rem;
+    overflow: hidden;
+    font-size: 1.17em;
+    font-weight: 600;
+    line-height: 1.2;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .book-header > .flex .book-header-action {
+    flex: 0 0 2.75rem;
   }
 
   .book-header > .flex label[for="menu-control"],
@@ -308,9 +343,39 @@ body[dir="rtl"] .book-menu-filetree input.toggle:checked + .book-menu-section-ro
       background: rgba(0, 0, 0, 0.55);
     }
   }
+
 }
 
 /* Category hub pages: year group titles (layouts/_default/single.html list_category). */
+.book-article .hub-year-jump {
+  display: flex;
+  gap: 0.55rem;
+  align-items: baseline;
+  margin: 1.25rem 0 1.5rem;
+  padding: 0.65rem 0;
+  overflow-x: auto;
+  border-top: 1px solid var(--gray-200);
+  border-bottom: 1px solid var(--gray-200);
+  font-size: var(--font-size-smaller);
+  scrollbar-width: none;
+  white-space: nowrap;
+}
+
+.book-article .hub-year-jump::-webkit-scrollbar {
+  display: none;
+}
+
+.book-article .hub-year-jump > span {
+  flex: 0 0 auto;
+  color: var(--gray-500);
+}
+
+.book-article .hub-year-jump > a {
+  flex: 0 0 auto;
+  font-variant-numeric: tabular-nums;
+  text-decoration: none;
+}
+
 .book-article .hub-year-heading {
   margin-top: 2rem;
   margin-bottom: 0.65rem;

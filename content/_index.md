@@ -12,7 +12,7 @@ title: 首页
 
 是的，我来自于重庆巫溪，离重庆主城很远；我家在巫溪的山上，离巫溪县城很远。
 
-<figure class="figure-with-caption">
+<figure class="figure-with-caption home-origin-figure">
 <img src="/images/wo_jia_de_shan.jpg" alt="在家中拍那冒烟的地方" loading="lazy" decoding="async" />
 <figcaption>在家中拍那冒烟的地方</figcaption>
 </figure>

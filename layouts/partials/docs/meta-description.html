@@ -1,0 +1,14 @@
+{{- $description := "" -}}
+{{- with .Params.description -}}
+  {{- $description = . -}}
+{{- else -}}
+  {{- if or .IsHome (eq .Kind "404") -}}
+    {{- $description = .Site.Params.description -}}
+  {{- else -}}
+    {{- $description = .Plain -}}
+  {{- end -}}
+{{- end -}}
+{{- $description = $description | plainify | htmlUnescape -}}
+{{- $description = replaceRE `\s+` " " $description | strings.TrimSpace -}}
+{{- $description = replaceRE `#\s+` " " $description -}}
+{{- return ($description | truncate 160) -}}

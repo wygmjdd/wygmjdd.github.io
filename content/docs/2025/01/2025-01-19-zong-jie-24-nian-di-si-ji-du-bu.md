@@ -1,7 +1,7 @@
 ---
 title: 24年第四季度，不再内耗之后
 date: '2025-01-19'
-weight: 277402849
+weight: 277392849
 primary_category: zong-jie
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486729&idx=1&sn=be797d2b644ae4f853a6f8c03f2e87e2&chksm=a6c761e491b0e8f28d62bf822bc56fd8ad1c3e2c69f06a89f079e9b4db86f2957cecc90b8fd0
 ---

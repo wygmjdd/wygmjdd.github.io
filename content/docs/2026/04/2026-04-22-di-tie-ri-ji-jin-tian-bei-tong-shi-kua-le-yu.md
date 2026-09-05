@@ -1,7 +1,7 @@
 ---
 title: 今天被同事夸了，于是内心充满快乐、骄傲以及感激
 date: '2026-04-22'
-weight: 277384551
+weight: 272814551
 primary_category: di-tie-ri-ji
 source_url: https://mp.weixin.qq.com/s/2QiexI4AEFPz8Xi7pa5W4w
 ---

@@ -1,7 +1,7 @@
 ---
 title: 六年·2800小时阅读记｜读书的坏处：偶尔的社交莽撞、疏离时事，以及阿妮的嫌弃
 date: '2026-09-05'
-weight: 271528056
+weight: 271458056
 primary_category: du-shu
 source_url: https://mp.weixin.qq.com/s/jxHrOxFiHlSaBRFFVK13iw
 ---

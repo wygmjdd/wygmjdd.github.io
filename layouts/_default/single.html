@@ -11,7 +11,14 @@
         {{ $pages = where $pages "Draft" "ne" true }}
         {{ $pages = where $pages "Params.bookHidden" "ne" true }}
         {{ if $pages }}
-          {{ range ($pages.GroupByDate "2006" "desc") }}
+          {{ $yearGroups := $pages.GroupByDate "2006" "desc" }}
+          <nav class="hub-year-jump" aria-label="按年份跳转">
+            <span>年份</span>
+            {{ range $yearGroups }}
+              <a href="#hub-year-{{ .Key }}">{{ .Key }}</a>
+            {{ end }}
+          </nav>
+          {{ range $yearGroups }}
             <h2 class="hub-year-heading" id="hub-year-{{ .Key }}">{{ .Key }}年<span class="hub-year-count">（{{ len .Pages }}）</span></h2>
             <ul>
               {{ range .Pages }}

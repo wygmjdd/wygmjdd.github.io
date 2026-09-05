@@ -4,19 +4,7 @@
 
   Category labels and order: data/categories.yml (list of slug / title).
 */}}
-{{ with site.Data.categories }}
-<div class="book-toc-custom">
-  <p class="book-toc-title">文章分类</p>
-  <ul>
-    {{ range . }}
-      {{ $catPages := where site.RegularPages "Params.primary_category" .slug }}
-      {{ $catPages = where $catPages "Draft" "ne" true }}
-      {{ $catPages = where $catPages "Params.bookHidden" "ne" true }}
-      {{ $n := len $catPages }}
-      <li>
-        <a href="{{ printf "/docs/hubs/%s/" .slug | relLangURL }}">{{ .title }}<span class="toc-category-count">（{{ $n }}）</span></a>
-      </li>
-    {{ end }}
-  </ul>
-</div>
+{{- $showCategoryIndex := partial "docs/show-category-index" . -}}
+{{ if $showCategoryIndex }}
+  {{ partialCached "docs/category-index" . .Site.Language.Lang }}
 {{ end }}

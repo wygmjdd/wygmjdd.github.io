@@ -1,7 +1,7 @@
 ---
 title: 李寻欢：会喝酒的人都知道，一个人若想快醉，最好的法子就是用酒来下酒，用黄酒来下白干
 date: '2025-06-10'
-weight: 276405778
+weight: 275975778
 primary_category: yue-du-shu-mu
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486991&idx=1&sn=a0b97519ba38f0f736ad840693bc8ff1&chksm=a6c762e291b0ebf4ced3a088684f2407f3828cfcef1a8f90d7e21c9c0d5c0b2fa7fca8680efa
 ---

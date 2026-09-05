@@ -1,7 +1,7 @@
 ---
 title: 坚持周更公众号三年又三个月，我终于有了1000位关注
 date: '2023-11-26'
-weight: 966704947
+weight: 281594947
 primary_category: zong-jie
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485837&idx=1&sn=3391a0dcd84711150b6d9403c0c6ef36&chksm=a6c7656091b0ec767ddf80f26ef450fa40a30d76f7c5f6fa13d6aa244ec2e628743ff02e3522
 ---

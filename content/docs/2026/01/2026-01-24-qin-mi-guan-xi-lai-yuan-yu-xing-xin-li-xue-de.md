@@ -1,7 +1,7 @@
 ---
 title: 来源于《性心理学》的对“美的观念”的总结
 date: '2026-01-24'
-weight: 275332728
+weight: 273692728
 primary_category: qin-mi-guan-xi
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487463&idx=1&sn=6785b76f5381605622381bc2dfe1999a&chksm=a6c7630a91b0ea1c9d21ee4248e4e9ce370d32d01665fde92f85d4f4d028a71b08cd7f467adc
 ---

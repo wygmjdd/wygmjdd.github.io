@@ -288,13 +288,15 @@ def slug_from_filename(name: str) -> str:
 
 
 def post_menu_weight(year: int, month: int, day: int, slug: str) -> int:
-    """Newer posts first (ascending menu order) with stable tie-break."""
+    """Newer posts first, keeping the tie-break inside one date bucket."""
     ordinal = date(year, month, day).toordinal()
     base = _MAX_POST_DATE_ORDINAL - ordinal
     tie = 0
     match = POST_NUM_RE.search(slug)
     if match:
-        tie = int(match.group(1))
+        # WeChat placeholder slugs may begin with a long numeric hash prefix.
+        # Keep it stable without allowing it to spill into an adjacent date.
+        tie = int(match.group(1)) % 10_000
     else:
         tie = day
     return base * 10_000 + tie

@@ -1,7 +1,7 @@
 ---
 title: 我是一个程序员
 date: '2020-12-06'
-weight: 308266175
+weight: 292446175
 primary_category: ji-shu-bo-ke
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483787&idx=1&sn=a657418b5975950148b4ec0dd252ede6&chksm=a6c76d6691b0e470448885a060ec0dc9d10ced49f486a5288179de6bd15a143168f2f36a5ab5
 ---

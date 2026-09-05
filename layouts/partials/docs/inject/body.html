@@ -10,3 +10,7 @@
   </noscript>
   <!-- End Google Tag Manager (noscript) -->
 {{- end -}}
+
+{{- with resources.Get "site-ui.js" | resources.Minify | resources.Fingerprint }}
+  <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+{{- end }}

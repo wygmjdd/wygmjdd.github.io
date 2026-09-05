@@ -1,7 +1,7 @@
 ---
 title: 读过的书会全部忘掉么？不会的，总有些会在生命中留下印记
 date: '2025-04-04'
-weight: 276992356
+weight: 276642356
 primary_category: sheng-huo-ri-ji
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486876&idx=1&sn=960a211dddbc07038358e5328e15ebce&chksm=a6c7617191b0e867ccc5d243e92df0378a3d31aa7a999e434f3e20fe0e902f8fd7b03e5cd427
 ---

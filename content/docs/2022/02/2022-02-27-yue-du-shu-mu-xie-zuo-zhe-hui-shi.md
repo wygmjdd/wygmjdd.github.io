@@ -1,7 +1,7 @@
 ---
 title: 《写作这回事》
 date: '2022-02-27'
-weight: 325470209
+weight: 287960209
 primary_category: yue-du-shu-mu
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484590&idx=2&sn=d88f469546d036c5c2b1768d3d3407ef&chksm=a6c7684391b0e155c97c622ba0738a3b31bc74d42fd8dbc147f68c14470fc32454714074b01f
 ---

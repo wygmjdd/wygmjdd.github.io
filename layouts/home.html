@@ -1,7 +1,87 @@
 {{ define "main" }}
-  <article class="markdown book-article">
+  {{- $posts := where site.RegularPages "Section" "docs" -}}
+  {{- $posts = where $posts "Params.bookHidden" "ne" true -}}
+  {{- $posts = where $posts "Draft" "ne" true -}}
+  {{- $recentPosts := first 4 (sort $posts "Date" "desc") -}}
+  {{- $featuredPost := false -}}
+  {{- $otherPosts := slice -}}
+  {{- if gt (len $recentPosts) 0 -}}
+    {{- $featuredPost = index $recentPosts 0 -}}
+    {{- $otherPosts = after 1 $recentPosts -}}
+  {{- end -}}
+  {{- $startYear := 2019 -}}
+  {{- if gt (len $posts) 0 -}}
+    {{- $oldestPost := index (sort $posts "Date" "asc") 0 -}}
+    {{- $startYear = $oldestPost.Date.Year -}}
+  {{- end -}}
+
+  <article class="markdown book-article book-home">
     <div class="markdown-inner">
-      {{- .Content -}}
+      <section class="home-overview" aria-labelledby="home-title">
+        <p class="home-overview__eyebrow">从 {{ $startYear }} 年开始的个人写作档案</p>
+        <h1 id="home-title">{{ .Site.Title }}</h1>
+        <p class="home-overview__lede">{{ .Site.Params.BookSubtitle }}</p>
+        <div class="home-overview__meta">
+          <span>{{ len $posts }} 篇文章</span>
+          <a href="{{ "/docs/" | relLangURL }}">按年月浏览</a>
+        </div>
+        <figure class="home-overview__visual">
+          <img
+            src="{{ "/images/wo_jia_de_shan.jpg" | relURL }}"
+            alt="从家中望向重庆巫溪的山"
+            width="1080"
+            height="608"
+            loading="eager"
+            fetchpriority="high"
+            decoding="async"
+          />
+          <figcaption>在家中拍那冒烟的地方</figcaption>
+        </figure>
+      </section>
+
+      {{ with $featuredPost }}
+      {{- $featuredCategory := "" -}}
+      {{- $featured := . -}}
+      {{- range hugo.Data.categories -}}
+        {{- if eq .slug $featured.Params.primary_category -}}
+          {{- $featuredCategory = .title -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $featuredSummary := .Plain | plainify | htmlUnescape -}}
+      {{- $featuredSummary = replaceRE `#\s+` " " $featuredSummary -}}
+      <section class="home-recent" aria-labelledby="home-recent-title">
+        <div class="home-section-heading">
+          <h2 id="home-recent-title">最近写作</h2>
+          <a href="{{ "/docs/" | relLangURL }}">全部文章</a>
+        </div>
+
+        <article class="home-featured">
+          <p class="home-featured__meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time>
+            {{ with $featuredCategory }}<span aria-hidden="true">·</span><span>{{ . }}</span>{{ end }}
+          </p>
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p class="home-featured__summary">{{ $featuredSummary | truncate 128 }}</p>
+          <a class="home-featured__more" href="{{ .RelPermalink }}">阅读全文<span aria-hidden="true"> →</span></a>
+        </article>
+
+        {{ if $otherPosts }}
+        <ol class="home-recent__list" aria-label="其他近期文章">
+          {{ range $otherPosts }}
+            <li>
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time>
+              <a class="home-recent__title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ol>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      <section class="home-about" aria-labelledby="home-about-title">
+        <h2 id="home-about-title" class="home-about__title">关于我</h2>
+        {{- .Content -}}
+      </section>
     </div>
   </article>
 {{ end }}

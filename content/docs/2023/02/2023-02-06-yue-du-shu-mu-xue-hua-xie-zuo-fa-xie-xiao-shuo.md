@@ -1,7 +1,7 @@
 ---
 title: 《雪花写作法》，写小说的公式
 date: '2023-02-06'
-weight: 284594583
+weight: 284524583
 primary_category: yue-du-shu-mu
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485320&idx=1&sn=41f030cc86c49b7739a151b10755db88&chksm=a6c76b6591b0e273c75330287ef6bb6277bfb301c1a6f9550996a37edb1cd5d4d1b2366ab761
 ---

@@ -1,0 +1,38 @@
+<div class="flex align-center justify-between">
+  {{- $showCategoryIndex := partial "docs/show-category-index" . -}}
+  <label
+    for="menu-control"
+    class="book-header-action"
+    role="button"
+    tabindex="0"
+    aria-controls="book-menu"
+    aria-expanded="false"
+    aria-label="{{ partial "docs/text/i18n" "Menu" }}"
+    data-book-menu-trigger
+  >
+    <img src="{{ partial "docs/icon" "menu" }}" class="book-icon" alt="" aria-hidden="true" />
+  </label>
+
+  <span class="book-header-title" title="{{ partial "docs/title" . }}">{{ partial "docs/title" . }}</span>
+
+  {{ if partial "docs/toc-show" . }}
+  {{- $tocLabel := cond $showCategoryIndex
+    (partial "docs/text/i18n" "Categories")
+    (partial "docs/text/i18n" "Table of Contents")
+  -}}
+  <label
+    for="toc-control"
+    class="book-header-action"
+    role="button"
+    tabindex="0"
+    aria-controls="book-mobile-toc"
+    aria-expanded="false"
+    aria-label="{{ $tocLabel }}"
+    data-book-toc-trigger
+  >
+    <img src="{{ partial "docs/icon" "toc" }}" class="book-icon" alt="" aria-hidden="true" />
+  </label>
+  {{ else }}
+  <span class="book-header-action" aria-hidden="true"></span>
+  {{ end }}
+</div>

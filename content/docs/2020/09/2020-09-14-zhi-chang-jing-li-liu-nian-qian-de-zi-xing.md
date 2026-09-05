@@ -1,7 +1,7 @@
 ---
 title: 六年前的自省
 date: '2020-09-14'
-weight: 3685117651
+weight: 293277651
 primary_category: zhi-chang-jing-li
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483673&idx=1&sn=208f90f93e78673cc8623dfaf0db43b7&chksm=a6c76df491b0e4e271b9872f9bdc6108ae70a24a4aa11261371dbfa8bb9847b1902781a1f305
 ---

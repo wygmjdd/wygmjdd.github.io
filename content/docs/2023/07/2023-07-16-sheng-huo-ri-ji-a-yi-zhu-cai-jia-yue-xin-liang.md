@@ -1,7 +1,7 @@
 ---
 title: 阿姨住蔡家，月薪两千八
 date: '2023-07-16'
-weight: 325900624
+weight: 282920624
 primary_category: sheng-huo-ri-ji
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485635&idx=1&sn=ce4aed928aa096106e9881687cb43323&chksm=a6c7642e91b0ed384cbf183ff9380cd7e160f17ef0d2c6cb8f65243bc208b2fbc72a6a016a30
 ---

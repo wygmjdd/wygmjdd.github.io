@@ -1,7 +1,7 @@
 ---
 title: 那些我尝试过的，成功的与不成功的
 date: '2021-08-01'
-weight: 290922603
+weight: 290062603
 primary_category: sheng-huo-ri-ji
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484213&idx=2&sn=a6caebfb28aa4d6f6991293223fa6944&chksm=a6c76fd891b0e6ceb38228d765c9b58afe7c76a629d07177c926f159ef1ee6f2cc87034b862d
 ---

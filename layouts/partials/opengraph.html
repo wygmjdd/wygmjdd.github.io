@@ -1,0 +1,29 @@
+{{- $description := partialCached "docs/meta-description" . .RelPermalink -}}
+{{- $title := .Title -}}
+{{- if .IsHome }}{{ $title = .Site.Title }}{{ end -}}
+{{- $isArticle := and .IsPage (eq .Section "docs") (not .Params.list_category) -}}
+{{- $type := cond $isArticle "article" "website" -}}
+{{- $locale := replace .Site.Language.Locale "-" "_" -}}
+{{- $image := .Site.Params.defaultSocialImage | absURL -}}
+
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:locale" content="{{ $locale }}">
+<meta property="og:type" content="{{ $type }}">
+{{- with $image }}
+<meta property="og:image" content="{{ . }}">
+{{- end }}
+
+{{- if $isArticle }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+{{- end }}
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+{{- with $image }}
+<meta name="twitter:image" content="{{ . }}">
+{{- end }}

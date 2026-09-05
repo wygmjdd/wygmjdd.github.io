@@ -10,6 +10,7 @@ from scripts.wechat.migrate_jekyll_to_hugo_book import (
     MarkdownPost,
     hugo_doc_filename,
     parse_date,
+    post_menu_weight,
 )
 
 
@@ -44,6 +45,14 @@ def test_hugo_doc_filename_truncates_long_titles_to_eight_chars() -> None:
         )
         == "2026-06-28-30-fen-zhong-ri-ji-de-zhi-lin-ju-jia-hai-zi-gao.md"
     )
+
+
+def test_post_menu_weight_keeps_hash_prefix_inside_date_bucket() -> None:
+    previous_day = post_menu_weight(2026, 9, 4, "post-30")
+    current_day = post_menu_weight(2026, 9, 5, "post-78056d2bdb")
+
+    assert current_day == 271_458_056
+    assert current_day < previous_day
 
 
 def test_parse_date_rejects_future_front_matter_date() -> None:

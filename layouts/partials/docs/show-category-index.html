@@ -1,0 +1,4 @@
+{{- return or
+  (eq .Kind "home")
+  (and (eq .Section "docs") (or .IsSection .Params.list_category))
+-}}

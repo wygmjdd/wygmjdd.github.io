@@ -1,0 +1,35 @@
+- id: Search
+  translation: 搜索文章
+
+- id: Menu
+  translation: 打开文章归档
+
+- id: Table of Contents
+  translation: 打开本文目录
+
+- id: Categories
+  translation: 打开文章分类
+
+- id: Backward
+  translation: 上一篇
+
+- id: Forward
+  translation: 下一篇
+
+- id: Logo
+  translation: 站点标志
+
+- id: Edit this page
+  translation: 编辑本页
+
+- id: Last modified by
+  translation: 最后修改者
+
+- id: bookSearchConfig
+  translation: |
+    {
+      encode: false,
+      tokenize: function(str) {
+        return str.replace(/[\x00-\x7F]/g, '').split('');
+      }
+    }

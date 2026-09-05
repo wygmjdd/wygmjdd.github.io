@@ -1,7 +1,7 @@
 ---
 title: 读《以慢制胜：钟睒睒的长期主义经营哲学》
 date: '2024-07-26'
-weight: 282512637
+weight: 279162637
 primary_category: yue-du-shu-mu
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486354&idx=1&sn=ae8789a45ab50e57f5de0925ec8d7d34&chksm=a6c7677f91b0ee692c2d3639453c4ead26ca011ad699ee805c7969b16e24a5dd7ea96e8bf496
 ---

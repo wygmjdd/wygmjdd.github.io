@@ -1,7 +1,7 @@
 ---
 title: 《代码整洁之道》
 date: '2022-07-11'
-weight: 287000904
+weight: 286620904
 primary_category: yue-du-shu-mu
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484927&idx=1&sn=ce02a58b0deb671607175c7e339b1bb9&chksm=a6c7691291b0e00469fb728f870522c758baab6d8754acdc8a4a59e1429e3939c109d5221742
 ---

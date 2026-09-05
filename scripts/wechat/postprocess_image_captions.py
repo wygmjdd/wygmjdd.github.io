@@ -41,6 +41,8 @@ def line_to_figure(line_core: str) -> tuple[str, bool]:
     caption = m.group("caption").strip()
     if not caption:
         return line_core, False
+    if alt.strip() in {"", "图片"}:
+        alt = caption
 
     alt_attr = html.escape(alt, quote=True)
     src_attr = html.escape(url, quote=True)

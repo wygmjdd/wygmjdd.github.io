@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ default .Site.Language.Lang .Site.LanguageCode }}" dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
+<html lang="{{ default .Site.Language.Lang .Site.Language.Locale }}" dir="{{ default "ltr" .Site.Language.Direction }}">
 <head>
   {{ partial "docs/html-head" . }}
   {{ partial "docs/inject/head" . }}
 </head>
-<body dir="{{ default "ltr" .Site.Language.LanguageDirection }}" class="book-kind-{{ .Kind }} book-type-{{ .Type }}{{ with .Layout }} book-layout-{{ . }}{{ end }}">
-  <input type="checkbox" class="hidden toggle" id="menu-control" />
-  <input type="checkbox" class="hidden toggle" id="toc-control" />
+<body dir="{{ default "ltr" .Site.Language.Direction }}" class="book-kind-{{ .Kind }} book-type-{{ .Type }}{{ with .Layout }} book-layout-{{ . }}{{ end }}">
+  <a class="book-skip-link" href="#book-main-content">跳到正文</a>
+  <input type="checkbox" class="hidden toggle" id="menu-control" aria-hidden="true" tabindex="-1" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" aria-hidden="true" tabindex="-1" />
   <main class="container flex">
     {{ template "menu-container" . }} <!-- Left menu -->
 
-    <div class="book-page">
+    <div class="book-page" id="book-main-content" tabindex="-1">
       <header class="book-header hidden">
         {{ template "header" . }} <!-- Mobile layout header -->
       </header>
@@ -27,7 +28,7 @@
         {{ template "clipboard" . }}
       </footer>
 
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
+      <label for="menu-control" class="hidden book-menu-overlay" aria-hidden="true"></label>
       <label for="toc-control" class="hidden book-toc-overlay" aria-hidden="true"></label>
     </div>
 
@@ -39,7 +40,7 @@
 </html>
 
 {{ define "menu-container" }}
-<aside class="book-menu">
+<aside class="book-menu" id="book-menu">
   <div class="book-menu-content">
     {{ template "menu" . }}
   </div>
@@ -54,7 +55,7 @@
   {{ partial "docs/header" . }}
 
   {{ if partial "docs/toc-show" . }}
-  <aside class="hidden book-mobile-toc-drawer">
+  <aside class="hidden book-mobile-toc-drawer" id="book-mobile-toc" role="dialog" aria-modal="true" aria-label="页面导航">
     {{ template "toc" . }}
   </aside>
   {{ end }}
@@ -95,7 +96,7 @@
 
 {{ define "toc-container" }}
   {{ if partial "docs/toc-show" . }}
-  <aside class="book-toc">
+  <aside class="book-toc" id="book-toc">
     <div class="book-toc-content">
       {{ template "toc" . }}
     </div>

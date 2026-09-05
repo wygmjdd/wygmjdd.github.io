@@ -1,7 +1,7 @@
 ---
 title: 关于写作的摘抄 ｜ 《写出我心：普通人如何通过写作表达自己》
 date: '2024-05-04'
-weight: 284705906
+weight: 279995906
 primary_category: shu-zhong-jin-ju-fen-xiang
 source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486207&idx=1&sn=96664b9c7ac856f3c79f91f7adda9066&chksm=a6c7661291b0ef047ff7f828c942382e525cac9e79df92c35c7d94260553101f66a45dadb689
 ---
