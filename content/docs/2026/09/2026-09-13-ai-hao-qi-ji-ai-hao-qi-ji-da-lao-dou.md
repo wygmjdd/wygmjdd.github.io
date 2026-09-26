@@ -117,6 +117,6 @@ https://openai.com/index/an-alien-mind/
 
 > 现在很多公司内部的流程、架构或者平台，是可以把AI加入做提效的，但如何加入AI是一个很复杂工作，于是需要一个专有角色来做这件事情，这个角色就是FDE。
 
-\--
+--
 
 好啦，本周的整理先到此处。依然耗费近3小时，过程中有感受到心流。 <small>（<a href="https://mp.weixin.qq.com/s/VRmFrbwJcD2gJ15jMGm2uw" rel="noopener noreferrer">原文链接</a>，更新于2026-09-13。）</small>
