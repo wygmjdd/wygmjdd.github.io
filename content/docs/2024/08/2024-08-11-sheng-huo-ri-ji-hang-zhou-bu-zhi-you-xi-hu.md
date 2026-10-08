@@ -7,7 +7,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486386&idx=
 ---
 我没想到会这么快再生出分享欲来赞美杭州。这分享欲来源于杭州地铁，来源于杭州地铁上热情英气的工作人员。
 
-\--
+--
 
 今天和阿妮一起从杭州回重庆，火车东站上车后，阿妮在地铁上手滑（已经不记得是否被其它人轻轻撞到一下手臂）将手机掉到地板上，手机在地板上大概躺两秒，再滑进地铁与站台缝隙之间。
 
@@ -62,6 +62,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486386&idx=
 
 我带着对陌生小姐姐与地铁站工作人员的感激，在地铁上记下捡手机这件事。
 
-\--
+--
 
 杭州，不止有西湖，更有热情热心的人。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486386&amp;idx=1&amp;sn=8623c895aea3e45caed7dde2d4bab6a5&amp;chksm=a6c7675f91b0ee49274dd9c5afeeb02b8d82810d42db46954706653933cbe8339507c6e4724a" rel="noopener noreferrer">原文链接</a>，更新于2024-08-11。）</small>

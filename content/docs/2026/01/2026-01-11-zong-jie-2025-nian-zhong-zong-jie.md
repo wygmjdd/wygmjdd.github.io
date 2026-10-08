@@ -46,7 +46,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 《额尔古纳河右岸》于我，也是一条给予我宁静安静前行的河。
 
-\--
+--
 
 电影《教父》，我大概（已经列举不出来具体的观看时间）完整看过两到三遍。今年想到这件事当时，将《教父三部曲》加入书架并一鼓作气看完《[教父一](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486863&idx=1&sn=5de859212a7ade9ee3dbc2c747c70a93&scene=21#wechat_redirect)》。
 
@@ -54,7 +54,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 看完《教父一》快一年，二三还一直不看，我现在脑子中的印象是：对于《教父》来说，电影会比小说更有韵味；我猜原因大概是小说太长而我看的太快。
 
-\--
+--
 
 《[活着](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486946&idx=1&sn=ec5abb657f9070a26059a051008ae16a&scene=21#wechat_redirect)》，是我听过好多好多次的小说，我一直不看，直到25年5月。
 
@@ -66,11 +66,11 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 读完书，情绪不再，我从书中感受到一种超然于悲剧之外的韧劲：那些悲剧的间隙，富贵是幸福的；悲剧发生悲伤过后，富贵依然活着。
 
-\--
+--
 
 《[长安的荔枝](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487041&idx=1&sn=73f32f2ff37e643ca45ec7e228aeef61&scene=21#wechat_redirect)》是一个小但很完整的故事，中年男人并不逆袭，只认识自己本心之后依然依着自己本心行事。
 
-\--
+--
 
 16年立下大志愿说将金庸、古龙、梁羽生、黄易、琼瑶的小说统统看完，这志愿大概执行一半后停下来。金庸、古龙被我看完，梁羽生、黄易、琼瑶大概都只看五分之一不到便停下来。
 
@@ -106,7 +106,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 通过史著（史学家写的著作，如《史记》）、史料（出土的文物文献）推理史真（真实的历史当中发生的事情）的过程，真让人欲罢不能。
 
-\--
+--
 
 《[五代十国全史](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486916&idx=1&sn=a182c454037a9de9fc5638381f3519b6&scene=21#wechat_redirect)》，是一部很长很长的历史书，书中内容如书名，讲的是上承唐下启宋的五代十国。
 
@@ -114,7 +114,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 半年之后——即现在，我依然认为五代十国是中国史上最乱的几十年，历事五朝八姓十一君的冯道就是活人无数的圣人。
 
-\--
+--
 
 《[未来简史](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486986&idx=1&sn=16b589de93837640f234e24d8ed9ac78&scene=21#wechat_redirect)》是继《[人类简史](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486458&idx=1&sn=5f6d0b5fbe7407980ab4eeda84d2511b&scene=21#wechat_redirect)》之后，我再听完的一本书。
 
@@ -126,7 +126,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 我呀，也想自家门前有一块草坪。
 
-\--
+--
 
 《苏东坡新传》，是另外一本读好几年，持续在读，并不放弃且自己明确肯定会读完的一本长书。东坡的人生，只属于三百年宋朝的一部分；东坡，只是宋朝名人当中的一个；东坡的词，也只是宋朝文脉一隅。
 
@@ -148,7 +148,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 有些巧合的是，我25年最后一篇笔记也来自于《[初老的女人](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487424&idx=1&sn=3133242fda8f1a1d1661734fb68f7bbc&scene=21#wechat_redirect)》，它是宁静的继续。
 
-\--
+--
 
 《[我曾走在崩溃的边缘](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487166&idx=1&sn=45fcc533f4dbe9a1d3799a0d85e43d6c&scene=21#wechat_redirect)》，是俞敏洪老师也是新东方的发展史。如果想要真正收获些关于创业的认知，我以为俞老师的文字当中是拥有干货的：
 
@@ -158,13 +158,13 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 而对于公司来说，将蛋糕做大，是必须做的事情。做大蛋糕的方法有二，一是像个体一样在自我技能上的的持续迭代，二是寻找新的发展突破点。
 
-\--
+--
 
 《[我的老师沈从文](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487330&idx=1&sn=ae49ac0abf9984c051faf259660b148a&scene=21#wechat_redirect)》，有在西南联大教书的沈从文，有不喜欢打牌的沈从文，有喜欢收藏美术品的沈从文，有沈从文的朋友，还有沈从文的教育理念——耐烦与尊重。
 
 汪曾祺先生对沈从文先生说：“您是一位抒情的人道主义者。”
 
-\--
+--
 
 今年的前面部分，断断续续花9小时读完了《[瓦尔登湖](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487405&idx=1&sn=b29454f463aae06415b5ae802f408f0b&scene=21#wechat_redirect)》，读完这本书之后，我所拥有的感受简单些说，大概有这样的几条：
 
@@ -186,13 +186,13 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 行为主义的研究，是值得做的。现在这一刻我想起来的是，行为的改变确实会影响且改变个体的认知。
 
-\--
+--
 
 《[幸福的勇气](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487071&idx=1&sn=3d0c48bc4da1dff0a391491be629c097&scene=21#wechat_redirect)》和《[甘于平凡的勇气](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487091&idx=1&sn=ff194b8ee00e41475b09cfe1419dcee4&scene=21#wechat_redirect)》略过不提，它们是为满足我好奇心——《[被讨厌的勇气](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484942&idx=1&sn=c18bf5e524fa8369d035f66f158c3e50&scene=21#wechat_redirect)》之后是什么呢——而逼着自己读完的两本书。
 
 逼自己看书的后果，是看完后书中内容一点都不记得，只记得自己看过。
 
-\--
+--
 
 内耗这件事，我曾经进入过某种极端状态：不远处的陌生人低声谈话，我都以为他们正在贬低从旁边路过的我。我会看看自己的鞋、看看自己的裤子、看看自己的肚子，再摸摸自己的头发，我开始担心自己是否哪里不够体面。
 
@@ -220,7 +220,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 “喜欢自己”这状态，借助《[十分钟冥想](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487051&idx=1&sn=338d1d2c99fbfa7377c402322b98534d&scene=21#wechat_redirect)》的帮助极多。
 
-\--
+--
 
 《[无条件养育](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487003&idx=1&sn=d0f5fdd5d3d7292d0aaeca0de2e61d10&scene=21#wechat_redirect)》是老周——一位儿子已经上初中的父亲——在我离开广东时向我推荐的，我在两年内不看它，直到25年阅读《心理学与生活》时再想起。
 
@@ -238,7 +238,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 即便自己将技术书的阅读优先级降低许多，但我以为《编码》依然是值得未读过《编码》读者花时间阅读的一本科普书籍，特别是计算机相关专业的学生们。
 
-\--
+--
 
 《[人体简史](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487057&idx=1&sn=c18d4c7dd1846a64696d701dc8bfcd72&scene=21#wechat_redirect)》是一本介绍全身器官的很赞的书，书中所给予我的认知很多很多（许多内容想不起来、我想将纸质书买回家来）。
 
@@ -250,7 +250,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487453&idx=
 
 健康生活方式可概括为：饮食均衡、少吃加工食品和有害脂肪，坚持规律运动，保持健康体重，保证充足睡眠，远离烟草与过量酒精，以及在日常细节中培养长期可持续的健康习惯。
 
-\--
+--
 
 我曾经将人民文学出版社出版的《[鲁迅全集](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486998&idx=1&sn=d8f07952f1c77324f600f90ea758fcab&scene=21#wechat_redirect)》加入书架并置顶（它现在依然是我的置顶书籍，但已经好久不看），每天的上班地铁，我都花上十几二十分钟往后读一读。
 

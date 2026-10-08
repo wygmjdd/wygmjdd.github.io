@@ -7,7 +7,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484505&idx=
 ---
 元旦假期最后一天，出发深圳之前，睡了一个晚晚午觉，飞机上，精神很好。飞机上的两小时，记录下当时碰见的陌生人们。
 
-\--
+--
 
 安检口，排我前面的，是一位背两个包的大哥成贵。
 
@@ -27,7 +27,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484505&idx=
 
 我不确定是否听错，只不再往后瞧。
 
-\--
+--
 
 登机完毕，飞机即将起飞。
 

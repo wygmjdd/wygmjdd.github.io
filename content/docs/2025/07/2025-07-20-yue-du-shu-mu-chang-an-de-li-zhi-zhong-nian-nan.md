@@ -19,7 +19,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487041&idx=
 
 这力量又衍生出一种希望，我想自己，在未来某一天，或许也能像作者一样，以很快的速度，写出一本自己满意的完整作品。对的，即便自己现在，是一本完整作品都没有的。
 
-\--
+--
 
 唐玄宗李隆基是中国历史上有名的皇帝，他的出名，除开元盛世之外，还有他和杨贵妃的爱情。李隆基为博得贵妃一笑，特为她“采购”新鲜荔枝。
 
@@ -49,6 +49,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487041&idx=
 
 能够放下权富，只为自己念头通达活得清爽，可并非一件易事；中年男人李善德并未逆袭，但明白活着。
 
-\--
+--
 
 看完本书不久，和同事一起下班，我们之间，又多出一点谈资：“我觉得主角最后到岭南种荔枝这结局，很不错啊，刚好避开安禄山起兵。丹荔没吃过，但肯定好吃的。” <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487041&amp;idx=1&amp;sn=73f32f2ff37e643ca45ec7e228aeef61&amp;chksm=a6c762ac91b0ebba9e5038a09e6e7521e02fcd4bbfa1393bf9136c7a586c691a461c86c5aa6f" rel="noopener noreferrer">原文链接</a>，更新于2025-07-20。）</small>

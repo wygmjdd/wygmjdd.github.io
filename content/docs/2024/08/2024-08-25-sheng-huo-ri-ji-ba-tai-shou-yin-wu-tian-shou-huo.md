@@ -23,7 +23,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486420&idx=
 
 “好的。要再来点饮料么？”
 
-\--
+--
 
 坐吧台那些天，和好些位客人不止“商务沟通”，也普普通通聊聊天。喜欢和我聊天的，年龄都不太大。
 
@@ -39,7 +39,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486420&idx=
 
 小哥面条只吃两口便拿着可乐离开：“电够了。我太高兴了，吃不下。哈哈，我先走了。再见，老板。”
 
-\--
+--
 
 “老板，我要打包两份面条。”
 
@@ -55,7 +55,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486420&idx=
 
 “哈哈，姐姐真的给了我50，太好啦。老板，钱已经付啦。”
 
-\--
+--
 
 某天下午，大概是某个打包盒盖不小心坏掉溅到提前打好作料的两个面碗，被两位客人先后吃到。
 
@@ -67,6 +67,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486420&idx=
 
 两位客人以相同的不耐语气表达不再追究。
 
-\--
+--
 
 原来当“老板”，是这样的感觉。要拥有超强执行力——任务都是自己布置给自己的，要拥有超强耐力，还要照顾客人的情绪。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486420&amp;idx=1&amp;sn=f200445b1ded4d3b2f48594fc0b4b625&amp;chksm=a6c7673991b0ee2f952961312a16237aef36bc854744b3a1403e9912150871da396479099125" rel="noopener noreferrer">原文链接</a>，更新于2024-08-25。）</small>

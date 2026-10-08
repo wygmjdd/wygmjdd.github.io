@@ -11,7 +11,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487078&idx=
 
 邀约失败，那就下次。
 
-\--
+--
 
 五点下班，我约上花生阿秋吃晚饭，宝帅阿琳不来：“好不容易出来一趟，玩晚些回去。晚上减肥，只吃水果。”
 
@@ -33,7 +33,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487078&idx=
 
 “这样嘛，我们将决定权交给宝儿，看他啷个说，如果他们来的话，我们就去唱歌，如果不来，就各自回家。”
 
-\--
+--
 
 我感觉自己已经明显吼不动，便问花生宝帅是否会玩骰子。
 
@@ -57,7 +57,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487078&idx=
 
 今晚，每一把都做5个。
 
-\--
+--
 
 KTV有三个话筒。
 
@@ -118,6 +118,6 @@ KTV有三个话筒。
 
 《算你狠》，是我们高中时常常乱吼的歌，昨夜乱吼依旧。
 
-\--
+--
 
 久不晚睡的我依然在7点醒来，试着听书养神但做不到专注，于是将昨天下班后的部分场景，搬运至此。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487078&amp;idx=1&amp;sn=64c9984ef52891bf8a0b1564fc7264ba&amp;chksm=a6c7628b91b0eb9ddb226ceb685a1e219b30c46bd11947d48c1ba70d5c76d5d3574c06b4dc91" rel="noopener noreferrer">原文链接</a>，更新于2025-08-17。）</small>

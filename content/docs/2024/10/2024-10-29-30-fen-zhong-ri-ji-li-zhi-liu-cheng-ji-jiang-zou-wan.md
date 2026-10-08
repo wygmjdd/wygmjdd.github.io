@@ -31,7 +31,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486564&idx=
 
 就像今天办的这些事情一样，前几天对离职流程不顺利的担忧（即便有些轻），是不太必要的。一切，都在我真正去做去走动去“三番五次”后得到解决。
 
-\--
+--
 
 今日份成功日记：
 
@@ -44,7 +44,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486564&idx=
 
 
 
-\--
+--
 
 今日份感恩日记：
 

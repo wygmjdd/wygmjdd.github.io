@@ -23,7 +23,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486534&idx=
 
 现在，老詹的儿子，也在NBA打球了，他们相差20岁。
 
-\--
+--
 
 今年以来，每次给母亲电话，她总在不经意间提一句“该要得娃儿了啊”。很诚实地说，一句话听的次数过多总会生出抵触情绪，我总对母亲说：“我国人晓得啊。”
 
@@ -39,7 +39,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486534&idx=
 
 我追问自己的内心，是有必要的，我很好奇，那种全身心陪着别人成长的感觉，是怎样的。
 
-\--
+--
 
 今日份成功日记：
 
@@ -51,7 +51,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486534&idx=
 
 
 
-\--
+--
 
 今日份读书：
 

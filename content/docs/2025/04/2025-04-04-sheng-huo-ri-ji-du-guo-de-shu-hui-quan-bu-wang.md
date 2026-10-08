@@ -15,7 +15,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486876&idx=
 
 我在答题当时，就已经有了搬运念头，于是有了本篇。以下，是昨天的答案加上今天的补充。
 
-\--
+--
 
 翻阅自己的阅读经历，我发现有这样一些书这样一些内容是一直在脑子中盘旋的。基于这种盘旋，我想它们对我的行为与想法，是肯定是一直在产生影响的。借此机会在此处做一次汇集。
 
@@ -75,7 +75,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486876&idx=
 
 对的，持续阅读和写作，只是我的一种爱好，是我玩的一种人生养成游戏而已。
 
-\--
+--
 
 再读一遍本文时，有想到《[宝贵的人生建议](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486071&idx=1&sn=4aacbe10662555f68f3fedc27f0a11b8&scene=21#wechat_redirect)》中的一条建议：
 

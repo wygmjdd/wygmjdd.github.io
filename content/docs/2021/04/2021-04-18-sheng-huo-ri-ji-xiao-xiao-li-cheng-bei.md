@@ -9,7 +9,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484000&idx=
 
 这是一个小小的里程碑。
 
-\--
+--
 
 “分享自己经历”的念头，起源于[毕业季不好好找工作](http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247483716&idx=1&sn=6e1140e74e6d9cc935dd878307c62d54&chksm=a6c76da991b0e4bf2a7d233843a8d19892ddd9170300ef8b4e97f5b9ee444b0a2c735cbe0292&scene=21#wechat_redirect)的惨痛经历。最初的网站，因执行力不强而被搁置。去年，忽然的，不知道缘由，我相信自己可以坚持下去，于是重新开始，做公众号。
 
@@ -50,7 +50,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484000&idx=
 
 放下执念的过程中，我渐渐意识到，最大的收益会是：自我认知的提升。
 
-\--
+--
 
 对于本周的更新，我是很有一些忐忑的。这是一篇阶段性总结，也是一封感谢信。
 

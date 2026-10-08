@@ -33,7 +33,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486523&idx=
 
 由此，我在今日份日记中记录下续保这件事。
 
-\--
+--
 
 今天已经确定离职流程该如何走，于是不再担心离职会被卡。于是内心多出些宽恕情绪，对的，是“宽恕”，宽恕别人同时，也解放自己的内心，只是那情绪只在下午两小时展现。现在呢？现在的我描述不出那情绪，只记得当时自己有简单想一想为什么会感受到些许轻松。
 
@@ -45,7 +45,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486523&idx=
 
 是啊，我并没有不同，我为什么受不了呢？我不确定自己是否能够想清楚，随着离开的日子越来越近，我好像越来越不想想这个问题。
 
-\--
+--
 
 今日份成功日记：
 
@@ -57,7 +57,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486523&idx=
 
 
 
-\--
+--
 
 今日份感恩日记：
 
@@ -67,7 +67,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486523&idx=
 
 
 
-\--
+--
 
 今日份读书：
 

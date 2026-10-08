@@ -7,7 +7,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=
 ---
 今天是2024年11月的第一天，也是我第六份工作的最后一天。现在时间是晚上的10点26分，已经洗漱完毕的我决定完成早上的想法：将在这公司的最后一天做一个小小记录，记录下自己的心境变化。
 
-\--
+--
 
 早上是被闹钟叫醒的，这证明我昨晚睡得不错。我不确定是自己已经可以做到一切沉稳还是对离职并无太大忧虑，总之，睡得很好说明自己今天状态还不错。
 
@@ -25,7 +25,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=
 
 上午，我并未将这情绪向外诉说，它们消散（或者是隐藏？）在我办理后续离职的过程中。
 
-\--
+--
 
 我站在人力服务台，我面前的工作人员，一位男士，一位女士。处理我离职事宜的，是女士，她有一张瘦长脸，着青色牛仔外套，头发披着。她不爱笑。
 
@@ -45,13 +45,13 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=
 
 出现在人力服务台之前，我先找好几位，帮我签字盖章。
 
-\--
+--
 
 拿到离职证明，和新公司确认一下入职流程。我的心，慢慢变得平静。
 
 午饭，是和好几位同事一起吃的。
 
-\--
+--
 
 今天阿妮给我的执行力做了评分：“如果满分是100分的话，大概可以给打70分。因为你有时候也会不自律啊，你刷短视频也刷的挺多的。”
 
@@ -63,7 +63,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=
 
 晚上的时间，陪阿妮也陪自己，直到10点。是放松。
 
-\--
+--
 
 今日份成功日记：
 
@@ -75,7 +75,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=
 
 
 
-\--
+--
 
 今日份感恩日记：
 
@@ -87,7 +87,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=
 
 
 
-\--
+--
 
 今日份读书：
 
@@ -96,6 +96,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486574&idx=
 
 
 
-\--
+--
 
 时间已到晚上11点31分。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486574&amp;idx=1&amp;sn=40b24c63ebbb7fcff4c47803887a34a0&amp;chksm=a6c7608391b0e9956858550d52e1fdc63de51179ea9e60e1f7b5f8abe83265f7a116a888064b" rel="noopener noreferrer">原文链接</a>，更新于2024-11-01。）</small>

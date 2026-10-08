@@ -13,7 +13,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487399&idx=
 
 这些文字中大部分内容，都关于最近的读书。
 
-\--
+--
 
 其实“所有书读完都会忘记”这件事对我来说，是一个完完全全真命题。
 
@@ -35,7 +35,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487399&idx=
 
 当看书变多，每天看书就只是一件自然事情，与能否记住毫无关系。我啊，只是去看就好。
 
-\--
+--
 
 现在时间是周六晚上的9点16分，已经洗漱完毕的我正坐在沙发上写本篇回答。我想说的是，我以为现在的自己，就是幸福的。
 
@@ -63,7 +63,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487399&idx=
 
 看过剧洗过碗再洗过澡只等睡觉，在客厅暖和灯光下，我感觉现在的自己，是幸福的。
 
-\--
+--
 
 落叶所给予我的感受，有两种，一是温暖，一是美。
 
@@ -83,7 +83,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487399&idx=
 
 于是落叶于我的第二感受，是美。
 
-\--
+--
 
 这个问题，现阶段——年龄34岁又2个月，持续阅读5年又2个月——的我有一点属于自己的思考。
 
@@ -101,7 +101,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487399&idx=
 
 现在的我，以为认识自己之后再继续做自己，也是重要的。然后听从内心声音，不忘记“成为更好的自己”。
 
-\--
+--
 
 前段时间每天下班路上听的书是《资治通鉴·百家讲坛》，大概是内容收录的有些问题，在第二遍听到赵武灵王时产生些厌倦情绪，这情绪稍微放大些化作换书的动机。
 
@@ -127,7 +127,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487399&idx=
 
 故事正展开着……
 
-\--
+--
 
 10年还没有，大量也不算，但最近五年多以来，是真的有每天都看书的，日均时长接近一个半小时，累计读完接近130本书。
 
@@ -157,6 +157,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487399&idx=
 
 “我知道自己做不到，但，我接受自己的做不到”，是我意识到的读书所给予我的最大改变。
 
-\--
+--
 
 读完近期的记录，我想自己当今的认知核心，依然是“听从自己内心的声音，然后做真实的自己”。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487399&amp;idx=1&amp;sn=69368aa4f5eb4d1b7e8f640ca03b4971&amp;chksm=a6c7634a91b0ea5ce16667125ecde141966b791b8ec701d2fa7acc30070fa06fe11ecd02c7f3" rel="noopener noreferrer">原文链接</a>，更新于2025-11-22。）</small>

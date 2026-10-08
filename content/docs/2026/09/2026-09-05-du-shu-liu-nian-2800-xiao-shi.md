@@ -45,6 +45,6 @@ Leader回应说：“没事儿，我待会儿请大家就好。”
 
 我记得自己，确实偶尔会“卖弄”还记得的书中内容，确实偶尔会想要指出更好的（或许仅仅是我以为的）行为方式，这确是不好的。
 
-\--
+--
 
 以上，是目前我所察觉到的由读书带来的三点坏处，它们都体现于社交当中。 <small>（<a href="https://mp.weixin.qq.com/s/jxHrOxFiHlSaBRFFVK13iw" rel="noopener noreferrer">原文链接</a>，更新于2026-09-05。）</small>

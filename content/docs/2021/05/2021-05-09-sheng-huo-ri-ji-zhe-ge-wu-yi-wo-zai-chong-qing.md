@@ -19,7 +19,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484063&idx=
 
 （如果觉得抢房过程太长，烦请直接看最后面的总结，三句话说完。![图片](/images/wechat/5bed061d6935/002.png)）
 
-\--
+--
 
 二号早早起床，学叔将我们带到渝北康田宸樾售楼部，这个楼盘，今天开盘。
 

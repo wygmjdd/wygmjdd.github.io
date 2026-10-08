@@ -119,6 +119,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485665&idx=
 
 我目前的追求是获得“连续阅读1000天”勋章，为这目标，我已经在《微信读书》连续阅读343天，再过三周，则满一年。
 
-\--
+--
 
 重度使用《微信读书》近一年，它成了我最喜欢的APP。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485665&amp;idx=1&amp;sn=2ba43f2b059aa24428e017f4da165e4d&amp;chksm=a6c7640c91b0ed1af51822cf5b836891577249372e4a2d4c9e4ff1c9716dcc33f681327f93d4" rel="noopener noreferrer">原文链接</a>，更新于2023-08-06。）</small>

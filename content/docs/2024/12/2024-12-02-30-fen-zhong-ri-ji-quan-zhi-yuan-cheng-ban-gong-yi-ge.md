@@ -36,7 +36,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486656&idx=
 
 不，首先是，将“[读完100本书后我的改变](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486633&idx=1&sn=cc765527fab08d7f7aa67259ce095ed5&scene=21#wechat_redirect)”写完。（11月18日。）
 
-\--
+--
 
 这篇日记是第二天早上补的。
 
@@ -75,7 +75,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486656&idx=
 
 在当时，我真正感受到AI的力量：“太帅了！我怎么没有早一些将它们用起来呢？”
 
-\--
+--
 
 去年生日，阿妮给我转500块钱作为生日礼物。我当时很想将我的小米手环5换成最新版本的手环，我并不换，内心活动大概是这样的：“换一个吧，不贵的；不要，它还能用，为什么要换呢？”
 
@@ -85,7 +85,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486656&idx=
 
 总之，我花411块钱买了一个当下最新的小米手环9Pro，它现在安静待我左手手腕上。使用超3天，我依然很喜欢它。
 
-\--
+--
 
 今晚的睡觉时间超过11点十分钟。
 

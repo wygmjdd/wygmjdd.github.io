@@ -128,6 +128,6 @@ OpenAI新模型的发布，也极其关注安全性。6的效率，总是比5.6�
 
 当前OpenAI推荐的模型操控方式，已经落地为语音控制。或许现在的依然用手打字，已经落后了？
 
-\--
+--
 
 好啦，本周两小时（真实耗时超过3小时）到此为止，我们下周再见。 <small>（<a href="https://mp.weixin.qq.com/s/dEJtG8UkjYrnm8wA-vE-EA" rel="noopener noreferrer">原文链接</a>，更新于2026-09-06。）</small>

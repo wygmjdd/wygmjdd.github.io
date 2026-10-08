@@ -7,7 +7,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 ---
 我不想放弃自己的地铁日记系列，于是将两三个月前的记录搬运至此，它们记于[再次沉迷《皇室战争》](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487161&idx=1&sn=97d19115b91dc5cb47e57f621e5cb537&scene=21#wechat_redirect)之前。
 
-\--
+--
 
 三年前，大白鹅在我的推荐下买过一双白鞋。
 
@@ -29,7 +29,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 我边走边吃，头顶是雨声、耳朵里是书声，路走一半，我将耳机取下，只专注脚下灰鞋，以及头顶雨声。
 
-\--
+--
 
 最近的读书，大概只能算是中规中矩。
 
@@ -46,7 +46,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 肯定不同，但当我想要理解更多些的时候，脑子混沌一片。
 
-\--
+--
 
 还是应该写一写现在的状态。
 
@@ -84,7 +84,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 我现在在长江上面，长江两岸的风景很好看。
 
-\--
+--
 
 我在周三，就已经盼着周五到来。我在周五下午三点，已经在跟同桌说距离下班还剩两小时三十七分钟。
 
@@ -114,7 +114,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 我想自己，有些想念母亲。
 
-\--
+--
 
 现在时间是晚上的9点32分，今天准时下班，和两个小朋友一起。是的，我以为刚毕业的大学生即便拥有研究生学历，也还算是小朋友。
 
@@ -146,7 +146,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 啊哈啊哈，真好吃呀。
 
-\--
+--
 
 现在时间是晚上的9点24分，地铁已经坐了一半，正阅读《开始冥想》的我决定先不读书，且先记下今天的日记。
 
@@ -178,7 +178,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 我想自己啊，很睿智。大概一年前的一篇读书笔记标题是：“[《真实的幸福》，找一份可以将之转换为事业的工作。](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486275&idx=1&sn=b9f3fc63413a4ffffb467f60c82ed769&scene=21#wechat_redirect)”
 
-\--
+--
 
 昨晚我是很想很想写一篇日记的。
 
@@ -210,7 +210,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 晚上发版，一切顺利。
 
-\--
+--
 
 现在时间是晚上的9点31分，不，已经到了32分，我已坐了一站地铁。
 
@@ -228,7 +228,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 我喜欢简单，于是喜欢这新的背单词APP。
 
-\--
+--
 
 羊排是表妹去年快过年时送我的，一直放冰箱没吃，上周阿妮说想要我每周都做一个“拿手菜”，今天周六答应同事不去公司加班，于是在家做一顿好吃的。
 
@@ -260,7 +260,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487392&idx=
 
 对的，余华也说《活着》并非悲剧。
 
-\--
+--
 
 最近的读书，似乎有些不够连续。
 

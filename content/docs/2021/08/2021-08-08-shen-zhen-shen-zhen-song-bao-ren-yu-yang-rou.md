@@ -19,7 +19,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484225&idx=
 
 “没在深圳买房子，现在就是等退休。我不差钱。”
 
-\--
+--
 
 ![图片](/images/wechat/c9be45501e7c/001.png)
 

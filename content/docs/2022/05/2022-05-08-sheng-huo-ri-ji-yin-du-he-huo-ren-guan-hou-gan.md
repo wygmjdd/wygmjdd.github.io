@@ -30,7 +30,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484754&idx=
 电影原型的TED演讲：https://www.ted.com/talks/arunachalam_muruganantham_how_i_started_a_sanitary_napkin_revolution  
 
 
-\--
+--
 
 感想并不容易记录，容易记录的，是电影的剧情：
 

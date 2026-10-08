@@ -7,7 +7,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486840&idx=
 ---
 这周每天晚上临睡前，都有花十几二十分钟记下些即时体验。其中一些内容给予我分享勇气，故搬运汇总到此篇。
 
-\--
+--
 
 对的，现在时间是晚上的10点33分，刚刚工作完再背完今天的单词，我整个人是感觉很有些疲倦的。
 
@@ -63,7 +63,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486840&idx=
 
 又一架飞机飞过，我已没了易怒状态，该去睡觉了。
 
-\--
+--
 
 今天中午，我有去球场运动大概20分钟，练习三分投篮。大概是两个月前，我请阿妮帮我录过一个视频，得出的结论是：即便现在我认为自己投三分已经不很吃力，但投篮姿势是依然丑的。
 
@@ -93,7 +93,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486840&idx=
 
 上一段一鼓作气输出的文字，再给予我一些搬运信心。
 
-\--
+--
 
 今天外出投篮时，有想到琼瑶。
 
@@ -109,7 +109,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486840&idx=
 
 今晚去剪了头发，阿妮说太长不够Fashion。
 
-\--
+--
 
 刚毕业那几年，我建好几个文档，起好些开头，我打算写一写我的大学，写一写我大学是怎样度过的，写一写我在大学学到什么，写一写那些让我快乐让我尴尬甚至怀念的瞬间。
 
@@ -123,6 +123,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486840&idx=
 
 “我的大学”的创作，我决定依然使用此种模式，每天晚上临睡前，在小红书花一点点时间——或许十分钟或许半小时——来即时输出，整理我当下最真实的对于大学的感受。待有时间时，再将它们稍作修改（或许都不用修改的）串成串。
 
-\--
+--
 
 以上，是周一周二与周三。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486840&amp;idx=1&amp;sn=62ca2b9286e580328e6cf7e3d9eb4a47&amp;chksm=a6c7619591b0e883d13475e8323fd8111d1080d2be1a779d692180b47489eba8f584b0597aab" rel="noopener noreferrer">原文链接</a>，更新于2025-03-15。）</small>

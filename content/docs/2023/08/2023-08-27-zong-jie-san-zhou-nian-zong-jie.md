@@ -73,6 +73,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247485690&idx=
 
 我的计划，是长久的不能着急的，我并不担心计划太长远导致自己不能很好地去执行，前行三年的我已经获得很强的自我驱动力，我要做的，只是前行方向的些微修正：读书、荐书，然后再将生活写成书！
 
-\--
+--
 
 总结最末，请允许我再次感谢您的关注、阅读以及反馈。三年以来，您的每一次阅读，都是我前行路上的补给。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247485690&amp;idx=1&amp;sn=dabcb1cc3b38a26194937f9e89cfa31a&amp;chksm=a6c7641791b0ed016d3bef827e90697999da877864b28a8767ac2eed2612cbcce006e22477de" rel="noopener noreferrer">原文链接</a>，更新于2023-08-27。）</small>

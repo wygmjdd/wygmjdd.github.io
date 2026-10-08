@@ -31,7 +31,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484590&idx=
 
 包喜糖极快，亲人们都帮忙，600盒，一个早上加一个下午便搞定。剩下的是来回搬运。
 
-\--
+--
 
 有一个小小插曲。
 

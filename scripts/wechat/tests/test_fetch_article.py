@@ -122,6 +122,46 @@ def test_html_to_markdown_does_not_duplicate_semantic_bold():
     assert "**重点内容**" in body_md
 
 
+def test_html_to_markdown_keeps_standalone_double_dash():
+    body_md = _html_to_markdown("<p>前文。</p><p>--</p><p>后文。</p>")
+
+    assert "\\--" not in body_md
+    assert body_md.splitlines() == ["前文。", "", "--", "", "后文。"]
+
+
+def test_html_to_markdown_keeps_double_dash_after_line_break_as_paragraph():
+    body_md = _html_to_markdown("<p>前文。<br>--</p>")
+
+    lines = body_md.splitlines()
+    dash_index = lines.index("--")
+    assert lines[dash_index - 1] == ""
+    assert "前文。" in lines[dash_index - 2]
+    assert "\\--" not in body_md
+
+
+def test_html_to_markdown_keeps_double_dash_prefix_literal():
+    body_md = _html_to_markdown("<p>--分隔</p>")
+
+    assert body_md.splitlines() == ["--分隔"]
+
+
+def test_html_to_markdown_still_escapes_dash_sequences_that_are_markdown_syntax():
+    assert _html_to_markdown("<p>---</p>").splitlines() == ["\\---"]
+    assert _html_to_markdown("<p>- 不是列表</p>").splitlines() == ["\\- 不是列表"]
+
+
+def test_html_to_markdown_keeps_double_dash_in_table_cell_and_blockquote():
+    table_md = _html_to_markdown(
+        "<table><tr><td>花椒</td><td>一小把</td><td>--</td></tr></table>"
+    )
+    assert "\\--" not in table_md
+    assert table_md.splitlines()[0].rstrip() == "花椒| 一小把| --"
+
+    quote_md = _html_to_markdown("<blockquote><p>前文</p><p>--</p></blockquote>")
+    assert "\\--" not in quote_md
+    assert quote_md.splitlines() == ["> 前文", "> ", "> --"]
+
+
 def test_extract_album_title_from_wechat_page_data():
     assert extract_album_title(FIXTURE_HTML) == "30分钟日记"
 

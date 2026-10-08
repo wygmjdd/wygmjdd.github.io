@@ -137,7 +137,7 @@ rg可以按行搜索文件中的具体文本内容。此前在vim中配置了ctr
   
 
 
-\--
+--
 
 使用过程中，遇见过两个问题：
 
@@ -167,7 +167,7 @@ LeaderF右下角，会有一个Total:2000000，在bundle/LeaderF文件夹下面�
     let g:Lf_DefaultMode = "Regex"  
     
 
-\--
+--
 
 到此，扶正LeaderF，ctrl-sf和ctrl-p被我淘汰掉……
 

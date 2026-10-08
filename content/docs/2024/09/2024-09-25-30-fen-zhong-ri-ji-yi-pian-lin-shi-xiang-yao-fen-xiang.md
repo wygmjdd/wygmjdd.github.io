@@ -13,7 +13,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486478&idx=
 
 以下是昨天的日记全文，发表之前，我只修改了点点语病与部分标点。
 
-\--
+--
 
 我没想到今天的股市会大涨，在我决定抛售我的基金一周之后。比较幸运的是，我现在还只抛到一半，如果之前的一半放到今天来卖，估计能少亏五六千块钱？
 
@@ -23,7 +23,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486478&idx=
 
 再对了，我今天并没有继续卖，我想的是：且看看明天。
 
-\--
+--
 
 现在时间是晚上的10点52分，我其实在10点20分便已经洗漱完毕，直到现在才写日记的缘由，是因为之前的二十多分钟，我看了书，我看的书是《东方马车》。
 
@@ -41,7 +41,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486478&idx=
 
 是的，我其实很佩服28岁的罗永浩，一个为自己目标认真付出认真准备的人。
 
-\--
+--
 
 今日成功日记：
 
@@ -57,7 +57,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486478&idx=
 
 但我还阅读的，有《二十五史简明读本》，今天听到的进度是南朝陈，魏晋南北朝中的南朝，终于要结束了，隋朝即将出现；有《心理学与生活》，近两天阅读的内容，都是作用于神经的那些激素，哈，我好像一个名字都记不住；有《这就是ChatGPT》，我虽然看不懂，但依然尝试着用自己的语言去理解书中内容。
 
-\--
+--
 
 今日感恩日记：
 
@@ -73,6 +73,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486478&idx=
 
 时间来到晚上的11点18分，今晚的睡觉，又破戒了。
 
-\--
+--
 
 我现在的日记，对我用处极大。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486478&amp;idx=1&amp;sn=e1a1b859e5fc31cc4008e79f55d4de76&amp;chksm=a6c760e391b0e9f52b40b069452e7e7306be3f68e8bd4726cde14e009d5d0bc9e5d0f093174d" rel="noopener noreferrer">原文链接</a>，更新于2024-09-25。）</small>

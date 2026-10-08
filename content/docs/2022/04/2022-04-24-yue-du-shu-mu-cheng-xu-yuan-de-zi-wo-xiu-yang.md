@@ -23,7 +23,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484725&idx=
 
 我认为我是缺乏洞察力的，我需要更多的接触、认识这个世界。
 
-\--
+--
 
 感谢作者的分享。但如果你问我，是否推荐阅读本书呢？
 

@@ -28,7 +28,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486598&idx=
 
 早上吃饭，有听书；中午吃饭，有些累不听书，走在路上的我认真走路，脑子不怎样转，但心很静。
 
-\--
+--
 
 今日份读书：
 
@@ -41,7 +41,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486598&idx=
 
 今早在楼下吃过小面，我有尝试冥想10分钟。我有些静不下心，在第8分钟睁开眼。
 
-\--
+--
 
 今日份成功日记：
 
@@ -53,7 +53,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486598&idx=
 
 
 
-\--
+--
 
 今日份感恩日记以及生活中的小美好：
 
@@ -65,7 +65,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486598&idx=
 
 
 
-\--
+--
 
 今天睡觉，应该可以在11点左右。只需要右一点。
 

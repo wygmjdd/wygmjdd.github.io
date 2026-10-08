@@ -7,7 +7,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486396&idx=
 ---
 现在时间是周六中午11点58分，刚刚从沙发上爬起来的我打开电脑决定写一段日记，以记录今天上午的自己。
 
-\--
+--
 
 前年5月，我决定将每天的睡觉时间调整到晚上的11点，可以早，但不能晚。
 
@@ -25,7 +25,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486396&idx=
 
 能睡着，但早醒，也是需要改变的一件事。
 
-\--
+--
 
 今早6点醒来，起床时间是7点50分。
 
@@ -45,7 +45,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486396&idx=
 
 沉闷、失落导致自己较平日稍早些——6点——醒来，稍早醒来，便有了不起床不继续睡觉在床上赖着的两小时。
 
-\--
+--
 
 阿妮体检卡里面的200块钱将在月底到期，我想着今天去体检一下，在阿妮做完她的检查之后。我开车将阿妮送到医院再回家拿身份证，等待阿妮叫我出发。
 
@@ -129,10 +129,10 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486396&idx=
 
 知行合一，可真是一件难事。
 
-\--
+--
 
 听过TED，吃完面条洗过碗，我躺在沙发补觉。
 
-\--
+--
 
 写完这篇两千字日记，时间来到下午三点，已是做饭时间。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486396&amp;idx=1&amp;sn=eba937f3eef4351462c7b783f10fbbd3&amp;chksm=a6c7675191b0ee4794560abec062ca2ee8149967af91c847ca39f047801783d6f5746722d132" rel="noopener noreferrer">原文链接</a>，更新于2024-08-17。）</small>

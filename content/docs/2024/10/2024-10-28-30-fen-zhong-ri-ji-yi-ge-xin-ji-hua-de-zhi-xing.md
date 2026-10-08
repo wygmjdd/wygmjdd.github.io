@@ -21,7 +21,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486559&idx=
 
 借由自己过去的经验，我很同意博主的总结，看过这个视频之后（前天，周六上午），我决定先试试看。我将《冰与火之歌》的英文版小说再次下载下来，导入《微信读书》书架，我决定新增一个30天计划：未来30天内，每天都至少阅读《权利的游戏》10分钟。
 
-\--
+--
 
 今天是周一，我请年假一天（年假不用不会换成钱），在家里宅着。今天主要做的事情，是看书、写东西、在楼下打球以及做饭。
 
@@ -33,7 +33,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486559&idx=
 
 毫无疑问，《权利的游戏》是会吸引我的，我今天花1小时40分钟看完Catelyn、Daenerys和Eddard。Catelyn和Ned正在迎接国王的到来，而Dany，刚刚和Khal Drogo见面。
 
-\--
+--
 
 我今天还阅读的书，有《心理学与生活》《人生的枷锁》和《十分钟冥想》。
 
@@ -45,13 +45,13 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486559&idx=
 
 我有按照作者的步骤试一次，确确实实的，我有感受到冥想带来的正向体验：我整个人，多出来一种平静。（我冥想的时间，是有些困意有些倦意的中午。）
 
-\--
+--
 
 今天给自己做两顿饭，早餐是面条，晚饭是昨天的剩菜配西红柿炒鸡蛋和豇豆。做饭同时，有在听书。
 
 今天听的书依然是《资治通鉴》，进度是汉哀帝时期，主要的故事是汉哀帝与董贤，他们两位是“断袖之癖”这个成语的来源。书中更多的内容，是诤臣劝谏汉哀帝的上表。
 
-\--
+--
 
 今日份成功日记：
 
@@ -63,7 +63,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486559&idx=
 
 
 
-\--
+--
 
 今日份感恩日记：
 
@@ -76,6 +76,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486559&idx=
 
 
 
-\--
+--
 
 时间已是晚上的11点05分…… <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486559&amp;idx=1&amp;sn=bd7b95a42293a8cfe7e38bdfda4cdb6c&amp;chksm=a6c760b291b0e9a4541cefbccb2eecc4041a429a60f418416eed330c3f452a061ea4bb402f1c" rel="noopener noreferrer">原文链接</a>，更新于2024-10-28。）</small>

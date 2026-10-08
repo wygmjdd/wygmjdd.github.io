@@ -64,7 +64,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484267&idx=
 
 吃过晚饭，表弟与姨爹送我到公交车站。
 
-\--
+--
 
 以上，记于“从惠州回东莞”的深圳地铁，晚九点。
 

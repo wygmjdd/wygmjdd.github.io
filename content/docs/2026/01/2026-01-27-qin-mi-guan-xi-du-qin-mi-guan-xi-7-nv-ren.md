@@ -63,7 +63,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487475&idx=
 
 男女双方都认为穿红色衬衫的陌生异性更有吸引力和更性感。
 
-\--
+--
 
 以上，便是书中提到的那些外表魅力的具体特征了。
 

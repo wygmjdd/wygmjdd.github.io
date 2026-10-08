@@ -28,6 +28,7 @@ from scripts.wechat.article_metadata import (
 _REPO_ROOT = Path(__file__).resolve().parents[2]
 _STATIC_IMAGES_WECHAT = _REPO_ROOT / "static" / "images" / "wechat"
 _MIN_IMAGE_BYTES = 256
+_ESCAPED_DOUBLE_DASH_RE = re.compile(r"\\--(?!-)")
 _FONT_WEIGHT_DECLARATION_RE = re.compile(
     r"(?:^|;)\s*font-weight\s*:\s*([^;]+)",
     re.IGNORECASE,
@@ -383,10 +384,30 @@ def _semanticize_inline_bold(html_fragment: str) -> str:
     return str(soup)
 
 
+def _restore_literal_double_dashes(markdown: str) -> str:
+    """Put back a ``--`` that html2text escaped as ``\\--``.
+
+    html2text escapes two dashes when they could be read as a setext heading
+    underline, including inside a table cell. A WeChat ``--`` is a separator,
+    so keep those two dashes literal. Three or more dashes stay escaped.
+    A line that is only ``--`` gets a blank line before it when the previous
+    line has text, which stops Markdown from promoting that line to a heading.
+    """
+    lines = markdown.split("\n")
+    restored: list[str] = []
+    for line in lines:
+        unescaped = _ESCAPED_DOUBLE_DASH_RE.sub("--", line)
+        if unescaped.strip() == "--" and restored and restored[-1].strip():
+            restored.append("")
+        restored.append(unescaped)
+    return "\n".join(restored)
+
+
 def _html_to_markdown(html_fragment: str) -> str:
     if not html_fragment:
         return ""
     h = html2text.HTML2Text()
     h.ignore_links = False
     h.body_width = 0
-    return h.handle(_semanticize_inline_bold(html_fragment)).strip()
+    markdown = h.handle(_semanticize_inline_bold(html_fragment)).strip()
+    return _restore_literal_double_dashes(markdown)

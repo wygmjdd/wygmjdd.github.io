@@ -69,6 +69,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487580&idx=
 
 作者在书中强调多次“共同点越多吸引力便越强”，同时并不忽略另一种可能性，相异相吸。但经过很大篇幅的论证——比如相似性更取决于我们的感受而不是实际情况、比如我的伴侣所拥有的品质是我想要获得的——之后，作者基于研究的结论依然是“物以类聚，人以群分”。
 
-\--
+--
 
 我喜欢你，是因为你隔我很近，美丽帅气，喜欢我，与我相似的特征有许多。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247487580&amp;idx=1&amp;sn=4efa25fa3dd5b001e88d0fd0538ef016&amp;chksm=a6c77cb191b0f5a7f00270f39401e04296f5884c5cb45aa017e8e5a7a5f81e61baf44b33b47d" rel="noopener noreferrer">原文链接</a>，更新于2026-03-01。）</small>

@@ -21,7 +21,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487022&idx=
 
 我的感恩日记，起源于去年的8月17日，止于去年的11月15日，刚好一整个季度，从“我的生命最黑暗处”，到换工作半个月之后的常常满足。
 
-\--
+--
 
 我拥有两个朋友，我们常常一起打篮球；今天最后一局，即便争论许多，但依然有趣。
 
@@ -129,7 +129,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487022&idx=
 
 今天加了Mentor的微信，有私聊几句，对的，Mentor很Nice。
 
-\--
+--
 
 一个季度的感恩日记，并不只有上面这些已经显得很多的内容。
 

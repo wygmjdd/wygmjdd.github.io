@@ -21,7 +21,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487046&idx=
 
 冥想能够帮助更快地入睡。
 
-\--
+--
 
 以下内容，摘抄自《津巴多普通心理学》：
 

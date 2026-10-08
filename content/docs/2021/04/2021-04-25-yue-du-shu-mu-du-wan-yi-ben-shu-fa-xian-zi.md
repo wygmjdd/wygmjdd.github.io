@@ -50,7 +50,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484023&idx=
 
 最后一章，介绍SQL的一些进阶特性，主要包括Constraints（约束）、Indexes（索引）、Triggers（触发器）以及Security（安全性）。
 
-\--
+--
 
 此处简单地列举了书籍框架。另外整理了一篇SQL调用（放在第三篇），供自己查阅。
 
@@ -70,7 +70,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247484023&idx=
 
 不过！待阅读完毕，搜索“数据库的进阶之路”，发现我又井底之蛙、百思莫解、如堕烟海了。数据库的知识，还深着呢，可真是学海无涯啊！
 
-\--
+--
 
 书中所讲述内容为关系型数据库的基础知识，而我此前工作中所使用的DBMS是MongoDB，隶属于NoSQL。本书只在夯实基础，要掀开那层薄纱，还得再找一本MongoDB的书看看~
 

@@ -119,6 +119,6 @@ https://github.com/colbymchenry/codegraph
 
 > 以下配置和费率核对时间为 2026 年 9 月 19 日，Codex 更新较快，后续请以官方文档为准。
 
-\--
+--
 
 以上操作做完，肉眼看起来Token消耗量似乎有降低的，且待未来继续观察。（如果有更好的处理方式，欢迎评论区留言哟～） <small>（<a href="https://mp.weixin.qq.com/s/m_R59XQ33KVNv2fcGRXpcQ" rel="noopener noreferrer">原文链接</a>，更新于2026-09-19。）</small>

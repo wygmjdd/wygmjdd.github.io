@@ -13,7 +13,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486663&idx=
 
 第二个，是一种表达欲，我想将自己的当下想法，想将自己认知中关于琼瑶的部分做一些记录。琼瑶离我很远，远到我根本不知道她在昨天还活着；但她曾经在我的生活中，真正的出现过。
 
-\--
+--
 
 在16、17年，我生出过一个大的志愿：既然我很喜欢看小说，那我要将那些出名作者的小说都看上一遍，每看完一本小说，我要将小说中的梗概自己梳理一遍。
 
@@ -23,7 +23,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486663&idx=
 
 我还大概记得不看完琼瑶作品的原因：那时的我认为琼瑶的故事太过言情太过扭捏太不痛快，我更喜欢的，还是《神雕侠侣》中的杨过，聪明、不拘一束又克己衷情。
 
-\--
+--
 
 《情深深雨濛濛》，是我很小时候在央视播放的一部电视剧，我的母亲很喜欢看，那些年来来回回播，直到现在，我依然记得故事梗概。
 
@@ -41,7 +41,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486663&idx=
 
 很奇怪的是，电视剧过去这么久啦，我竟然还能回忆出整个的框架！当年，我是看得有多认真啊！
 
-\--
+--
 
 琼瑶对这世界的留言中说：“我要说的话，都录在《当雪花飘落》的视频里了。希望我的朋友们，多看几次视频，了解我想表达的一切。”
 
@@ -97,6 +97,6 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486663&idx=
 > 
 > 我将飞向可以起舞的星河
 
-\--
+--
 
 我并不认为琼瑶是“轻生”，这是属于她的选择；她活过，还活着。 <small>（<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&amp;mid=2247486663&amp;idx=1&amp;sn=7e9e9b8b2efc5293451bc2c85db72f21&amp;chksm=a6c7602a91b0e93cc2d00f4f46f4c9072d527584294dee2787acebc2beb9adf602f592f0cf70" rel="noopener noreferrer">原文链接</a>，更新于2024-12-04。）</small>

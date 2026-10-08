@@ -33,7 +33,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487030&idx=
 
 我以为自己，运气真不错。
 
-\--
+--
 
 今天坐上地铁，我想继续保有自己的写东西习惯，但我不知道写些什么。我已经忘记是在哪本书中看到，说文章的标题是依着内容的。
 
@@ -61,7 +61,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487030&idx=
 
 我能不能做到呢？我想自己啊，还差着很远——那必需一点专业的练习。
 
-\--
+--
 
 我眯着眼看了眼手环时间：“7点28分！”
 
@@ -91,7 +91,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487030&idx=
 
 临出发前，我再道歉一次。
 
-\--
+--
 
 我家位于奉节、巫溪、巫山三县交界处，这地方全是山。
 
@@ -123,7 +123,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487030&idx=
 
 上面两段话，是今早（又一次的过去时间）阅读《苏东坡新传》时想起来的，它们和“横看成岭侧成峰，远近高低各不同。不识庐山真面目，只缘身在此山中”有些关联，是我所能想起来的关联。
 
-\--
+--
 
 昨天晚上，打完球回到家洗过澡，有坐在电脑前两三个小时，我写的内容，是去年8月到11月的[感恩日记汇总](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487022&idx=1&sn=fd48ca92367723e346a702090622aa97&scene=21#wechat_redirect)。
 
@@ -149,7 +149,7 @@ source_url: http://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247487030&idx=
 
 今天值得感激的一点，大概是这样的：我看到大家，好像都不卷，大家都在9点就离开公司。我啊，竟然是最卷的那个，离开公司时，已经超过“下班时间”20多分钟。
 
-\--
+--
 
 四年前，去到虾，使用GitLab做代码管理工具。彼时我对Git毫不熟悉，于是找了[Pro Git](https://mp.weixin.qq.com/s?__biz=MjM5ODczOTMzMA==&mid=2247486021&idx=1&sn=61c0f3f887827445d3cd39b005e3169f&scene=21#wechat_redirect)这本书，以及一些博客来看，一来二去，我对GitLab以及Git有了些了解。
 
