@@ -1,3 +1,4 @@
+import sqlite3
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -6,6 +7,7 @@ from scripts.wechat.article_metadata import ArticlePageMetadata
 from scripts.wechat.update_manual.collect_from_chrome import (
     batch_entry,
     chrome_cutoff_timestamp,
+    chrome_history_path,
     collect_new_articles,
     CollectedArticle,
     deduplicate_detected_articles,
@@ -15,7 +17,10 @@ from scripts.wechat.update_manual.collect_from_chrome import (
     load_category_title_slugs,
     load_existing_article_keys,
     load_existing_source_urls,
+    load_local_config,
     normalize_history_title,
+    query_wechat_articles,
+    resolve_channel,
     update_article_key_cache,
 )
 
@@ -426,3 +431,175 @@ def test_disabled_category_detection_reuses_known_identity_without_fetching():
     assert detected.article_key == article.article_key
     assert detected.category_title is None
     assert detected.category_slug is None
+
+
+def test_load_local_config_reads_yaml_overrides(tmp_path: Path):
+    config_path = tmp_path / "local.yml"
+    config_path.write_text(
+        "channel: stable\nprofile: Profile 1\ndays: 3\ndetect_category: false\n",
+        encoding="utf-8",
+    )
+
+    config = load_local_config(config_path)
+
+    assert config["channel"] == "stable"
+    assert config["profile"] == "Profile 1"
+    assert config["days"] == 3
+    assert config["detect_category"] is False
+
+
+def test_load_local_config_returns_empty_when_missing(tmp_path: Path):
+    assert load_local_config(tmp_path / "absent.yml") == {}
+
+
+def test_load_local_config_raises_on_invalid_yaml(tmp_path: Path):
+    config_path = tmp_path / "local.yml"
+    config_path.write_text("channel: [unclosed\n", encoding="utf-8")
+
+    try:
+        load_local_config(config_path)
+    except ValueError as exc:
+        assert "invalid YAML" in str(exc)
+    else:
+        raise AssertionError("expected ValueError")
+
+
+def test_load_local_config_ignores_non_mapping_yaml(tmp_path: Path):
+    config_path = tmp_path / "local.yml"
+    config_path.write_text("- a\n- b\n", encoding="utf-8")
+
+    assert load_local_config(config_path) == {}
+
+
+def test_resolve_channel_keeps_explicit_channel(monkeypatch):
+    monkeypatch.setattr(
+        "scripts.wechat.update_manual.collect_from_chrome.chrome_history_path",
+        lambda channel, profile: Path(f"/tmp/{channel}/History"),
+    )
+
+    assert resolve_channel("beta", "Default") == "beta"
+
+
+def test_resolve_channel_auto_picks_first_installed_channel(monkeypatch):
+    def fake_path(channel: str, profile: str) -> Path:
+        if channel == "beta":
+            return Path("/tmp/beta/History")
+        return Path(f"/tmp/{channel}/History")
+
+    monkeypatch.setattr(
+        "scripts.wechat.update_manual.collect_from_chrome.chrome_history_path",
+        fake_path,
+    )
+    monkeypatch.setattr(
+        Path,
+        "is_file",
+        lambda self: self.parts[-2] == "beta",
+    )
+
+    assert resolve_channel("auto", "Default") == "beta"
+
+
+def test_resolve_channel_auto_raises_when_nothing_installed(monkeypatch):
+    monkeypatch.setattr(
+        "scripts.wechat.update_manual.collect_from_chrome.chrome_history_path",
+        lambda channel, profile: Path(f"/tmp/{channel}/History"),
+    )
+    monkeypatch.setattr(Path, "is_file", lambda self: False)
+
+    try:
+        resolve_channel("auto", "Default")
+    except FileNotFoundError as exc:
+        assert "stable" in str(exc)
+    else:
+        raise AssertionError("expected FileNotFoundError")
+
+
+def test_chrome_history_path_maps_channels_to_app_folders():
+    assert chrome_history_path("stable", "Default").parts[-4:] == (
+        "Google",
+        "Chrome",
+        "Default",
+        "History",
+    )
+    assert chrome_history_path("beta", "Default").parts[-4:] == (
+        "Google",
+        "Chrome Beta",
+        "Default",
+        "History",
+    )
+    assert chrome_history_path("canary", "Default").parts[-4:] == (
+        "Google",
+        "Chrome Canary",
+        "Default",
+        "History",
+    )
+
+
+def _make_history_db(path: Path, *, wal: bool = False) -> None:
+    """Build a minimal Chrome-history-shaped database."""
+    conn = sqlite3.connect(path)
+    try:
+        if wal:
+            conn.execute("PRAGMA journal_mode=WAL")
+        conn.execute("CREATE TABLE urls (id INTEGER PRIMARY KEY, url TEXT, title TEXT)")
+        conn.execute(
+            "CREATE TABLE visits (id INTEGER PRIMARY KEY, url INTEGER, visit_time INTEGER)"
+        )
+        conn.execute(
+            "INSERT INTO urls VALUES (1, 'https://mp.weixin.qq.com/s/test-article', '测试文章')"
+        )
+        conn.execute(
+            "INSERT INTO visits VALUES (1, 1, ?)",
+            (chrome_cutoff_timestamp(1) + 1_000_000,),
+        )
+        conn.commit()
+    finally:
+        conn.close()
+
+
+def test_query_wechat_articles_reads_without_copying(tmp_path: Path):
+    history = tmp_path / "History"
+    _make_history_db(history)
+
+    articles = query_wechat_articles(history, days=1, biz=None)
+
+    assert [a.url for a in articles] == ["https://mp.weixin.qq.com/s/test-article"]
+    assert articles[0].title == "测试文章"
+
+
+def test_query_wechat_articles_falls_back_when_wal_is_active(tmp_path: Path):
+    history = tmp_path / "History"
+    _make_history_db(history, wal=True)
+    # An accompanying -shm file means a live WAL that immutable reads skip.
+    (tmp_path / "History-shm").write_bytes(b"")
+
+    articles = query_wechat_articles(history, days=1, biz=None)
+
+    assert [a.url for a in articles] == ["https://mp.weixin.qq.com/s/test-article"]
+
+
+def test_query_wechat_articles_raises_when_history_missing(tmp_path: Path):
+    try:
+        query_wechat_articles(tmp_path / "History", days=1, biz=None)
+    except FileNotFoundError as exc:
+        assert "Chrome history not found" in str(exc)
+    else:
+        raise AssertionError("expected FileNotFoundError")
+
+
+def test_query_wechat_articles_filters_non_wechat_urls(tmp_path: Path):
+    history = tmp_path / "History"
+    conn = sqlite3.connect(history)
+    conn.execute("CREATE TABLE urls (id INTEGER PRIMARY KEY, url TEXT, title TEXT)")
+    conn.execute(
+        "CREATE TABLE visits (id INTEGER PRIMARY KEY, url INTEGER, visit_time INTEGER)"
+    )
+    conn.execute("INSERT INTO urls VALUES (1, 'https://example.com/post', 'Other')")
+    conn.execute(
+        "INSERT INTO visits VALUES (1, 1, ?)",
+        (chrome_cutoff_timestamp(1) + 1_000_000,),
+    )
+    conn.commit()
+    conn.close()
+
+    assert query_wechat_articles(history, days=1, biz=None) == []

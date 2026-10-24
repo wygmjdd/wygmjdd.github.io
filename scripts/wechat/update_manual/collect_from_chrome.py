@@ -29,6 +29,7 @@ DOCS_DIR = REPO_ROOT / "content" / "docs"
 INPUT_DIR = _UPDATE_MANUAL_DIR / "input"
 CATEGORIES_YML = REPO_ROOT / "data" / "categories.yml"
 ARTICLE_KEYS_YML = REPO_ROOT / "data" / "wechat_article_keys.yml"
+LOCAL_CONFIG_YML = _UPDATE_MANUAL_DIR / "local.yml"
 
 CHROME_EPOCH = datetime(1601, 1, 1, tzinfo=timezone.utc)
 
@@ -37,6 +38,9 @@ CHANNEL_DIRS: dict[str, str] = {
     "beta": "Chrome Beta",
     "canary": "Chrome Canary",
 }
+
+# Search order used by the "auto" channel.
+AUTO_CHANNEL_ORDER: tuple[str, ...] = ("stable", "beta", "canary")
 
 WECHAT_ARTICLE_RE = re.compile(
     r"^https?://[^/]*mp\.weixin\.qq\.com/s(?:/|\?)",
@@ -59,6 +63,35 @@ def chrome_history_path(channel: str, profile: str) -> Path:
         raise ValueError(f"unsupported channel {channel!r}; choose from {sorted(CHANNEL_DIRS)}")
     home = Path.home()
     return home / "Library/Application Support/Google" / CHANNEL_DIRS[channel] / profile / "History"
+
+
+def resolve_channel(channel: str, profile: str) -> str:
+    """Resolve a channel name to a concrete installed channel.
+
+    "auto" picks the first channel in AUTO_CHANNEL_ORDER that actually has a
+    history file, so a machine can opt out of the default channel without
+    hardcoding which one is installed.
+    """
+    if channel != "auto":
+        return channel
+    for candidate in AUTO_CHANNEL_ORDER:
+        if chrome_history_path(candidate, profile).is_file():
+            return candidate
+    raise FileNotFoundError(
+        "No Chrome history found for channel(s) "
+        f"{', '.join(AUTO_CHANNEL_ORDER)} (profile {profile!r})"
+    )
+
+
+def load_local_config(path: Path = LOCAL_CONFIG_YML) -> dict[str, object]:
+    """Load per-machine overrides from the gitignored local.yml file."""
+    if not path.is_file():
+        return {}
+    try:
+        data = yaml.safe_load(path.read_text(encoding="utf-8"))
+    except yaml.YAMLError as exc:
+        raise ValueError(f"invalid YAML in {path}: {exc}") from exc
+    return data if isinstance(data, dict) else {}
 
 
 def chrome_cutoff_timestamp(days: int) -> int:
@@ -231,33 +264,87 @@ def load_existing_article_keys(
     return keys
 
 
+HISTORY_QUERY = """
+    SELECT u.url, u.title, MAX(v.visit_time) AS last_visit
+    FROM urls u
+    INNER JOIN visits v ON u.id = v.url
+    WHERE v.visit_time >= ?
+    GROUP BY u.id
+    ORDER BY last_visit DESC
+"""
+
+# Sidecar files SQLite may keep next to the main database. Chrome writes
+# recent visits through them, so a copy must include them to stay consistent.
+HISTORY_SIDECARS = ("-wal", "-shm", "-journal")
+
+
+def _read_history_rows(db_path: Path, cutoff_ts: int) -> list[tuple[str, str | None, int]]:
+    conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+    try:
+        cursor = conn.execute(HISTORY_QUERY, (cutoff_ts,))
+        return [(url, title, last_visit) for url, title, last_visit in cursor.fetchall()]
+    finally:
+        conn.close()
+
+
+def _has_active_wal(history_path: Path) -> bool:
+    """Whether Chrome may still hold uncheckpointed WAL frames.
+
+    An accompanying -shm file means a WAL is live; immutable reads skip the
+    WAL, so those rows would be invisible.
+    """
+    return history_path.with_name(history_path.name + "-shm").is_file()
+
+
 def query_wechat_articles(history_path: Path, *, days: int, biz: str | None) -> list[CollectedArticle]:
     if not history_path.is_file():
         raise FileNotFoundError(f"Chrome history not found: {history_path}")
 
     cutoff_ts = chrome_cutoff_timestamp(days)
-    rows: list[tuple[str, str | None, int]] = []
 
+    # Fast path: read the database in place. immutable=1 skips the file locks
+    # Chrome holds, and it is ~1000x cheaper than copying a 200MB+ history.
+    if not _has_active_wal(history_path):
+        try:
+            rows = _read_history_rows_immutable(history_path, cutoff_ts)
+        except sqlite3.Error:
+            rows = None
+        if rows is not None:
+            return _filter_wechat_rows(rows, biz=biz)
+
+    # Fallback: snapshot the database (plus its sidecars) so the read is
+    # consistent and never blocked by Chrome's write lock.
     with tempfile.TemporaryDirectory() as tmp:
         copy_path = Path(tmp) / "History"
         shutil.copy2(history_path, copy_path)
-        conn = sqlite3.connect(f"file:{copy_path}?mode=ro", uri=True)
-        try:
-            cursor = conn.execute(
-                """
-                SELECT u.url, u.title, MAX(v.visit_time) AS last_visit
-                FROM urls u
-                INNER JOIN visits v ON u.id = v.url
-                WHERE v.visit_time >= ?
-                GROUP BY u.id
-                ORDER BY last_visit DESC
-                """,
-                (cutoff_ts,),
-            )
-            rows = [(url, title, last_visit) for url, title, last_visit in cursor.fetchall()]
-        finally:
-            conn.close()
+        for suffix in HISTORY_SIDECARS:
+            sidecar = history_path.with_name(history_path.name + suffix)
+            if sidecar.is_file():
+                shutil.copy2(sidecar, copy_path.with_name(copy_path.name + suffix))
+        rows = _read_history_rows(copy_path, cutoff_ts)
 
+    return _filter_wechat_rows(rows, biz=biz)
+
+
+def _read_history_rows_immutable(
+    history_path: Path,
+    cutoff_ts: int,
+) -> list[tuple[str, str | None, int]]:
+    """Read the history database in place, ignoring SQLite's locking."""
+    resolved = history_path.resolve()
+    conn = sqlite3.connect(f"file:{resolved}?immutable=1", uri=True)
+    try:
+        cursor = conn.execute(HISTORY_QUERY, (cutoff_ts,))
+        return [(url, title, last_visit) for url, title, last_visit in cursor.fetchall()]
+    finally:
+        conn.close()
+
+
+def _filter_wechat_rows(
+    rows: list[tuple[str, str | None, int]],
+    *,
+    biz: str | None,
+) -> list[CollectedArticle]:
     results: list[CollectedArticle] = []
     biz_needle = biz.strip() if biz else None
     for url, title, last_visit in rows:
@@ -372,12 +459,12 @@ def main() -> None:
     parser.add_argument(
         "--days",
         type=int,
-        default=1,
+        default=None,
         help="Look back this many days in Chrome history (default: 1, today only).",
     )
     parser.add_argument(
         "--default-slug",
-        default="di-tie-ri-ji",
+        default=None,
         help="Fallback category slug when the WeChat collection cannot be detected.",
     )
     parser.add_argument(
@@ -387,13 +474,13 @@ def main() -> None:
     )
     parser.add_argument(
         "--channel",
-        choices=sorted(CHANNEL_DIRS),
-        default="beta",
-        help="Chrome channel (default: beta).",
+        choices=sorted(CHANNEL_DIRS) + ["auto"],
+        default=None,
+        help='Chrome channel (default: "beta"; "auto" picks the first installed one).',
     )
     parser.add_argument(
         "--profile",
-        default="Default",
+        default=None,
         help='Chrome profile directory name (default: "Default").',
     )
     parser.add_argument(
@@ -415,18 +502,48 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    if args.days < 1:
+    try:
+        config = load_local_config()
+    except ValueError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        raise SystemExit(2) from exc
+
+    def pick(cli_value: object, config_key: str, fallback: object) -> object:
+        """CLI flag > local.yml > built-in default."""
+        if cli_value is not None:
+            return cli_value
+        value = config.get(config_key)
+        return fallback if value is None else value
+
+    days = int(pick(args.days, "days", 1))
+    default_slug = str(pick(args.default_slug, "default_slug", "di-tie-ri-ji"))
+    channel = str(pick(args.channel, "channel", "beta"))
+    profile = str(pick(args.profile, "profile", "Default"))
+    detect_category = bool(pick(not args.no_detect_category, "detect_category", True))
+
+    if days < 1:
         print("ERROR: --days must be >= 1", file=sys.stderr)
         raise SystemExit(2)
 
-    history_path = (
-        Path(args.history_path).expanduser()
-        if args.history_path
-        else chrome_history_path(
-            args.channel,
-            args.profile,
+    valid_channels = sorted(CHANNEL_DIRS) + ["auto"]
+    if channel not in valid_channels:
+        print(
+            f"ERROR: unsupported channel {channel!r}; choose from {valid_channels}",
+            file=sys.stderr,
         )
-    )
+        raise SystemExit(2)
+
+    if args.history_path:
+        history_path = Path(args.history_path).expanduser()
+    else:
+        try:
+            history_path = chrome_history_path(
+                resolve_channel(channel, profile),
+                profile,
+            )
+        except (FileNotFoundError, ValueError) as exc:
+            print(f"ERROR: {exc}", file=sys.stderr)
+            raise SystemExit(1) from exc
     existing = load_existing_source_urls(DOCS_DIR)
     article_key_cache = load_article_key_cache(ARTICLE_KEYS_YML)
     existing_keys = load_existing_article_keys(
@@ -437,11 +554,12 @@ def main() -> None:
     category_title_slugs = load_category_title_slugs(CATEGORIES_YML)
     biz = args.biz.strip() or None
 
+    print(f"Config file   : {LOCAL_CONFIG_YML if config else '(none)'}", flush=True)
     print(f"Chrome history: {history_path}", flush=True)
-    print(f"Lookback      : {args.days} day(s)", flush=True)
-    print(f"Fallback slug : {args.default_slug}", flush=True)
+    print(f"Lookback      : {days} day(s)", flush=True)
+    print(f"Fallback slug : {default_slug}", flush=True)
     print(
-        f"Auto category : {'off' if args.no_detect_category else 'on'}",
+        f"Auto category : {'on' if detect_category else 'off'}",
         flush=True,
     )
     print(f"Already in site: {len(existing)} source_url(s) in {DOCS_DIR}", flush=True)
@@ -449,7 +567,7 @@ def main() -> None:
     try:
         new_articles = collect_new_articles(
             history_path,
-            days=args.days,
+            days=days,
             biz=biz,
             existing=existing,
             existing_keys=existing_keys,
@@ -469,7 +587,7 @@ def main() -> None:
             article = detect_article_category(
                 article,
                 category_title_slugs,
-                include_category=not args.no_detect_category,
+                include_category=detect_category,
             )
         except Exception as exc:
             if not article.article_key:
@@ -482,7 +600,7 @@ def main() -> None:
                 continue
             print(
                 f"[warn] article metadata lookup failed for {article.url}: {exc}; "
-                f"using {args.default_slug!r}",
+                f"using {default_slug!r}",
                 file=sys.stderr,
                 flush=True,
             )
@@ -517,16 +635,16 @@ def main() -> None:
         elif article.category_title:
             category_part = (
                 f" [unknown collection {article.category_title!r}; "
-                f"fallback -> {args.default_slug}]"
+                f"fallback -> {default_slug}]"
             )
         else:
-            category_part = f" [fallback -> {args.default_slug}]"
+            category_part = f" [fallback -> {default_slug}]"
         print(f"  {title_part}{article.url}{category_part}", flush=True)
 
     out_path = write_batch_json(
         args.batch_id,
         new_articles,
-        slug=args.default_slug,
+        slug=default_slug,
         dry_run=args.dry_run,
     )
     if args.dry_run:

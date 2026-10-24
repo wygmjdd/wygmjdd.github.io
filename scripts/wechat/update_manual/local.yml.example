@@ -1,0 +1,27 @@
+# Local Chrome collection config (per-machine, NOT committed).
+#
+# Copy to local.yml in this directory and adjust:
+#   cp scripts/wechat/update_manual/local.yml.example \
+#      scripts/wechat/update_manual/local.yml
+#
+# Precedence: explicit CLI flags > this file > built-in defaults.
+
+# Which Chrome channel's history to read.
+# One of: stable | beta | canary | auto
+# The built-in default is "beta" when this file does not set it.
+# "auto" picks the first channel that actually has a history file
+# (stable -> beta -> canary).
+channel: beta
+
+# Chrome profile directory name under the channel folder.
+profile: Default
+
+# How many days of history to scan.
+days: 1
+
+# Fallback category slug when the WeChat collection cannot be detected.
+default_slug: di-tie-ri-ji
+
+# Detect the WeChat collection (album) for each article.
+# Set to false to always use default_slug.
+detect_category: true

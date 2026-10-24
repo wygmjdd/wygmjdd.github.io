@@ -22,6 +22,10 @@ static/x-images/*
 # Manual batch JSON for update_manual (local only)
 scripts/wechat/update_manual/input/
 
+# Local per-machine Chrome collection config (local only)
+# Template kept in git: scripts/wechat/update_manual/local.yml.example
+scripts/wechat/update_manual/local.yml
+
 .codegraph/
 presentations/
 videos/
