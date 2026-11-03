@@ -278,6 +278,28 @@ def test_collect_new_articles_deduplicates_tracking_url_variants(monkeypatch, tm
     assert collected[0].article_key == "biz-id|123|1|signature"
 
 
+def test_collect_new_articles_skips_rotated_signature(monkeypatch, tmp_path: Path):
+    article = CollectedArticle(
+        url="https://mp.weixin.qq.com/s?__biz=biz-id&mid=123&idx=1&sn=new-signature",
+        title="周末小记",
+        visited_at=datetime.now(timezone.utc),
+    )
+    monkeypatch.setattr(
+        "scripts.wechat.update_manual.collect_from_chrome.query_wechat_articles",
+        lambda _path, *, days, biz: [article],
+    )
+
+    collected = collect_new_articles(
+        tmp_path / "unused-history",
+        days=1,
+        biz=None,
+        existing=set(),
+        existing_keys={"biz-id|123|1|old-signature"},
+    )
+
+    assert collected == []
+
+
 def test_detected_short_url_is_skipped_when_identity_already_exists():
     article = CollectedArticle(
         url="https://mp.weixin.qq.com/s/short-link",
@@ -293,6 +315,46 @@ def test_detected_short_url_is_skipped_when_identity_already_exists():
 
     assert kept == []
     assert skipped == [article]
+
+
+def test_detected_article_without_signature_matches_cached_identity():
+    article = CollectedArticle(
+        url="https://mp.weixin.qq.com/s/short-link",
+        title="周末小记",
+        visited_at=datetime.now(timezone.utc),
+        article_key="biz-id|123|1",
+    )
+
+    kept, skipped = deduplicate_detected_articles(
+        [article],
+        existing_keys={"biz-id|123|1|signature"},
+    )
+
+    assert kept == []
+    assert skipped == [article]
+
+
+def test_same_article_with_rotated_signature_is_deduplicated():
+    first = CollectedArticle(
+        url="https://mp.weixin.qq.com/s/first",
+        title="周末小记",
+        visited_at=datetime.now(timezone.utc),
+        article_key="biz-id|123|1|first-signature",
+    )
+    second = CollectedArticle(
+        url="https://mp.weixin.qq.com/s/second",
+        title="周末小记",
+        visited_at=datetime.now(timezone.utc),
+        article_key="biz-id|123|1|second-signature",
+    )
+
+    kept, skipped = deduplicate_detected_articles(
+        [first, second],
+        existing_keys=set(),
+    )
+
+    assert kept == [first]
+    assert skipped == [second]
 
 
 def test_same_title_with_different_identities_is_preserved():

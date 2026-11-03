@@ -18,6 +18,7 @@ import yaml
 
 from scripts.wechat.article_metadata import (
     ArticlePageMetadata,
+    article_identity,
     extract_article_key_from_url,
     fetch_article_metadata,
 )
@@ -375,23 +376,24 @@ def collect_new_articles(
     existing_keys: set[str] | None = None,
     article_key_cache: dict[str, str] | None = None,
 ) -> list[CollectedArticle]:
-    known_keys = existing_keys or set()
+    known_identities = {article_identity(key) for key in (existing_keys or set())}
     cached_keys = article_key_cache or {}
     seen: set[str] = set()
-    seen_keys: set[str] = set()
+    seen_identities: set[str] = set()
     articles: list[CollectedArticle] = []
     for article in query_wechat_articles(history_path, days=days, biz=biz):
         article_key = (
             extract_article_key_from_url(article.url)
             or cached_keys.get(article.url)
         )
+        identity = article_identity(article_key) if article_key else None
         if article.url in seen or article.url in existing:
             continue
-        if article_key and (article_key in known_keys or article_key in seen_keys):
+        if identity and (identity in known_identities or identity in seen_identities):
             continue
         seen.add(article.url)
-        if article_key:
-            seen_keys.add(article_key)
+        if identity:
+            seen_identities.add(identity)
             article = replace(article, article_key=article_key)
         articles.append(article)
     return articles
@@ -404,14 +406,15 @@ def deduplicate_detected_articles(
 ) -> tuple[list[CollectedArticle], list[CollectedArticle]]:
     kept: list[CollectedArticle] = []
     skipped: list[CollectedArticle] = []
-    seen_keys: set[str] = set()
+    seen_identities = {article_identity(key) for key in existing_keys}
     for article in articles:
         key = article.article_key
-        if key and (key in existing_keys or key in seen_keys):
+        identity = article_identity(key) if key else None
+        if identity and identity in seen_identities:
             skipped.append(article)
             continue
-        if key:
-            seen_keys.add(key)
+        if identity:
+            seen_identities.add(identity)
         kept.append(article)
     return kept, skipped
 

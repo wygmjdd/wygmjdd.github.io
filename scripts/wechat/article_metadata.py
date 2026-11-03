@@ -54,10 +54,24 @@ def extract_album_title(html_text: str) -> str | None:
 
 
 def _build_article_key(biz: str | None, mid: str | None, idx: str | None, sn: str | None) -> str | None:
-    values = [html.unescape(str(value or "")).strip() for value in (biz, mid, idx, sn)]
-    if not all(values):
+    core = [html.unescape(str(value or "")).strip() for value in (biz, mid, idx)]
+    if not all(core):
         return None
-    return "|".join(values)
+    signature = html.unescape(str(sn or "")).strip()
+    if not signature:
+        return "|".join(core)
+    return "|".join([*core, signature])
+
+
+def article_identity(article_key: str) -> str:
+    """Return the biz|mid|idx portion used to recognize the same article.
+
+    WeChat share links may omit or rotate sn. The article itself stays the same.
+    """
+    parts = [part.strip() for part in article_key.split("|")]
+    if len(parts) >= 3 and all(parts[:3]):
+        return "|".join(parts[:3])
+    return article_key
 
 
 def extract_article_key_from_url(url: str) -> str | None:

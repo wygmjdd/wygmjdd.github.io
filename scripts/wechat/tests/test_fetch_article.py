@@ -192,6 +192,27 @@ def test_extract_article_key_from_wechat_page_data():
     assert extract_article_key(FIXTURE_HTML) == "biz-id|123|1|signature"
 
 
+def test_extract_article_key_accepts_page_without_signature():
+    page = """
+    <script>
+    reportOpt: {
+      biz: "MjM5ODczOTMzMA==" || "",
+      mid: "2247488421" || "" || "",
+      idx: "1" || "" || "",
+      sn: "" || "" || "",
+    }
+    </script>
+    <meta property="og:url" content="https://mp.weixin.qq.com/s/short-link" />
+    """
+
+    assert extract_article_key(page) == "MjM5ODczOTMzMA==|2247488421|1"
+
+
+def test_extract_article_key_from_url_without_signature():
+    url = "https://mp.weixin.qq.com/s?__biz=biz-id&mid=123&idx=1"
+    assert extract_article_key_from_url(url) == "biz-id|123|1"
+
+
 def test_fetch_article_metadata_retries_response_without_identity(monkeypatch):
     class Headers:
         @staticmethod
